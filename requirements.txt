@@ -1,0 +1,10 @@
+requests
+feedparser
+pyyaml
+arxiv
+pydantic
+pandoc
+pdfplumber
+openai
+dotenv
+jsonschema

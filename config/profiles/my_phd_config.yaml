@@ -1,0 +1,318 @@
+# ============================================================
+# Profile: my_phd_config
+# Author: cyx
+# Field: Condensed Matter Physics
+#
+# This config defines:
+#   - What to fetch from arXiv (fetch layer)
+#   - How to do rule-based coarse filtering (rules layer)
+#   - How many papers to keep for downstream analysis
+#
+# All personal preferences SHOULD live in this file.
+# Python code should NOT be modified for customization.
+# ============================================================
+
+
+# ------------------------------------------------------------
+# Global metadata (optional, not used by code yet)
+# ------------------------------------------------------------
+profile_meta:
+  description: "Daily and historical arXiv monitoring for cond-mat research"
+  owner: "cyx"
+  created: "2026-01-15"
+
+
+# ------------------------------------------------------------
+# Modes define different running strategies.
+# Each mode can be selected via:
+#   python -m scripts.run_daily --profile ... --mode <mode_name>
+# ------------------------------------------------------------
+modes:
+
+  # ==========================================================
+  # Mode: daily
+  # Purpose: check new arXiv submissions every day
+  # ==========================================================
+  daily:
+
+    # --------------------------
+    # Fetch layer (arXiv query)
+    # --------------------------
+    fetch:
+      # Time window for arXiv papers
+      # Supported units:
+      #   hours | days | weeks | months | years
+      time_window:
+        unit: hours
+        value: 24
+
+      # arXiv categories to search
+      # NOTE:
+      #   - Be generous here (higher recall)
+      #   - Precision will be handled by rules / embedding / LLM
+      categories:
+        - cond-mat.str-el
+        - cond-mat.mes-hall
+        - cond-mat.mtrl-sci
+        - physics.optics
+
+      # Maximum number of papers fetched from arXiv API
+      # This is NOT the final number kept
+      max_fetch: 200
+
+      # Optional fetch behavior settings (safe to ignore for now)
+      # sort_by: submittedDate
+      # sort_order: descending
+      # polite_delay_s: 0.0
+
+
+    # --------------------------
+    # Rule-based coarse filtering
+    # --------------------------
+    rules:
+
+      # Topic definitions for keyword matching
+      # Each topic can contribute to rule_score
+      topics:
+        - name: exciton
+          weight: 3
+          include_keywords:
+            - exciton
+            - excitonic
+            - interlayer exciton
+            - moire exciton
+            - trion
+            - polariton
+            - exciton-polariton
+            - biexciton
+            - exciton condensation
+          exclude_keywords: 
+          # Keywords that strongly indicate irrelevance
+            - neutron star
+            - astrophysics
+            - high energy
+
+        - name: quantum_geometry
+          weight: 3
+          include_keywords:
+            - "quantum geometry"
+            - "quantum geometric tensor"
+            - "quantum metric"
+            - "berry curvature"
+            - "berry connection"
+            - "fubini-study"
+            - "fubini study"
+            - "wilson loop"
+            - "bloch bundle"
+            - "circular dichroism"
+            - "quantum distance"
+            - "superfluid weight"
+            - "nonlinear Hall"
+            - "nonlinear Hall effect"
+            - "quantum metric dipole"
+            - "geometric contribution"
+          exclude_keywords: []
+
+        - name: thouless_pump
+          weight: 3
+          include_keywords:
+            - "thouless pump"
+            - "thouless pumping"
+            - "topological pump"
+            - "charge pump"
+            - "adiabatic pump"
+            - "quantized pumping"
+            - "quantized charge pumping"
+          exclude_keywords: []
+
+        - name: soliton
+          weight: 2
+          include_keywords:
+            - soliton
+            - "topological defect"
+            - "fractional charge"
+          exclude_keywords: []
+          
+        - name: moire
+          weight: 3
+          include_keywords:
+            - moire
+            - moiré
+            - "twisted angle"
+            - "twist angle"
+            - "twist-angle"
+            - "twisted bilayer"
+          exclude_keywords: []
+
+
+        - name: quasicrystal
+          weight: 4
+          include_keywords:
+            - quasicrystal
+            - quasicrystalline
+            - quasiperiodic
+            - aperiodic
+            - "penrose tiling"
+            - "ammann-beenker"
+            - "icosahedral"
+          exclude_keywords: []
+
+        - name: altermagnetism
+          weight: 3
+          include_keywords:
+            - altermagnetism
+            - altermagnetic
+            - "alternating magnetization"
+            - "crystal momentum dependent spin splitting"
+            - "unconventional antiferromagnetism"
+            - "unconventional antiferromagnetic"
+            - "unconventional magnetization"
+          exclude_keywords: []
+
+        #- name: test
+          #include_keywords:
+            #- "harmful organic volatile compounds"
+
+
+      # Author-based priority signals
+      people:
+        # Authors you explicitly care about
+        # Aliases are resolved via external alias files if desired
+        watch_authors:
+          - canonical: "Xi Dai"
+            aliases:
+              - "Xi Dai"
+              - "Dai, Xi"
+              - "X. Dai"
+              - "戴希"
+
+          - canonical: "Alexei Kitaev"
+            aliases:
+              - "Alexei Kitaev"
+              - "A. Kitaev"
+              - "Kitaev, Alexei"
+              - "A. Yu. Kitaev"
+              - "Kitaev"
+          
+          - canonical: "Anuradha Jagannathan"
+            aliases:
+              - "Anuradha Jagannathan"
+              - "Jagannathan, Anuradha"
+              - "A. Jagannathan"
+
+          - canonical: "Feng Wang"
+            aliases:
+              - "Feng Wang"
+              - "Wang, Feng"
+              - "F. Wang"
+
+          - canonical: "Zhicheng Yang"
+            aliases:
+              - "Zhicheng Yang"
+              - "Yang, Zhicheng"
+              - "Z. C. Yang"
+
+          - canonical: "Huaqing Huang"
+            aliases:
+              - "Huaqing Huang"
+              - "Huang, Huaqing"
+              - "H. Huang"
+
+          - canonical: "Bernevig"
+            aliases:
+              - "Bernevig"
+              - "B. A. Bernevig"
+              - "Bernevig, B. A."
+              - "B. Andrei Bernevig"
+              - "Andrei Bernevig"
+
+
+          #- canonical: "Markus Stricker"
+            #aliases:
+              #- "Markus Stricker"
+              #- "Stricker, Markus"
+              #- "M. Stricker"
+          
+
+
+          # You can add more people freely
+          # - canonical: "Another PI"
+          #   aliases:
+          #     - "Another PI"
+          #     - "PI, Another"
+
+      # Weights used to compute rule_score
+      # rule_score is only a rough prior
+      scoring:
+        keyword_hit: 1          # per keyword match
+        author_match: 5         # if any watch_author matches
+        exclude_penalty: -3     # per exclude keyword hit
+
+      # Minimal score to keep a paper after coarse filtering
+      # Papers below this threshold can be dropped or deprioritized
+      min_rule_score: 1
+
+
+    # --------------------------
+    # Output / reporting control
+    # --------------------------
+    output:
+      # Maximum number of papers shown in daily report
+      max_report_items: 30
+
+      # Whether to include abstracts in markdown report
+      include_abstract: true
+
+      # Whether to show rule_score breakdown
+      show_rule_signals: true
+
+
+  # ==========================================================
+  # Mode: backfill_10y
+  # Purpose: historical literature survey (high precision)
+  # ==========================================================
+  backfill_10y:
+
+    fetch:
+      time_window:
+        unit: years
+        value: 10
+
+      categories:
+        - cond-mat.str-el
+        - cond-mat.mes-hall
+        - cond-mat.mtrl-sci
+
+      # Larger fetch window for historical scan
+      max_fetch: 5000
+
+
+    rules:
+      # For backfill, we usually want much higher precision
+      topics:
+        - name: exciton
+          include_keywords:
+            - exciton
+            - interlayer exciton
+            - trion
+
+      people:
+        watch_authors:
+          - canonical: "Xi Dai"
+            aliases:
+              - "Xi Dai"
+              - "Dai, Xi"
+
+      scoring:
+        keyword_hit: 2
+        author_match: 10
+        exclude_penalty: -5
+
+      # Much stricter threshold
+      min_rule_score: 5
+
+
+    output:
+      max_report_items: 100
+      include_abstract: false
+      show_rule_signals: true
