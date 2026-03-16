@@ -51,24 +51,40 @@ def send_report_email(run_date: str) -> list[Path]:
     subject_prefix = _env("EMAIL_SUBJECT_PREFIX", required=False, default="[Paper Scout]")
 
     attachments = _collect_attachments(run_date)
-    if not attachments:
-        raise FileNotFoundError(f"No report files found for {run_date} under reports/")
 
     message = EmailMessage()
-    message["Subject"] = f"{subject_prefix} {run_date} Daily Paper Digest"
+    if attachments:
+        subject = f"{subject_prefix} {run_date} Daily Paper Digest"
+    else:
+        subject = f"{subject_prefix} {run_date} No New Report"
+
+    message["Subject"] = subject
     message["From"] = email_from
     message["To"] = email_to
-    message.set_content(
-        "\n".join(
-            [
-                f"Paper Scout report for {run_date} is attached.",
-                "",
-                "Included files:",
-                *[f"- {path.name}" for path in attachments],
-            ]
+    if attachments:
+        message.set_content(
+            "\n".join(
+                [
+                    f"Paper Scout report for {run_date} is attached.",
+                    "",
+                    "Included files:",
+                    *[f"- {path.name}" for path in attachments],
+                ]
+            )
         )
-    )
-    _attach_files(message, attachments)
+        _attach_files(message, attachments)
+    else:
+        message.set_content(
+            "\n".join(
+                [
+                    f"Paper Scout ran successfully on {run_date}, but no daily report files were generated.",
+                    "",
+                    "Possible reasons:",
+                    "- No new papers were fetched in the configured categories/time window.",
+                    "- No papers passed downstream processing.",
+                ]
+            )
+        )
 
     if smtp_port == 465:
         with smtplib.SMTP_SSL(smtp_host, smtp_port) as server:
@@ -96,9 +112,12 @@ def main() -> None:
     args = parser.parse_args()
 
     attachments = send_report_email(args.date)
-    print(f"Email sent with {len(attachments)} attachment(s).")
-    for path in attachments:
-        print(f" - {path}")
+    if attachments:
+        print(f"Email sent with {len(attachments)} attachment(s).")
+        for path in attachments:
+            print(f" - {path}")
+    else:
+        print("Email sent without attachments because no report files were generated.")
 
 
 if __name__ == "__main__":
