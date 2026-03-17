@@ -6,5 +6,6 @@ pydantic
 pandoc
 pdfplumber
 openai
-dotenv
+httpx
+python-dotenv
 jsonschema
