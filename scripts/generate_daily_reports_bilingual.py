@@ -1,6 +1,7 @@
 import json
 import argparse
 import subprocess
+import platform
 from pathlib import Path
 from datetime import datetime
 
@@ -250,11 +251,19 @@ def md_to_pdf(md_path: Path, *, out_pdf: Path, mainfont: str | None = None, cjkf
         pdf_path = Path(out_pdf)
         pdf_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # “默认兜底字体”
+    # Cross-platform fallback fonts:
+    # - Windows: keep common office fonts
+    # - Linux (GitHub Actions): use fonts available from fonts-noto-cjk / default system packages
     if mainfont is None:
-        mainfont = "Times New Roman"
+        if platform.system() == "Windows":
+            mainfont = "Times New Roman"
+        else:
+            mainfont = "DejaVu Serif"
     if cjkfont is None:
-        cjkfont = "Microsoft YaHei"   # 或者 "SimSun"
+        if platform.system() == "Windows":
+            cjkfont = "Microsoft YaHei"   # 或者 "SimSun"
+        else:
+            cjkfont = "Noto Sans CJK SC"
 
     cmd = [
         "pandoc",
