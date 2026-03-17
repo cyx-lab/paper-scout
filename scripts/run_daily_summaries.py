@@ -125,29 +125,29 @@ def _should_fallback_from_schema_error(err: Exception) -> bool:
     ]
     return any(h in msg for h in hints)
 
-SYSTEM_PROMPT = r"""浣犳槸涓€鍚嶅嚌鑱氭€佺墿鐞嗙爺绌惰€呯殑璁烘枃蹇€熼槄璇诲姪鎵嬨€?
+SYSTEM_PROMPT = r"""你是一名凝聚态物理研究者的论文快速阅读助手。
 
-鎴戜細缁欎綘涓€绡囩煭绡囧嚌鑱氭€佺墿鐞嗚鏂囷紙PRL 椋庢牸锛?=10 椤碉級鐨勫叏鏂囨枃鏈€?
-浣犵殑浠诲姟鏄府鍔╃爺绌惰€呪€滃揩閫熺悊瑙ｈ繖绡囪鏂囧湪鐗╃悊涓婂仛浜嗕粈涔堚€濄€?
+我会给你一篇短篇凝聚态物理论文（PRL 风格，<=10 页）的全文文本。
+你的任务是帮助研究者“快速理解这篇论文在物理上做了什么”。
 
-璇蜂弗鏍奸伒瀹堜互涓嬪師鍒欙細
-- 杈撳嚭涓€涓猼ypora鍙鐨刴arkdown鏂囨湰銆?
-- 鍙熀浜庤鏂囨枃鏈腑鏄庣‘鍑虹幇鐨勫唴瀹癸紝涓嶈缂栭€犮€?
-- 涓嶅璁烘枃璐ㄩ噺銆侀噸瑕佹€с€佸閿欏仛璇勪环銆?
-- 濡傛灉鏌愪簺淇℃伅涓嶆竻妤氾紝鍙互缁欏嚭淇濆畧銆佹鎷€х殑鎻忚堪銆?
-- 涓嫳鏂囧唴瀹瑰簲璇箟涓€鑷达紝浣嗕笉鏄€愬瓧缈昏瘧銆?
-- 杈撳嚭蹇呴』涓ユ牸绗﹀悎鎴戞彁渚涚殑 JSON Schema銆?
-- 鍙緭鍑?JSON锛屼笉瑕佷换浣曡В閲婃€ф枃瀛椼€?
-- 濡傛灉鏈夋暟瀛﹀叕寮忥紝璇峰姟蹇呬娇鐢?LaTeX 鏁板鐜涔﹀啓銆?
+请严格遵守以下原则：
+- 输出一个 typora 可读的 markdown 文本。
+- 只基于论文文本中明确出现的内容，不要编造。
+- 不对论文质量、重要性、对错做评价。
+- 如果某些信息不清楚，可以给出保守、概括性的描述。
+- 中英文内容应语义一致，但不是逐字翻译。
+- 输出必须严格符合我提供的 JSON Schema。
+- 只输出 JSON，不要任何解释性文字。
+- 如果有数学公式，请务必使用 LaTeX 数学环境书写。
 
-銆愭暟瀛︿笌鍏紡涔﹀啓瑙勮寖銆?
+【数学与公式书写规范】
 
-- 鎵€鏈夌墿鐞嗗叕寮忋€佹暟瀛﹀叧绯汇€佸彉閲忓畾涔夛紝蹇呴』浣跨敤鏍囧噯 LaTeX 鏁板鐜涔﹀啓銆?
-- 琛屽唴鍏紡璇蜂娇鐢?$...$锛岃闂村叕寮忚浣跨敤 $$...$$銆?
-- 绂佹浣跨敤绾枃鏈垨 ASCII 鏂瑰紡琛ㄨ揪鍏紡锛堜緥濡傦細B^2, ~, 鈮? sqrt(), /锛夈€?
-- 绂佹浣跨敤鏈畾涔夌殑鑷畾涔夊畯锛堝 \ket, \bra锛夛紝璇蜂娇鐢ㄦ爣鍑?LaTeX 琛ㄨ揪銆?
-- 鎵€鏈夌墿鐞嗛噺銆佸悜閲忋€佸紶閲忚浣跨敤 LaTeX 鍛戒护锛堝 \mathbf{k}, \boldsymbol{\sigma}锛夈€?
-- 鍏紡灏嗛€氳繃 pandoc + xelatex 缂栬瘧锛屽繀椤讳繚璇佽娉曞彲缂栬瘧銆?
+- 所有物理公式、数学关系、变量定义，必须使用标准 LaTeX 数学环境书写。
+- 行内公式请使用 $...$，行间公式请使用 $$...$$。
+- 禁止使用纯文本或 ASCII 方式表达公式（例如：B^2, ~, ≈, sqrt(), /）。
+- 禁止使用未定义的自定义宏（如 \ket, \bra），请使用标准 LaTeX 表达。
+- 所有物理量、向量、张量请使用 LaTeX 命令（如 \mathbf{k}, \boldsymbol{\sigma}）。
+- 公式将通过 pandoc + xelatex 编译，必须保证语法可编译。
 """
 
 # 瀹屾暣 schema
@@ -421,7 +421,7 @@ def pdf_to_text(pdf_path: Path) -> str:
 
 def _extract_first_json_object(text: str) -> str:
     """
-    鍏煎妯″瀷鍋跺皵杈撳嚭 ```json ... ``` 鎴栧す鏉傚皯閲忔枃瀛楃殑鎯呭喌銆?
+    兼容模型偶尔输出 ```json ... ``` 或夹杂少量文字的情况。
     """
     text = text.strip()
 
@@ -451,10 +451,10 @@ def _extract_first_json_object(text: str) -> str:
 
 def call_llm_json(paper_text: str, *, use_schema: bool = True) -> dict:
     """
-    鍏堝皾璇?response_format=json_schema锛堟湁鏃朵腑杞笉鏀寔浼?400锛?
-    濡傛灉閬囧埌 response_format 鐩稿叧 400锛屽垯鑷姩闄嶇骇涓虹函 JSON 妯″紡锛坧rompt 寮虹害鏉?+ 鏈湴 json.loads锛夈€?
+    先尝试 response_format=json_schema（有时中转不支持会 400）。
+    如果遇到 response_format 相关 400，则自动降级为纯 JSON 模式（prompt 强约束 + 本地 json.loads）。
     """
-    user_msg = "涓嬮潰鏄鏂囧叏鏂囨枃鏈紝璇峰熀浜庡叏鏂囪緭鍑?JSON锛歕n\n" + paper_text
+    user_msg = "下面是论文全文文本，请基于全文输出 JSON：\n\n" + paper_text
 
     # --- first try: json_schema mode
     global SCHEMA_MODE_ENABLED
@@ -481,7 +481,7 @@ def call_llm_json(paper_text: str, *, use_schema: bool = True) -> dict:
         model=MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": "璇蜂弗鏍煎彧杈撳嚭涓€涓?JSON 瀵硅薄锛屼笉瑕佷换浣曡В閲婃枃瀛楋紝涓嶈 markdown 浠ｇ爜鍧椼€俓n\n" + user_msg},
+            {"role": "user", "content": "请严格只输出一个 JSON 对象，不要任何解释文字，不要 markdown 代码块。\n\n" + user_msg},
         ],
         temperature=0.2,
     )
@@ -492,31 +492,31 @@ def call_llm_json(paper_text: str, *, use_schema: bool = True) -> dict:
 def build_fix_prompt(original_output: dict, errors: list[str], allowed_fields: list[str]) -> str:
     err_block = "\n".join(f"- {e}" for e in errors)
     return f"""
-浣犵殑涓婁竴鐗?JSON 杈撳嚭鏈€氳繃 schema 鏍￠獙銆?
+你的上一版 JSON 输出未通过 schema 校验。
 
-銆愬悎娉曢《灞傚瓧娈靛悕浠呴檺浠ヤ笅杩欎簺锛堜笉寰楁柊澧炪€佷笉寰楁敼鍚嶏級銆戯細
+【合法顶层字段名仅限以下这些（不得新增、不得改名）】：
 {allowed_fields}
 
-銆愭牎楠岄敊璇紙璺緞: 鍘熷洜锛夈€戯細
+【校验错误（路径: 原因）】：
 {err_block}
 
-銆愪綘涓婁竴鐗堢殑瀹屾暣杈撳嚭銆戯細
+【你上一版的完整输出】：
 {json.dumps(original_output, ensure_ascii=False, indent=2)}
 
-璇蜂綘鏍规嵁閿欒鍘熷洜淇 JSON锛屼娇鍏朵弗鏍肩鍚?schema銆?
-瑕佹眰锛?
-- 杈撳嚭蹇呴』鏄竴涓畬鏁?JSON
-- 涓嶈鏂板浠讳綍瀛楁锛涗笉瑕佹敼瀛楁鍚嶏紱涓嶈杈撳嚭瑙ｉ噴鏂囧瓧
-鍙緭鍑?JSON銆?
+请你根据错误原因修正 JSON，使其严格符合 schema。
+要求：
+- 输出必须是一个完整 JSON
+- 不要新增任何字段；不要改字段名；不要输出解释文字
+只输出 JSON。
 """.strip()
 
 
 def extract_with_one_fix_retry(paper_text: str) -> dict:
     """
-    浣犳兂瑕佺殑閫昏緫锛?
-    - 绗竴娆＄敓鎴愬苟鏍￠獙
-    - 涓嶉€氳繃锛氭妸閿欒鍘熷洜鍙戠粰 LLM 鍐嶇敓鎴愪竴娆?
-    - 浠嶄笉閫氳繃锛氬け璐?
+    你想要的逻辑：
+    - 第一次生成并校验
+    - 不通过：把错误原因发给 LLM 再生成一次
+    - 仍不通过：失败
     """
     global SCHEMA_MODE_ENABLED
     allowed_fields = list(LLM_SUMMARY_SCHEMA["schema"]["properties"].keys())
@@ -528,7 +528,7 @@ def extract_with_one_fix_retry(paper_text: str) -> dict:
 
     fix_prompt = build_fix_prompt(out1, errors1, allowed_fields)
 
-    # 绗簩娆★細渚濇棫鍏堝皾璇?schema锛屽鏋滀笉鏀寔浼氶檷绾?
+    # 第二次：依旧先尝试 schema，如果不支持会降级
     out2 = None
     if SCHEMA_MODE_ENABLED:
         try:
@@ -574,7 +574,7 @@ def extract_with_one_fix_retry(paper_text: str) -> dict:
 
 def should_skip(meta: dict) -> bool:
     """
-    璺宠繃宸插畬鎴愮殑锛歴ummarized_at 瀛樺湪涓旈潪绌?
+    跳过已完成的：summarized_at 存在且非空
     """
     prov = meta.get("provenance", {})
     return bool(prov.get("summarized_at"))
@@ -582,7 +582,7 @@ def should_skip(meta: dict) -> bool:
 
 def process_one_meta(meta_json_path: Path) -> dict:
     """
-    杩斿洖锛氱粨鏋?dict锛堢敤浜庢眹鎬绘墦鍗?鍐欐棩蹇楋級
+    返回：结果 dict（用于汇总打印 / 写日志）
     """
     t0 = time.time()
     try:
@@ -601,7 +601,7 @@ def process_one_meta(meta_json_path: Path) -> dict:
         if not text:
             raise RuntimeError("PDF text extraction returned empty content")
 
-        # 灏忛殢鏈烘姈鍔紝闄嶄綆骞跺彂鏃舵挒鍒板悓涓€鍚庣鐨勬鐜?
+        # 小随机抖动，降低并发时撞到同一后端的概率
         time.sleep(random.uniform(0.05, 0.25))
 
         summary = extract_with_one_fix_retry(text)
@@ -665,7 +665,7 @@ def main():
     print("-" * 80)
     print(f"Done. ok={ok}, skipped={skipped}, fail={fail}")
 
-    # 鍐欎竴浠借繍琛屾棩蹇楋紝鏂逛究浣犲洖鐪嬪け璐ュ師鍥?
+    # 写一份运行日志，方便你回看失败原因
     log_path = meta_dir / "_summarize_run_log.json"
     with open(log_path, "w", encoding="utf-8") as f:
         json.dump(
@@ -682,7 +682,7 @@ def run_summaries():
     parser.add_argument("date", nargs="?", default=datetime.now().date().isoformat(), help="YYYY-MM-DD, default=today")
     parser.add_argument("--workers", type=int, default=DEFAULT_WORKERS, help="number of concurrent workers")
 
-    # 鏂板锛氬け璐ュ惊鐜噸璺戞帶鍒?
+    # 新增：失败循环重跑控制
     parser.add_argument("--max-rounds", type=int, default=4, help="max retry rounds for failed metas")
     parser.add_argument("--max-attempts-per-file", type=int, default=4, help="max total attempts per meta file")
 
@@ -709,12 +709,12 @@ def run_summaries():
     print(f"Workers: {workers}")
     print("-" * 80)
 
-    # attempt 璁℃暟锛氶槻姝㈡煇浜涙案涔呭け璐ュ鑷存寰幆
+    # attempt 计数：防止某些永久失败导致死循环
     attempts: dict[str, int] = {p.name: 0 for p in meta_files_all}
 
-    # 绗竴杞細璺戝叏閮紱鍚庣画杞锛氬彧璺戝け璐?
+    # 第一轮：跑全部；后续轮次：只跑失败
     pending = meta_files_all[:]
-    all_results = []  # 淇濆瓨姣忔鎵ц鐨勭粨鏋滐紙鍖呭惈杞淇℃伅锛?
+    all_results = []  # 保存每次执行的结果（包含轮次信息）
 
     round_idx = 1
     while pending and round_idx <= args.max_rounds:
@@ -725,7 +725,7 @@ def run_summaries():
             futs = {}
             for p in pending:
                 if attempts[p.name] >= args.max_attempts_per_file:
-                    # 宸茶揪鍒版渶澶у皾璇曟鏁帮紝鐩存帴鏍囪涓?fail锛屼笉鍐嶆彁浜?
+                    # 已达到最大尝试次数，直接标记为 fail，不再提交
                     r = {
                         "file": p.name,
                         "status": "fail",
@@ -757,7 +757,7 @@ def run_summaries():
                     print(f"[FAIL]    {r['file']} ({r['secs']}s)  attempt={r['attempt']}")
                     print("          ", r.get("error", "")[:300])
 
-        # 璁＄畻涓嬩竴杞閲嶈窇鐨勬枃浠讹細鍙噸璺?fail锛屼笖娌¤秴杩?max_attempts_per_file
+        # 计算下一轮要重跑的文件：只重跑 fail，且没超过 max_attempts_per_file
         failed_names = {r["file"] for r in round_results if r["status"] == "fail"}
         pending = [
             (meta_dir / name)
@@ -776,12 +776,12 @@ def run_summaries():
 
         round_idx += 1
 
-    # 鏈€缁堢粺璁?
+    # 最终统计
     final_ok = sum(1 for r in all_results if r["status"] == "ok")
     final_skipped = sum(1 for r in all_results if r["status"] == "skipped")
 
-    # 娉ㄦ剰锛氫竴涓枃浠跺彲鑳藉娆?fail 鍚庢垚鍔燂紝鎵€浠ユ渶缁?fail 闇€瑕佹寜鈥滄渶鍚庝竴娆＄姸鎬佲€濈粺璁℃洿鍚堢悊
-    # 杩欓噷缁欏嚭鈥滀粛鏈垚鍔熶笖杈惧埌涓婇檺/杞鐢ㄥ敖鈥濈殑鏂囦欢鏁伴噺
+    # 注意：一个文件可能多次 fail 后成功，所以最终 fail 需要按“最后一次状态”统计更合理
+    # 这里给出“仍未成功且达到上限 / 轮次用尽”的文件数量
     last_status = {}
     for r in all_results:
         last_status[r["file"]] = r["status"]
@@ -791,7 +791,7 @@ def run_summaries():
     print("-" * 80)
     print(f"Done. ok={final_ok}, skipped={final_skipped}, still_fail={still_fail}, rounds={round_idx if all_results else 0}")
 
-    # 鍐欒繍琛屾棩蹇楋紙鍖呭惈姣忚疆/姣忔 attempt锛?
+    # 写运行日志（包含每轮 / 每次 attempt）
     log_path = meta_dir / "_summarize_run_log.json"
     with open(log_path, "w", encoding="utf-8") as f:
         json.dump(
