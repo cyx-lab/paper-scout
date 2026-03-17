@@ -11,7 +11,7 @@ import requests
 from src.core.models import PaperRecord, Assets
 
 
-ARXIV_API = "http://export.arxiv.org/api/query"
+ARXIV_API = "https://export.arxiv.org/api/query"
 
 
 # -----------------------------
@@ -111,6 +111,34 @@ def _build_query(categories: List[str]) -> str:
     return f"({cats})"
 
 
+def _get_arxiv_response_text(
+    url: str,
+    *,
+    headers: dict[str, str],
+    timeout_s: int,
+    max_attempts: int = 4,
+    base_sleep_s: float = 2.0,
+) -> str:
+    last_error: Exception | None = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            resp = requests.get(url, headers=headers, timeout=timeout_s)
+            resp.raise_for_status()
+            return resp.text
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as exc:
+            last_error = exc
+            if attempt == max_attempts:
+                break
+            sleep_s = base_sleep_s * (2 ** (attempt - 1))
+            print(
+                f"[RETRY] arXiv request failed ({type(exc).__name__}) "
+                f"attempt {attempt}/{max_attempts}, sleep={sleep_s:.1f}s"
+            )
+            _time.sleep(sleep_s)
+    assert last_error is not None
+    raise last_error
+
+
 # -----------------------------
 # Public API
 # -----------------------------
@@ -122,7 +150,7 @@ def fetch_arxiv(
     sort_by: str = "submittedDate",
     sort_order: str = "descending",
     user_agent: str = "paper-scout/0.1 (contact: your-email-or-github)",
-    timeout_s: int = 30,
+    timeout_s: int = 60,
     polite_delay_s: float = 0.0,
 ) -> List[PaperRecord]:
     """
@@ -154,10 +182,8 @@ def fetch_arxiv(
 
     headers = {"User-Agent": user_agent}
 
-    resp = requests.get(url, headers=headers, timeout=timeout_s)
-    resp.raise_for_status()
-
-    feed = feedparser.parse(resp.text)
+    feed_text = _get_arxiv_response_text(url, headers=headers, timeout_s=timeout_s)
+    feed = feedparser.parse(feed_text)
 
     records: List[PaperRecord] = []
     for e in feed.entries:
