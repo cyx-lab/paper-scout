@@ -67,6 +67,9 @@ jobs:
           print("SMTP_PASSWORD is set =", bool(os.getenv("SMTP_PASSWORD")))
           PY
 
+      - name: Healthcheck LLM API
+        run: python scripts/healthcheck_llm_api.py
+
       - name: Run pipeline
         run: python run_all.py
 
