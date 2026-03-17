@@ -116,8 +116,8 @@ def _get_arxiv_response_text(
     *,
     headers: dict[str, str],
     timeout_s: int,
-    max_attempts: int = 4,
-    base_sleep_s: float = 2.0,
+    max_attempts: int = 6,
+    base_sleep_s: float = 5.0,
 ) -> str:
     last_error: Exception | None = None
     for attempt in range(1, max_attempts + 1):
@@ -125,6 +125,26 @@ def _get_arxiv_response_text(
             resp = requests.get(url, headers=headers, timeout=timeout_s)
             resp.raise_for_status()
             return resp.text
+        except requests.exceptions.HTTPError as exc:
+            last_error = exc
+            response = exc.response
+            status = response.status_code if response is not None else None
+            is_retryable = status in {429, 500, 502, 503, 504}
+            if not is_retryable or attempt == max_attempts:
+                break
+
+            retry_after = None
+            if response is not None:
+                retry_after_header = response.headers.get("Retry-After", "").strip()
+                if retry_after_header.isdigit():
+                    retry_after = float(retry_after_header)
+
+            sleep_s = retry_after if retry_after is not None else base_sleep_s * (2 ** (attempt - 1))
+            print(
+                f"[RETRY] arXiv HTTP {status} "
+                f"attempt {attempt}/{max_attempts}, sleep={sleep_s:.1f}s"
+            )
+            _time.sleep(sleep_s)
         except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as exc:
             last_error = exc
             if attempt == max_attempts:
