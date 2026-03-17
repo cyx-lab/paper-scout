@@ -15,7 +15,11 @@ load_dotenv()
 
 
 def _env(name: str, *, required: bool = True, default: str | None = None) -> str:
-    value = os.getenv(name, default)
+    value = os.getenv(name)
+    if value is not None:
+        value = value.strip()
+    if not value:
+        value = default
     if required and not value:
         raise RuntimeError(f"Missing environment variable: {name}")
     return value or ""

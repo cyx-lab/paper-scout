@@ -11,15 +11,10 @@ jobs:
     env:
       TZ: Asia/Shanghai
       MY_API_KEY: ${{ secrets.MY_API_KEY }}
-      MY_API_BASE_URL: ${{ secrets.MY_API_BASE_URL }}
-      LLM_MODEL: ${{ secrets.LLM_MODEL }}
-      SMTP_HOST: ${{ secrets.SMTP_HOST }}
-      SMTP_PORT: ${{ secrets.SMTP_PORT }}
       SMTP_USER: ${{ secrets.SMTP_USER }}
       SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
       EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
       EMAIL_TO: ${{ secrets.EMAIL_TO }}
-      EMAIL_SUBJECT_PREFIX: ${{ secrets.EMAIL_SUBJECT_PREFIX }}
 
     steps:
       - name: Check out repository
@@ -40,10 +35,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Create runtime .env
+        run: |
+          cp .env.defaults .env
+          {
+            echo "MY_API_KEY=${MY_API_KEY}"
+            echo "SMTP_USER=${SMTP_USER}"
+            echo "SMTP_PASSWORD=${SMTP_PASSWORD}"
+            echo "EMAIL_TO=${EMAIL_TO}"
+          } >> .env
+          if [ -n "${EMAIL_FROM}" ]; then
+            echo "EMAIL_FROM=${EMAIL_FROM}" >> .env
+          fi
+
       - name: Print safe runtime config
         run: |
           python - <<'PY'
           import os
+          from dotenv import load_dotenv
+          load_dotenv(".env")
           print("MY_API_BASE_URL =", os.getenv("MY_API_BASE_URL", ""))
           print("LLM_MODEL =", os.getenv("LLM_MODEL", ""))
           print("LLM_WORKERS =", os.getenv("LLM_WORKERS", ""))

@@ -28,7 +28,35 @@ load_dotenv()
 # -------------------------------------------------
 # Config
 # -------------------------------------------------
-MY_API_KEY = os.getenv("MY_API_KEY")
+def _env_str(name: str, default: str | None = None) -> str | None:
+    value = os.getenv(name)
+    if value is None:
+        return default
+    value = value.strip()
+    return value if value else default
+
+
+def _env_int(name: str, default: int) -> int:
+    value = _env_str(name)
+    if value is None:
+        return default
+    try:
+        return int(value)
+    except ValueError:
+        return default
+
+
+def _env_float(name: str, default: float) -> float:
+    value = _env_str(name)
+    if value is None:
+        return default
+    try:
+        return float(value)
+    except ValueError:
+        return default
+
+
+MY_API_KEY = _env_str("MY_API_KEY")
 API_KEY = MY_API_KEY
 if not API_KEY:
     raise RuntimeError("Missing API key: set OPENROUTER_API_KEY or MY_API_KEY in .env")
@@ -36,14 +64,14 @@ if not API_KEY:
 # Default base url follows selected key type:
 # - OPENROUTER_API_KEY -> openrouter
 # - MY_API_KEY         -> uiuiapi (legacy setup in this project)
-BASE_URL = os.getenv("MY_API_BASE_URL", "https://api1.uiuiapi.com/v1")
+BASE_URL = _env_str("MY_API_BASE_URL", "https://api1.uiuiapi.com/v1")
 
-MODEL = os.getenv("LLM_MODEL", "gemini-3-flash-preview")
-DEFAULT_WORKERS = int(os.getenv("LLM_WORKERS", "2"))
-MAX_API_RETRIES = int(os.getenv("LLM_MAX_API_RETRIES", "5"))
-RETRY_BASE_SLEEP = float(os.getenv("LLM_RETRY_BASE_SLEEP", "1.5"))
-RETRY_MAX_SLEEP = float(os.getenv("LLM_RETRY_MAX_SLEEP", "20"))
-LLM_USE_JSON_SCHEMA = os.getenv("LLM_USE_JSON_SCHEMA", "0").strip().lower() in {
+MODEL = _env_str("LLM_MODEL", "gemini-3-flash-preview")
+DEFAULT_WORKERS = _env_int("LLM_WORKERS", 2)
+MAX_API_RETRIES = _env_int("LLM_MAX_API_RETRIES", 5)
+RETRY_BASE_SLEEP = _env_float("LLM_RETRY_BASE_SLEEP", 1.5)
+RETRY_MAX_SLEEP = _env_float("LLM_RETRY_MAX_SLEEP", 20.0)
+LLM_USE_JSON_SCHEMA = (_env_str("LLM_USE_JSON_SCHEMA", "0") or "0").strip().lower() in {
     "1", "true", "yes", "on"
 }
 SCHEMA_MODE_ENABLED = LLM_USE_JSON_SCHEMA
