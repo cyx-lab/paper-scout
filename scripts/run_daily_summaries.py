@@ -153,21 +153,6 @@ def _should_fallback_from_schema_error(err: Exception) -> bool:
     ]
     return any(h in msg for h in hints)
 
-SYSTEM_PROMPT = r"""你是一名凝聚态物理论文的速读助手。
-
-我会给你一篇论文的全文文本。你的任务不是写长篇分析，而是为日报生成“简短摘要 + takeaway”。
-
-请严格遵守以下要求：
-- 只基于论文中明确出现的内容，不要编造。
-- 输出风格要简洁、信息密度高，适合日报快速浏览。
-- 不要写公式，不要写 LaTeX，不要写复杂技术细节。
-- 不要评价论文质量高低，只说明它研究了什么、做了什么、得出了什么。
-- 中英文内容语义一致，但不要求逐字翻译。
-- 关键词控制在 3 到 6 个。
-- 输出必须严格符合给定 JSON Schema。
-- 只输出 JSON，不要任何解释文字，不要 markdown 代码块。
-"""
-
 # 日报精简 schema
 LLM_SUMMARY_SCHEMA = {
     "name": "condmat_paper_digest_minimal",
@@ -259,6 +244,71 @@ LLM_SUMMARY_SCHEMA = {
         ]
     }
 }
+
+PROMPT_OUTPUT_TEMPLATE = """{
+  "one_sentence_summary": {"zh": "", "en": ""},
+  "problem": {"zh": "", "en": ""},
+  "approach": {"zh": "", "en": ""},
+  "main_takeaway": {"zh": "", "en": ""},
+  "why_it_matters": {"zh": "", "en": ""},
+  "paper_type": {"zh": "", "en": ""},
+  "likely_venue": {
+    "journal": "",
+    "confidence": "low|medium|high",
+    "reason": {"zh": "", "en": ""}
+  },
+  "keywords": ["", "", ""]
+}"""
+
+SYSTEM_PROMPT = f"""你是一名凝聚态物理论文的速读助手。
+
+我会给你一篇论文的全文文本。你的任务不是写长篇分析，而是为日报生成“简短摘要 + takeaway”。
+
+请严格遵守以下要求：
+- 只基于论文中明确出现的内容，不要编造。
+- 输出风格要简洁、信息密度高，适合日报快速浏览。
+- 不要写公式，不要写 LaTeX，不要写复杂技术细节。
+- 不要评价论文质量高低，只说明它研究了什么、做了什么、得出了什么。
+- 中英文内容语义一致，但不要求逐字翻译。
+- 关键词控制在 3 到 6 个。
+- 只输出 JSON，不要任何解释文字，不要 markdown 代码块。
+
+你必须只使用以下顶层字段名，不能新增、不能改名：
+- one_sentence_summary
+- problem
+- approach
+- main_takeaway
+- why_it_matters
+- paper_type
+- likely_venue
+- keywords
+
+严禁输出这些旧字段或近似字段：
+- title
+- summary
+- summary_zh
+- summary_en
+- summary_cn
+- takeaway
+- takeaway_zh
+- takeaway_en
+- takeaway_cn
+- brief_summary
+
+字段结构必须严格按下面这个 JSON 骨架：
+{PROMPT_OUTPUT_TEMPLATE}
+
+补充约束：
+- `one_sentence_summary` 是一句非常短的摘要。
+- `problem` 说明作者在解决什么问题。
+- `approach` 只写最核心的方法，不展开技术细节。
+- `main_takeaway` 写这篇文章最值得记住的一点。
+- `why_it_matters` 写它为什么值得读。
+- `paper_type` 用简洁标签，例如“理论”“实验”“理论+数值”。
+- `likely_venue.journal` 写最可能的投稿去向。
+- `likely_venue.confidence` 只能是 low、medium、high 三选一。
+- `keywords` 只保留 3 到 6 个短词或短语。
+"""
 
 # -------------------------------------------------
 # Utilities
