@@ -315,7 +315,7 @@ def md_to_pdf(md_path: Path, *, out_pdf: Path, mainfont: str | None = None, cjkf
 def generate_daily_reports():
     ap = argparse.ArgumentParser()
     ap.add_argument("date", nargs="?", default=datetime.now().date().isoformat(), help="YYYY-MM-DD (default=today)")
-    ap.add_argument("--no-pdf", action="store_true", help="only generate md, skip pdf conversion")
+    ap.add_argument("--pdf", action="store_true", help="also generate PDF files")
     ap.add_argument("--mainfont", default=None, help='pandoc -V mainfont=... (optional)')
     ap.add_argument("--cjkfont", default=None, help='pandoc -V CJKmainfont=... (optional)')
     args = ap.parse_args()
@@ -363,7 +363,7 @@ def generate_daily_reports():
     pdf_en_dir.mkdir(parents=True, exist_ok=True)
 
     # Convert to PDF
-    if not args.no_pdf:
+    if args.pdf:
         md_to_pdf(out_md_zh, out_pdf=pdf_zh_dir / f"{run_date}_daily_llm_report_zh.pdf", mainfont=args.mainfont, cjkfont=args.cjkfont)
         md_to_pdf(out_md_en, out_pdf=pdf_en_dir / f"{run_date}_daily_llm_report_en.pdf", mainfont=args.mainfont, cjkfont=args.cjkfont)
         

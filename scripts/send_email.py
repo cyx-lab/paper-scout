@@ -4,7 +4,6 @@ import smtplib
 from datetime import datetime
 from email.message import EmailMessage
 from pathlib import Path
-from typing import Iterable
 
 from dotenv import load_dotenv
 
@@ -25,27 +24,16 @@ def _env(name: str, *, required: bool = True, default: str | None = None) -> str
     return value or ""
 
 
-def _collect_attachments(run_date: str) -> list[Path]:
-    candidates = [
-        ROOT / "reports" / "zh" / f"{run_date}_daily_llm_report_zh.pdf",
-        ROOT / "reports" / "en" / f"{run_date}_daily_llm_report_en.pdf",
-        ROOT / "reports" / "log" / f"{run_date}_daily_llm_report_zh.md",
-        ROOT / "reports" / "log" / f"{run_date}_daily_llm_report_en.md",
-    ]
-    return [path for path in candidates if path.exists()]
+def _read_report_bodies(run_date: str) -> tuple[str, str]:
+    zh_path = ROOT / "reports" / "log" / f"{run_date}_daily_llm_report_zh.md"
+    en_path = ROOT / "reports" / "log" / f"{run_date}_daily_llm_report_en.md"
+
+    zh_body = zh_path.read_text(encoding="utf-8") if zh_path.exists() else ""
+    en_body = en_path.read_text(encoding="utf-8") if en_path.exists() else ""
+    return zh_body.strip(), en_body.strip()
 
 
-def _attach_files(message: EmailMessage, files: Iterable[Path]) -> None:
-    for path in files:
-        data = path.read_bytes()
-        if path.suffix.lower() == ".pdf":
-            maintype, subtype = "application", "pdf"
-        else:
-            maintype, subtype = "text", "markdown"
-        message.add_attachment(data, maintype=maintype, subtype=subtype, filename=path.name)
-
-
-def send_report_email(run_date: str) -> list[Path]:
+def send_report_email(run_date: str) -> bool:
     smtp_host = _env("SMTP_HOST")
     smtp_port = int(_env("SMTP_PORT"))
     smtp_user = _env("SMTP_USER")
@@ -54,10 +42,11 @@ def send_report_email(run_date: str) -> list[Path]:
     email_from = _env("EMAIL_FROM", required=False, default=smtp_user)
     subject_prefix = _env("EMAIL_SUBJECT_PREFIX", required=False, default="[Paper Scout]")
 
-    attachments = _collect_attachments(run_date)
+    zh_body, en_body = _read_report_bodies(run_date)
+    has_report = bool(zh_body or en_body)
 
     message = EmailMessage()
-    if attachments:
+    if has_report:
         subject = f"{subject_prefix} {run_date} Daily Paper Digest"
     else:
         subject = f"{subject_prefix} {run_date} No New Report"
@@ -65,18 +54,35 @@ def send_report_email(run_date: str) -> list[Path]:
     message["Subject"] = subject
     message["From"] = email_from
     message["To"] = email_to
-    if attachments:
-        message.set_content(
-            "\n".join(
+    if has_report:
+        body_parts = []
+        if zh_body:
+            body_parts.extend(
                 [
-                    f"Paper Scout report for {run_date} is attached.",
+                    f"Paper Scout digest for {run_date}",
                     "",
-                    "Included files:",
-                    *[f"- {path.name}" for path in attachments],
+                    "===== 中文 =====",
+                    "",
+                    zh_body,
                 ]
             )
+        if en_body:
+            if body_parts:
+                body_parts.extend(["", "", "===== English =====", ""])
+            else:
+                body_parts.extend(
+                    [
+                        f"Paper Scout digest for {run_date}",
+                        "",
+                        "===== English =====",
+                        "",
+                    ]
+                )
+            body_parts.append(en_body)
+
+        message.set_content(
+            "\n".join(body_parts).strip() + "\n"
         )
-        _attach_files(message, attachments)
     else:
         message.set_content(
             "\n".join(
@@ -102,7 +108,7 @@ def send_report_email(run_date: str) -> list[Path]:
             server.login(smtp_user, smtp_password)
             server.send_message(message)
 
-    return attachments
+    return has_report
 
 
 def main() -> None:
@@ -115,13 +121,11 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    attachments = send_report_email(args.date)
-    if attachments:
-        print(f"Email sent with {len(attachments)} attachment(s).")
-        for path in attachments:
-            print(f" - {path}")
+    has_report = send_report_email(args.date)
+    if has_report:
+        print("Email sent with digest content in the message body.")
     else:
-        print("Email sent without attachments because no report files were generated.")
+        print("Email sent without report content because no daily report files were generated.")
 
 
 if __name__ == "__main__":
