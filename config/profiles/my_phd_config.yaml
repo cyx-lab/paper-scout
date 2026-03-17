@@ -226,6 +226,14 @@ modes:
               - "B. Andrei Bernevig"
               - "Andrei Bernevig"
 
+          - canonical: "Wladimir A. Benalcazar"
+            aliases:
+              - "Wladimir A. Benalcazar"
+              - "Benalcazar, Wladimir A."
+              - "W. A. Benalcazar"
+              - "Wladimir Benalcazar"
+              - "Benalcazar"
+
 
           #- canonical: "Markus Stricker"
             #aliases:
