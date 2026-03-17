@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2603.15593v1",
+    "title": "Flat-Band Generation in InAs/GaSb Quantum Wells through Vertically Engineered Heterostructures",
+    "authors": [
+      "Zachery A. Enderson",
+      "Jiyuan Fang",
+      "Wei-Chen Wang",
+      "Li Xiang",
+      "Mykhaylo Ozerov",
+      "Dmitry Smirnov",
+      "Zhigang Jiang",
+      "Samuel D. Hawkins",
+      "Aaron J. Muhowski",
+      "John F. Klem",
+      "Wei Pan"
+    ],
+    "abstract": "Quantum materials constitute a novel category of substances wherein quantum effects and electron-electron (e-e) interactions give rise to unforeseen phenomena on a macroscopic scale. Of particular interest within the realm of quantum materials are flat bands, which promote heavy conduction electrons and enhance e-e correlation effects. While the engineering of such flat bands has been demonstrated in graphene and two-dimensional transition metal dichalcogenides moiré superlattices and in lithography defined semiconductor moiré superlattices, conventional tear-and-stack fabrication methods face challenges due to inevitable twist-angle disorder, strain, and relaxation effects, leading to issues with reproducibility and scalability. Here, we explore the creation and modification of flat bands through vertically engineered III-V semiconductor heterostructures, without the need for twisting. These artificial quantum materials offer a reproducible and scalable means for producing high-quality flat-band materials via molecular beam epitaxy growth. Our investigation includes magnetotransport and infrared magneto-spectroscopy studies of quad-layer InAs/GaSb quantum wells, accompanied by k*p band structure calculations, which illustrate the flattening of bands in vertically designed heterostructures.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-03-16T17:51:57Z",
+    "updated": "2026-03-16T17:51:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist-angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.15593v1",
+      "pdf_path": "data/pdfs/2026-03-17/3_Flat-Band Generation in InAsGaSb Quantum Wells through Vertically Engineered Heterostructures__2603.15593v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-17T14:26:05.083680",
+    "updated_at": "2026-03-17T14:26:05.083671Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-17/3_Flat-Band Generation in InAsGaSb Quantum Wells through Vertically Engineered Heterostructures__2603.15593v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.15593v1",
+    "pdf_filename": "3_Flat-Band Generation in InAsGaSb Quantum Wells through Vertically Engineered Heterostructures__2603.15593v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过垂直工程设计的 InAs/GaSb 四层量子阱实现了平带，为研究强关联物理提供了一种无需扭转、可扩展的方案。",
+      "en": "Flat bands are generated in vertically engineered quad-layer InAs/GaSb quantum wells, providing a twist-free and scalable platform for correlation physics."
+    },
+    "problem": {
+      "zh": "传统扭转电子学（如魔角石墨烯）存在扭转角不均匀、应变和难以大规模生产等问题。",
+      "en": "Conventional twistronics faces challenges such as twist-angle disorder, strain, and lack of scalability or reproducibility."
+    },
+    "approach": {
+      "zh": "利用分子束外延生长四层异质结，通过 k·p 模型设计能带反转，并利用磁输运和远红外磁光谱测量有效质量。",
+      "en": "Using MBE to grow quad-layer heterostructures, designing band inversion via k·p modeling, and characterizing effective mass through magnetotransport and FIRMS."
+    },
+    "main_takeaway": {
+      "zh": "四层 InAs/GaSb 结构在 Gamma 点附近产生了比双层结构更平坦的能带，实验测得有效质量显著增大，证明了平带的成功构建。",
+      "en": "The quad-layer InAs/GaSb structure produces flatter bands near the Gamma point than bilayers, with experimentally confirmed significantly enhanced effective mass."
+    },
+    "why_it_matters": {
+      "zh": "该方法利用成熟的半导体工艺实现了平带，为探索超导和强关联效应提供了高重复性的材料体系，避开了扭转工艺的瓶颈。",
+      "en": "This approach leverages mature semiconductor growth to create flat bands, offering a highly reproducible system for exploring superconductivity and strong correlations without twist-related issues."
+    },
+    "paper_type": {
+      "zh": "实验 + 理论数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Science Advances",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文格式（包含 Teaser 和页码标注）以及研究的系统性与影响力非常符合该期刊的特征。",
+        "en": "The manuscript format and the systematic impact of the study are highly consistent with Science Advances."
+      }
+    },
+    "keywords": [
+      "InAs/GaSb",
+      "Flat Bands",
+      "Quantum Wells",
+      "Magnetotransport",
+      "Heterostructures",
+      "Band Inversion"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-17T22:26:41",
+    "input_scope": "full_pdf_text"
+  }
+}

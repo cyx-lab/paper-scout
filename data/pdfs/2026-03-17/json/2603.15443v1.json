@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2603.15443v1",
+    "title": "Observation of two-component exciton condensates in an excitonic insulator",
+    "authors": [
+      "Ruishi Qi",
+      "Qize Li",
+      "Jiahui Nie",
+      "Ruichen Xia",
+      "Haleem Kim",
+      "Hyungbin Lim",
+      "Jingxu Xie",
+      "Takashi Taniguchi",
+      "Kenji Watanabe",
+      "Michael F. Crommie",
+      "Allan H. MacDonald",
+      "Feng Wang"
+    ],
+    "abstract": "Macroscopic quantum coherence emerges when bosons condense into a Bose-Einstein condensate (BEC). First observed as a single-component superfluid in helium, BECs later emerged in ultracold atomic gases at nanokelvin temperatures as weakly interacting quantum fluids, which can also host multicomponent spinor condensates with rich internal degrees of freedom. Excitons provide a promising solid-state platform for BECs that can combine strong interactions, electrical tunability, high transition temperatures, and multicomponent order. Yet, conclusive evidence for condensation has remained elusive. Here, we report evidence of two-component exciton BECs in MoSe2/hBN/WSe2 electron-hole bilayers by directly probing the spin susceptibility of constituent electrons and holes. This heterostructure hosts equilibrium exciton fluids with four spin-valley flavors. Using magneto-optical spectroscopy in a dilution refrigerator, we reveal three exciton condensate phases with distinct flavor polarizations. At zero magnetic field, the many-body ground state is a coherent superposition of two simultaneously condensed intravalley exciton flavors. Under a magnetic field, the intravalley exciton condensate first switches to a two-component intervalley exciton condensate via a first-order quantum phase transition at a weak critical field, and then turns into a fully-polarized single-component condensate at high fields. The two-component condensates persist up to ~1.8 K. Our results establish van der Waals electron-hole bilayers as a versatile platform for exploring strongly interacting, multicomponent exciton BECs.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.quant-gas",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-16T15:45:08Z",
+    "updated": "2026-03-16T15:45:08Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": true,
+      "rule_score": 8,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.15443v1",
+      "pdf_path": "data/pdfs/2026-03-17/8_Observation of two-component exciton condensates in an excitonic insulator__2603.15443v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-17T14:26:05.084347",
+    "updated_at": "2026-03-17T14:26:05.084340Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-17/8_Observation of two-component exciton condensates in an excitonic insulator__2603.15443v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.15443v1",
+    "pdf_filename": "8_Observation of two-component exciton condensates in an excitonic insulator__2603.15443v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在MoSe2/hBN/WSe2范德华异质结中观测到具有自旋-谷自由度的双分量激子玻色-爱因斯坦凝聚。",
+      "en": "Observation of two-component exciton Bose-Einstein condensates with spin-valley degrees of freedom in MoSe2/hBN/WSe2 van der Waals bilayers."
+    },
+    "problem": {
+      "zh": "尽管激子凝聚已被理论预测多年，但在固态系统中实现具有丰富内部自由度且处于平衡态的激子凝聚一直缺乏直接实验证据。",
+      "en": "Although exciton condensation has been theorized for decades, direct experimental evidence for equilibrium condensates with rich internal degrees of freedom in solid-state systems has remained elusive."
+    },
+    "approach": {
+      "zh": "利用稀释制冷机中的磁光光谱技术，通过测量电子和空穴的层解析自旋-谷磁化率，研究了MoSe2/hBN/WSe2电子-空穴双层结构中的激子流体。",
+      "en": "Using magneto-optical spectroscopy in a dilution refrigerator to probe the layer-resolved spin-valley susceptibility of electrons and holes in MoSe2/hBN/WSe2 electron-hole bilayers."
+    },
+    "main_takeaway": {
+      "zh": "发现了三种激子凝聚相，包括零磁场下的双分量谷内激子凝聚，并观测到由磁场驱动的向双分量谷间激子凝聚的一级量子相变，其转变温度最高可达1.8 K。",
+      "en": "Discovery of three exciton condensate phases, including a two-component intravalley condensate at zero field and a field-driven first-order quantum phase transition to an intervalley condensate, with transition temperatures up to 1.8 K."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了范德华双层结构是探索强相互作用、多分量激子凝聚及高转变温度超流态的理想平台，为研究类超流氦或原子自旋凝聚态提供了固态系统模拟。",
+      "en": "This work establishes van der Waals bilayers as a versatile platform for exploring strongly interacting, multicomponent exciton BECs and high-temperature superfluidity, analogous to superfluid helium or atomic spinor condensates."
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了凝聚态物理中长期存在的激子凝聚实验证明难题，且涉及新型二维材料异质结。",
+        "en": "The study addresses a long-standing challenge in condensed matter physics regarding the experimental proof of exciton condensation using novel 2D heterostructures."
+      }
+    },
+    "keywords": [
+      "Exciton Condensate",
+      "TMD Bilayers",
+      "Bose-Einstein Condensation",
+      "Spin-Valley Physics",
+      "Quantum Phase Transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-17T22:26:25",
+    "input_scope": "full_pdf_text"
+  }
+}
