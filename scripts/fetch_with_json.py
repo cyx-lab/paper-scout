@@ -17,6 +17,19 @@ from src.reporting.markdown import write_daily_markdown_report, ReportMeta
 from src.download.pdf_downloader import download_papers
 
 
+def _env_int(name: str, default: int | None = None) -> int | None:
+    value = os.getenv(name)
+    if value is None:
+        return default
+    value = value.strip()
+    if not value:
+        return default
+    try:
+        return int(value)
+    except ValueError:
+        raise ValueError(f"Environment variable {name} must be an integer, got {value!r}")
+
+
 def build_download_map(downloaded_paths: list[Path]) -> dict[str, Path]:
     """
     downloader 文件名规则：<score>_<title>__<arxiv_id>.pdf
@@ -133,6 +146,8 @@ def fetch_and_process():
     mode = profile["modes"][mode_name]
     fetch_cfg = mode["fetch"]
     rules_cfg = mode["rules"]
+    max_fetch = _env_int("MAX_FETCH_OVERRIDE", fetch_cfg.get("max_fetch", 200))
+    print(f"Using max_fetch={max_fetch}")
 
     # -------------------------------------------------
     # Fetch arXiv papers
@@ -140,7 +155,7 @@ def fetch_and_process():
     recs = fetch_arxiv(
         categories=fetch_cfg["categories"],
         time_window=fetch_cfg["time_window"],
-        max_results=fetch_cfg.get("max_fetch", 200),
+        max_results=max_fetch,
     )
     print(f"Fetched: {len(recs)} papers")
 
