@@ -125,47 +125,29 @@ def _should_fallback_from_schema_error(err: Exception) -> bool:
     ]
     return any(h in msg for h in hints)
 
-SYSTEM_PROMPT = r"""你是一名凝聚态物理研究者的论文快速阅读助手。
+SYSTEM_PROMPT = r"""你是一名凝聚态物理论文的速读助手。
 
-我会给你一篇短篇凝聚态物理论文（PRL 风格，<=10 页）的全文文本。
-你的任务是帮助研究者“快速理解这篇论文在物理上做了什么”。
+我会给你一篇论文的全文文本。你的任务不是写长篇分析，而是为日报生成“简短摘要 + takeaway”。
 
-请严格遵守以下原则：
-- 输出一个 typora 可读的 markdown 文本。
-- 只基于论文文本中明确出现的内容，不要编造。
-- 不对论文质量、重要性、对错做评价。
-- 如果某些信息不清楚，可以给出保守、概括性的描述。
-- 中英文内容应语义一致，但不是逐字翻译。
-- 输出必须严格符合我提供的 JSON Schema。
-- 只输出 JSON，不要任何解释性文字。
-- 如果有数学公式，请务必使用 LaTeX 数学环境书写。
-
-【数学与公式书写规范】
-
-- 所有物理公式、数学关系、变量定义，必须使用标准 LaTeX 数学环境书写。
-- 行内公式请使用 $...$，行间公式请使用 $$...$$。
-- 禁止使用纯文本或 ASCII 方式表达公式（例如：B^2, ~, ≈, sqrt(), /）。
-- 禁止使用未定义的自定义宏（如 \ket, \bra），请使用标准 LaTeX 表达。
-- 所有物理量、向量、张量请使用 LaTeX 命令（如 \mathbf{k}, \boldsymbol{\sigma}）。
-- 公式将通过 pandoc + xelatex 编译，必须保证语法可编译。
+请严格遵守以下要求：
+- 只基于论文中明确出现的内容，不要编造。
+- 输出风格要简洁、信息密度高，适合日报快速浏览。
+- 不要写公式，不要写 LaTeX，不要写复杂技术细节。
+- 不要评价论文质量高低，只说明它研究了什么、做了什么、得出了什么。
+- 中英文内容语义一致，但不要求逐字翻译。
+- 关键词控制在 3 到 6 个。
+- 输出必须严格符合给定 JSON Schema。
+- 只输出 JSON，不要任何解释文字，不要 markdown 代码块。
 """
 
-# 瀹屾暣 schema
+# 日报精简 schema
 LLM_SUMMARY_SCHEMA = {
-    "name": "condmat_paper_summary_full",
+    "name": "condmat_paper_digest_minimal",
     "schema": {
         "type": "object",
         "additionalProperties": False,
         "properties": {
-            "quick_summary": {
-                "type": "object",
-                "properties": {
-                    "zh": {"type": "string"},
-                    "en": {"type": "string"}
-                },
-                "required": ["zh", "en"]
-            },
-            "background": {
+            "one_sentence_summary": {
                 "type": "object",
                 "properties": {
                     "zh": {"type": "string"},
@@ -184,224 +166,68 @@ LLM_SUMMARY_SCHEMA = {
             "approach": {
                 "type": "object",
                 "properties": {
-                    "high_level": {
+                    "zh": {"type": "string"},
+                    "en": {"type": "string"}
+                },
+                "required": ["zh", "en"]
+            },
+            "main_takeaway": {
+                "type": "object",
+                "properties": {
+                    "zh": {"type": "string"},
+                    "en": {"type": "string"}
+                },
+                "required": ["zh", "en"]
+            },
+            "why_it_matters": {
+                "type": "object",
+                "properties": {
+                    "zh": {"type": "string"},
+                    "en": {"type": "string"}
+                },
+                "required": ["zh", "en"]
+            },
+            "paper_type": {
+                "type": "object",
+                "properties": {
+                    "zh": {"type": "string"},
+                    "en": {"type": "string"}
+                },
+                "required": ["zh", "en"]
+            },
+            "likely_venue": {
+                "type": "object",
+                "properties": {
+                    "journal": {"type": "string"},
+                    "confidence": {
+                        "type": "string",
+                        "enum": ["low", "medium", "high"]
+                    },
+                    "reason": {
                         "type": "object",
                         "properties": {
                             "zh": {"type": "string"},
                             "en": {"type": "string"}
                         },
                         "required": ["zh", "en"]
-                    },
-                },
-                "required": ["high_level"]
-            },
-            "experiment_or_application": {
-                "type": "object",
-                "properties": {
-                    "mentioned": {"type": "boolean"},
-                    "items": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "scenario": {
-                                    "type": "object",
-                                    "properties": {
-                                        "zh": {"type": "string"},
-                                        "en": {"type": "string"}
-                                    },
-                                    "required": ["zh", "en"]
-                                },
-                                "observable_or_signal": {
-                                    "type": "object",
-                                    "properties": {
-                                        "zh": {"type": "string"},
-                                        "en": {"type": "string"}
-                                    },
-                                    "required": ["zh", "en"]
-                                },
-                                "platform": {
-                                    "type": "object",
-                                    "properties": {
-                                        "zh": {"type": "string"},
-                                        "en": {"type": "string"}
-                                    },
-                                    "required": ["zh", "en"]
-                                }
-                            },
-                            "required": [
-                                "scenario",
-                                "observable_or_signal",
-                                "platform"
-                            ]
-                        }
                     }
                 },
-                "required": ["mentioned", "items"]
+                "required": ["journal", "confidence", "reason"]
             },
-            "innovations": {
-                "type": "object",
-                "properties": {
-                    "zh": {
-                        "type": "array",
-                        "items": {"type": "string"}
-                    },
-                    "en": {
-                        "type": "array",
-                        "items": {"type": "string"}
-                    }
-                },
-                "required": ["zh", "en"]
-            },
-            "prior_work_and_relation": {
-                "type": "object",
-                "properties": {
-                    "zh": {
-                        "type": "array",
-                        "items": {"type": "string"}
-                    },
-                    "en": {
-                        "type": "array",
-                        "items": {"type": "string"}
-                    }
-                },
-                "required": ["zh", "en"]
-            },
-            "assumptions_and_validity": {
-                "type": "object",
-                "properties": {
-                    "key_assumptions": {
-                        "type": "object",
-                        "properties": {
-                            "zh": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            },
-                            "en": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            }
-                        },
-                        "required": ["zh", "en"]
-                    },
-                    "valid_regimes": {
-                        "type": "object",
-                        "properties": {
-                            "zh": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            },
-                            "en": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            }
-                        },
-                        "required": ["zh", "en"]
-                    },
-                    "failure_modes_or_limits": {
-                        "type": "object",
-                        "properties": {
-                            "zh": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            },
-                            "en": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            }
-                        },
-                        "required": ["zh", "en"]
-                    }
-                },
-                "required": [
-                    "key_assumptions",
-                    "valid_regimes",
-                    "failure_modes_or_limits"
-                ]
-            },
-            "physical_insight": {
-                "type": "object",
-                "properties": {
-                    "intuition": {
-                        "type": "object",
-                        "properties": {
-                            "zh": {"type": "string"},
-                            "en": {"type": "string"}
-                        },
-                        "required": ["zh", "en"]
-                    },
-                    "what_changes_in_understanding": {
-                        "type": "object",
-                        "properties": {
-                            "zh": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            },
-                            "en": {
-                                "type": "array",
-                                "items": {"type": "string"}
-                            }
-                        },
-                        "required": ["zh", "en"]
-                    }
-                },
-                "required": ["intuition", "what_changes_in_understanding"]
-            },
-            "open_questions_and_future": {
-                "type": "object",
-                "properties": {
-                    "zh": {
-                        "type": "array",
-                        "items": {"type": "string"}
-                    },
-                    "en": {
-                        "type": "array",
-                        "items": {"type": "string"}
-                    }
-                },
-                "required": ["zh", "en"]
-            },
-            "journal_positioning": {
-                "type": "object",
-                "properties": {
-                    "suggested_journals": {
-                        "type": "array",
-                        "items": {
-                            "type": "object",
-                            "properties": {
-                                "journal": {"type": "string"},
-                                "confidence": {
-                                    "type": "string",
-                                    "enum": ["low", "medium", "high"]
-                                },
-                                "reason": {
-                                    "type": "object",
-                                    "properties": {
-                                        "zh": {"type": "string"},
-                                        "en": {"type": "string"}
-                                    },
-                                    "required": ["zh", "en"]
-                                }
-                            },
-                            "required": ["journal", "confidence", "reason"]
-                        }
-                    }
-                },
-                "required": ["suggested_journals"]
+            "keywords": {
+                "type": "array",
+                "items": {"type": "string"}
             }
         },
         "required": [
-            "quick_summary",
-            "background",
+            "one_sentence_summary",
             "problem",
             "approach",
-            "experiment_or_application",
-            "innovations",
-            "prior_work_and_relation",
-            "assumptions_and_validity",
-            "physical_insight",
-            "open_questions_and_future",
-            "journal_positioning"
+            "main_takeaway",
+            "why_it_matters",
+            "paper_type",
+            "likely_venue",
+            "keywords"
         ]
     }
 }
@@ -449,6 +275,47 @@ def _extract_first_json_object(text: str) -> str:
     raise ValueError("Unclosed JSON object in model output")
 
 
+def _repair_invalid_json_escapes(text: str) -> str:
+    r"""
+    Repair common malformed JSON escapes from LLM output by doubling isolated
+    backslashes that are invalid inside JSON strings.
+    """
+    return re.sub(r'(?<!\\)\\(?!["\\/bfnrtu])', r"\\\\", text)
+
+
+def _load_llm_json(raw_text: str) -> dict:
+    """
+    Parse model JSON with a lightweight escape repair fallback.
+    """
+    try:
+        return json.loads(raw_text)
+    except json.JSONDecodeError as e:
+        if "Invalid \\escape" not in str(e):
+            raise
+
+    repaired = _repair_invalid_json_escapes(raw_text)
+    return json.loads(repaired)
+
+
+def build_parse_fix_prompt(raw_output: str, parse_error: str) -> str:
+    return f"""
+下面这段内容本应是一个 JSON 对象，但解析失败了。
+
+【解析错误】：
+{parse_error}
+
+【原始输出】：
+{raw_output}
+
+请把它重写为一个合法的 JSON 对象。
+要求：
+- 只输出一个完整 JSON 对象
+- 不要输出 markdown 代码块
+- 如果字符串里包含反斜杠，必须写成双反斜杠
+- 不要新增解释文字
+""".strip()
+
+
 def call_llm_json(paper_text: str, *, use_schema: bool = True) -> dict:
     """
     先尝试 response_format=json_schema（有时中转不支持会 400）。
@@ -469,7 +336,7 @@ def call_llm_json(paper_text: str, *, use_schema: bool = True) -> dict:
                 response_format={"type": "json_schema", "json_schema": LLM_SUMMARY_SCHEMA},
                 temperature=0.2,
             )
-            return json.loads(resp.choices[0].message.content)
+            return _load_llm_json(resp.choices[0].message.content)
         except Exception as e:
             if not _should_fallback_from_schema_error(e):
                 raise
@@ -481,12 +348,32 @@ def call_llm_json(paper_text: str, *, use_schema: bool = True) -> dict:
         model=MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": "请严格只输出一个 JSON 对象，不要任何解释文字，不要 markdown 代码块。\n\n" + user_msg},
+            {
+                "role": "user",
+                "content": (
+                    "请严格只输出一个 JSON 对象，不要任何解释文字，不要 markdown 代码块。"
+                    "如果 JSON 字符串中出现反斜杠，请使用双反斜杠转义。\n\n"
+                    + user_msg
+                ),
+            },
         ],
         temperature=0.2,
     )
     raw = resp.choices[0].message.content
-    return json.loads(_extract_first_json_object(raw))
+    raw_json = _extract_first_json_object(raw)
+    try:
+        return _load_llm_json(raw_json)
+    except json.JSONDecodeError as e:
+        fix_prompt = build_parse_fix_prompt(raw_json, str(e))
+        resp2 = _chat_create_with_retry(
+            model=MODEL,
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": fix_prompt},
+            ],
+            temperature=0.1,
+        )
+        return _load_llm_json(_extract_first_json_object(resp2.choices[0].message.content))
 
 
 def build_fix_prompt(original_output: dict, errors: list[str], allowed_fields: list[str]) -> str:
@@ -555,11 +442,31 @@ def extract_with_one_fix_retry(paper_text: str) -> dict:
             model=MODEL,
             messages=[
                 {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": "Output one JSON object only, no markdown, no explanations.\n\n" + fix_prompt},
+                {
+                    "role": "user",
+                    "content": (
+                        "Output one JSON object only, no markdown, no explanations. "
+                        "If backslashes appear inside JSON strings, escape them as double backslashes.\n\n"
+                        + fix_prompt
+                    ),
+                },
             ],
             temperature=0.1,
         )
-        out2 = json.loads(_extract_first_json_object(resp.choices[0].message.content))
+        raw_out2 = _extract_first_json_object(resp.choices[0].message.content)
+        try:
+            out2 = _load_llm_json(raw_out2)
+        except json.JSONDecodeError as e:
+            repair_prompt = build_parse_fix_prompt(raw_out2, str(e))
+            resp_fix = _chat_create_with_retry(
+                model=MODEL,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": repair_prompt},
+                ],
+                temperature=0.1,
+            )
+            out2 = _load_llm_json(_extract_first_json_object(resp_fix.choices[0].message.content))
 
     errors2 = validate_json_against_schema(out2, LLM_SUMMARY_SCHEMA)
     if not errors2:

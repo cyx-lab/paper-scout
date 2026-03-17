@@ -69,6 +69,11 @@ def _get_lang_list(d: dict, path: str, lang: str):
     return []
 
 
+def _get_list(d: dict, path: str):
+    cur = _get(d, path, None)
+    return cur if isinstance(cur, list) else []
+
+
 def _md_escape(s: str) -> str:
     if s is None:
         return ""
@@ -122,8 +127,8 @@ def load_records(meta_dir: Path):
 # -----------------------------
 def render_header(run_date: str, lang: str, total: int, done: int) -> str:
     if lang == "zh":
-        title = f"每日论文速览（LLM 摘要）— {run_date}"
-        note = "注：图/表/公式细节未必可靠；本报告用于快速筛选与导航精读。"
+        title = f"每日论文速览（简短摘要 + Takeaway）— {run_date}"
+        note = "注：本报告强调快速筛读，突出问题、方法、结论与 takeaway。"
         return (
             f"# {title}\n\n"
             f"- 总论文数：**{total}**\n"
@@ -132,8 +137,8 @@ def render_header(run_date: str, lang: str, total: int, done: int) -> str:
             f"> {note}\n\n"
         )
     else:
-        title = f"Daily Paper Digest (LLM Summaries) — {run_date}"
-        note = "Note: figure/table/formula details may be unreliable; this digest is for rapid triage and navigation."
+        title = f"Daily Paper Digest (Short Summary + Takeaway) — {run_date}"
+        note = "Note: this digest is optimized for quick triage, highlighting the problem, approach, takeaway, and why it matters."
         return (
             f"# {title}\n\n"
             f"- Total papers: **{total}**\n"
@@ -161,27 +166,16 @@ def render_paper(meta: dict, score: float, lang: str) -> str:
     pdf_url = assets.get("pdf_url", "") or ""
     summarized_at = prov.get("summarized_at", None)
 
-    # Labels per language
     L = {
         "meta": "基本信息" if lang == "zh" else "Metadata",
-        "quick": "快速总结" if lang == "zh" else "Quick summary",
-        "bg": "研究背景" if lang == "zh" else "Background",
+        "summary": "一句话摘要" if lang == "zh" else "One-sentence summary",
         "prob": "研究问题" if lang == "zh" else "Problem",
-        "approach": "方法与思路" if lang == "zh" else "Approach",
-        "tech": "技术细节" if lang == "zh" else "Technical details",
-        "exp": "实验/应用关联" if lang == "zh" else "Experiments / Applications",
-        "innov": "创新点" if lang == "zh" else "Innovations",
-        "prior": "与已有工作关系" if lang == "zh" else "Prior work & relation",
-        "assump": "假设与适用范围" if lang == "zh" else "Assumptions & validity",
-        "ka": "关键假设" if lang == "zh" else "Key assumptions",
-        "vr": "适用范围" if lang == "zh" else "Valid regimes",
-        "fm": "失效/局限" if lang == "zh" else "Failure modes / limits",
-        "insight": "物理洞见" if lang == "zh" else "Physical insight",
-        "intu": "直觉/物理图像" if lang == "zh" else "Intuition",
-        "chg": "理解上的变化" if lang == "zh" else "What changes in understanding",
-        "open": "开放问题与后续" if lang == "zh" else "Open questions & future",
-        "journal": "可能投稿期刊" if lang == "zh" else "Journal positioning",
-        "mentioned": "是否提到" if lang == "zh" else "Mentioned",
+        "approach": "采用方法" if lang == "zh" else "Approach",
+        "takeaway": "核心 takeaway" if lang == "zh" else "Main takeaway",
+        "matters": "为什么值得看" if lang == "zh" else "Why it matters",
+        "type": "文章类型" if lang == "zh" else "Paper type",
+        "venue": "可能投稿去向" if lang == "zh" else "Likely venue",
+        "keywords": "关键词" if lang == "zh" else "Keywords",
     }
 
     out = []
@@ -210,85 +204,34 @@ def render_paper(meta: dict, score: float, lang: str) -> str:
     out.append("\n")
 
 
-    # quick/background/problem
-    out.append(f"### {L['quick']}\n\n{_md_escape(_get_lang(summ, 'quick_summary', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
-    out.append(f"### {L['bg']}\n\n{_md_escape(_get_lang(summ, 'background', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
+    summary_text = _get_lang(summ, "one_sentence_summary", lang, "") or _get_lang(summ, "quick_summary", lang, "")
+    out.append(f"### {L['summary']}\n\n{_md_escape(summary_text) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
     out.append(f"### {L['prob']}\n\n{_md_escape(_get_lang(summ, 'problem', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
-
-    # approach
-    out.append(f"### {L['approach']}\n\n")
-    out.append(f"**{('高层概述' if lang=='zh' else 'High-level')}:** ")
-    out.append(f"{_md_escape(_get_lang(summ, 'approach.high_level', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
-    out.append("\n")
-
-    # experiment/application
-    mentioned = bool(_get(summ, "experiment_or_application.mentioned", False))
-    items = _get(summ, "experiment_or_application.items", []) or []
-    out.append(f"### {L['exp']}\n\n")
-    out.append(f"- **{L['mentioned']}:** {_yesno(mentioned, lang)}\n")
-    if not mentioned or not items:
-        out.append(f"- {('（无）' if lang=='zh' else '(none)')}\n\n")
-    else:
-        for i, it in enumerate(items, 1):
-            sc = _get_lang(it, "scenario", lang, "")
-            ob = _get_lang(it, "observable_or_signal", lang, "")
-            pf = _get_lang(it, "platform", lang, "")
-            out.append(f"\n**Item {i}**\n\n")
-            out.append(f"- {('场景' if lang=='zh' else 'Scenario')}: {_md_escape(sc)}\n")
-            out.append(f"- {('可观测量/信号' if lang=='zh' else 'Observable/signal')}: {_md_escape(ob)}\n")
-            out.append(f"- {('平台' if lang=='zh' else 'Platform')}: {_md_escape(pf)}\n")
+    approach_text = _get_lang(summ, "approach", lang, "")
+    if not approach_text:
+        approach_text = _get_lang(summ, "approach.high_level", lang, "")
+    out.append(f"### {L['approach']}\n\n{_md_escape(approach_text) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
+    out.append(f"### {L['takeaway']}\n\n{_md_escape(_get_lang(summ, 'main_takeaway', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
+    out.append(f"### {L['matters']}\n\n{_md_escape(_get_lang(summ, 'why_it_matters', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
+    out.append(f"### {L['type']}\n\n{_md_escape(_get_lang(summ, 'paper_type', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
+    out.append(f"### {L['venue']}\n\n")
+    venue_journal = _get(summ, "likely_venue.journal", "") or ""
+    venue_conf = _get(summ, "likely_venue.confidence", "") or ""
+    venue_reason = _get_lang(summ, "likely_venue.reason", lang, "")
+    if venue_journal:
+        out.append(f"- **{_md_escape(venue_journal)}**")
+        if venue_conf:
+            out.append(f" `confidence={_md_escape(venue_conf)}`")
         out.append("\n")
-
-    # innovations / prior work
-    out.append(f"### {L['innov']}\n\n")
-    out.append(_md_list(_get_lang_list(summ, "innovations", lang), "- （空）" if lang=="zh" else "- (empty)"))
-    out.append("\n")
-
-    out.append(f"### {L['prior']}\n\n")
-    out.append(_md_list(_get_lang_list(summ, "prior_work_and_relation", lang), "- （空）" if lang=="zh" else "- (empty)"))
-    out.append("\n")
-
-    # assumptions
-    out.append(f"### {L['assump']}\n\n")
-    out.append(f"**{L['ka']}:**\n")
-    out.append(_md_list(_get_lang_list(summ, "assumptions_and_validity.key_assumptions", lang), "- （空）" if lang=="zh" else "- (empty)"))
-    out.append("\n")
-    out.append(f"**{L['vr']}:**\n")
-    out.append(_md_list(_get_lang_list(summ, "assumptions_and_validity.valid_regimes", lang), "- （空）" if lang=="zh" else "- (empty)"))
-    out.append("\n")
-    out.append(f"**{L['fm']}:**\n")
-    out.append(_md_list(_get_lang_list(summ, "assumptions_and_validity.failure_modes_or_limits", lang), "- （空）" if lang=="zh" else "- (empty)"))
-    out.append("\n")
-
-    # physical insight
-    out.append(f"### {L['insight']}\n\n")
-    out.append(f"**{L['intu']}:** ")
-    out.append(f"{_md_escape(_get_lang(summ, 'physical_insight.intuition', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
-    out.append(f"**{L['chg']}:**\n")
-    out.append(_md_list(_get_lang_list(summ, "physical_insight.what_changes_in_understanding", lang), "- （空）" if lang=="zh" else "- (empty)"))
-    out.append("\n")
-
-    # open questions
-    out.append(f"### {L['open']}\n\n")
-    out.append(_md_list(_get_lang_list(summ, "open_questions_and_future", lang), "- （空）" if lang=="zh" else "- (empty)"))
-    out.append("\n")
-
-    # journal positioning
-    out.append(f"### {L['journal']}\n\n")
-    journals = _get(summ, "journal_positioning.suggested_journals", []) or []
-    if not journals:
-        out.append("- （空）\n" if lang == "zh" else "- (empty)\n")
+        if venue_reason:
+            out.append(f"- {_md_escape(venue_reason)}\n\n")
+        else:
+            out.append(f"- {('（空）' if lang=='zh' else '(empty)')}\n\n")
     else:
-        for i, j in enumerate(journals, 1):
-            journal = _get(j, "journal", "") or ""
-            conf = _get(j, "confidence", "") or ""
-            reason = _get_lang(j, "reason", lang, "")
-            out.append(f"- **{_md_escape(journal) or 'Unknown'}**  `confidence={conf or 'unknown'}`\n")
-            if reason.strip():
-                out.append(f"  - {_md_escape(reason)}\n")
-            else:
-                out.append(f"  - {('（空）' if lang=='zh' else '(empty)')}\n")
-
+        out.append(f"- {('（空）' if lang=='zh' else '(empty)')}\n\n")
+    keywords = _get_list(summ, "keywords")
+    out.append(f"### {L['keywords']}\n\n")
+    out.append(_md_list(keywords, "- （空）" if lang == "zh" else "- (empty)"))
     out.append("\n")
     return "".join(out)
 

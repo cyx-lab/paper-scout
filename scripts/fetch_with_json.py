@@ -38,46 +38,21 @@ def build_download_map(downloaded_paths: list[Path]) -> dict[str, Path]:
 def empty_bilingual_summary() -> dict:
     """
     生成一个空的中英双语 llm_summary 结构，后续由 LLM 填充。
-    包含：内容理解 + 期刊定位（经验性，不是质量评价）。
+    目标是日报速读：简短摘要 + takeaway。
     """
     return {
-        "quick_summary": {"zh": "", "en": ""},
-        "background": {"zh": "", "en": ""},
+        "one_sentence_summary": {"zh": "", "en": ""},
         "problem": {"zh": "", "en": ""},
-        "approach": {
-            "high_level": {"zh": "", "en": ""},
-            "technical_details": {"zh": [], "en": []},
+        "approach": {"zh": "", "en": ""},
+        "main_takeaway": {"zh": "", "en": ""},
+        "why_it_matters": {"zh": "", "en": ""},
+        "paper_type": {"zh": "", "en": ""},
+        "likely_venue": {
+            "journal": "",
+            "confidence": "low",
+            "reason": {"zh": "", "en": ""},
         },
-        "experiment_or_application": {
-            "mentioned": False,
-            "items": []
-        },
-        "innovations": {"zh": [], "en": []},
-        "prior_work_and_relation": {"zh": [], "en": []},
-        "assumptions_and_validity": {
-            "key_assumptions": {"zh": [], "en": []},
-            "valid_regimes": {"zh": [], "en": []},
-            "failure_modes_or_limits": {"zh": [], "en": []},
-        },
-        "physical_insight": {
-            "intuition": {"zh": "", "en": ""},
-            "what_changes_in_understanding": {"zh": [], "en": []},
-        },
-        "open_questions_and_future": {"zh": [], "en": []},
-
-        # 新增：期刊定位（不是质量评估）
-        "journal_positioning": {
-            "suggested_journals": [
-                {
-                    "journal": "",
-                    "confidence": "",  # e.g. "low" | "medium" | "high"
-                    "reason": {
-                        "zh": "",
-                        "en": ""
-                    }
-                }
-            ]
-        }
+        "keywords": [],
     }
 
 
@@ -130,7 +105,7 @@ def write_meta_jsons(
                 "profile_name": profile_name,
                 "mode_name": mode_name,
                 # 下面这些字段后续 summarizer 写回即可
-                "llm_prompt_version": "v1-condmat-summary-bilingual",
+                "llm_prompt_version": "v2-daily-digest-takeaway",
                 "llm_model": None,
                 "summarized_at": None,
                 "input_scope": None,  # e.g. "abstract+first_2_pages"
