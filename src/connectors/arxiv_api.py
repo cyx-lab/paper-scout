@@ -138,13 +138,8 @@ def fetch_arxiv(
 
     unit, value = _normalize_time_window(time_window)
 
-    if unit in ("hour", "hours", "h") and value == 24:
-        window_start, window_end = _compute_day_aligned_window(
-            now_utc, days=1
-        )
-    else:
-        cutoff = _compute_cutoff(now_utc, time_window)
-        window_start, window_end = cutoff, now_utc
+    cutoff = _compute_cutoff(now_utc, time_window)
+    window_start, window_end = cutoff, now_utc
 
 
     query = _build_query(categories)
