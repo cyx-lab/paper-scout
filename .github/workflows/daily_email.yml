@@ -78,6 +78,14 @@ jobs:
       - name: Run pipeline
         run: python run_all.py
 
+      - name: Print PDF error logs on failure
+        if: failure()
+        run: |
+          echo "=== pandoc stderr files ==="
+          find reports/log -name "*.pandoc_stderr.txt" -print -exec sh -c 'echo "--- $1 ---"; cat "$1"' _ {} \; || true
+          echo "=== available fonts (filtered) ==="
+          fc-list | grep -Ei "Noto|WenQuanYi|AR PL|DejaVu|Liberation" || true
+
       - name: Commit downloaded papers and reports
         run: |
           git config user.name "github-actions[bot]"

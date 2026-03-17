@@ -96,6 +96,29 @@ def _yesno(flag: bool, lang: str) -> str:
 
 
 # -----------------------------
+# Font helpers
+# -----------------------------
+def _font_candidates(mainfont: str | None, cjkfont: str | None) -> list[tuple[str, str]]:
+    if mainfont and cjkfont:
+        return [(mainfont, cjkfont)]
+
+    if platform.system() == "Windows":
+        return [(
+            mainfont or "Times New Roman",
+            cjkfont or "Microsoft YaHei",
+        )]
+
+    mainfont_candidates = [mainfont] if mainfont else ["DejaVu Serif", "Liberation Serif"]
+    cjkfont_candidates = [cjkfont] if cjkfont else [
+        "Noto Serif CJK SC",
+        "Noto Sans CJK SC",
+        "WenQuanYi Zen Hei",
+        "AR PL UMing CN",
+    ]
+    return [(mf, cf) for mf in mainfont_candidates for cf in cjkfont_candidates]
+
+
+# -----------------------------
 # Load + sort
 # -----------------------------
 def load_records(meta_dir: Path):
@@ -242,52 +265,48 @@ def render_paper(meta: dict, score: float, lang: str) -> str:
 # -----------------------------
 def md_to_pdf(md_path: Path, *, out_pdf: Path, mainfont: str | None = None, cjkfont: str | None = None):
     """
-    Convert markdown to PDF using pandoc + xelatex, with robust CJK font handling on Windows.
+    Convert markdown to PDF using pandoc + xelatex.
+    Try multiple font pairs on Linux runners so PDF generation is less brittle.
     """
-    
+
     if out_pdf is None:
         pdf_path = md_path.with_suffix(".pdf")
     else:
         pdf_path = Path(out_pdf)
         pdf_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # Cross-platform fallback fonts:
-    # - Windows: keep common office fonts
-    # - Linux (GitHub Actions): use fonts available from fonts-noto-cjk / default system packages
-    if mainfont is None:
-        if platform.system() == "Windows":
-            mainfont = "Times New Roman"
-        else:
-            mainfont = "DejaVu Serif"
-    if cjkfont is None:
-        if platform.system() == "Windows":
-            cjkfont = "Microsoft YaHei"   # 或者 "SimSun"
-        else:
-            cjkfont = "Noto Sans CJK SC"
-
-    cmd = [
-        "pandoc",
-        str(md_path),
-        "-o",
-        str(pdf_path),
-        "--standalone",
-        "--pdf-engine=xelatex",
-        "-V", f"mainfont={mainfont}",
-        "-V", f"CJKmainfont={cjkfont}",
-        "-V", "geometry:margin=1in",
-    ]
-    
-    
     err_log = md_path.with_suffix(".pandoc_stderr.txt")
+    last_error = None
     with open(err_log, "w", encoding="utf-8") as ef:
-        subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=ef)
+        for idx, (mf, cf) in enumerate(_font_candidates(mainfont, cjkfont), start=1):
+            cmd = [
+                "pandoc",
+                str(md_path),
+                "-o",
+                str(pdf_path),
+                "--standalone",
+                "--pdf-engine=xelatex",
+                "-V", f"mainfont={mf}",
+                "-V", f"CJKmainfont={cf}",
+                "-V", "geometry:margin=1in",
+            ]
+            ef.write(f"\n=== Attempt {idx}: mainfont={mf} | cjkfont={cf} ===\n")
+            ef.flush()
+            try:
+                subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=ef)
+                print(f"PDF generated with fonts: mainfont={mf}, cjkfont={cf}")
+                if err_log.stat().st_size == 0:
+                    err_log.unlink()
+                return
+            except subprocess.CalledProcessError as exc:
+                last_error = exc
+                ef.write("\n")
+                ef.flush()
 
-    if err_log.stat().st_size == 0:
-        err_log.unlink()  # 删除空文件
-    else:
-        print(f"⚠️ pandoc stderr saved to: {err_log}")
-    
-    
+    if err_log.exists() and err_log.stat().st_size > 0:
+        print(f"pandoc stderr saved to: {err_log}")
+    if last_error is not None:
+        raise last_error
 
 
 # -----------------------------
