@@ -40,6 +40,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Print safe runtime config
+        run: |
+          python - <<'PY'
+          import os
+          print("MY_API_BASE_URL =", os.getenv("MY_API_BASE_URL", ""))
+          print("LLM_MODEL =", os.getenv("LLM_MODEL", ""))
+          print("LLM_WORKERS =", os.getenv("LLM_WORKERS", ""))
+          print("LLM_MAX_API_RETRIES =", os.getenv("LLM_MAX_API_RETRIES", ""))
+          print("LLM_RETRY_BASE_SLEEP =", os.getenv("LLM_RETRY_BASE_SLEEP", ""))
+          print("LLM_RETRY_MAX_SLEEP =", os.getenv("LLM_RETRY_MAX_SLEEP", ""))
+          print("SMTP_HOST =", os.getenv("SMTP_HOST", ""))
+          print("SMTP_PORT =", os.getenv("SMTP_PORT", ""))
+          print("MY_API_KEY is set =", bool(os.getenv("MY_API_KEY")))
+          print("EMAIL_TO is set =", bool(os.getenv("EMAIL_TO")))
+          print("SMTP_PASSWORD is set =", bool(os.getenv("SMTP_PASSWORD")))
+          PY
+
       - name: Run pipeline
         run: python run_all.py
 
