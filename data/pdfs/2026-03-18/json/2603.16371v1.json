@@ -1,0 +1,98 @@
+{
+  "paper_record": {
+    "id": "2603.16371v1",
+    "title": "Regular and irregular revivals of quasi-periodic random waves",
+    "authors": [
+      "Yanlin Bai",
+      "Yangjian Cai",
+      "Chunhao Liang",
+      "Sergey A. Ponomarenko"
+    ],
+    "abstract": "Paraxial wave packets with discrete spatial, temporal, or spatiotemporal spectra are known to undergo periodic axial revivals on propagation in either free space or linear transparent, weakly dispersive media. Such spectacular revivals, ubiquitously encountered in physics, from optics and acoustics to condensed matter physics, are distinguished by their strict periodicity. We show theoretically and verify experimentally that ensembles of quasi-periodic random wave packets exhibit a unique revival network composed of regular (periodic) and irregular (aperiodic) revivals. Moreover, individual realizations of a statistical ensemble self-reconstruct, in general, at different propagation distances than do ensemble averages. Our results shed new light on the fundamental physics of self-reconstruction of random wave packets with structured correlations.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-03-17T10:59:19Z",
+    "updated": "2026-03-17T10:59:19Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:aperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.16371v1",
+      "pdf_path": "data/pdfs/2026-03-18/4_Regular and irregular revivals of quasi-periodic random waves__2603.16371v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-18T01:16:11.704521",
+    "updated_at": "2026-03-18T01:16:11.704511Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-18/4_Regular and irregular revivals of quasi-periodic random waves__2603.16371v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.16371v1",
+    "pdf_filename": "4_Regular and irregular revivals of quasi-periodic random waves__2603.16371v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了准周期随机波在传播中形成的由规则和不规则复苏构成的独特网络。",
+      "en": "The study reveals a unique revival network of quasi-periodic random waves consisting of both regular and irregular self-reconstructions."
+    },
+    "problem": {
+      "zh": "探讨当随机波包的光强周期与相干度周期不一致（通约或不通约）时，其二阶相关函数的轴向复苏规律。",
+      "en": "Investigating the axial revival of second-order correlations in random wave packets when the periods of intensity and degree of coherence are different or incommensurate."
+    },
+    "approach": {
+      "zh": "通过二阶相关函数理论推导，结合空间光调制器产生准周期随机光场的实验验证。",
+      "en": "Theoretical derivation of second-order correlation functions combined with experimental verification using spatial light modulators to generate quasi-periodic random fields."
+    },
+    "main_takeaway": {
+      "zh": "统计平均的复苏距离通常短于单个样本，且不通约周期会导致由有理数逼近驱动的不规则复苏网络（塔尔博特地毯）。",
+      "en": "Ensemble averages reconstruct over shorter distances than individual realizations, and incommensurate periods create irregular revival networks (Talbot carpets) driven by rational approximations."
+    },
+    "why_it_matters": {
+      "zh": "建立了随机波复苏与数论的深层联系，为结构化随机波在成像、光计算和通信中的应用提供了物理基础。",
+      "en": "It establishes a link between random wave revivals and number theory, providing a physical basis for using structured random waves in imaging, optical computing, and communications."
+    },
+    "paper_type": {
+      "zh": "理论 + 实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文探讨了波物理中的基础现象（塔尔博特效应）在随机场中的新发现，具有高度的普适性和学术深度。",
+        "en": "The paper explores a fundamental wave phenomenon (Talbot effect) in random fields with high universality and depth, fitting the scope of PRL."
+      }
+    },
+    "keywords": [
+      "Talbot effect",
+      "Random waves",
+      "Degree of coherence",
+      "Self-reconstruction",
+      "Quasi-periodicity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-18T09:17:23",
+    "input_scope": "full_pdf_text"
+  }
+}

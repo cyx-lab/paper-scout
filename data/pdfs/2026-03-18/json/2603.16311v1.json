@@ -1,0 +1,97 @@
+{
+  "paper_record": {
+    "id": "2603.16311v1",
+    "title": "Altermagnetic pseudogap from $\\frac{t}{U}$ expansion",
+    "authors": [
+      "Rohit Hegde"
+    ],
+    "abstract": "Order parameter analysis of the t/U series reveals a uniform altermagnet endemic to the doped Mott insulator, driven by kinetic interactions, occupying a position between the antiferromagnet and hole-doped d-wave superconductor that is normally reserved for the pseudogap. The metastable boundary of the altermagnet punctures and divides the superconductor into underdoped and overdoped regions, reminiscent of the $T^\\ast$ crossover or transition in the cuprates. Similarly, the $T_{pair}$ boundary of the superconductor divides the altermagnet, leading to a low temperature phase susceptible to Cooper fluctuations. The altermagnet is unstable to inhomegeneous spin and charge order of sites, bonds, and currents. Its leading instability is to the $π$-flux state, suggesting the possible emergence of spin-charge liquids and quantum ordered states from a physically realistic microscopic model.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-03-17T09:44:24Z",
+    "updated": "2026-03-17T09:44:24Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.16311v1",
+      "pdf_path": "data/pdfs/2026-03-18/3_Altermagnetic pseudogap from $frac{t}{U}$ expansion__2603.16311v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-18T01:16:11.704605",
+    "updated_at": "2026-03-18T01:16:11.704598Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-18/3_Altermagnetic pseudogap from $frac{t}{U}$ expansion__2603.16311v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.16311v1",
+    "pdf_filename": "3_Altermagnetic pseudogap from $frac{t}{U}$ expansion__2603.16311v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究通过 Hubbard 模型的 t/U 展开发现，掺杂莫特绝缘体中的伪能隙本质上是由动力学相互作用驱动的均匀交错磁性态。",
+      "en": "The study reveals that the pseudogap in doped Mott insulators is a uniform altermagnetic state driven by kinetic interactions within the t/U expansion of the Hubbard model."
+    },
+    "problem": {
+      "zh": "解释铜氧化物高温超导体中伪能隙阶段的微观起源，特别是其在相图中介于反铁磁和超导之间的位置及其缺乏明确序参量的谜题。",
+      "en": "Explaining the microscopic origin of the pseudogap phase in cuprates, specifically its position between antiferromagnetism and superconductivity and its lack of a clear order parameter."
+    },
+    "approach": {
+      "zh": "利用 Hubbard 模型的 t/U 级数展开，结合静态平均场理论和随时间变化的 Hartree-Fock 近似，分析动能项（特别是三体动力学项）对交错磁性、超导和电荷序的影响。",
+      "en": "Using the t/U series expansion of the Hubbard model combined with static mean-field theory and time-dependent Hartree-Fock approximation to analyze the impact of kinetic terms (especially the three-body term) on altermagnetism, superconductivity, and charge orders."
+    },
+    "main_takeaway": {
+      "zh": "均匀的 d 波交错磁性态自然地占据了通常归属于伪能隙的相图区域，其亚稳态边界模拟了 T* 转变线，且该态对 π 通量和键电流等不均匀序具有强不稳定性。",
+      "en": "A uniform d-wave altermagnetic state naturally occupies the pseudogap region of the phase diagram, with its metastable boundary mimicking the T* line, and it is highly unstable toward inhomogeneous orders like pi-flux and bond currents."
+    },
+    "why_it_matters": {
+      "zh": "它将新兴的交错磁性概念与长达四十年的铜氧化物伪能隙难题联系起来，为理解高温超导中的交织序提供了一个物理上现实的微观模型基础。",
+      "en": "It connects the emerging concept of altermagnetism to the forty-year-old mystery of the cuprate pseudogap, providing a physically realistic microscopic foundation for understanding intertwined orders in high-temperature superconductivity."
+    },
+    "paper_type": {
+      "zh": "理论 + 数值计算",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对凝聚态物理中的核心难题（伪能隙）提出了新颖的机制（交错磁性），具有极高的理论原创性和广泛的关注度。",
+        "en": "The study proposes a novel mechanism (altermagnetism) for a central puzzle in condensed matter physics (pseudogap), offering high theoretical originality and broad interest."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Pseudogap",
+      "Hubbard model",
+      "t/U expansion",
+      "Cuprates",
+      "Pi-flux state"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-18T09:17:11",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2603.16247v1",
+    "title": "Influence of sulphur vacancies on ultrafast charge separation in WS$_2$-graphene heterostructures",
+    "authors": [
+      "Johannes Gradl",
+      "Niklas Hofmann",
+      "Leonard Weigl",
+      "Stiven Forti",
+      "Neeraj Mishra",
+      "Camilla Coletti",
+      "Raul Perea-Causin",
+      "Ermin Malic",
+      "Isabella Gierz"
+    ],
+    "abstract": "Understanding how defects influence charge separation in WS$_2$-graphene heterostructures is crucial for future applications in light harvesting and detection. Previous studies have reported widely varying lifetimes for the charge-separated state, all supposedly linked to electron trapping at sulphur vacancies. The exact impact of these defects, however, has remained unclear. Here, we deliberately introduce sulphur vacancies by annealing the heterostructures at high temperatures in ultrahigh vacuum. Angle-resolved photoemission spectroscopy (ARPES) reveals that these vacancies modify both the band alignment and doping level of the heterostructure. Time-resolved ARPES (trARPES) further shows that increasing the sulphur vacancy concentration prolongs the lifetime of electrons in the WS$_2$ conduction band but shortens the lifetime of the charge-separated state. Guided by model calculations, we attribute this behaviour to shifts in the energy alignment between sulphur vacancy states and graphene's Dirac point, combined with a reduced excitonic absorption. The model also yields a transfer time for electrons tunneling from sulphur vacancies into graphene's Dirac cone of $\\sim$4ps, consistent with our trARPES measurements. Our study clarifies the role of sulphur vacancies in WS$_2$-graphene heterostructures, further improving our microscopic understanding of charge dynamics for future optoelectronic applications.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-03-17T08:30:53Z",
+    "updated": "2026-03-17T08:30:53Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.16247v1",
+      "pdf_path": "data/pdfs/2026-03-18/3_Influence of sulphur vacancies on ultrafast charge separation in WS$_2$-graphene heterostructures__2603.16247v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-18T01:16:11.704716",
+    "updated_at": "2026-03-18T01:16:11.704708Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-18/3_Influence of sulphur vacancies on ultrafast charge separation in WS$_2$-graphene heterostructures__2603.16247v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.16247v1",
+    "pdf_filename": "3_Influence of sulphur vacancies on ultrafast charge separation in WS$_2$-graphene heterostructures__2603.16247v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了硫空位如何通过改变能带对齐和激子吸收来调控 WS2-石墨烯异质结中的超快电荷分离动力学。",
+      "en": "This study reveals how sulphur vacancies modulate ultrafast charge separation dynamics in WS2-graphene heterostructures by altering band alignment and excitonic absorption."
+    },
+    "problem": {
+      "zh": "解决 WS2-石墨烯异质结中电荷分离态寿命在以往研究中存在巨大争议（从 1ps 到 1ns 不等）的问题，并明确硫空位在其中的具体作用。",
+      "en": "To resolve the controversy regarding the lifetime of the charge-separated state in WS2-graphene heterostructures (ranging from 1ps to 1ns) and clarify the specific role of sulphur vacancies."
+    },
+    "approach": {
+      "zh": "通过超高真空退火诱导硫空位，利用角分辨光电子能谱（ARPES）和时间分辨 ARPES 监测能带结构与载流子演化，并结合 Born-Markov 模型进行定量分析。",
+      "en": "Inducing sulphur vacancies via UHV annealing, using ARPES and time-resolved ARPES to monitor band structure and carrier evolution, combined with Born-Markov model calculations for quantitative analysis."
+    },
+    "main_takeaway": {
+      "zh": "硫空位浓度的增加会延长 WS2 导带中的电子寿命，但会缩短电荷分离态的寿命；研究确定电子从空位态隧穿至石墨烯的时间约为 4ps，否定了缺陷导致纳秒级长寿命的观点。",
+      "en": "Increasing sulphur vacancy concentration prolongs electron lifetime in the WS2 conduction band but shortens the charge-separated state lifetime; the study identifies a ~4ps tunneling time from vacancy states to graphene, challenging the idea that defects cause nanosecond-long lifetimes."
+    },
+    "why_it_matters": {
+      "zh": "该研究建立了缺陷浓度与电荷转移速率之间的微观联系，为基于二维异质结的光电探测和能量转换器件的性能优化提供了物理依据。",
+      "en": "The study establishes a microscopic link between defect concentration and charge transfer rates, providing a physical basis for optimizing optoelectronic and energy conversion devices based on 2D heterostructures."
+    },
+    "paper_type": {
+      "zh": "实验 + 理论数值",
+      "en": "Experimental + Theoretical/Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作利用先进的 trARPES 技术解决了二维材料领域的一个重要争议，具有很高的物理深度和通用性。",
+        "en": "The work uses advanced trARPES to resolve a significant controversy in the 2D materials field, offering high physical depth and broad relevance."
+      }
+    },
+    "keywords": [
+      "WS2-graphene",
+      "sulphur vacancies",
+      "charge separation",
+      "trARPES",
+      "ultrafast dynamics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-18T09:17:00",
+    "input_scope": "full_pdf_text"
+  }
+}

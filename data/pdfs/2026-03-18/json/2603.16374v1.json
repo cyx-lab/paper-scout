@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2603.16374v1",
+    "title": "Observation of a Reconstructed Chern Insulator in Twisted Bilayer MoTe2",
+    "authors": [
+      "Min Wu",
+      "Lingxiao Li",
+      "Yunze Ouyang",
+      "Yifan Jiang",
+      "Wenxuan Qiu",
+      "Zaizhe Zhang",
+      "Zihao Huo",
+      "Qiu Yang",
+      "Ming Tian",
+      "Neng Wan",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Shiming Lei",
+      "Fengcheng Wu",
+      "Xiaobo Lu"
+    ],
+    "abstract": "Twisted bilayer MoTe2 is a prototypical moire material in which long-wavelength superlattices amplify electron correlations, enabling a wealth of emergent quantum phases. To date, experimental efforts have focused primarily on small twist angles (typically smaller than 4deg ), whereas the larger-angle regime-where moire bands become more dispersive and correlations are reduced-has remained largely unexplored. Here we chart the topological phase space of tMoTe2 at a relatively large twist angle of approximately 4.54deg, accessing a moderately correlated regime with enhanced bandwidth. In contrast to small-angle devices that predominantly host fractional quantum anomalous Hall or spin Hall responses, we uncover multiple Chern-insulating states with C = 1 at moire fillings v = -1, -0.53 and -1/2. Strikingly, at v = -2/3 a magnetic field induces a fractional Chern insulator accompanied by an insulator-metal transition. Our results broaden the topological phase diagram of tMoTe2 and establish large-angle moire superlattices as a versatile platform for engineering robust topological states beyond the strong-correlation limit.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-03-17T11:01:22Z",
+    "updated": "2026-03-17T11:01:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:moire",
+        "moire:twist angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.16374v1",
+      "pdf_path": "data/pdfs/2026-03-18/3_Observation of a Reconstructed Chern Insulator in Twisted Bilayer MoTe2__2603.16374v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-18T01:16:11.704483",
+    "updated_at": "2026-03-18T01:16:11.704475Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-18/3_Observation of a Reconstructed Chern Insulator in Twisted Bilayer MoTe2__2603.16374v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.16374v1",
+    "pdf_filename": "3_Observation of a Reconstructed Chern Insulator in Twisted Bilayer MoTe2__2603.16374v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在大转角（4.54°）扭曲双层MoTe2中观测到多种陈绝缘体态，包括填充数-1/2处的量子反常霍尔晶体。",
+      "en": "Observation of multiple Chern insulating states, including a quantum anomalous Hall crystal at filling -1/2, in twisted bilayer MoTe2 at a large twist angle of 4.54°."
+    },
+    "problem": {
+      "zh": "此前研究主要集中在小转角（< 4°）的强关联极限，而对带宽更大、关联度适中的大转角区域中的拓扑物态演化缺乏探索。",
+      "en": "Previous research focused on the strong-correlation limit at small twist angles (< 4°), leaving the topological phase evolution in the large-angle regime with moderate correlations largely unexplored."
+    },
+    "approach": {
+      "zh": "制备约4.54°的双门控扭曲双层MoTe2器件，进行极低温输运测量，并结合精确对角化理论计算分析多体基态。",
+      "en": "Fabricated dual-gated twisted bilayer MoTe2 devices with a ~4.54° twist angle, performed ultra-low temperature transport measurements, and used exact diagonalization to analyze many-body ground states."
+    },
+    "main_takeaway": {
+      "zh": "在大转角莫尔能带中发现了填充数在-1、-0.53和-1/2处的|C|=1陈绝缘体，以及在-2/3处由磁场诱导的|C|=2/3分数陈绝缘体。",
+      "en": "Discovered |C|=1 Chern insulators at fillings -1, -0.53, and -1/2, and a magnetic-field-induced |C|=2/3 fractional Chern insulator at -2/3 in large-angle moiré bands."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了大转角莫尔系统是实现鲁棒拓扑态的新平台，并首次在半导体莫尔超晶格中观测到了量子反常霍尔晶体（QAHC）。",
+      "en": "It establishes large-angle moiré systems as a new platform for robust topological states and reports the first observation of a quantum anomalous Hall crystal (QAHC) in semiconductor moiré superlattices."
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作报道了扭曲MoTe2体系中全新的拓扑相图和新奇物态（如QAHC），具有极高的学术影响力。",
+        "en": "The work reports a completely new topological phase diagram and novel states (like QAHC) in the twisted MoTe2 system, carrying high academic impact."
+      }
+    },
+    "keywords": [
+      "Twisted bilayer MoTe2",
+      "Chern insulator",
+      "Quantum anomalous Hall crystal",
+      "Moiré superlattice",
+      "Fractional Chern insulator"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-18T09:17:39",
+    "input_scope": "full_pdf_text"
+  }
+}

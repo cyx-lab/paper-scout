@@ -1,0 +1,98 @@
+{
+  "paper_record": {
+    "id": "2603.15076v2",
+    "title": "Propagation of Gaussian beam in strongly nonlocal nonlinear media with inhomogeneous diffraction",
+    "authors": [
+      "K L Mamatha",
+      "S Stalin",
+      "K Nithyanandan"
+    ],
+    "abstract": "Solitons in a strongly nonlocal nonlinear medium have attracted considerable attention in recent years due to their unique and distinctive characteristics from those observed in the local nonlinear medium. In this work, we investigate the propagation of a Gaussian beam in strongly nonlocal nonlinear media with spatially varying diffraction. Using analytical and numerical approaches, we examine the propagation dynamics and stability characteristics of the nonlocal soliton. For representative cases of diffraction profiles, our results show that diffraction tailoring strongly influences key beam properties, including amplitude, beam width, phase-front curvature, and phase-space evolution. All diffraction modulation supports the formation of diffraction-managed breather solitons, with excellent agreement between theory and simulations. Furthermore, the modulation instability (MI) studies systematically explored the stability characteristics under various diffraction landscapes. The obtained results demonstrate that by engineering diffraction in such nonlocal media, one can effectively control beam dynamics, thereby opening new possibilities for applications in nonlinear light control, beam shaping, and all-optical system design.",
+    "categories": [
+      "nlin.PS",
+      "physics.optics"
+    ],
+    "published": "2026-03-16T10:31:16Z",
+    "updated": "2026-03-17T07:31:26Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.15076v2",
+      "pdf_path": "data/pdfs/2026-03-18/2_Propagation of Gaussian beam in strongly nonlocal nonlinear media with inhomogeneous diffraction__2603.15076v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-18T01:16:11.706983",
+    "updated_at": "2026-03-18T01:16:11.706972Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-18/2_Propagation of Gaussian beam in strongly nonlocal nonlinear media with inhomogeneous diffraction__2603.15076v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.15076v2",
+    "pdf_filename": "2_Propagation of Gaussian beam in strongly nonlocal nonlinear media with inhomogeneous diffraction__2603.15076v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了具有空间非均匀衍射的强非定域非线性介质中高斯光束的传播动力学和呼吸子形成。",
+      "en": "Investigates Gaussian beam dynamics and breather soliton formation in strongly nonlocal nonlinear media with spatially varying diffraction profiles."
+    },
+    "problem": {
+      "zh": "探讨纵向变化的衍射（非均匀性）如何影响强非定域非线性介质中光束的演化、稳定性和孤子特性。",
+      "en": "Explores how longitudinally varying diffraction (inhomogeneity) affects beam evolution, stability, and soliton characteristics in strongly nonlocal nonlinear media."
+    },
+    "approach": {
+      "zh": "采用拉格朗日变分法推导光束参数的耦合常微分方程，并结合分步傅里叶变换对五种衍射分布（线性、指数、阶梯型、势垒型和周期型）进行数值验证。",
+      "en": "Uses the Lagrangian Variational Method to derive coupled ODEs for beam parameters and employs Split-Step Fourier Transform for numerical validation across five diffraction profiles (linear, exponential, tanh, sech, and periodic)."
+    },
+    "main_takeaway": {
+      "zh": "所有研究的衍射调制均支持形成“衍射管理呼吸子”，通过调节衍射分布可以有效控制光束的振幅、宽度和相位演化，且强非定域性显著增强了这些结构的稳定性。",
+      "en": "All studied diffraction modulations support the formation of diffraction-managed breather solitons; tailoring the diffraction profile allows effective control over beam amplitude, width, and phase, with strong nonlocality significantly enhancing stability."
+    },
+    "why_it_matters": {
+      "zh": "为在向列相液晶和偶极玻色-爱因斯坦凝聚等非定域系统中通过衍射工程实现全光控制、光束整形和全光系统设计提供了理论依据。",
+      "en": "Provides a theoretical basis for achieving all-optical control, beam shaping, and optical system design in nonlocal systems like nematic liquid crystals and dipolar Bose-Einstein condensates through diffraction engineering."
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review A",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及非线性光学、孤子动力学及变分分析，属于该期刊在经典物理和非线性动力学领域的核心范畴。",
+        "en": "The study involves nonlinear optics, soliton dynamics, and variational analysis, which are core topics for this journal in classical physics and nonlinear dynamics."
+      }
+    },
+    "keywords": [
+      "Strongly nonlocal nonlinear media",
+      "Breather solitons",
+      "Diffraction management",
+      "Variational analysis",
+      "Modulation instability"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-18T09:16:47",
+    "input_scope": "full_pdf_text"
+  }
+}
