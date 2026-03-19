@@ -1,0 +1,99 @@
+{
+  "paper_record": {
+    "id": "2603.17269v1",
+    "title": "Engineering strong coupling with molecular coatings in optical nanocavities",
+    "authors": [
+      "Athul S. Rema",
+      "Adrián E. Rubio López",
+      "Felipe Herrera"
+    ],
+    "abstract": "Quantum emitters near the surface of silver nanoparticles undergo Rabi oscillations in electronic population dynamics due to strong coupling with near-field multipole modes that are not radiative. Low-frequency nanoparticle dipole modes are radiative but do not couple strong enough to quantum emitters. These features limit the observation of strong coupling. Using macroscopic quantum electrodynamics theory within a Lorentzian pseudo-mode approximation for the non-Markovian interaction kernel, we demonstrate that by coating spherical silver nanoparticles with a thin molecular J-aggregate layer, the resulting core-shell plexciton resonance restructures the local electromagnetic vacuum at dipole-mode frequencies to enable Rabi oscillations for quantum emitters that otherwise would only undergo exponential population decay. Specifically, we show for quantum dot emitters in the near field of silver nanospheres of 20 nm radius, that weak-to-strong coupling crossovers can be induced using 2 nm J-aggregate shells. Our work demonstrates the potential of molecular aggregates to enable deep sub-wavelength structuring of the vacuum field for the observation of coherent quantum dynamics in optical nanocavities.",
+    "categories": [
+      "quant-ph",
+      "cond-mat.mes-hall",
+      "physics.chem-ph"
+    ],
+    "published": "2026-03-18T01:49:58Z",
+    "updated": "2026-03-18T01:49:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.17269v1",
+      "pdf_path": "data/pdfs/2026-03-19/3_Engineering strong coupling with molecular coatings in optical nanocavities__2603.17269v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-19T01:15:30.056569",
+    "updated_at": "2026-03-19T01:15:30.056559Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-19/3_Engineering strong coupling with molecular coatings in optical nanocavities__2603.17269v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.17269v1",
+    "pdf_filename": "3_Engineering strong coupling with molecular coatings in optical nanocavities__2603.17269v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过在银纳米颗粒表面涂覆分子J-聚集体层，重构电磁真空环境，使量子点在可见光波段实现强耦合动力学。",
+      "en": "Molecular J-aggregate coatings on silver nanoparticles restructure the electromagnetic vacuum to enable strong coupling and Rabi oscillations for quantum emitters."
+    },
+    "problem": {
+      "zh": "裸金属纳米颗粒的辐射偶极模式耦合强度不足，而非辐射多极模式易导致猝灭，限制了在可见光波段对强耦合及拉比振荡的观测。",
+      "en": "Radiative dipole modes of bare metal nanoparticles lack sufficient coupling strength, while non-radiative modes cause quenching, hindering the observation of strong coupling and Rabi oscillations."
+    },
+    "approach": {
+      "zh": "采用宏观量子电动力学理论结合洛伦兹伪模式近似，模拟计算涂覆J-聚集体外壳的核壳结构对量子点非马尔可夫动力学的影响。",
+      "en": "Using macroscopic quantum electrodynamics with a Lorentzian pseudo-mode approximation to model the non-Markovian dynamics of emitters near core-shell plexcitonic structures."
+    },
+    "main_takeaway": {
+      "zh": "2纳米厚的J-聚集体外壳能诱导出一种“几何模式”，使原本仅表现为Purcell增强衰减的系统产生明显的拉比振荡和多模式强耦合特征。",
+      "en": "A 2nm J-aggregate shell induces a 'geometric mode' that enables Rabi oscillations and multi-mode strong coupling at frequencies where bare nanoparticles only show exponential decay."
+    },
+    "why_it_matters": {
+      "zh": "证明了无需改变发射体与金属表面的物理距离，仅通过分子工程手段即可深度调控纳米腔的量子动力学，为设计新型纳米光子器件提供了新思路。",
+      "en": "It demonstrates a strategy to engineer quantum dynamics via molecular coatings without modifying the physical emitter-nanocavity distance, offering new design tools for nanophotonic devices."
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "ACS Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了等离激元、分子激子和强耦合动力学，非常符合该期刊在纳米光子学和光与物质相互作用领域的定位。",
+        "en": "The study combines plasmonics, molecular excitons, and strong coupling dynamics, fitting the scope of nanophotonics and light-matter interactions."
+      }
+    },
+    "keywords": [
+      "强耦合",
+      "J-聚集体",
+      "等离激元激子",
+      "非马尔可夫动力学",
+      "纳米腔"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-19",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-19T09:25:53",
+    "input_scope": "full_pdf_text"
+  }
+}

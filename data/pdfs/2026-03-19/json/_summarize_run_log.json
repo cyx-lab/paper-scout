@@ -1,0 +1,26 @@
+{
+  "run_date": "2026-03-19",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2603.17269v1.json": 1,
+    "2603.17308v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2603.17269v1.json",
+      "status": "ok",
+      "secs": 615.29,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.17308v1.json",
+      "status": "ok",
+      "secs": 16.76,
+      "round": 1,
+      "attempt": 1
+    }
+  ]
+}

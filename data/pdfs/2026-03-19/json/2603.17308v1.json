@@ -1,0 +1,100 @@
+{
+  "paper_record": {
+    "id": "2603.17308v1",
+    "title": "Symmetry-Driven Electrical Switching of Anisotropic Skyrmion Hall Effect in Altermagnets",
+    "authors": [
+      "Wenhui Du",
+      "Kaiying Dou",
+      "Ying Dai",
+      "Zeyan Wang",
+      "Baibiao Huang",
+      "Yandong Ma"
+    ],
+    "abstract": "Controlling the skyrmion Hall effect (SkHE) is pivotal for developing topological spintronics but typically relies on magnetic field reversal. Here, we demonstrate a general strategy for the purely electrical switching of the SkHE in two-dimensional altermagnets. Through symmetry and model analysis, we reveal that the intrinsic altermagnetic symmetry imposes sublattice-dependent anisotropic exchange and Dzyaloshinskii-Moriya interactions. These interactions induce a highly anisotropic SkHE, where the transverse velocity is strictly dictated by the current direction relative to the crystal axes. Crucially, we show that an external electric field can strongly modulate these interaction parameters by inversing the altermagnetic symmetry, allowing for the reversible inversion of the anisotropic SkHE. Using first-principles and atomistic spin model simulations, this mechanism is further demonstrated in monolayer CaMnSn. Our study establishes a unique strategy for realizing precise, electrically tunable skyrmion transport without magnetic fields.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-03-18T03:04:59Z",
+    "updated": "2026-03-18T03:04:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.17308v1",
+      "pdf_path": "data/pdfs/2026-03-19/3_Symmetry-Driven Electrical Switching of Anisotropic Skyrmion Hall Effect in Altermagnets__2603.17308v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-19T01:15:30.056420",
+    "updated_at": "2026-03-19T01:15:30.056413Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-19/3_Symmetry-Driven Electrical Switching of Anisotropic Skyrmion Hall Effect in Altermagnets__2603.17308v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.17308v1",
+    "pdf_filename": "3_Symmetry-Driven Electrical Switching of Anisotropic Skyrmion Hall Effect in Altermagnets__2603.17308v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种利用外电场打破对称性，从而在二维交错磁体中实现各向异性拓扑磁子霍尔效应电学翻转的通用策略。",
+      "en": "Proposes a general strategy for the purely electrical switching of the anisotropic skyrmion Hall effect in 2D altermagnets by breaking crystal symmetry."
+    },
+    "problem": {
+      "zh": "传统的拓扑磁子霍尔效应调控依赖磁场翻转且功耗高，而在反铁磁系统中该效应因拓扑荷抵消而消失，限制了其在自旋电子器件中的应用。",
+      "en": "Conventional skyrmion Hall effect control relies on power-hungry magnetic field reversal and is suppressed in antiferromagnets due to topological charge cancellation, limiting its spintronic applications."
+    },
+    "approach": {
+      "zh": "通过对称性分析和模型推导揭示机制，并结合第一性原理计算与原子尺度自旋模拟，在单层材料中验证电场对各向异性相互作用的调制。",
+      "en": "Revealed the mechanism through symmetry and model analysis, and validated the electric-field modulation of anisotropic interactions in a monolayer using first-principles calculations and atomistic spin simulations."
+    },
+    "main_takeaway": {
+      "zh": "外电场通过诱导子格相关的各向异性交换作用和DMI，使交错磁体产生各向异性的拓扑磁子霍尔效应，且其横向运动方向可随电场极性完全翻转。",
+      "en": "An external electric field induces sublattice-dependent anisotropic exchange and DMI, enabling an anisotropic skyrmion Hall effect whose transverse direction can be fully reversed by the field polarity."
+    },
+    "why_it_matters": {
+      "zh": "该研究为实现无磁场、高精度的拓扑磁子输运调控提供了理论基础，对开发低功耗拓扑自旋逻辑和存储器件具有重要意义。",
+      "en": "This study provides a theoretical foundation for field-free, high-precision control of skyrmion transport, which is crucial for developing low-power topological spintronic logic and memory devices."
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical Simulation"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章探讨了二维材料中的新颖拓扑磁性与电学调控机制，符合该期刊对高影响力纳米科学研究的定位。",
+        "en": "The paper explores novel topological magnetism and electrical control in 2D materials, aligning with the journal's focus on high-impact nanoscience."
+      }
+    },
+    "keywords": [
+      "Altermagnets",
+      "Skyrmion Hall Effect",
+      "Electrical switching",
+      "CaMnSn",
+      "2D materials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-19",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-19T09:26:10",
+    "input_scope": "full_pdf_text"
+  }
+}
