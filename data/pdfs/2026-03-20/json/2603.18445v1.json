@@ -1,0 +1,99 @@
+{
+  "paper_record": {
+    "id": "2603.18445v1",
+    "title": "Spatially Indirect Exciton Condensation in Two-Dimensional Strongly Correlated Semimetals",
+    "authors": [
+      "Yao Zeng",
+      "Shi-Cong Mo",
+      "Wéi Wú"
+    ],
+    "abstract": "Identifying materials hosting an excitonic insulator ground state has been one of the major pursuits in condensed matter physics in recent years. Promising candidates in transition metal chalcogenide compounds (TMC), including $1T-\\mathrm{TiSe_2}$, $\\mathrm{Ta_2Pd_3Te_5}$, and $\\mathrm{Ta_2NiSe_5}$, share a crucial common characteristic: their low-energy physics is governed by electrons in $d-$ orbitals subject to strong on-site Coulomb interactions. In this work, we investigate spatially indirect exciton condensation in two-dimensional semimetals on triangular lattice. Using a combination of dynamical mean-field theory and the determinant quantum Monte Carlo method, we study two- and three-orbital Hubbard models incorporating strong on-site ($U$) and inter-orbital interactions ($V$). Our results demonstrate that on-site Hubbard $U$ can strongly suppress the condensation temperature $T_c$, an effect that is particularly pronounced at higher electron-hole pair densities. This behavior contrasts sharply with the case without on-site $U$, where $T_c$ grows with pair density at fixed $V$. Moreover, we uncover competition among multiple electron-hole pairing channels in the three-orbital model, which also acts to suppress $T_c$ of exciton condensation. An orbital-selective electron-hole pairing state is identified. These findings may help explain the large discrepancy between strong binding-energy and relative low transition temperature for indirect excitons in TMCs materials, offering important insights for understanding and engineering exciton condensation in materials with strongly correlated $d-$ shell electrons.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-19T03:15:12Z",
+    "updated": "2026-03-19T03:15:12Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:exciton condensation"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.18445v1",
+      "pdf_path": "data/pdfs/2026-03-20/3_Spatially Indirect Exciton Condensation in Two-Dimensional Strongly Correlated Semimetals__2603.18445v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-20T01:11:24.999400",
+    "updated_at": "2026-03-20T01:11:24.999393Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-20/3_Spatially Indirect Exciton Condensation in Two-Dimensional Strongly Correlated Semimetals__2603.18445v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.18445v1",
+    "pdf_filename": "3_Spatially Indirect Exciton Condensation in Two-Dimensional Strongly Correlated Semimetals__2603.18445v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了强关联二维半金属中，格点内库仑排斥和多轨道竞争是抑制激子凝聚转变温度的关键因素。",
+      "en": "The study reveals that on-site Coulomb repulsion and multi-orbital competition are key factors suppressing the transition temperature of exciton condensation in strongly correlated 2D semimetals."
+    },
+    "problem": {
+      "zh": "解释为何在过渡金属硫族化合物等强关联材料中，激子结合能虽然很高，但实验观测到的凝聚转变温度却普遍较低。",
+      "en": "Explaining why the experimental condensation temperatures are low in strongly correlated materials like TMCs, despite their high predicted exciton binding energies."
+    },
+    "approach": {
+      "zh": "利用细胞动力学平均场理论和行列式量子蒙特卡洛方法，模拟具有强格点内排斥和轨道间吸引的三角晶格两轨道及三轨道哈伯德模型。",
+      "en": "Using Cellular Dynamical Mean-Field Theory and Determinant Quantum Monte Carlo to simulate two- and three-orbital Hubbard models on a triangular lattice with strong on-site repulsion and inter-orbital attraction."
+    },
+    "main_takeaway": {
+      "zh": "格点内库仑相互作用不仅显著降低凝聚温度，还改变了其随密度的变化趋势；同时，多轨道间的配对通道竞争会进一步抑制凝聚并诱导轨道选择性激子态。",
+      "en": "On-site Coulomb interaction significantly reduces the condensation temperature and alters its density dependence; meanwhile, competition between multiple pairing channels further suppresses condensation and induces orbital-selective excitonic states."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解强关联体系中的激子绝缘体提供了非微扰理论框架，有助于解释实验与理论间的差异，并为设计高温激子器件提供指导。",
+      "en": "This work provides a non-perturbative framework for understanding excitonic insulators in strongly correlated systems, helping resolve discrepancies between theory and experiment and guiding the design of high-temperature excitonic devices."
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了先进的数值方法，解决了凝聚态物理中激子绝缘体领域的一个长期存在的实验矛盾，具有较高的通用性和重要性。",
+        "en": "The study combines advanced numerical methods to resolve a long-standing experimental contradiction in the field of excitonic insulators, offering high generality and significance."
+      }
+    },
+    "keywords": [
+      "激子绝缘体",
+      "强关联体系",
+      "动力学平均场理论",
+      "轨道选择性",
+      "过渡金属硫族化合物"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-20",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-20T09:11:44",
+    "input_scope": "full_pdf_text"
+  }
+}

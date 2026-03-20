@@ -1,0 +1,102 @@
+{
+  "paper_record": {
+    "id": "2603.18682v1",
+    "title": "Extended saddle points govern long-lived antiskyrmions",
+    "authors": [
+      "Megha Arya",
+      "Moritz A. Goerzen",
+      "Lionel Calmels",
+      "Shiwei Zhu",
+      "Bhanu Jai Singh",
+      "Stefan Heinze",
+      "Dongzhe Li"
+    ],
+    "abstract": "Achieving long-lived nanoscale magnetic solitons remains a central challenge, as their lifetimes typically decrease rapidly with temperature. Here, we demonstrate that anisotropic Dzyaloshinskii-Moriya interaction (aDMI) enables spatially extended saddle points (SPs) that fundamentally alter thermally activated decay. In contrast to conventional localized SPs, these extended configurations completely suppress the entropic contribution to the activation rate, rendering the lifetimes effectively temperature independent. To establish this mechanism, we develop a first-principles method based on spin spirals to compute DMI beyond the isotropic approximation, resolving its full directional dependence for arbitrary nearest neighbors. We apply this method to oxidized Fe$_3$GeTe$_2$ (FGT-O), an experimentally accessible van der Waals magnet. Oxygen adsorption simultaneously breaks inversion symmetry and lowers the in-plane crystalline symmetry, thereby generating a sizable aDMI. We demonstrate that aDMI stabilizes nanoscale antiskyrmions with energy barriers exceeding 120 meV at low external magnetic fields. Crucially, extended SPs enhance the lifetime in FGT-O by more than five orders of magnitude at room temperature compared to conventional ultrathin-film skyrmion systems. We further show that aDMI is not the only route to such extended SPs and identify the general conditions under which they emerge, establishing a general route to soliton decay pathways with temperature-independent prefactors. Our results uncover a new paradigm for enhancing soliton stability through transition-state geometry rather than energy-barrier height.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-03-19T09:41:51Z",
+    "updated": "2026-03-19T09:41:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.18682v1",
+      "pdf_path": "data/pdfs/2026-03-20/2_Extended saddle points govern long-lived antiskyrmions__2603.18682v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-20T01:11:24.998909",
+    "updated_at": "2026-03-20T01:11:24.998901Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-20/2_Extended saddle points govern long-lived antiskyrmions__2603.18682v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.18682v1",
+    "pdf_filename": "2_Extended saddle points govern long-lived antiskyrmions__2603.18682v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现各向异性DMI诱导的扩展鞍点能显著抑制熵效应，从而使氧化Fe3GeTe2中的纳米反斯格明子具有极长的热稳定性。",
+      "en": "The study reveals that anisotropic DMI enables extended saddle points that suppress entropic decay, leading to exceptionally long-lived nanoscale antiskyrmions in oxidized Fe3GeTe2."
+    },
+    "problem": {
+      "zh": "纳米级磁孤子的寿命通常随温度升高而迅速下降，如何在室温下实现长寿命且尺寸极小的拓扑磁结构是一个核心挑战。",
+      "en": "Achieving long-lived nanoscale magnetic solitons at room temperature is a major challenge, as their lifetimes typically decrease rapidly with temperature due to entropic effects."
+    },
+    "approach": {
+      "zh": "开发了基于第一性原理的各向异性DMI计算方法，并结合原子尺度自旋模拟与调和过渡态理论，研究了氧化Fe3GeTe2单层中的反斯格明子稳定性。",
+      "en": "Developed a first-principles method for anisotropic DMI and used atomistic spin simulations combined with Harmonic Transition State Theory to study antiskyrmion stability in oxidized Fe3GeTe2 monolayers."
+    },
+    "main_takeaway": {
+      "zh": "各向异性DMI产生的空间扩展鞍点保留了平移零模，消除了衰减速率中的熵贡献，使反斯格明子寿命在室温下比传统系统提高五个数量级以上。",
+      "en": "Extended saddle points induced by anisotropic DMI preserve translational zero modes and suppress entropic contributions to the pre-exponential factor, enhancing antiskyrmion lifetimes by over five orders of magnitude at room temperature."
+    },
+    "why_it_matters": {
+      "zh": "提出了一种通过调控过渡态几何结构而非单纯提高能垒来增强孤子稳定性的新范式，为开发室温稳定的自旋电子器件提供了新路径。",
+      "en": "It establishes a new paradigm for enhancing soliton stability via transition-state geometry rather than just energy-barrier height, offering a new route for room-temperature stable spintronic devices."
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了全新的物理机制（扩展鞍点抑制熵），并针对热门范德华磁体进行了详尽的计算验证，具有显著的通用性和影响力。",
+        "en": "The paper proposes a novel physical mechanism (extended SPs suppressing entropy) and provides detailed calculations for a popular van der Waals magnet, showing high impact and generality."
+      }
+    },
+    "keywords": [
+      "Anisotropic DMI",
+      "Antiskyrmion",
+      "Thermal stability",
+      "Saddle point",
+      "Fe3GeTe2",
+      "Transition state theory"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-20",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-20T09:12:04",
+    "input_scope": "full_pdf_text"
+  }
+}
