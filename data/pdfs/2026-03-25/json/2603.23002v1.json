@@ -1,0 +1,104 @@
+{
+  "paper_record": {
+    "id": "2603.23002v1",
+    "title": "Quantum correlations and dissipative blockade of polaritons in a tunable fiber cavity",
+    "authors": [
+      "Gian-Marco Schnüriger",
+      "Martin Kroner",
+      "Emre Togan",
+      "Patrick Knüppel",
+      "Aymeric Delteil",
+      "Stefan Fält",
+      "Werner Wegscheider",
+      "Atac Imamoglu"
+    ],
+    "abstract": "Cavity exciton--polaritons are quasiparticles that form when quantum well excitons hybridize with a cavity mode. Here, we carry out photon correlation measurements under continuous wave resonant laser excitation to demonstrate quantum correlations between cavity--polaritons. Our experiments reveal an unexpectedly strong dependence of polariton interactions on cavity--exciton detuning. When the polaritons are predominantly exciton-like, we observe a transition from photon antibunching to bunching as the laser is tuned across the polariton resonance, in agreement with a simple Kerr-nonlinearity model. When the lower-branch polariton energy is tuned to induce a two-polariton Feshbach resonance with the biexciton mode, the degree of polariton antibunching becomes independent of the laser detuning: we explain our finding by invoking a dissipative blockade mechanism arising from large biexciton broadening. Our experiments demonstrate that the strong polariton blockade regime would be achieved by reducing the polariton decay rate by a factor of 10.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-03-24T09:48:09Z",
+    "updated": "2026-03-24T09:48:09Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton",
+        "exciton:biexciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.23002v1",
+      "pdf_path": "data/pdfs/2026-03-25/3_Quantum correlations and dissipative blockade of polaritons in a tunable fiber cavity__2603.23002v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.812833",
+    "updated_at": "2026-03-25T01:14:08.812824Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/3_Quantum correlations and dissipative blockade of polaritons in a tunable fiber cavity__2603.23002v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.23002v1",
+    "pdf_filename": "3_Quantum correlations and dissipative blockade of polaritons in a tunable fiber cavity__2603.23002v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过可调节光纤腔中的光子关联测量，实验演示了极化激元的量子关联以及由双激元引起的耗散阻塞机制。",
+      "en": "Demonstrates quantum correlations and a biexciton-mediated dissipative blockade of polaritons using photon correlation measurements in a tunable fiber cavity."
+    },
+    "problem": {
+      "zh": "在连续波激发下精确测量极化激元的量子关联，并探究极化激元相互作用随能级失谐的变化规律。",
+      "en": "Accurately measuring quantum correlations of polaritons under cw excitation and understanding how their interactions vary with energy detuning."
+    },
+    "approach": {
+      "zh": "将高质量InGaAs量子阱置于可调光纤微腔中，利用p-i-n结构控制电场，通过连续波共振激发进行二阶光子关联函数测量。",
+      "en": "Embedding high-purity InGaAs QWs in a tunable fiber cavity with p-i-n gate control and performing second-order photon correlation measurements under cw resonant excitation."
+    },
+    "main_takeaway": {
+      "zh": "发现了一种新的耗散阻塞机制：当极化激元与宽能级双激元共振时，光子反聚束效应变得与激光失谐无关，这不同于传统的Kerr型非线性。",
+      "en": "Identified a dissipative blockade mechanism where coupling to a broad biexciton resonance leads to detuning-independent antibunching, distinct from standard Kerr-type nonlinearity."
+    },
+    "why_it_matters": {
+      "zh": "该研究为实现强极化激元阻塞提供了路径，并揭示了极化激元相互作用强度并不完全遵循传统的Hopfield系数四次方缩放规律。",
+      "en": "It provides a route to the strong polariton blockade regime and reveals that polariton interaction strength deviates from the standard quadratic scaling with exciton fraction."
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究实现了极化激元量子关联的高精度测量并发现了新的物理机制（耗散阻塞），符合该刊对原创性和影响力的要求。",
+        "en": "The high-precision measurement of quantum correlations and the discovery of a new physical mechanism (dissipative blockade) meet the journal's standards for impact."
+      }
+    },
+    "keywords": [
+      "Exciton-polaritons",
+      "Quantum correlations",
+      "Dissipative blockade",
+      "Biexciton",
+      "Fiber cavity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:16:37",
+    "input_scope": "full_pdf_text"
+  }
+}

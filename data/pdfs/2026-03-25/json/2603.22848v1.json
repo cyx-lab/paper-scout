@@ -1,0 +1,103 @@
+{
+  "paper_record": {
+    "id": "2603.22848v1",
+    "title": "Ultrafast electrically controlled magnetism in charge-order-induced ferroelectric altermagnet",
+    "authors": [
+      "Yuhao Gu",
+      "Yu-Hui Song",
+      "Yihao Wang",
+      "Ze-Feng Gao",
+      "Huan-Cheng Yang",
+      "Peng-Jie Guo",
+      "Zhong-Yi Lu"
+    ],
+    "abstract": "The altermagnetism with antiparallel spin alignment exhibits anisotropic spin splitting and may possess an insulating state with a high Neel temperature, while the charge-order-induced ferroelectricity has ultrafast electric polarization switching. Considering that altermagnetism requires breaking space inversion,, the physical foundation for exploring ultrafast electrically controlled magnetism in altermagnetic ferroelectric materials is thus established. In this Letter, based on symmetry analysis and first-principles electronic structure calculations, we predict that LiV$_2$F$_6$ is a material that simultaneously hosts altermagnetism and charge-order-induced ferroelectricity. Since both the altermagnetism and ferroelectricity originate from charge order, LiV$_2$F$_6$ should exhibit strong magnetoelectric coupling. Our calculations indeed demonstrate that electric polarization reversal can induce band spin-polarization switching in LiV$_2$F$_6$. Moreover, time-dependent density functional theory calculations show that the electric polarization reversal in LiV$_2$F$_6$ occurs in 15 femtoseconds. Consequently, ultrafast electrically controlled magnetism can be realized in LiV$_2$F$_6$. Given that LiV$_2$F$_6$ has already been experimentally synthesized, our work provides a promising material platform for achieving ultrafast electrically controlled magnetism, which might have significant implications for the design of future electronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.comp-ph"
+    ],
+    "published": "2026-03-24T06:39:46Z",
+    "updated": "2026-03-24T06:39:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22848v1",
+      "pdf_path": "data/pdfs/2026-03-25/3_Ultrafast electrically controlled magnetism in charge-order-induced ferroelectric altermagnet__2603.22848v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.813189",
+    "updated_at": "2026-03-25T01:14:08.813179Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/3_Ultrafast electrically controlled magnetism in charge-order-induced ferroelectric altermagnet__2603.22848v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22848v1",
+    "pdf_filename": "3_Ultrafast electrically controlled magnetism in charge-order-induced ferroelectric altermagnet__2603.22848v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "预测 LiV2F6 是一种电荷序诱导的铁电交错磁体，可在 15 飞秒内实现电控磁性翻转。",
+      "en": "LiV2F6 is predicted as a charge-order-induced ferroelectric altermagnet enabling ultrafast electrical control of magnetism within 15 femtoseconds."
+    },
+    "problem": {
+      "zh": "如何在交错磁体中实现超快（飞秒量级）的电控磁性转换。",
+      "en": "How to achieve ultrafast (femtosecond-scale) electrical control of magnetism in altermagnetic materials."
+    },
+    "approach": {
+      "zh": "结合对称性分析、第一性原理电子结构计算（DFT+U）以及实时时间相关密度泛函理论（TDDFT）模拟电荷转移动力学。",
+      "en": "Combining symmetry analysis, first-principles electronic structure calculations (DFT+U), and real-time TDDFT to simulate charge transfer dynamics."
+    },
+    "main_takeaway": {
+      "zh": "LiV2F6 的交错磁性和铁电性均源于电荷序（V2+与V3+的分离），这种同源性导致了极强的磁电耦合，使得电极化翻转能同步诱导能带自旋极化的超快切换。",
+      "en": "Both altermagnetism and ferroelectricity in LiV2F6 originate from charge ordering, leading to strong magnetoelectric coupling where electric polarization reversal induces a synchronized switching of band spin-polarization."
+    },
+    "why_it_matters": {
+      "zh": "该研究提出了一个已在实验上合成的材料平台，展示了飞秒级电控磁性的可能性，为设计超快 spintronics 器件提供了理论指导和候选材料。",
+      "en": "This work identifies an experimentally synthesized material platform for ultrafast electrically controlled magnetism, providing theoretical guidance and a candidate material for next-generation spintronic devices."
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用了 Letter 格式，且研究内容涉及交错磁性这一当前凝聚态物理的热点前沿，具有高度的创新性和物理深度。",
+        "en": "The paper uses a Letter format and addresses altermagnetism, a hot frontier in condensed matter physics, with significant novelty and physical depth."
+      }
+    },
+    "keywords": [
+      "交错磁性",
+      "铁电性",
+      "电荷序",
+      "超快动力学",
+      "磁电耦合"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:15:52",
+    "input_scope": "full_pdf_text"
+  }
+}

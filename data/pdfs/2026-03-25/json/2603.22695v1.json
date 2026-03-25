@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2603.22695v1",
+    "title": "Dimensionality-Dependent Exciton Dispersion in a Single-Band Mott Insulator",
+    "authors": [
+      "Zhibin Su",
+      "Junjian Mi",
+      "Shaohua Yan",
+      "Jiade Li",
+      "Siwei Xue",
+      "Zhiyu Tao",
+      "Enling Wang",
+      "Xiongfei Shi",
+      "Hechang Lei",
+      "Zhuan Xu",
+      "Jiandong Guo",
+      "Xuetao Zhu"
+    ],
+    "abstract": "Excitonic band structure is critical for investigating exciton dynamics. Theoretically, quantum effects from exchange scattering between electron-hole pairs significantly modulate exciton dispersion. Here, we report the direct observation of dimensionality-dependent exciton dispersion in a single-band Mott insulator Nb3Cl8 through high-resolution electron energy loss spectroscopy. In the high-temperature phase, the exciton in Nb3Cl8 hosts an exceptionally large binding energy, and exhibits clear quasi-two-dimensional massless linear dispersion. In contrast, in the low-temperature phase, the exciton splits into two bands, both displaying three-dimensional parabolic dispersion. These dramatic changes in the exciton dispersion stem from the dimensional mutation driven by a substantial enhancement of interlayer coupling across the phase transition. This Letter provides a clear and typical example of how exciton behavior evolves with dimensionality.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-03-24T01:36:29Z",
+    "updated": "2026-03-24T01:36:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22695v1",
+      "pdf_path": "data/pdfs/2026-03-25/3_Dimensionality-Dependent Exciton Dispersion in a Single-Band Mott Insulator__2603.22695v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.813700",
+    "updated_at": "2026-03-25T01:14:08.813693Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/3_Dimensionality-Dependent Exciton Dispersion in a Single-Band Mott Insulator__2603.22695v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22695v1",
+    "pdf_filename": "3_Dimensionality-Dependent Exciton Dispersion in a Single-Band Mott Insulator__2603.22695v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过高分辨率电子能量损失谱在莫特绝缘体中直接观测到激子色散从二维无质量线性到三维抛物线的维度演化。",
+      "en": "Direct observation of exciton dispersion transitioning from 2D massless linear to 3D parabolic behavior in a Mott insulator via HREELS."
+    },
+    "problem": {
+      "zh": "二维材料中预言的无质量线性激子色散此前缺乏直接实验证据，且在同一材料中观察激子色散随维度的演化具有极大挑战性。",
+      "en": "Direct experimental evidence for predicted massless linear exciton dispersion in 2D materials is lacking, and observing the evolution of exciton dispersion with dimensionality in a single material remains challenging."
+    },
+    "approach": {
+      "zh": "利用具有二维动量-能量映射能力的高分辨率电子能量损失谱（HREELS），测量单带莫特绝缘体 Nb3Cl8 在不同结构相下的激子能带结构。",
+      "en": "Used High-Resolution Electron Energy Loss Spectroscopy (HREELS) with 2D momentum-energy mapping to measure exciton band structures in different structural phases of the single-band Mott insulator Nb3Cl8."
+    },
+    "main_takeaway": {
+      "zh": "激子色散受层间耦合诱导的维度变化强烈调制：在弱耦合的高温相表现为二维无质量线性色散，而在强耦合的低温相转变为三维抛物线色散。",
+      "en": "Exciton dispersion is strongly modulated by dimensional changes driven by interlayer coupling: exhibiting 2D massless linear dispersion in the high-temperature phase and 3D parabolic dispersion in the low-temperature phase."
+    },
+    "why_it_matters": {
+      "zh": "该研究首次证实了二维无质量激子的存在，并为理解关联体系中维度如何调控激子动力学提供了典型范例。",
+      "en": "This study provides the first definitive confirmation of 2D massless excitons and serves as a textbook example of how dimensionality tunes exciton dynamics in correlated systems."
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了凝聚态物理中关于激子色散的长期实验空白，具有高度的创新性和基础物理意义。",
+        "en": "The study fills a long-standing experimental gap regarding exciton dispersion and carries significant innovation and fundamental physical importance."
+      }
+    },
+    "keywords": [
+      "Nb3Cl8",
+      "Exciton dispersion",
+      "Mott insulator",
+      "HREELS",
+      "Dimensionality",
+      "Phase transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:14:51",
+    "input_scope": "full_pdf_text"
+  }
+}

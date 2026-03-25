@@ -1,0 +1,104 @@
+{
+  "paper_record": {
+    "id": "2603.22830v1",
+    "title": "Profound impacts of interlayer interactions in bilayer altermagnetic V2S2O",
+    "authors": [
+      "Siqi Xu",
+      "Qilong Cui",
+      "Shaowen Xu",
+      "Xianbo Chenwei",
+      "Jiahao Zhang",
+      "Ruixue Li",
+      "Yuan Li",
+      "Gaofeng Xu",
+      "Fanhao Jia"
+    ],
+    "abstract": "Two-dimensional altermagnets exhibit exceptional potential for low-power spintronics via nonrelativistic spin splitting and zero net magnetization. Here, we systematically investigate the influence of interlayer interactions on the electronic, magnetic and quantum transport properties of bilayer vanadium oxysulfide (V2S2O), a prototypical layered altermagnet, using DFT and NEGF calculations. Our results reveal that interlayer interactions predominantly modulate the p-orbital derived top valence bands, inducing a profound competitive valence band maximum position between Gamma-point pz and X/Y-point pxy orbitals, with an energy difference as small as 9 meV. Furthermore, interlayer interactions suppress the piezomagnetic effect and impose additional requirements on the type of strain for the bilayer system, compared to its monolayer counterpart. Out-of-plane external electric fields effectively weaken interlayer coupling by enlarging the energy difference of Gamma/X-Y top valence bands to 170 meV. Quantum transport simulations on a bilayer Au/V2S2O/Au two-probe device demonstrate the presence of pronounced spin current. Interlayer interactions reduce the transmission spin polarization from nearly 100% (monolayer) to 60% (bilayer) for energies above the Fermi level. Notably, gate-voltage modulation exhibits significant asymmetry in controlling charge-to-spin current conversion efficiency, originating from the out-of-plane symmetry breaking induced by the electrode geometry. Specifically, a positive gate voltage markedly enhances the contribution of the bottom layer to the overall spin polarization, while a negative gate voltage induces a marginal reduction of transmission spin polarization, attributed to the inherently weak polarization contribution of the bottom layer. These findings provide essential insights for the design and optimization of multilayer altermagnetic spintronics.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.comp-ph"
+    ],
+    "published": "2026-03-24T06:05:46Z",
+    "updated": "2026-03-24T06:05:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22830v1",
+      "pdf_path": "data/pdfs/2026-03-25/3_Profound impacts of interlayer interactions in bilayer altermagnetic V2S2O__2603.22830v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.813234",
+    "updated_at": "2026-03-25T01:14:08.813224Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/3_Profound impacts of interlayer interactions in bilayer altermagnetic V2S2O__2603.22830v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22830v1",
+    "pdf_filename": "3_Profound impacts of interlayer interactions in bilayer altermagnetic V2S2O__2603.22830v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了层间相互作用对双层交错磁体 V2S2O 的能带竞争、自旋极化输运及外部场调控的显著影响。",
+      "en": "This study reveals the significant impacts of interlayer interactions on band competition, spin-polarized transport, and external field modulation in bilayer altermagnetic V2S2O."
+    },
+    "problem": {
+      "zh": "探索从单层到双层交错磁体转变过程中，层间耦合如何改变电子能带结构、削弱自旋极化率以及影响对电场和应变的响应。",
+      "en": "Exploring how interlayer coupling alters electronic band structures, reduces spin polarization, and affects responses to electric fields and strain during the transition from monolayer to bilayer altermagnets."
+    },
+    "approach": {
+      "zh": "采用密度泛函理论（DFT）结合非平衡格林函数（NEGF）方法，系统模拟了双层 V2S2O 在应变、外加电场和门电压下的物理特性。",
+      "en": "Systematic simulations of bilayer V2S2O under strain, external electric fields, and gate voltages using Density Functional Theory (DFT) combined with Non-Equilibrium Green's Function (NEGF) methods."
+    },
+    "main_takeaway": {
+      "zh": "层间相互作用诱导了价带顶的轨道竞争，使自旋极化率从单层的近 100% 降至约 60%，但通过垂直电场可有效削弱耦合并实现非对称的自旋电流调控。",
+      "en": "Interlayer interactions induce orbital competition at the valence band maximum and reduce spin polarization from nearly 100% to ~60%, but vertical electric fields can effectively weaken coupling and enable asymmetric spin current modulation."
+    },
+    "why_it_matters": {
+      "zh": "该研究为多层交错磁体自旋电子器件的设计提供了关键见解，特别是揭示了如何利用层间自由度和电极几何形状来优化自旋输运性能。",
+      "en": "The findings provide critical insights for designing multilayer altermagnetic spintronic devices, specifically revealing how to leverage interlayer degrees of freedom and electrode geometry to optimize spin transport."
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical Simulation"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文涉及二维材料、自旋电子学和量子输运模拟，且关键词和参考文献中多次提及该期刊。",
+        "en": "The paper covers 2D materials, spintronics, and quantum transport simulations, with multiple mentions of this journal in keywords and references."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Interlayer interaction",
+      "Spin transport",
+      "V2S2O",
+      "Gate modulation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:15:34",
+    "input_scope": "full_pdf_text"
+  }
+}

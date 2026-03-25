@@ -1,0 +1,96 @@
+{
+  "paper_record": {
+    "id": "2603.22919v1",
+    "title": "Non-Hermitian skin effect in periodic, random, and quasiperiodic systems",
+    "authors": [
+      "F. Iwase"
+    ],
+    "abstract": "The non-Hermitian skin effect (NHSE), which drives bulk states toward system boundaries, modifies bulk-boundary correspondence and complicates the identification of topological edge modes. Although breaking translational symmetry is known to influence this behavior, a systematic comparison of different structural classes remains limited. Here we investigate periodic, random, and quasiperiodic (Fibonacci) systems using a one-dimensional non-Hermitian quantum walk model. By matching the local scattering parameters in a topologically nontrivial regime, we isolate the role of spatial structure in the presence of the NHSE. We find that periodic systems exhibit pronounced boundary accumulation of bulk states. Random systems suppress this accumulation through Anderson localization, but the topological gap becomes partially filled with localized in-gap states. In contrast, the Fibonacci quasiperiodic system suppresses large-scale boundary accumulation while maintaining a well-defined topological gap. Analysis of the wave functions suggests that the hierarchical quasiperiodic structure fragments bulk states across multiple length scales, thereby mitigating the NHSE. These results identify deterministic quasiperiodicity as a distinct structural regime for controlling non-Hermitian skin dynamics and isolating topological boundary modes.",
+    "categories": [
+      "cond-mat.str-el",
+      "quant-ph"
+    ],
+    "published": "2026-03-24T08:07:17Z",
+    "updated": "2026-03-24T08:07:17Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22919v1",
+      "pdf_path": "data/pdfs/2026-03-25/4_Non-Hermitian skin effect in periodic, random, and quasiperiodic systems__2603.22919v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.813035",
+    "updated_at": "2026-03-25T01:14:08.813025Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/4_Non-Hermitian skin effect in periodic, random, and quasiperiodic systems__2603.22919v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22919v1",
+    "pdf_filename": "4_Non-Hermitian skin effect in periodic, random, and quasiperiodic systems__2603.22919v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了周期、随机和斐波那契准周期系统在非厄米量子行走中对皮肤效应的不同响应。",
+      "en": "This study investigates the distinct responses of periodic, random, and Fibonacci quasiperiodic systems to the non-Hermitian skin effect in a 1D quantum walk model."
+    },
+    "problem": {
+      "zh": "研究空间结构如何影响非厄米皮肤效应导致的体态边界堆积，以及如何在这种效应下保持拓扑边缘态的独立性。",
+      "en": "To investigate how spatial structures influence the boundary accumulation of bulk states caused by the non-Hermitian skin effect and how to preserve topological edge modes."
+    },
+    "approach": {
+      "zh": "采用一维非厄米量子行走模型，通过匹配局部散射参数，对比分析周期、随机和斐波那契序列下的复能谱、质心位移及反参与率。",
+      "en": "Using a 1D non-Hermitian quantum walk model with matched local scattering parameters to compare complex spectra, center-of-mass shifts, and inverse participation ratios across periodic, random, and Fibonacci sequences."
+    },
+    "main_takeaway": {
+      "zh": "斐波那契准周期系统通过空间碎片化抑制了体态的边界堆积，且相比随机系统能维持更清晰的拓扑能隙，有效隔离了边缘态。",
+      "en": "Fibonacci quasiperiodic systems suppress boundary accumulation through spatial fragmentation and maintain a cleaner topological gap compared to random systems, effectively isolating edge modes."
+    },
+    "why_it_matters": {
+      "zh": "提出了一种利用准周期结构控制非厄米动力学的新策略，为设计高纯度非厄米拓扑激光器和传感器提供了理论依据。",
+      "en": "It proposes a new strategy using quasiperiodic structures to control non-Hermitian dynamics, providing a basis for designing high-purity non-Hermitian topological lasers and sensors."
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及非厄米拓扑物理的基础机制对比，数据详实且具有系统性，非常符合 PRB 的发表范围。",
+        "en": "The systematic numerical comparison of fundamental mechanisms in non-Hermitian topological physics aligns well with the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "Non-Hermitian skin effect",
+      "Fibonacci lattice",
+      "Quantum walk",
+      "Anderson localization",
+      "Topological insulator"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:16:22",
+    "input_scope": "full_pdf_text"
+  }
+}

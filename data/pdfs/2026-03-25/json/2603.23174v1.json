@@ -1,0 +1,101 @@
+{
+  "paper_record": {
+    "id": "2603.23174v1",
+    "title": "A $Γ$-valley Moiré Platform for Tunable Square Lattice Hubbard Model",
+    "authors": [
+      "Rui Shi",
+      "Kejie Bao",
+      "Huan Wang",
+      "Jing Wang"
+    ],
+    "abstract": "Moiré superlattices have emerged as a premier platform for simulating the Hubbard model, yet achieving high tunability in square-lattice systems remains a key challenge. We demonstrate that $Γ$-valley twisted square homobilayers provide a faithful and highly tunable realization of $t-t'-U$ Hubbard model, extending the recent proposal in M-valley systems. We show that at small twist angles, an emergent layer-exchange symmetry decouples electronic states into flat bands residing on two nested square sublattices. An interlayer displacement field breaks this symmetry to induce controllable inter-sublattice hybridization, enabling wide-range experimental tuning of the effective hopping ratio $t'/t$. By establishing a direct correspondence between $Γ$- and M-valley systems, we provide a unified framework for understanding displacement-field tunability in square moiré physics. These findings establish $Γ$-valley twisted bilayers as a versatile platform for simulating the square-lattice Hubbard model and exploring its rich landscape of correlated phenomena.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-24T13:16:28Z",
+    "updated": "2026-03-24T13:16:28Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.23174v1",
+      "pdf_path": "data/pdfs/2026-03-25/3_A $Γ$-valley Moiré Platform for Tunable Square Lattice Hubbard Model__2603.23174v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.812227",
+    "updated_at": "2026-03-25T01:14:08.812187Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/3_A $Γ$-valley Moiré Platform for Tunable Square Lattice Hubbard Model__2603.23174v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.23174v1",
+    "pdf_filename": "3_A $Γ$-valley Moiré Platform for Tunable Square Lattice Hubbard Model__2603.23174v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出利用Gamma谷扭转方格子同质双层膜构建高度可调的方格子Hubbard模型。",
+      "en": "This paper proposes Gamma-valley twisted square homobilayers as a highly tunable platform for simulating the square-lattice Hubbard model."
+    },
+    "problem": {
+      "zh": "在方格子莫尔系统中实现高可调性的Hubbard模型（特别是跳跃项比例t'/t）具有挑战性。",
+      "en": "Achieving high tunability of the hopping ratio t'/t in square-lattice moire Hubbard models remains a significant challenge."
+    },
+    "approach": {
+      "zh": "利用Gamma谷扭转双层膜中的层交换对称性破缺，通过位移场诱导子格点杂化，从而调节有效跳跃参数。",
+      "en": "Utilizing layer-exchange symmetry breaking in Gamma-valley twisted bilayers to induce controllable inter-sublattice hybridization via a displacement field."
+    },
+    "main_takeaway": {
+      "zh": "位移场可以使t'/t在很大范围内（0到-1.1）连续调节，涵盖了铜氧化物超导体的特征值。",
+      "en": "The displacement field enables continuous tuning of the t'/t ratio from 0 to -1.1, covering the regime relevant to cuprate superconductors."
+    },
+    "why_it_matters": {
+      "zh": "该平台为研究t'对d波超导、磁性及量子自旋液体等强关联现象的影响提供了理想场所。",
+      "en": "This platform provides an ideal setting to investigate the influence of t' on d-wave superconductivity, magnetism, and quantum spin liquids."
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "提出了具有广泛应用前景的新型莫尔物理平台，且建立了统一的理论框架。",
+        "en": "Proposes a versatile moire platform with a unified theoretical framework and significant implications for correlated physics."
+      }
+    },
+    "keywords": [
+      "Moire superlattices",
+      "Hubbard model",
+      "Gamma-valley",
+      "Square lattice",
+      "Tunable hopping"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:17:05",
+    "input_scope": "full_pdf_text"
+  }
+}

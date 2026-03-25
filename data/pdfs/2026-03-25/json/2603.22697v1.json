@@ -1,0 +1,103 @@
+{
+  "paper_record": {
+    "id": "2603.22697v1",
+    "title": "Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System",
+    "authors": [
+      "Kyle Linn",
+      "Megan Goh",
+      "Sachin Vaidya",
+      "Christina Jörg",
+      "Mikael C. Rechtsman"
+    ],
+    "abstract": "Photonic systems provide a highly tunable platform for emulating quantum Hall physics. This tunability enables probing of the interplay between strong disorder and robust topological transport that remains difficult to access in solid-state systems. Here we realize a photonic version of the Harper-Hofstadter and Aubry-André models using a one-dimensional multilayer photonic crystal (Bragg stack) with a synthetic dimension encoded in its geometry. By modulating the layer thicknesses, we observe the Hofstadter butterfly and its chiral edge states from a family of one-dimensional multilayer structures, consistent with the Thouless pump picture. Exploiting the quasiperiodicity in this model, we show that increasing quasiperiodic modulation induces a wavelength-selective localization transition: specific Chern bands become fully localized along one dimension, while chiral edge states persist and continue to wind across the gap. We confirm this behavior through numerical simulations and experiments, and eigenmode analysis reveals that edge transport in this regime proceeds via a sequence of Landau-Zener transitions between localized states. These results demonstrate a crossover from adiabatic Thouless pumping under weak quasiperiodic modulation to a Landau-Zener-mediated topological pump at strong modulation, realized in a a compact and easily tunable photonic system.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-03-24T01:38:34Z",
+    "updated": "2026-03-24T01:38:34Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "thouless_pump:thouless pump",
+        "thouless_pump:thouless pumping",
+        "thouless_pump:topological pump",
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 7,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22697v1",
+      "pdf_path": "data/pdfs/2026-03-25/7_Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System__2603.22697v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.813631",
+    "updated_at": "2026-03-25T01:14:08.813624Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/7_Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System__2603.22697v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22697v1",
+    "pdf_filename": "7_Topological Pumping Through a Localized Bulk in a Photonic Hofstadter System__2603.22697v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了光子霍夫施塔特系统在强准周期调制下的拓扑泵浦，发现即使体态局域化，边缘传输仍能通过朗道-齐纳跃迁维持。",
+      "en": "Investigates topological pumping in a photonic Hofstadter system, revealing that edge transport persists through Landau-Zener transitions even when bulk states are localized by strong quasiperiodic modulation."
+    },
+    "problem": {
+      "zh": "探索强准周期调制导致的局域化与拓扑输运之间的相互作用，特别是当体态不再延伸时，拓扑泵浦的物理机制如何演变。",
+      "en": "Exploring the interplay between localization induced by strong quasiperiodic modulation and topological transport, specifically how pumping mechanisms evolve when bulk states are no longer extended."
+    },
+    "approach": {
+      "zh": "利用一维多层光子晶体（布拉格堆栈），通过几何厚度调制引入合成维度来模拟二维哈珀-霍夫施塔特模型，并结合数值模拟与实验透射测量进行验证。",
+      "en": "Using 1D multilayer photonic crystals (Bragg stacks) with synthetic dimensions encoded in layer thicknesses to emulate the 2D Harper-Hofstadter model, validated by numerical simulations and experimental transmission measurements."
+    },
+    "main_takeaway": {
+      "zh": "发现了一种从绝热索利斯泵浦到朗道-齐纳介导泵浦的跨越：在强调制下，体带完全局域化，但边缘态通过局域态之间的一系列非绝热跃迁实现跨能隙传输。",
+      "en": "Discovered a crossover from adiabatic Thouless pumping to Landau-Zener-mediated pumping: under strong modulation, bulk bands become fully localized, yet edge states maintain transport via a sequence of non-adiabatic transitions between localized states."
+    },
+    "why_it_matters": {
+      "zh": "证明了拓扑鲁棒性在体态局域化的情况下依然存在，为在紧凑的光子平台中研究复杂拓扑物态、非绝热动力学以及无序系统中的输运提供了新途径。",
+      "en": "Demonstrates that topological robustness persists despite bulk localization, providing a new route to study complex topological phases, non-adiabatic dynamics, and transport in disordered systems using compact photonic platforms."
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了合成维度、拓扑光子学和局域化物理等前沿领域，且具有高质量的实验验证。",
+        "en": "The study combines cutting-edge fields such as synthetic dimensions, topological photonics, and localization physics, supported by high-quality experimental validation."
+      }
+    },
+    "keywords": [
+      "Topological Photonics",
+      "Hofstadter Butterfly",
+      "Thouless Pumping",
+      "Aubry-Andre Model",
+      "Landau-Zener Transitions",
+      "Synthetic Dimensions"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:17:20",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "paper_record": {
+    "id": "2603.22715v1",
+    "title": "Two-dimensional bound excitons in the real space and Landau quantization space: a comparative study",
+    "authors": [
+      "Kunxiang Li",
+      "Yi-Xiang Wang"
+    ],
+    "abstract": "The Landau quantization space is based on the respective motion of the electron and hole in a magnetic field and can provide a new route to understand the bound exciton behaviors observed in the experiments. In this paper, we study the two-dimensional exciton properties of monolayer WSe$_2$ in both the real space and Landau quantization space. Focusing on the excitons of zero center-of-mass momentum, we calculate its energy spectrum in both spaces, with the results agreeing well with each other. We then obtain the diamagnetic coefficients and root-mean-square radius, which are consistent with the $s$ state results from the experiments. More importantly, in the exciton state $nl$, we find that the dominant electron-hole pair component may shift with the magnetic field and the Coulomb interactions, and reveal that the magnetic field will drive the dominant component to be the free electron-hole pair $\\{n_e=n+l-1,n_h=n-1\\}$, whereas the Coulomb interactions drives it to be the pair of the lower index.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-24T02:09:04Z",
+    "updated": "2026-03-24T02:09:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22715v1",
+      "pdf_path": "data/pdfs/2026-03-25/3_Two-dimensional bound excitons in the real space and Landau quantization space a comparative study__2603.22715v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.813589",
+    "updated_at": "2026-03-25T01:14:08.813577Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/3_Two-dimensional bound excitons in the real space and Landau quantization space a comparative study__2603.22715v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22715v1",
+    "pdf_filename": "3_Two-dimensional bound excitons in the real space and Landau quantization space a comparative study__2603.22715v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文对比研究了单层WSe2激子在实空间和朗道量子化空间中的能谱特性及态组分演化。",
+      "en": "This paper presents a comparative study of exciton properties in monolayer WSe2 within both real space and Landau quantization space under a magnetic field."
+    },
+    "problem": {
+      "zh": "探讨如何利用自由电子-空穴的朗道能级组分来描述磁场下的束缚激子态，并验证实空间与朗道空间计算结果的一致性。",
+      "en": "To address how bound exciton states can be expressed through free electron-hole Landau level components and to validate the consistency between real-space and Landau-space frameworks."
+    },
+    "approach": {
+      "zh": "在有效质量近似下结合Keldysh势，分别利用有限差分法（实空间）和投影矩阵特征值法（朗道空间）计算激子能谱、抗磁系数及均方根半径。",
+      "en": "Using effective mass approximation with Keldysh potential to calculate exciton spectra, diamagnetic coefficients, and RMS radii via finite-difference (real space) and matrix projection (Landau space) methods."
+    },
+    "main_takeaway": {
+      "zh": "激子的主导电子-空穴对组分受磁场和库仑相互作用的竞争影响：磁场驱动主成分向高指数朗道能级对移动，而库仑作用将其驱动向低指数对。",
+      "en": "The dominant electron-hole pair component of an exciton state is determined by the competition between the magnetic field, which drives it to higher Landau level indices, and Coulomb interactions, which drive it to lower indices."
+    },
+    "why_it_matters": {
+      "zh": "该研究深入揭示了二维激子的内部结构组成，为理解强磁场下过渡金属硫族化合物的光学响应和能级演化提供了理论依据。",
+      "en": "It provides deeper insights into the internal composition of 2D excitons, offering a theoretical foundation for understanding optical responses and level evolution in TMDs under high magnetic fields."
+    },
+    "paper_type": {
+      "zh": "理论+数值计算",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究关注凝聚态物理中的激子物理、朗道能级以及详细的数值对比分析，非常符合PRB的报道范围。",
+        "en": "The study focuses on exciton physics, Landau levels, and detailed numerical comparative analysis in condensed matter, which aligns well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Monolayer WSe2",
+      "Excitons",
+      "Landau levels",
+      "Magnetic field",
+      "Coulomb interaction"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:15:12",
+    "input_scope": "full_pdf_text"
+  }
+}

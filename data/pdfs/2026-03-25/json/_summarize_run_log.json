@@ -1,0 +1,90 @@
+{
+  "run_date": "2026-03-25",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2603.22695v1.json": 1,
+    "2603.22697v1.json": 2,
+    "2603.22715v1.json": 1,
+    "2603.22830v1.json": 1,
+    "2603.22848v1.json": 1,
+    "2603.22898v1.json": 1,
+    "2603.22919v1.json": 1,
+    "2603.23002v1.json": 1,
+    "2603.23174v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2603.22695v1.json",
+      "status": "ok",
+      "secs": 12.71,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.22697v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '预扣费额度失败, 用户剩余额度: ＄0.002242, 需要预扣费额度: ＄0.015000 (request id: 20260325091453931310462ggXVOkEs)', 'type': 'new_api_error', 'param': '', 'code': 'insufficient_user_quota'}}",
+      "secs": 2.2,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.22715v1.json",
+      "status": "ok",
+      "secs": 18.21,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.22830v1.json",
+      "status": "ok",
+      "secs": 22.45,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.22848v1.json",
+      "status": "ok",
+      "secs": 17.67,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.22898v1.json",
+      "status": "ok",
+      "secs": 17.17,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.22919v1.json",
+      "status": "ok",
+      "secs": 13.49,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.23002v1.json",
+      "status": "ok",
+      "secs": 14.2,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.23174v1.json",
+      "status": "ok",
+      "secs": 28.03,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2603.22697v1.json",
+      "status": "ok",
+      "secs": 15.28,
+      "round": 2,
+      "attempt": 2
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2603.22898v1",
+    "title": "Solitary waves in a phononic integrated circuit",
+    "authors": [
+      "Timothy M. F. Hirsch",
+      "Xiaoya Jin",
+      "Nicolas P. Mauranyapin",
+      "Nishta Arora",
+      "Erick Romero",
+      "Matthew Reeves",
+      "Glen I. Harris",
+      "Warwick P. Bowen",
+      "Christopher G. Baker"
+    ],
+    "abstract": "Solitons are universal nonlinear excitations that appear in settings as varied as optics, water waves, and quantum gases [1-5]. While reduced models of soliton dynamics are well established, their validity and dynamical behaviour in strongly nonlinear regimes with frequent interactions remain largely unexplored experimentally. Progress has been constrained by the difficulty of simultaneously achieving precise control of dispersion and nonlinearity, together with the temporal and spatial resolution required for dynamical observations. Here we overcome these difficulties by producing acoustic solitons in integrated phononic waveguides. We exploit the interplay between waveguide dispersion and mechanical Kerr nonlinearity to generate 'dark' solitons that persist over metre-scale propagation distances. The slow phonon velocity allows direct imaging of hundreds of dark soliton collisions -- two orders of magnitude more than have previously been accessible [6, 7] -- as well as soliton fission and the melting of a soliton Wigner crystal. Furthermore, the unprecedented dynamical resolution allows us to verify two long-predicted aspects of dark soliton behaviour: the existence of a collisional phase shift and two depth-dependent collision regimes [8, 9]. These results not only illuminate fundamental nonlinear energy transport processes, but also show a path towards acoustic versions of soliton-enabled technologies such as frequency combs and mode-locked lasers [1, 2, 10].",
+    "categories": [
+      "cond-mat.mes-hall",
+      "nlin.PS",
+      "physics.app-ph"
+    ],
+    "published": "2026-03-24T07:47:59Z",
+    "updated": "2026-03-24T07:47:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22898v1",
+      "pdf_path": "data/pdfs/2026-03-25/2_Solitary waves in a phononic integrated circuit__2603.22898v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-25T01:14:08.813080",
+    "updated_at": "2026-03-25T01:14:08.813072Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-25/2_Solitary waves in a phononic integrated circuit__2603.22898v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22898v1",
+    "pdf_filename": "2_Solitary waves in a phononic integrated circuit__2603.22898v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究在集成声子芯片上首次实现了暗孤子的产生、演化及数百次碰撞过程的直接观测。",
+      "en": "This study demonstrates the first realization and direct imaging of dark solitary waves and their numerous collisions in an integrated phononic circuit."
+    },
+    "problem": {
+      "zh": "由于声学非线性通常较弱，且色散与损耗在纳米尺度下难以同时调控，集成声子孤子的实验观测和动力学研究一直面临巨大挑战。",
+      "en": "Experimental observation of integrated phononic solitons has been challenging due to weak acoustic nonlinearities and the difficulty of simultaneously engineering dispersion and dissipation at the nanoscale."
+    },
+    "approach": {
+      "zh": "利用高张力氮化硅薄膜波导显著降低损耗，通过静电驱动产生大振幅横向声波，并利用慢声子速度实现对孤子动力学的高分辨率成像。",
+      "en": "Utilizing high-tensile silicon nitride membrane waveguides to minimize dissipation, generating large-amplitude transverse waves via electrostatic actuation, and leveraging slow phonon velocity for high-resolution imaging of soliton dynamics."
+    },
+    "main_takeaway": {
+      "zh": "成功观测到暗孤子的裂变、碰撞导致的相位偏移以及孤子维格纳晶体的熔化，验证了暗孤子在复杂交互中的拓扑保护特性和动力学行为。",
+      "en": "The study successfully observed dark soliton fission, collisional phase shifts, and the melting of a soliton Wigner crystal, verifying the topologically protected nature and dynamical behavior of dark solitons during complex interactions."
+    },
+    "why_it_matters": {
+      "zh": "该成果标志着集成声子学从线性功能向非线性信号处理的跨越，为开发声学频率梳、锁模激光器及非线性声学计算提供了物理基础。",
+      "en": "This work marks the transition of integrated phononics from linear functionality to nonlinear signal processing, providing a foundation for acoustic frequency combs, mode-locked lasers, and nonlinear acoustic computing."
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究在集成平台上首次观测到复杂的声学非线性动力学，对凝聚态物理和非线性波动物理具有重大基础意义。",
+        "en": "The study reports the first observation of complex acoustic nonlinear dynamics on an integrated platform, holding significant fundamental importance for condensed matter and nonlinear wave physics."
+      }
+    },
+    "keywords": [
+      "Phononic integrated circuit",
+      "Dark solitons",
+      "Nonlinear acoustics",
+      "Soliton collisions",
+      "Wigner crystal"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-25T09:16:09",
+    "input_scope": "full_pdf_text"
+  }
+}
