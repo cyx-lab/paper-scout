@@ -154,6 +154,24 @@ def _should_fallback_from_schema_error(err: Exception) -> bool:
     return any(h in msg for h in hints)
 
 # 日报精简 schema
+VALUE_LEVEL_ZH = [
+    "奠基性",
+    "重要进展",
+    "机制澄清",
+    "新模型或新方法",
+    "技术改进",
+    "小结果",
+]
+
+VALUE_LEVEL_EN = [
+    "Foundational",
+    "Major advance",
+    "Mechanism clarification",
+    "New model or method",
+    "Technical improvement",
+    "Minor result",
+]
+
 LLM_SUMMARY_SCHEMA = {
     "name": "condmat_paper_digest_minimal",
     "schema": {
@@ -200,6 +218,28 @@ LLM_SUMMARY_SCHEMA = {
                 },
                 "required": ["zh", "en"]
             },
+            "value_assessment": {
+                "type": "object",
+                "properties": {
+                    "level": {
+                        "type": "object",
+                        "properties": {
+                            "zh": {"type": "string", "enum": VALUE_LEVEL_ZH},
+                            "en": {"type": "string", "enum": VALUE_LEVEL_EN}
+                        },
+                        "required": ["zh", "en"]
+                    },
+                    "reason": {
+                        "type": "object",
+                        "properties": {
+                            "zh": {"type": "string"},
+                            "en": {"type": "string"}
+                        },
+                        "required": ["zh", "en"]
+                    }
+                },
+                "required": ["level", "reason"]
+            },
             "paper_type": {
                 "type": "object",
                 "properties": {
@@ -238,6 +278,7 @@ LLM_SUMMARY_SCHEMA = {
             "approach",
             "main_takeaway",
             "why_it_matters",
+            "value_assessment",
             "paper_type",
             "likely_venue",
             "keywords"
@@ -251,6 +292,10 @@ PROMPT_OUTPUT_TEMPLATE = """{
   "approach": {"zh": "", "en": ""},
   "main_takeaway": {"zh": "", "en": ""},
   "why_it_matters": {"zh": "", "en": ""},
+  "value_assessment": {
+    "level": {"zh": "", "en": ""},
+    "reason": {"zh": "", "en": ""}
+  },
   "paper_type": {"zh": "", "en": ""},
   "likely_venue": {
     "journal": "",
@@ -279,6 +324,7 @@ SYSTEM_PROMPT = f"""你是一名凝聚态物理论文的速读助手。
 - approach
 - main_takeaway
 - why_it_matters
+- value_assessment
 - paper_type
 - likely_venue
 - keywords
@@ -297,6 +343,16 @@ SYSTEM_PROMPT = f"""你是一名凝聚态物理论文的速读助手。
 
 字段结构必须严格按下面这个 JSON 骨架：
 {PROMPT_OUTPUT_TEMPLATE}
+
+For `value_assessment.level`, choose exactly one category and provide both zh/en:
+- 奠基性 / Foundational
+- 重要进展 / Major advance
+- 机制澄清 / Mechanism clarification
+- 新模型或新方法 / New model or method
+- 技术改进 / Technical improvement
+- 小结果 / Minor result
+
+For `value_assessment.reason`, give 1-2 short sentences explaining the choice.
 
 补充约束：
 - `one_sentence_summary` 是一句非常短的摘要。

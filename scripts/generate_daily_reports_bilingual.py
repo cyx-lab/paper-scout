@@ -191,6 +191,7 @@ def render_paper(meta: dict, score: float, lang: str) -> str:
     summarized_at = prov.get("summarized_at", None)
 
     L = {
+        "value": "\u4ef7\u503c\u7b49\u7ea7\u8bc4\u4f30" if lang == "zh" else "Value assessment",
         "meta": "基本信息" if lang == "zh" else "Metadata",
         "summary": "一句话摘要" if lang == "zh" else "One-sentence summary",
         "prob": "研究问题" if lang == "zh" else "Problem",
@@ -237,6 +238,14 @@ def render_paper(meta: dict, score: float, lang: str) -> str:
     out.append(f"### {L['approach']}\n\n{_md_escape(approach_text) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
     out.append(f"### {L['takeaway']}\n\n{_md_escape(_get_lang(summ, 'main_takeaway', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
     out.append(f"### {L['matters']}\n\n{_md_escape(_get_lang(summ, 'why_it_matters', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
+    out.append(f"### {L['value']}\n\n")
+    value_level = _get_lang(summ, "value_assessment.level", lang, "")
+    value_reason = _get_lang(summ, "value_assessment.reason", lang, "")
+    if value_level:
+        out.append(f"- **{_md_escape(value_level)}**\n")
+        out.append(f"- {_md_escape(value_reason) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
+    else:
+        out.append(f"- {('（空）' if lang=='zh' else '(empty)')}\n\n")
     out.append(f"### {L['type']}\n\n{_md_escape(_get_lang(summ, 'paper_type', lang, '')) or ('（空）' if lang=='zh' else '(empty)')}\n\n")
     out.append(f"### {L['venue']}\n\n")
     venue_journal = _get(summ, "likely_venue.journal", "") or ""

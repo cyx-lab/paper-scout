@@ -56,6 +56,13 @@ def build_sample_meta() -> dict:
         "zh": "这为理解 moire 激子器件中的可调输运提供了直接线索。",
         "en": "This offers a direct clue for tunable transport in moire excitonic devices.",
     }
+    summary["value_assessment"] = {
+        "level": {"zh": "重要进展", "en": "Major advance"},
+        "reason": {
+            "zh": "这项工作对一个具体物理问题给出了清楚且有说服力的新结论。",
+            "en": "The work delivers a clear and persuasive new result on a concrete physics question.",
+        },
+    }
     summary["paper_type"] = {"zh": "理论 + 数值", "en": "Theory + numerics"}
     summary["likely_venue"] = {
         "journal": "Physical Review Letters",
@@ -101,8 +108,8 @@ def main() -> None:
     zh_report = render_paper(meta, 7.0, "zh")
     en_report = render_paper(meta, 7.0, "en")
 
-    expected_zh = ["一句话摘要", "核心 takeaway", "可能投稿去向", "Physical Review Letters", "moire"]
-    expected_en = ["One-sentence summary", "Main takeaway", "Likely venue", "Physical Review Letters", "moire"]
+    expected_zh = ["一句话摘要", "核心 takeaway", "价值等级评估", "可能投稿去向", "Physical Review Letters", "moire"]
+    expected_en = ["One-sentence summary", "Main takeaway", "Value assessment", "Likely venue", "Physical Review Letters", "moire"]
 
     for token in expected_zh:
         if token not in zh_report:

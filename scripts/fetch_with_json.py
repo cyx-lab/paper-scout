@@ -59,6 +59,10 @@ def empty_bilingual_summary() -> dict:
         "approach": {"zh": "", "en": ""},
         "main_takeaway": {"zh": "", "en": ""},
         "why_it_matters": {"zh": "", "en": ""},
+        "value_assessment": {
+            "level": {"zh": "", "en": ""},
+            "reason": {"zh": "", "en": ""},
+        },
         "paper_type": {"zh": "", "en": ""},
         "likely_venue": {
             "journal": "",
