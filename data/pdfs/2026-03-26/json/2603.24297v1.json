@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2603.24297v1",
+    "title": "Reconfigurable topological valley-Hall interfaces: Asymptotics of arrays of Dirichlet and Neumann inclusions for multiple scattering in metamaterials",
+    "authors": [
+      "Richard Wiltshaw",
+      "Henry J. Putley",
+      "Christelle Bou Dagher",
+      "Mehul P. Makwana"
+    ],
+    "abstract": "We study two-dimensional periodic metamaterials in which idealised cylindrical inclusions are modelled by boundary conditions. In the scalar time-harmonic setting, the background field satisfies the Helmholtz equation, and high-contrast inclusion limits reduce to Dirichlet or Neumann conditions, with direct analogues in dielectric and acoustic media. By switching the condition assigned to selected inclusions, we break point-group symmetries of the primitive cell and thereby lift symmetry-induced degeneracies in the Floquet--Bloch spectrum of hexagonal and square lattices, opening valley-type band gaps with Berry curvature localised near opposite valleys. To analyse infinite and finite structures within a unified framework, we derive matched-asymptotic point-scatterer approximations for mixed Dirichlet--Neumann arrays. For doubly periodic systems, this yields a finite-dimensional generalised eigenvalue problem for the Floquet--Bloch spectrum; for finite arrays, it yields a generalised Foldy multiple-scattering system. In both hexagonal and square lattices, geometrically identical crystals can realise distinct valley-Hall phases solely through boundary-condition assignment while retaining an overlapping bulk gap. Spatially varying this assignment therefore creates and relocates internal interfaces without altering the underlying geometry, enabling the associated valley-Hall interfacial modes to be repositioned within the same crystal.",
+    "categories": [
+      "physics.optics",
+      "math-ph",
+      "physics.comp-ph"
+    ],
+    "published": "2026-03-25T13:34:47Z",
+    "updated": "2026-03-25T13:34:47Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.24297v1",
+      "pdf_path": "data/pdfs/2026-03-26/3_Reconfigurable topological valley-Hall interfaces Asymptotics of arrays of Dirichlet and Neumann inclusions for multiple__2603.24297v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-26T01:19:54.018245",
+    "updated_at": "2026-03-26T01:19:54.018238Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-26/3_Reconfigurable topological valley-Hall interfaces Asymptotics of arrays of Dirichlet and Neumann inclusions for multiple__2603.24297v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.24297v1",
+    "pdf_filename": "3_Reconfigurable topological valley-Hall interfaces Asymptotics of arrays of Dirichlet and Neumann inclusions for multiple__2603.24297v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种通过切换散射体边界条件（Dirichlet/Neumann）来重构二维超材料拓扑谷霍尔界面的渐近分析框架。",
+      "en": "This paper develops an asymptotic framework to reconfigure topological valley-Hall interfaces in 2D metamaterials by switching inclusion boundary conditions between Dirichlet and Neumann types."
+    },
+    "problem": {
+      "zh": "传统拓扑超材料的相位和结构在加工后往往固定，难以在不改变几何结构的情况下动态调整拓扑波导路径。",
+      "en": "Traditional topological metamaterials have fixed phases and structures after fabrication, making it difficult to dynamically reroute topological waveguides without altering the underlying geometry."
+    },
+    "approach": {
+      "zh": "利用匹配渐近展开法建立混合边界条件散射体的点散射模型，推导出适用于无限周期的广义特征值问题和有限阵列的多重散射系统。",
+      "en": "Using matched asymptotic expansions to create a point-scatterer model for mixed-boundary inclusions, deriving a generalized eigenvalue problem for infinite lattices and a multiple-scattering system for finite arrays."
+    },
+    "main_takeaway": {
+      "zh": "仅通过改变散射体的边界条件（而非几何位置）即可打破对称性并开启谷拓扑能隙，从而在固定几何阵列中实现拓扑界面的灵活重构和定位。",
+      "en": "Symmetry breaking and valley-Hall gap opening can be achieved solely by switching boundary conditions, enabling flexible reconfiguration and relocation of topological interfaces within a fixed geometric array."
+    },
+    "why_it_matters": {
+      "zh": "该方法为设计可编程拓扑光子或声子器件提供了一种高效的半解析手段，能够快速预测并重构波导路径，无需复杂的全波数值模拟。",
+      "en": "It provides an efficient semi-analytical tool for designing programmable topological photonic or phononic devices, allowing rapid prediction and reconfiguration of waveguide paths without heavy full-wave simulations."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种无需改变几何结构即可重构拓扑界面的新机制，并提供了严谨且高效的渐近分析数学工具。",
+        "en": "Introduces a novel mechanism for reconfiguring topological interfaces without geometric changes and provides rigorous, efficient asymptotic mathematical tools."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Applied",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章结合了严谨的数学物理渐近分析与拓扑超材料的可重构性应用，非常符合该期刊的定位。",
+        "en": "The paper combines rigorous mathematical physics asymptotics with reconfigurable applications in topological metamaterials, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "Valley-Hall interfaces",
+      "Reconfigurable metamaterials",
+      "Multiple scattering",
+      "Asymptotic analysis",
+      "Floquet-Bloch spectrum"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-26T09:22:45",
+    "input_scope": "full_pdf_text"
+  }
+}

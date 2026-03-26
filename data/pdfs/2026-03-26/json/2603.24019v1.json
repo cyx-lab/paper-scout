@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2603.24019v1",
+    "title": "Layer-Selective Proximity Symmetry Breaking Enables Anomalous and Nonlinear Hall Responses in 1H-TMD Metals",
+    "authors": [
+      "Yusuf Wicaksono",
+      "Toshikaze Kariyado"
+    ],
+    "abstract": "Nonlinear Hall responses are a direct electrical probe of quantum geometry, but they are symmetry-forbidden in many pristine two-dimensional metals. We show that layer-selective magnetic proximity unlocks intrinsic linear and nonlinear Hall effects in metallic $1H-NbX_2$ ($X=\\mathrm{S,Se,Te}$), where native $D_{3h}$ symmetry forces both the anomalous Hall conductivity and the Berry-curvature dipole (BCD) to vanish. Fully relativistic density-functional theory combined with Wannier interpolation reveals that an out-of-plane proximity exchange that preserves $C_3$ generates a sizable sheet anomalous Hall conductivity, $σ^{\\mathrm{sheet}}_{xy} \\sim 10^{-2}(e^2/h)$, while keeping the BCD exactly zero. Breaking $C_3$ by adding an in-plane exchange component (or an orthogonal two-sided exchange texture) produces a strongly tunable BCD and hence a nonlinear Hall conductivity that is odd and approximately linear in the in-plane exchange scale, reaching $|D_y|$ of order $10^{-2}$ angstrom and maximized in NbTe$_2$. These magnitudes imply a readily measurable second-harmonic Hall voltage in micron-scale Hall bars under mA ac drive. We further propose a dual-interface device in which the signs of the first- and second-harmonic Hall voltages provide two-bit readout using the same contacts.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-03-25T07:26:39Z",
+    "updated": "2026-03-25T07:26:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:nonlinear Hall",
+        "quantum_geometry:nonlinear Hall effect"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.24019v1",
+      "pdf_path": "data/pdfs/2026-03-26/3_Layer-Selective Proximity Symmetry Breaking Enables Anomalous and Nonlinear Hall Responses in 1H-TMD Metals__2603.24019v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-26T01:19:54.019539",
+    "updated_at": "2026-03-26T01:19:54.019529Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-26/3_Layer-Selective Proximity Symmetry Breaking Enables Anomalous and Nonlinear Hall Responses in 1H-TMD Metals__2603.24019v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.24019v1",
+    "pdf_filename": "3_Layer-Selective Proximity Symmetry Breaking Enables Anomalous and Nonlinear Hall Responses in 1H-TMD Metals__2603.24019v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究通过层选择性磁邻近效应在1H-TMD金属中诱导和调控反常及非线性霍尔响应的对称性机制。",
+      "en": "Investigates the symmetry-controlled induction and tuning of anomalous and nonlinear Hall responses in 1H-TMD metals via layer-selective magnetic proximity."
+    },
+    "problem": {
+      "zh": "原始1H-NbX2金属具有D3h对称性，导致其本征反常霍尔电导和贝里曲率偶极子（BCD）均为零，限制了其在量子几何探测和电子器件中的应用。",
+      "en": "Pristine 1H-NbX2 metals possess D3h symmetry, which forces both intrinsic anomalous Hall conductivity and Berry curvature dipole (BCD) to vanish, limiting their utility in quantum geometry probes and electronic devices."
+    },
+    "approach": {
+      "zh": "采用全相对论密度泛函理论结合Wannier插值方法，研究单侧和双侧磁邻近效应对能带对称性的破坏，并利用Rashba-Zeeman模型解析不同磁化方向对霍尔响应的贡献。",
+      "en": "Uses fully relativistic density-functional theory and Wannier interpolation to study symmetry breaking under one-sided and two-sided magnetic proximity, complemented by a Rashba-Zeeman model to analyze Hall response contributions."
+    },
+    "main_takeaway": {
+      "zh": "通过正交双界面磁邻近构型，可以独立打破镜像和三重旋转对称性，从而在单一材料中同时激活并独立调控线性反常霍尔效应和非线性霍尔效应。",
+      "en": "Orthogonal dual-interface magnetic proximity can independently break mirror and threefold rotational symmetries, enabling the simultaneous activation and independent tuning of linear anomalous and nonlinear Hall effects in a single material."
+    },
+    "why_it_matters": {
+      "zh": "该研究为工程化二维金属的量子几何响应提供了新思路，并提出了一种利用一阶和二阶谐波霍尔电压正负号实现四态双比特读出的新型磁存储器件方案。",
+      "en": "The study provides a new strategy for engineering quantum geometric responses in 2D metals and proposes a novel magnetic memory device capable of four-state, two-bit readout using harmonic Hall voltage signs."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "详细阐明了磁邻近构型、对称性破缺与贝里曲率及其偶极子之间的内在联系，并给出了具体的材料实现路径。",
+        "en": "It clarifies the intrinsic links between magnetic proximity configurations, symmetry breaking, and Berry curvature/dipole, providing a concrete path for material realization."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了深刻的对称性分析、高精度的第一性原理计算以及具有创新性的器件应用前景。",
+        "en": "The study combines deep symmetry analysis, high-precision first-principles calculations, and innovative device application prospects."
+      }
+    },
+    "keywords": [
+      "1H-TMD",
+      "Magnetic Proximity",
+      "Anomalous Hall Effect",
+      "Berry Curvature Dipole",
+      "Nonlinear Hall Effect",
+      "Symmetry Breaking"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-26T09:21:12",
+    "input_scope": "full_pdf_text"
+  }
+}

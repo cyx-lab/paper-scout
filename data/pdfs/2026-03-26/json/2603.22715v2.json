@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2603.22715v2",
+    "title": "Two-dimensional bound excitons in the real space and Landau quantization space: a comparative study",
+    "authors": [
+      "Kunxiang Li",
+      "Yi-Xiang Wang"
+    ],
+    "abstract": "The Landau quantization space is based on the respective motion of the electron and hole in a magnetic field and can provide a new route to understand the bound exciton behaviors observed in the experiments. In this paper, we study the two-dimensional exciton properties of monolayer WSe$_2$ in both the real space and Landau quantization space. Focusing on the excitons of zero center-of-mass momentum, we calculate its energy spectrum in both spaces, with the results agreeing well with each other. We then obtain the diamagnetic coefficients and root-mean-square radius, which are consistent with the available $s$ state data in the experiment. More importantly, in the exciton state $nl$, we find that the dominant electron-hole pair component may shift with the magnetic field and the Coulomb interactions, and reveal that the magnetic field will drive the dominant component to be the free electron-hole pair $\\{n_e=n+l-1,n_h=n-1\\}$, whereas the Coulomb interactions drives it to be the pair of the lower index.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-24T02:09:04Z",
+    "updated": "2026-03-25T09:26:43Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.22715v2",
+      "pdf_path": "data/pdfs/2026-03-26/3_Two-dimensional bound excitons in the real space and Landau quantization space a comparative study__2603.22715v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-26T01:19:54.021722",
+    "updated_at": "2026-03-26T01:19:54.021712Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-26/3_Two-dimensional bound excitons in the real space and Landau quantization space a comparative study__2603.22715v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.22715v2",
+    "pdf_filename": "3_Two-dimensional bound excitons in the real space and Landau quantization space a comparative study__2603.22715v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文对比研究了单层WSe2激子在实空间与朗道量子化空间的性质，揭示了磁场与库仑相互作用对激子态组成的竞争调控机制。",
+      "en": "This paper comparatively studies exciton properties in monolayer WSe2 using real space and Landau quantization space, revealing the competition between magnetic fields and Coulomb interactions in determining exciton state composition."
+    },
+    "problem": {
+      "zh": "如何从自由电子-空穴朗道能级的角度理解磁场下束缚激子的内部组成，并验证实空间与朗道量子化空间两种计算方法的一致性。",
+      "en": "How to understand the internal composition of bound excitons in terms of free electron-hole Landau levels under a magnetic field, and to verify the consistency between real-space and Landau-quantization-space approaches."
+    },
+    "approach": {
+      "zh": "采用有效质量近似和Keldysh势，分别在实空间（求解径向方程）和朗道量子化空间（矩阵对角化）计算激子能谱、抗磁系数及波函数组成。",
+      "en": "Using the effective mass approximation and Keldysh potential, the exciton energy spectrum, diamagnetic coefficients, and wavefunction composition are calculated in both real space (radial equation) and Landau quantization space (matrix diagonalization)."
+    },
+    "main_takeaway": {
+      "zh": "激子态的朗道能级组成受磁场和库仑相互作用共同决定：磁场倾向于驱动主导成分向高指数朗道能级对偏移，而库仑相互作用则将其拉向低指数对。",
+      "en": "The Landau-level composition of exciton states is determined by the competition between the magnetic field, which drives the dominant component toward higher-index pairs, and Coulomb interactions, which drive it toward lower-index pairs."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解二维半导体中的非氢原子激子行为提供了微观视角，解释了实验中观测到的能谱演化，并为分析莫尔超晶格等复杂系统中的激子态奠定了基础。",
+      "en": "This study provides a microscopic perspective on non-hydrogenic exciton behavior in 2D semiconductors, explains experimental energy spectrum evolution, and paves the way for analyzing exciton states in complex systems like moiré superlattices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章明确了磁场下激子内部朗道能级成分的演化规律，并定量验证了两种理论框架的等价性。",
+        "en": "The paper clarifies the evolution of internal Landau-level components of excitons under magnetic fields and quantitatively verifies the equivalence of two theoretical frameworks."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究关注凝聚态物理中典型的激子物理与强磁场效应，符合PRB的收录范围。",
+        "en": "The study focuses on typical exciton physics and strong magnetic field effects in condensed matter, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "WSe2",
+      "Bound excitons",
+      "Landau levels",
+      "Diamagnetic shift",
+      "Coulomb interaction"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-26T09:20:35",
+    "input_scope": "full_pdf_text"
+  }
+}

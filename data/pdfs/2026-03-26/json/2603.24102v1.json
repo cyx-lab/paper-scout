@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2603.24102v1",
+    "title": "Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves",
+    "authors": [
+      "Zi-Qian Zhou",
+      "Zhi-Fan Zhang",
+      "Cong Xiao",
+      "Hua Jiang",
+      "X. C. Xie"
+    ],
+    "abstract": "Surface acoustic waves (SAWs) become a popular driving source in modern condensed matter physics, but most existing theories simplify them as electric fields and ignore the non-uniform Brillouin zone folding effect. We develop a semiclassical framework and reconstruct the electron dynamics by treating SAW as a quasi-periodic potential modulating electronic momentum distribution. This framework naturally explains the experimentally observed DC drag current and predicts acousto-electric Hall effect. The theory further reveals various SAW-driven transport phenomena, emerging anomalous Hall, thermal Hall, and Nernst effects within time-reversal symmetric systems. Illustrated in bilayer graphene and $\\mathrm{MX_2}$ (M = Mo, W; X = S, Se, Te), the angular-dependent acousto-electric Hall effect provides an experimental probe for Berry curvature distribution.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.other"
+    ],
+    "published": "2026-03-25T09:07:54Z",
+    "updated": "2026-03-25T09:07:54Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.24102v1",
+      "pdf_path": "data/pdfs/2026-03-26/3_Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves__2603.24102v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-26T01:19:54.019094",
+    "updated_at": "2026-03-26T01:19:54.019084Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-26/3_Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves__2603.24102v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.24102v1",
+    "pdf_filename": "3_Electron Dynamics Reconstruction and Nontrivial Transport by Acoustic Waves__2603.24102v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究建立了声表面波驱动下电子动力学的半经典框架，揭示了非均匀布里渊区折叠诱导的奇特输运现象。",
+      "en": "This study develops a semiclassical framework for electron dynamics driven by surface acoustic waves, revealing exotic transport phenomena induced by non-uniform Brillouin zone folding."
+    },
+    "problem": {
+      "zh": "现有的声表面波（SAW）理论通常将其简化为均匀电场，忽略了SAW引起的非均匀布里渊区折叠效应及其对电子动力学的深层调制。",
+      "en": "Existing theories of surface acoustic waves (SAWs) often simplify them as uniform electric fields, ignoring the non-uniform Brillouin zone folding and its deep modulation of electron dynamics."
+    },
+    "approach": {
+      "zh": "开发了一种半经典波包动力学框架，将SAW视为调制电子动量分布的准周期势，并考虑了非均匀折叠权重对贝里曲率的影响。",
+      "en": "A semiclassical wave-packet dynamics framework was developed, treating the SAW as a quasi-periodic potential that modulates electronic momentum distribution and accounts for non-uniform folding weights on Berry curvature."
+    },
+    "main_takeaway": {
+      "zh": "声表面波会导致布里渊区发生非均匀折叠，从而在时间反演对称系统中诱导出声电霍尔效应、反常热霍尔效应和能斯特效应。",
+      "en": "Surface acoustic waves cause non-uniform Brillouin zone folding, inducing acousto-electric Hall, anomalous thermal Hall, and Nernst effects even in time-reversal symmetric systems."
+    },
+    "why_it_matters": {
+      "zh": "该理论为理解SAW驱动的输运提供了微观机制，并提出通过随角度变化的声电霍尔效应来实验探测材料的贝里曲率分布。",
+      "en": "The theory provides a microscopic mechanism for SAW-driven transport and proposes using angular-dependent acousto-electric Hall effects to experimentally probe Berry curvature distributions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "超越了传统的等效电场近似，建立了SAW与量子几何性质之间的严谨半经典联系。",
+        "en": "It goes beyond the traditional equivalent electric field approximation, establishing a rigorous semiclassical link between SAWs and quantum geometric properties."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了凝聚态物理中的基础动力学问题，并对石墨烯和类石墨烯材料提出了明确的实验预测。",
+        "en": "The study addresses fundamental dynamical problems in condensed matter physics and provides clear experimental predictions for graphene and TMD materials."
+      }
+    },
+    "keywords": [
+      "Surface Acoustic Waves",
+      "Semiclassical Dynamics",
+      "Brillouin Zone Folding",
+      "Acousto-electric Hall Effect",
+      "Berry Curvature"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-26T09:21:58",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2603.24211v1",
+    "title": "Excitonic order in quantum materials: fingerprints, platforms and opportunities",
+    "authors": [
+      "Yande Que",
+      "Clara Rebanal",
+      "Liam Watson",
+      "Michael Fuhrer",
+      "Michał Papaj",
+      "Bent Weber",
+      "Iolanda Di Bernardo"
+    ],
+    "abstract": "The exciton insulator (EI) is a unique many-body ground state of condensed, spontaneously formed excitons (electron-hole pairs) in equilibrium, distinct from conventional band or Mott insulators. Originally proposed over half a century ago, the concept has recently gained renewed experimental traction thanks to advances in spectroscopic resolution, ultrafast probes, and materials synthesis. In this Review, we outline the essential theoretical ingredients underpinning excitonic order and discuss how dimensionality, disorder and screening affect stability. We then examine the diverse experimental fingerprints of the excitonic state, with central focus on strategies to disentangle excitonic order from competing phases such as charge density waves, Mott insulating states, and hybridization-driven insulators, particularly in systems where non-trivial band topology plays a role. We survey the rapidly expanding family of candidate materials, from layered chalcogenides and correlated rare-earth compounds to artificial excitonic platforms and optically driven non-equilibrium condensates. Finally, we discuss the key challenges and emerging opportunities in the field, identifying the theoretical and experimental frontiers that promise to shape the next decade of research.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-03-25T11:36:46Z",
+    "updated": "2026-03-25T11:36:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.24211v1",
+      "pdf_path": "data/pdfs/2026-03-26/3_Excitonic order in quantum materials fingerprints, platforms and opportunities__2603.24211v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-26T01:19:54.018701",
+    "updated_at": "2026-03-26T01:19:54.018693Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-26/3_Excitonic order in quantum materials fingerprints, platforms and opportunities__2603.24211v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.24211v1",
+    "pdf_filename": "3_Excitonic order in quantum materials fingerprints, platforms and opportunities__2603.24211v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文全面综述了量子材料中激子绝缘态的理论基础、实验特征、候选材料及未来应用前景。",
+      "en": "This review provides a comprehensive overview of excitonic insulators, covering theoretical foundations, experimental fingerprints, material platforms, and future opportunities."
+    },
+    "problem": {
+      "zh": "如何在复杂的量子材料中识别自发的激子凝聚，并将其与电荷密度波、莫特绝缘体等竞争相区分开来。",
+      "en": "How to identify spontaneous exciton condensation in complex quantum materials and distinguish it from competing phases like charge density waves and Mott insulators."
+    },
+    "approach": {
+      "zh": "结合理论模型（如扩展Falicov-Kimball模型）与多模态实验手段（ARPES、STM、输运及超快光谱），系统总结激子序的物理特性。",
+      "en": "Combining theoretical models (e.g., EFKM) with multi-modal experimental techniques (ARPES, STM, transport, and ultrafast spectroscopy) to systematically summarize the physical properties of excitonic order."
+    },
+    "main_takeaway": {
+      "zh": "激子绝缘体是由电子-空穴对自发形成的宏观相干态，其核心特征包括价带平坦化、能带回折以及特有的集体激发模式（Higgs模式和相位模式）。",
+      "en": "Excitonic insulators are macroscopically coherent states formed by spontaneous electron-hole pairing, characterized by valence band flattening, band backfolding, and specific collective excitations (Higgs and phase modes)."
+    },
+    "why_it_matters": {
+      "zh": "激子序为研究强关联电子物理提供了独特平台，并在超低功耗器件、超快光学开关和量子信息处理方面具有巨大潜力。",
+      "en": "Excitonic order provides a unique platform for studying strongly correlated physics and holds great potential for ultra-low-power devices, ultrafast optical switches, and quantum information processing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章系统性地梳理了区分激子绝缘体与其他竞争相的实验判据，为该领域的实验验证提供了清晰指南。",
+        "en": "The paper systematically organizes experimental criteria to distinguish excitonic insulators from competing phases, providing a clear guide for experimental verification in the field."
+      }
+    },
+    "paper_type": {
+      "zh": "综述",
+      "en": "Review"
+    },
+    "likely_venue": {
+      "journal": "Nature Reviews Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章的深度、广度以及对领域挑战的系统总结符合该期刊对高质量综述的要求。",
+        "en": "The depth, breadth, and systematic summary of field challenges align with the requirements for high-quality reviews in this journal."
+      }
+    },
+    "keywords": [
+      "Excitonic Insulator",
+      "Many-body correlations",
+      "BCS-BEC crossover",
+      "Quantum materials",
+      "Ultrafast spectroscopy"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-26T09:22:20",
+    "input_scope": "full_pdf_text"
+  }
+}
