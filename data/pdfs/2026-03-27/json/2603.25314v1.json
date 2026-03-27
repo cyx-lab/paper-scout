@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2603.25314v1",
+    "title": "Thermal stability of pair density wave in a $d$-wave altermagnetic superconductor",
+    "authors": [
+      "Amrutha N Madhusuthanan",
+      "Madhuparna Karmakar"
+    ],
+    "abstract": "We study finite-momentum superconductivity in a two-dimensional $d$-wave altermagnetic superconductor using a non-perturbative Monte Carlo approach beyond mean-field theory. We show that altermagnetism stabilizes a pair density wave (PDW) state without external magnetic fields and enables its survival at finite temperatures with robust phase coherence. Our results establish altermagnetism as a promising route to realizing thermally stable PDW superconductivity and identify clear thermodynamic and spectroscopic signatures.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-26T11:00:51Z",
+    "updated": "2026-03-26T11:00:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.25314v1",
+      "pdf_path": "data/pdfs/2026-03-27/3_Thermal stability of pair density wave in a $d$-wave altermagnetic superconductor__2603.25314v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.452510",
+    "updated_at": "2026-03-27T01:21:51.452502Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/3_Thermal stability of pair density wave in a $d$-wave altermagnetic superconductor__2603.25314v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.25314v1",
+    "pdf_filename": "3_Thermal stability of pair density wave in a $d$-wave altermagnetic superconductor__2603.25314v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了交错磁性（Altermagnetism）能够在无外磁场情况下稳定d波超导体中的对密度波（PDW）态，并使其在有限温度下保持鲁棒的相干性。",
+      "en": "The study demonstrates that altermagnetism can stabilize the pair density wave (PDW) state in d-wave superconductors without external magnetic fields and ensure its thermal stability."
+    },
+    "problem": {
+      "zh": "对密度波（PDW）态通常对热涨落和扰动极其敏感，难以在实际材料的有限温度下稳定存在。",
+      "en": "Pair density wave (PDW) states are typically extremely fragile against thermal fluctuations and perturbations, making them difficult to realize at finite temperatures in real materials."
+    },
+    "approach": {
+      "zh": "采用非微扰静态路径近似（SPA）蒙特卡罗方法结合变分平均场理论，研究二维吸引哈伯德模型中的交错磁性超导体。",
+      "en": "Used non-perturbative static path approximated (SPA) Monte Carlo combined with variational mean-field theory to study a 2D attractive Hubbard model for altermagnetic superconductors."
+    },
+    "main_takeaway": {
+      "zh": "交错磁性通过费米面拓扑结构的改变，不仅在基态稳定了PDW，还显著提升了其抵抗热涨落的能力，使其在有限温度下依然具有可观测的热力学和光谱特征。",
+      "en": "Altermagnetism stabilizes PDW by modifying Fermi surface topology, significantly enhancing its resistance to thermal fluctuations and providing clear thermodynamic and spectroscopic signatures at finite temperatures."
+    },
+    "why_it_matters": {
+      "zh": "为寻找和实现长期以来难以捉摸的PDW态提供了一条无需外磁场的新路径，并为交错磁性超导材料的实验探测提供了理论指导。",
+      "en": "It provides a new route to realize the elusive PDW state without external magnetic fields and offers theoretical guidance for experimental detection in altermagnetic superconducting materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次定量评估了交错磁性超导体中PDW态的热稳定性，并给出了明确的温度标度。",
+        "en": "First quantitative estimation of the thermal stability of the PDW state in altermagnetic superconductors with explicit temperature scales."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "交错磁性是当前凝聚态物理的热点，且文章解决了PDW稳定性这一长期存在的难题。",
+        "en": "Altermagnetism is a hot topic in condensed matter physics, and the paper addresses the long-standing problem of PDW stability."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Pair Density Wave",
+      "d-wave Superconductivity",
+      "Thermal Stability",
+      "Monte Carlo"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:28:10",
+    "input_scope": "full_pdf_text"
+  }
+}

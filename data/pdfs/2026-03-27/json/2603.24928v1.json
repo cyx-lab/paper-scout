@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2603.24928v1",
+    "title": "Forster energy transfer boosts indirect anisotropic interlayer excitons in 2L-MoSe2/perovskite heterostructures",
+    "authors": [
+      "Yingying Chen",
+      "Zihao Jiao",
+      "Haizhen Wang",
+      "Dehui Li"
+    ],
+    "abstract": "Interlayer excitons (IXs) in two-dimensional (2D) van der Waals heterostructures have attracted considerable attention due to their unique optical and electronic properties. Owing to the spatially indirect nature, the radiative emission efficiency highly sensitive to interlayer twist angles. Further considering that their uniformly oriented out-of-plane dipole moments limit directional emission, strategies to simultaneously improve emission efficiency and induce optical anisotropy warrant in-depth investigation. In this work, we report significant photoluminescence (PL) enhancement and optical anisotropy of IXs in 2L-MoSe2/perovskite heterostructures mediated by energy transfer from ReS2. We attribute this enhancement to Forster resonance energy transfer (FRET), which increases the 2L-MoSe2 emission by approximately eight-fold at room temperature, and nearly doubles the emission intensity of momentum-indirect IXs in 2L-MoSe2/perovskite heterostructures at 78 K. Importantly, the optical anisotropy of ReS2 can be effectively imprinted onto 2L-MoSe2 and associated indirect IXs during the energy transfer process, yielding a linear dichroism of approximately 1.1 for both intralayer excitons and IXs with identical polarization directions. These findings expand the scope of IX study beyond direct bandgap materials with strong intrinsic emission to include systems with indirect bandgaps, offering new avenues for realizing high-performance polarization-sensitive optoelectronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.app-ph"
+    ],
+    "published": "2026-03-26T01:44:16Z",
+    "updated": "2026-03-26T01:44:16Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:interlayer exciton",
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.24928v1",
+      "pdf_path": "data/pdfs/2026-03-27/6_Forster energy transfer boosts indirect anisotropic interlayer excitons in 2L-MoSe2perovskite heterostructures__2603.24928v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.453536",
+    "updated_at": "2026-03-27T01:21:51.453525Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/6_Forster energy transfer boosts indirect anisotropic interlayer excitons in 2L-MoSe2perovskite heterostructures__2603.24928v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.24928v1",
+    "pdf_filename": "6_Forster energy transfer boosts indirect anisotropic interlayer excitons in 2L-MoSe2perovskite heterostructures__2603.24928v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究通过 ReS2 介导的 Förster 能量转移显著增强了 2L-MoSe2/钙钛矿异质结中间层激子的发光强度并引入了光学各向异性。",
+      "en": "This study demonstrates significant enhancement and induced optical anisotropy of interlayer excitons in 2L-MoSe2/perovskite heterostructures via ReS2-mediated Förster resonance energy transfer."
+    },
+    "problem": {
+      "zh": "解决范德华异质结中动量间接中间层激子辐射效率低以及缺乏定向发射（各向同性）的问题。",
+      "en": "Addressing the low radiative efficiency and lack of directional emission (isotropy) of momentum-indirect interlayer excitons in van der Waals heterostructures."
+    },
+    "approach": {
+      "zh": "构建 ReS2/hBN/2L-MoSe2/钙钛矿多层异质结，利用 hBN 阻隔电荷转移并促进从 ReS2 到激子系统的 Förster 能量转移（FRET）。",
+      "en": "Constructing ReS2/hBN/2L-MoSe2/perovskite multilayer heterostructures to facilitate Förster resonance energy transfer (FRET) from ReS2 while using hBN to block charge transfer."
+    },
+    "main_takeaway": {
+      "zh": "能量转移使 2L-MoSe2 的发光增强了约 8 倍，使中间层激子发射增强了约 2 倍，并成功将 ReS2 的光学各向异性传递给了中间层激子（线性二色性约 1.1）。",
+      "en": "Energy transfer boosts 2L-MoSe2 emission by ~8-fold and interlayer exciton emission by ~2-fold, while imprinting ReS2's optical anisotropy onto the interlayer excitons (linear dichroism ~1.1)."
+    },
+    "why_it_matters": {
+      "zh": "该研究为增强间接带隙材料的发光提供了新策略，并为开发高性能偏振敏感光电器件开辟了道路。",
+      "en": "It provides a new strategy to enhance emission in indirect bandgap materials and paves the way for high-performance polarization-sensitive optoelectronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "在间接带隙异质结系统中通过能量转移同时实现了发光增强和各向异性传递。",
+        "en": "Simultaneous demonstration of emission enhancement and anisotropy transfer in indirect-bandgap heterostructures via energy transfer."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文涉及二维材料异质结、激子物理及高性能光电器件，符合该期刊的关注方向。",
+        "en": "The work involves 2D heterostructures, exciton physics, and optoelectronics, aligning well with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Förster energy transfer",
+      "Interlayer excitons",
+      "Optical anisotropy",
+      "2D heterostructures",
+      "MoSe2",
+      "Perovskite"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:24:36",
+    "input_scope": "full_pdf_text"
+  }
+}

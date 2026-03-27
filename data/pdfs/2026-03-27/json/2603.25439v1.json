@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2603.25439v1",
+    "title": "Tensor network methods for bound electron-hole complexes beyond strong and weak confinement in nanoplatelets",
+    "authors": [
+      "Bruno Hausmann",
+      "Marten Richter"
+    ],
+    "abstract": "In semiconductor nanostructures, optical excitation typically creates bound electron-hole states, such as excitons, trions, and larger complexes. Their relative motion is described by the Wannier equation, which is valid only for spatially extended motion in the Coulomb-dominated, weak-confinement limit. Other small nanostructures, such as quantum dots, are in the confinement-dominated strong confinement regime, where the wavefunction factorizes into independent electron and hole parts. Nanoplatelets are in between the two regimes and require solving an unfactorized higher-dimensional Schrödinger equation, which is computationally expensive. This work demonstrates how tensor networks can partially overcome this problem, using CdSe nanoplatelets as an example. The method is also applicable to related two-dimensional systems. As a demonstration, we calculate the excitonic and trionic ground states, as well as several excited states, for nanoplatelets of varying sizes, including their energies and oscillator strengths. More importantly, overall strategies for using tensor networks in real space for systems under intermediate confinement have been developed.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-03-26T13:37:21Z",
+    "updated": "2026-03-26T13:37:21Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:trion"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.25439v1",
+      "pdf_path": "data/pdfs/2026-03-27/3_Tensor network methods for bound electron-hole complexes beyond strong and weak confinement in nanoplatelets__2603.25439v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.452205",
+    "updated_at": "2026-03-27T01:21:51.452197Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/3_Tensor network methods for bound electron-hole complexes beyond strong and weak confinement in nanoplatelets__2603.25439v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.25439v1",
+    "pdf_filename": "3_Tensor network methods for bound electron-hole complexes beyond strong and weak confinement in nanoplatelets__2603.25439v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用量子化张量列（QTT）和密度矩阵重整化群（DMRG）高效求解纳米片中激子与三子的多维薛定谔方程。",
+      "en": "Efficiently solving the multi-dimensional Schrödinger equation for excitons and trions in nanoplatelets using Quantics Tensor Trains (QTT) and DMRG."
+    },
+    "problem": {
+      "zh": "纳米片处于强弱局域化的中间态，其激子（4维）和三子（6维）波函数无法简单分解，直接数值求解计算量巨大。",
+      "en": "Nanoplatelets operate in an intermediate confinement regime where exciton (4D) and trion (6D) wavefunctions cannot be factorized, making direct numerical solutions computationally prohibitive."
+    },
+    "approach": {
+      "zh": "将实空间波函数离散化为量子化张量列（QTT），通过逻辑电路构建哈密顿量的矩阵乘积算符（MPO），并利用DMRG算法求解基态和激发态。",
+      "en": "Discretizing real-space wavefunctions into Quantics Tensor Trains (QTT), constructing Hamiltonian Matrix Product Operators (MPOs) via logical circuits, and using DMRG to find ground and excited states."
+    },
+    "main_takeaway": {
+      "zh": "张量网络方法能够在不依赖质心或相对坐标分解的前提下，实现高分辨率的多粒子态计算，有效处理中间局域化效应。",
+      "en": "Tensor network methods enable high-resolution multi-particle calculations without relying on center-of-mass or relative coordinate factorization, effectively capturing intermediate confinement effects."
+    },
+    "why_it_matters": {
+      "zh": "该方法突破了传统网格法在处理高维多体问题时的内存瓶颈，为研究二维材料和纳米结构中的复杂准粒子提供了通用框架。",
+      "en": "This approach overcomes the memory bottleneck of traditional grid methods for high-dimensional many-body problems, providing a general framework for studying complex quasiparticles in 2D materials and nanostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功将张量网络应用于半导体实空间多体问题，实现了远超传统方法的分辨率，并揭示了三子态在中间局域化下的特性。",
+        "en": "Successfully applied tensor networks to real-space many-body problems in semiconductors, achieving resolutions far beyond traditional methods and revealing trion characteristics in intermediate confinement."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究关注凝聚态物理中的准粒子理论与数值方法，符合PRB的范畴。",
+        "en": "The study focuses on quasiparticle theory and numerical methods in condensed matter physics, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Nanoplatelets",
+      "Excitons",
+      "Trions",
+      "Tensor Networks",
+      "DMRG",
+      "Quantics Tensor Trains"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:29:14",
+    "input_scope": "full_pdf_text"
+  }
+}

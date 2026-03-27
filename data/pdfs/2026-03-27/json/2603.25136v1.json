@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2603.25136v1",
+    "title": "Distinguishing apparent and hidden altermagnetism via uniaxial strain in $\\mathrm{CsV_2Te_2O}$-family",
+    "authors": [
+      "San-Dong Guo",
+      "Yang Liu"
+    ],
+    "abstract": "The hidden altermagnetism has been theoretically proposed and then experimentally confirmed in metal $\\mathrm{Cs_{1-δ}V_2Te_2O}$, which exhibits two nearly degenerate ground-state magnetic configurations (C-type and G-type) corresponding respectively to apparent and hidden altermagnetism. Here, we propose that in-plane uniaxial strain can be utilized to distinguish apparent and hidden altermagnetism. Under uniaxial strain, apparent altermagnetism exhibits an obvious net magnetic moment, whereas hidden altermagnetism maintains zero net magnetic moment. The magnetic moment induced by uniaxial strain here, namely the piezomagnetic effect, differs from that in semiconductors, where strain must be applied first followed by carrier doping to generate net magnetism. First-principles calculations verify our proposal, revealing that the magnetic moment induced by uniaxial strain in C-type antiferromagnetic $\\mathrm{CsV_2Te_2O}$ is much larger than that in the previously studied altermagnetic semiconductors. Furthermore, we also investigate the electronic state transitions of semiconductors featuring a crystal structure analogous to $\\mathrm{CsV_2Te_2O}$ under uniaxial strain, and verify our proposal in specific material via first-principles calculations. Our work provides an experimentally feasible strategy to distinguish apparent and hidden altermagnetism in material $\\mathrm{Cs_{1-δ}V_2Te_2O}$, and extends the physical implication of the piezomagnetic effect, which can be directly verified in experimentally synthesizable $\\mathrm{KV_2Se_2O}$ and $\\mathrm{Rb_{1-δ}V_2Te_2O}$.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-03-26T07:56:36Z",
+    "updated": "2026-03-26T07:56:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.25136v1",
+      "pdf_path": "data/pdfs/2026-03-27/3_Distinguishing apparent and hidden altermagnetism via uniaxial strain in $mathrm{CsV_2Te_2O}$-family__2603.25136v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.453017",
+    "updated_at": "2026-03-27T01:21:51.453008Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/3_Distinguishing apparent and hidden altermagnetism via uniaxial strain in $mathrm{CsV_2Te_2O}$-family__2603.25136v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.25136v1",
+    "pdf_filename": "3_Distinguishing apparent and hidden altermagnetism via uniaxial strain in $mathrm{CsV_2Te_2O}$-family__2603.25136v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出利用面内单轴应变诱导的压磁效应来有效区分 CsV2Te2O 家族材料中的显性与隐性交错磁性。",
+      "en": "Proposed using the piezomagnetic effect induced by in-plane uniaxial strain to distinguish between apparent and hidden altermagnetism in the CsV2Te2O family."
+    },
+    "problem": {
+      "zh": "CsV2Te2O 存在能量极近的 C 型（显性）和 G 型（隐性）磁构型，实验上仅靠能带测量难以准确区分这两种交错磁性状态。",
+      "en": "The C-type (apparent) and G-type (hidden) magnetic configurations in CsV2Te2O are nearly degenerate, making it difficult to distinguish them experimentally solely through band structure measurements."
+    },
+    "approach": {
+      "zh": "采用第一性原理计算，研究面内单轴应变对金属和半导体体系中不同磁构型总磁矩及电子态演化的影响。",
+      "en": "Used first-principles calculations to investigate the effects of in-plane uniaxial strain on the total magnetic moment and electronic state transitions of different magnetic configurations in metallic and semiconducting systems."
+    },
+    "main_takeaway": {
+      "zh": "单轴应变会破坏显性交错磁性的对称性并诱导产生显著的净磁矩，而隐性交错磁性因保持 PT 对称性，其总磁矩在应变下始终保持为零。",
+      "en": "Uniaxial strain breaks the symmetry of apparent altermagnetism to induce a significant net magnetic moment, whereas hidden altermagnetism maintains zero net magnetization due to preserved PT symmetry."
+    },
+    "why_it_matters": {
+      "zh": "该研究为实验鉴定隐性交错磁性提供了一种切实可行的宏观磁学测量方案，并拓展了压磁效应在金属交错磁体中的物理内涵。",
+      "en": "This work provides an experimentally feasible macroscopic magnetic measurement strategy to identify hidden altermagnetism and extends the physical implications of the piezomagnetic effect in metallic altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了应变对不同对称性交错磁体的磁响应差异，解决了实验区分显性与隐性交错磁性的难题。",
+        "en": "Clarified the distinct magnetic responses of altermagnets with different symmetries under strain, solving the experimental challenge of distinguishing apparent and hidden altermagnetism."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究聚焦于新型磁性材料的对称性分析与物性预测，非常符合 PRB 的报道范围。",
+        "en": "The study focuses on symmetry analysis and property prediction of novel magnetic materials, which aligns well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Hidden altermagnetism",
+      "Uniaxial strain",
+      "Piezomagnetic effect",
+      "First-principles calculations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:24:49",
+    "input_scope": "full_pdf_text"
+  }
+}

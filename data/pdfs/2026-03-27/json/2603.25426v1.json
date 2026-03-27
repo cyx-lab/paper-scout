@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2603.25426v1",
+    "title": "Correlation-Driven Orbital Order Realizes 2D Metallic Altermagnetism",
+    "authors": [
+      "Nirmalya Jana",
+      "Atasi Chakraborty",
+      "Anamitra Mukherjee",
+      "Amit Agarwal"
+    ],
+    "abstract": "Two-dimensional metallic altermagnets are rare, and no correlated 2D material has been established to host large nonrelativistic spin splitting. Here we show that spontaneous orbital order, driven by electronic correlations and Fermi surface nesting, provides a general microscopic route to two-dimensional metallic altermagnetism. Antiferro-orbital ordering between the d$_{xz}$ and d$_{yz}$ orbitals breaks the equivalence of magnetic sublattices with opposite spins and generates a symmetry-enforced altermagnetic spin texture. As a concrete realization, we identify monolayer YbMn$_2$Ge$_2$ as a stable correlated metallic altermagnet exhibiting giant nonrelativistic spin splitting of order 1 eV. The resulting phase supports an exceptionally large and gate-tunable transverse spin conductivity. These results establish correlation-driven orbital order as a robust and general mechanism for designing correlated altermagnets with large spin splitting.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-26T13:17:03Z",
+    "updated": "2026-03-26T13:17:03Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.25426v1",
+      "pdf_path": "data/pdfs/2026-03-27/3_Correlation-Driven Orbital Order Realizes 2D Metallic Altermagnetism__2603.25426v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.452310",
+    "updated_at": "2026-03-27T01:21:51.452289Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/3_Correlation-Driven Orbital Order Realizes 2D Metallic Altermagnetism__2603.25426v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.25426v1",
+    "pdf_filename": "3_Correlation-Driven Orbital Order Realizes 2D Metallic Altermagnetism__2603.25426v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "揭示了电子关联驱动的自发轨道序是实现二维金属交错磁体的一种通用微观机制。",
+      "en": "Reveals that correlation-driven spontaneous orbital order provides a general microscopic route to 2D metallic altermagnetism."
+    },
+    "problem": {
+      "zh": "现有的交错磁体多由晶体结构直接决定，缺乏由电子关联驱动且具有大非相对论自旋分裂的二维金属材料。",
+      "en": "Existing altermagnets are mostly lattice-driven; there is a lack of 2D metallic materials where altermagnetism is driven by electronic correlations with large spin splitting."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算、紧束缚模型分析以及针对多轨道哈伯德模型的半经典蒙特卡罗模拟。",
+      "en": "Combined DFT+U calculations, tight-binding modeling, and semiclassical Monte Carlo simulations of the multi-orbital Hubbard model."
+    },
+    "main_takeaway": {
+      "zh": "单层 YbMn2Ge2 中的 dxz 和 dyz 轨道发生反铁轨道序，打破了子晶格等效性，产生了高达 1 eV 的巨型自旋分裂和高度可调的横向自旋电导。",
+      "en": "Antiferro-orbital ordering of dxz and dyz orbitals in monolayer YbMn2Ge2 breaks sublattice equivalence, yielding giant spin splitting (~1 eV) and highly tunable transverse spin conductivity."
+    },
+    "why_it_matters": {
+      "zh": "为设计具有大自旋分裂的关联交错磁体提供了新途径，并展示了通过电场门控调节自旋流极性的潜力，对二维自旋电子学具有重要意义。",
+      "en": "Provides a new pathway for designing correlated altermagnets with large spin splitting and demonstrates potential for gate-controlled spin current polarity in 2D spintronics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在二维金属体系中明确了关联驱动轨道序产生交错磁性的机制，并预测了具有极高自旋分裂值的候选材料。",
+        "en": "First to clarify the mechanism of correlation-driven orbital order for altermagnetism in 2D metals and predict a candidate with exceptionally high spin splitting."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用了 Letter 格式，提出了新颖的物理机制并结合了具体的材料预测，非常符合该期刊的风格。",
+        "en": "The paper uses a Letter format, proposes a novel physical mechanism, and includes specific material predictions, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Orbital order",
+      "Electronic correlations",
+      "Spin splitting",
+      "2D materials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:28:53",
+    "input_scope": "full_pdf_text"
+  }
+}

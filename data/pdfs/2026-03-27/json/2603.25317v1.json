@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2603.25317v1",
+    "title": "Flat band driven competing charge and spin instabilities in the altermagnet CrSb",
+    "authors": [
+      "A. Korshunov",
+      "M. Alkorta",
+      "C. -Y. Lim",
+      "F. Ballester",
+      "Cong Li",
+      "Zhilin Li",
+      "D. Chernyshov",
+      "A. Bosak",
+      "M. G. Vergniory",
+      "Ion Errea",
+      "S. Blanco-Canosa"
+    ],
+    "abstract": "The confinement of electronic wavefunctions in momentum space can give rise to flat electronic bands, where the quenching of kinetic energy enhances the density of states and amplifies interaction effects. Such conditions are fertile ground for emergent quantum phases, as spin, charge and lattice degrees of freedom become strongly entangled. In these regimes, subtle competitions between intertwined order parameters often dictate the macroscopic ground state, producing complex and sometimes unexpected collective behavior. Here we show that the altermagnet CrSb provides a realization of this scenario, and uncover short-range charge-order fluctuations at the M point of the Brillouin zone, q*=(1/2 0), persisting above the Neel temperature (TN). Remarkably, these fluctuations collapse upon entering the magnetically ordered phase, revealing a direct and robust competition between charge and spin order. At TN, the phonon dispersion at q* develops a pronounced Kohn-like anomaly, signaling strong electron-phonon coupling in the vicinity of the magnetic transition. Below TN, exchange striction dramatically renormalizes the associated soft phonon mode by approximately ~6 meV, the largest spin-phonon coupling ever reported. First-principles calculations attribute this behavior to a strong coupling between nearly dispersionless electronic states and a phonon branch that appears unstable at the harmonic level only when no magnetic order is considered, revealing the large sensitivity of the lattice to magnetic symmetry breaking. The competition between charge and spin order parameters, amplified by flat-band physics, drives the observed phonon anomaly and its abrupt reconstruction at TN. With its chemically simple structure and symmetry-protected altermagnetic state, CrSb emerges as a model platform to explore how flat electronic bands mediate giant spin-phonon coupling and competing broken symmetries.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-03-26T11:05:14Z",
+    "updated": "2026-03-26T11:05:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.25317v1",
+      "pdf_path": "data/pdfs/2026-03-27/3_Flat band driven competing charge and spin instabilities in the altermagnet CrSb__2603.25317v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.452481",
+    "updated_at": "2026-03-27T01:21:51.452474Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/3_Flat band driven competing charge and spin instabilities in the altermagnet CrSb__2603.25317v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.25317v1",
+    "pdf_filename": "3_Flat band driven competing charge and spin instabilities in the altermagnet CrSb__2603.25317v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了交错磁体CrSb中由平带驱动的电荷与自旋序竞争，并观测到创纪录的巨大自旋-声子耦合。",
+      "en": "The study reveals flat-band-driven competition between charge and spin orders in the altermagnet CrSb, featuring record-high spin-phonon coupling."
+    },
+    "problem": {
+      "zh": "探索平带电子结构如何在中高温交错磁体中诱导量子不稳定性，以及电荷、自旋与晶格自由度之间的相互作用机制。",
+      "en": "Investigating how flat-band electronic structures induce quantum instabilities and the interplay between charge, spin, and lattice degrees of freedom in high-temperature altermagnets."
+    },
+    "approach": {
+      "zh": "利用弥散散射和非弹性X射线散射技术观测晶格动力学，并结合第一性原理计算与随机自洽谐波近似（SSCHA）分析非谐性与电子结构。",
+      "en": "Utilizing diffuse scattering and inelastic X-ray scattering to observe lattice dynamics, combined with DFT and SSCHA calculations to analyze anharmonicity and electronic structure."
+    },
+    "main_takeaway": {
+      "zh": "在CrSb中发现平带驱动的短程电荷序涨落与自旋序存在直接竞争：进入磁有序态后电荷涨落消失，并伴随高达6 meV的巨大声子频率移动。",
+      "en": "A direct competition between flat-band-driven short-range charge fluctuations and spin order was found in CrSb: charge fluctuations collapse upon magnetic ordering, accompanied by a giant phonon renormalization of 6 meV."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了CrSb作为研究平带物理介导巨大自旋-晶格耦合的模型平台，为利用交错磁性对称性调控量子材料性能提供了新思路。",
+      "en": "This work establishes CrSb as a model platform for exploring giant spin-lattice coupling mediated by flat-band physics, offering new ways to tune quantum material properties via altermagnetic symmetry."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在交错磁体中实验证实了平带驱动的电荷-自旋竞争，并报道了目前已知最大的自旋-声子耦合强度之一。",
+        "en": "First experimental confirmation of flat-band-driven charge-spin competition in an altermagnet, reporting one of the largest spin-phonon couplings known."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文结合了高水平的同步辐射实验与前沿的交错磁体理论，对凝聚态物理中的竞争序有重要贡献。",
+        "en": "The paper combines high-level synchrotron experiments with frontier altermagnetism theory, making a significant contribution to the study of competing orders."
+      }
+    },
+    "keywords": [
+      "CrSb",
+      "Altermagnetism",
+      "Flat bands",
+      "Spin-phonon coupling",
+      "Charge order fluctuations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:28:34",
+    "input_scope": "full_pdf_text"
+  }
+}

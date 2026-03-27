@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2603.24390v2",
+    "title": "Plasmonic Mediated Atomically Engineered 2D Aluminium Quasicrystals for Dopamine Biosensing",
+    "authors": [
+      "Saswata Goswami",
+      "Guilherme S. L. Fabris",
+      "Diganta Mondal",
+      "Raphael B. de Oliveira",
+      "Anyesha Chakraborty",
+      "Thakur Prasad Yadav",
+      "Nilay Krishna Mukhopadhyay",
+      "Samit K. Ray",
+      "Douglas S. Galvão",
+      "Chandra Sekhar Tiwary"
+    ],
+    "abstract": "Dopamine levels are linked to neurological illnesses like Parkinson's and Alzheimer's. Thus, reliable and sensitive detection of dopamine is crucial for early diagnosis and surveillance of neurodegenerative diseases. Non-noble-metal-based nanomaterials are ideal for light-mediated sensing of organic molecules. Among these, 2D quasicrystal structures consisting of five elements, namely Al70Co10Fe5Ni10Cu5, provide active sites due to their high surface-to-volume ratio, making them excellent for organic chemical sensing. Here, we propose a simple, label-free, spatial self-phase-modulation (SSPM)-based sensing method in liquid form. SSPM-based time evolution of the diffraction pattern for varied mixing levels of a 1100 ppb dopamine solution shows a shift in the active 2D Al QC solution. The 1100 ppb solution shows a distinct value, indicating a change in the nonlinear refractive index. Time-evolution analysis is used to calculate sensitivities to changes in the nonlinear refractive index and time constant. The SPR-activated 2D Al QC nanostructure is used to demonstrate dopamine sensing and to perform qualitative and quantitative evaluations. The SSPM-based sensing has been further compared with other optical-based sensing methods such as Raman spectroscopy, UV-Vis spectroscopy, and FTIR spectroscopy. The experimental observations are also explained using DFT-based simulations. The current SSPM method can be used for rapid, large-scale medical diagnostics.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.med-ph"
+    ],
+    "published": "2026-03-25T15:08:20Z",
+    "updated": "2026-03-26T13:12:28Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasicrystal"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.24390v2",
+      "pdf_path": "data/pdfs/2026-03-27/4_Plasmonic Mediated Atomically Engineered 2D Aluminium Quasicrystals for Dopamine Biosensing__2603.24390v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.454523",
+    "updated_at": "2026-03-27T01:21:51.454515Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/4_Plasmonic Mediated Atomically Engineered 2D Aluminium Quasicrystals for Dopamine Biosensing__2603.24390v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.24390v2",
+    "pdf_filename": "4_Plasmonic Mediated Atomically Engineered 2D Aluminium Quasicrystals for Dopamine Biosensing__2603.24390v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究利用二维铝基准晶的表面等离激元增强效应，开发了一种基于空间自相位调制（SSPM）的高灵敏度多巴胺光学传感器。",
+      "en": "This study develops a high-sensitivity dopamine biosensor using spatial self-phase modulation (SSPM) mediated by the surface plasmon resonance of 2D Al-based quasicrystals."
+    },
+    "problem": {
+      "zh": "传统多巴胺检测方法依赖复杂的酶促反应或表面修饰，且非贵金属传感平台在灵敏度和稳定性方面存在局限。",
+      "en": "Traditional dopamine detection relies on complex enzymatic reactions or surface functionalization, and non-noble metal sensing platforms often face limitations in sensitivity and stability."
+    },
+    "approach": {
+      "zh": "通过液相剥离制备二维铝基准晶，利用其表面等离激元特性增强非线性光学响应，并结合SSPM衍射环的时间演化分析实现无标记检测。",
+      "en": "2D Al-based quasicrystals were synthesized via liquid-phase exfoliation to leverage SPR-enhanced nonlinear optical responses, using SSPM diffraction ring time-evolution for label-free sensing."
+    },
+    "main_takeaway": {
+      "zh": "基于SSPM的传感方法在多巴胺检测中表现出极高的非线性折射率灵敏度（3.56 cm2/W/mL），其性能优于拉曼、红外和紫外-可见吸收光谱等传统手段。",
+      "en": "The SSPM-based method exhibits exceptional nonlinear refractive index sensitivity (3.56 cm2/W/mL) for dopamine detection, outperforming traditional Raman, FTIR, and UV-Vis spectroscopic techniques."
+    },
+    "why_it_matters": {
+      "zh": "该研究为神经退行性疾病的早期诊断提供了一种低成本、快速且可视化的新型光学检测方案，并拓展了二维准晶在生物传感领域的应用。",
+      "en": "This work provides a low-cost, rapid, and visual optical detection scheme for early diagnosis of neurodegenerative diseases and expands the application of 2D quasicrystals in biosensing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次将二维准晶的非线性光学效应应用于生物传感，并结合实验与理论计算阐明了分子间的相互作用机制。",
+        "en": "It marks the first application of 2D quasicrystal nonlinear optical effects to biosensing, supported by both experiments and theoretical calculations of molecular interactions."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论数值",
+      "en": "Experimental + Theoretical/Numerical"
+    },
+    "likely_venue": {
+      "journal": "Advanced Functional Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文涵盖了新型二维材料合成、先进光学表征及生物医学应用，符合该期刊对功能材料创新的要求。",
+        "en": "The paper covers novel 2D material synthesis, advanced optical characterization, and biomedical applications, fitting the journal's scope for functional material innovation."
+      }
+    },
+    "keywords": [
+      "二维准晶",
+      "表面等离激元",
+      "空间自相位调制",
+      "多巴胺传感",
+      "非线性光学"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:23:51",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2603.25271v1",
+    "title": "Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure",
+    "authors": [
+      "S. Chattopadhyay",
+      "L. Thomarat",
+      "C. S. Ong",
+      "K. Kargeti",
+      "Lipika",
+      "J. -P. Rueff",
+      "L. Nataf",
+      "K. Manna",
+      "S. K. Panda",
+      "C. Shekhar",
+      "V. Balédent"
+    ],
+    "abstract": "We investigate the pressure-induced evolution of crystal structure and magnetism in the kagome ferromagnet Fe$_3$Sn$_2$ by combining X-ray diffraction, X-ray Emission Spectroscopy, X-ray Magnetic Circular Dichroism, and spin-polarized density functional theory calculations. X-ray diffraction reveals a structural phase transition above $\\sim$20~GPa, which coincides with a pronounced reduction of the local Fe magnetic moment evidenced by X-ray emission spectroscopy, indicating a high-spin to low-spin transition. While XES probes the amplitude of the local moment, XMCD provides direct information on the orientation of the ordered magnetic moments and uncovers a rich pressure--temperature magnetic phase diagram. At room temperature, a collinear ferromagnetic phase with moments aligned along the $c$ axis persists up to the structural transition. At low temperature, a tilted magnetic configuration remains stable to significantly higher pressures, while at intermediate temperatures pressure stabilizes the low-temperature magnetic phase at the expense of the high-temperature one. Spin-polarized first-principles calculations show that, although isotropic ferromagnetic exchange interactions remain robust under compression, pressure enhances spin--orbit--driven magnetic anisotropy and Dzyaloshinskii--Moriya interactions, favoring non-collinear magnetic configurations. Our results demonstrate that pressure reshapes the magnetic energy landscape of Fe$_3$Sn$_2$ by coupling lattice, spin state, and relativistic magnetic interactions, establishing hydrostatic pressure as an effective control parameter to engineer magnetic anisotropy and potentially topological phases in kagome materials.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-26T10:09:23Z",
+    "updated": "2026-03-26T10:09:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.25271v1",
+      "pdf_path": "data/pdfs/2026-03-27/3_Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure__2603.25271v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-03-27T01:21:51.452638",
+    "updated_at": "2026-03-27T01:21:51.452631Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-03-27/3_Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure__2603.25271v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.25271v1",
+    "pdf_filename": "3_Structural and magnetic phases of topological kagome metal Fe$_3$Sn$_2$ under pressure__2603.25271v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了压力诱导下 Fe3Sn2 磁性卡戈梅金属的结构转变、自旋态翻转及磁各向异性的重塑。",
+      "en": "This study reveals the pressure-induced structural transition, spin-state crossover, and reshaping of magnetic anisotropy in the kagome ferromagnet Fe3Sn2."
+    },
+    "problem": {
+      "zh": "探索高压如何影响卡戈梅铁磁体 Fe3Sn2 的晶体结构、局部磁矩大小以及磁矩取向，特别是压力如何通过自旋轨道耦合调控磁性。",
+      "en": "To explore how high pressure affects the crystal structure, local magnetic moment amplitude, and spin orientation of the kagome ferromagnet Fe3Sn2, specifically how pressure tunes magnetism via spin-orbit coupling."
+    },
+    "approach": {
+      "zh": "结合同步辐射 X 射线衍射、X 射线发射光谱、X 射线磁圆二色性实验，并配合基于 USPEX 的结构搜索和自旋极化密度泛函理论计算。",
+      "en": "Combining synchrotron X-ray diffraction, X-ray emission spectroscopy, and X-ray magnetic circular dichroism experiments with USPEX-based structural searches and spin-polarized density functional theory calculations."
+    },
+    "main_takeaway": {
+      "zh": "压力在约 20 GPa 时诱导了结构转变和高自旋到低自旋的转变；同时，压力显著增强了自旋轨道耦合驱动的磁各向异性和 DM 相互作用，使得倾斜磁相在更宽的温压范围内比共线铁磁相更稳定。",
+      "en": "Pressure induces a structural and high-spin to low-spin transition at ~20 GPa; simultaneously, it enhances spin-orbit-driven magnetic anisotropy and Dzyaloshinskii-Moriya interactions, stabilizing a tilted magnetic phase over the collinear one across a wider P-T range."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了压力是调控卡戈梅材料磁各向异性和拓扑相的有效手段，揭示了晶格、自旋态与相对论性磁相互作用之间的深度耦合。",
+      "en": "It demonstrates that pressure is a powerful tool to tune magnetic anisotropy and topological phases in kagome materials, revealing the deep coupling between lattice, spin state, and relativistic magnetic interactions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "通过多种高压实验手段与理论计算，完整构建了 Fe3Sn2 的高压磁性相图，并阐明了其微观机制。",
+        "en": "It provides a comprehensive high-pressure magnetic phase diagram of Fe3Sn2 and elucidates the microscopic mechanism using multiple experimental and theoretical techniques."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究包含详尽的实验数据和深入的理论分析，非常符合 PRB 对凝聚态物理系统性研究的要求。",
+        "en": "The study contains detailed experimental data and in-depth theoretical analysis, fitting the scope of systematic condensed matter physics research in PRB."
+      }
+    },
+    "keywords": [
+      "Kagome metal",
+      "Fe3Sn2",
+      "High pressure",
+      "Spin-orbit coupling",
+      "Magnetic anisotropy",
+      "Phase transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-03-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-03-27T09:26:24",
+    "input_scope": "full_pdf_text"
+  }
+}
