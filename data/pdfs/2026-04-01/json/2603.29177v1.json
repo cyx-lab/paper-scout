@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2603.29177v1",
+    "title": "Interplay of Antiferromagnetism and Quasiperiodicity in a Hubbard Ring: Localization Insights",
+    "authors": [
+      "Souvik Roy",
+      "Ranjini Bhattacharya"
+    ],
+    "abstract": "We study localization in a quasiperiodic spinful antiferromagnetic Hubbard ring within a self-consistent Hartree-Fock framework, emphasizing the interplay of quasiperiodicity, staggered Zeeman-field-induced antiferromagnetic order, and electron correlations. Localization properties are characterized through inverse participation ratios, normalized participation ratios, and multifractality, and are consistently supported by a broad class of real-space mean-field observables, including double occupancy, density fluctuations, local entropy, spin-density-wave (SDW) order, and other related correlation measures. We uncover a pronounced nonmonotonic evolution of localization with interaction strength, featuring an intermediate regime marked by enhanced localization, strong spatial inhomogeneity, and magnetic ordering, followed by a re-entrant tendency toward delocalization at stronger interaction regime. Phase diagrams constructed from complementary localization and mean-field indicators reveal extended, localized, and critical regimes governed by the interplay of quasiperiodicity and interactions. Furthermore, real-time wave-packet dynamics of eigenstates provide direct evidence of ballistic spreading, confinement, and re-entrant transport, in agreement with the underlying spectral characteristics. These results establish a unified framework where diverse mean-field observables and dynamical probes consistently capture correlation-driven localization phenomena in quasiperiodic systems.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-03-31T02:37:44Z",
+    "updated": "2026-03-31T02:37:44Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.29177v1",
+      "pdf_path": "data/pdfs/2026-04-01/4_Interplay of Antiferromagnetism and Quasiperiodicity in a Hubbard Ring Localization Insights__2603.29177v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.760116",
+    "updated_at": "2026-04-01T01:27:45.760109Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/4_Interplay of Antiferromagnetism and Quasiperiodicity in a Hubbard Ring Localization Insights__2603.29177v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.29177v1",
+    "pdf_filename": "4_Interplay of Antiferromagnetism and Quasiperiodicity in a Hubbard Ring Localization Insights__2603.29177v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了准周期哈勃环中相互作用与反铁磁序对电子定位特性的非单调影响。",
+      "en": "Investigates the non-monotonic impact of interactions and antiferromagnetic order on localization in a quasiperiodic Hubbard ring."
+    },
+    "problem": {
+      "zh": "探讨在交错塞曼场诱导的反铁磁背景下，电子相互作用如何与准周期势竞争，进而影响系统的定位-离域转变及自旋非对称性。",
+      "en": "Exploring how electron interactions compete with quasiperiodicity under a staggered Zeeman field to influence localization-delocalization transitions and spin asymmetry."
+    },
+    "approach": {
+      "zh": "采用自洽 Hartree-Fock 平均场方法，结合逆参与率、多重分形分析、多种实空间观测物理量以及实时间波包动力学模拟。",
+      "en": "Employs a self-consistent Hartree-Fock mean-field framework combined with IPR, multifractal analysis, real-space observables, and real-time wave-packet dynamics."
+    },
+    "main_takeaway": {
+      "zh": "相互作用对定位的影响呈现显著的非单调性：中等强度的相互作用会增强空间不均匀性并诱导定位，而强相互作用则会导致系统重入离域相。",
+      "en": "Interactions affect localization non-monotonically: intermediate coupling enhances spatial inhomogeneity and induces localization, while strong coupling leads to re-entrant delocalization."
+    },
+    "why_it_matters": {
+      "zh": "揭示了相互作用在准周期系统中既能促进也能抑制定位的双重角色，为冷原子光晶格等人工量子系统的自旋调控和输运研究提供了理论框架。",
+      "en": "Reveals the dual role of interactions in both promoting and suppressing localization in quasiperiodic systems, providing a framework for spin control and transport in cold-atom lattices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "系统地阐明了准周期性、相互作用与磁序之间复杂的竞争机制，并给出了完整的相图。",
+        "en": "Systematically clarifies the complex competition between quasiperiodicity, interactions, and magnetic order, providing comprehensive phase diagrams."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值计算",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究关注哈勃模型、定位转变及平均场理论，是 PRB 凝聚态物理部分的典型课题。",
+        "en": "The study focuses on the Hubbard model, localization transitions, and mean-field theory, which are core topics for PRB's condensed matter section."
+      }
+    },
+    "keywords": [
+      "准周期系统",
+      "哈勃模型",
+      "安德森定位",
+      "反铁磁性",
+      "重入相变",
+      "多重分形"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:38:34",
+    "input_scope": "full_pdf_text"
+  }
+}

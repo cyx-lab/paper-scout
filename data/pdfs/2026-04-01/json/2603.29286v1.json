@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2603.29286v1",
+    "title": "Atomically Reconfigurable Single-Molecule Optoelectronics",
+    "authors": [
+      "Atif Ghafoor",
+      "Santeri Neuvonen",
+      "Thinh Tran",
+      "Oscar Moreno Segura",
+      "Yitao Sun",
+      "Yaroslav Pavlyukh",
+      "Riku Tuovinen",
+      "Jose L. Lado",
+      "Shawulienu Kezilebieke"
+    ],
+    "abstract": "Deterministic control of excitonic properties is key to advancing nanoscale optoelectronic and quantum technologies and to understanding diverse physical, optical, chemical, and biological phenomena. At the molecular scale, these properties can be tuned through chemical modification, local-environment influence or charge-state manipulation. Yet, direct control of a molecule's transition dipole moment and its resulting light emission via atomic-scale structural modification has remained elusive. Here, using scanning tunnelling microscopy-induced luminescence, we show that a single structural parameter-the vertical displacement of the central metal atom in a planar phthalocyanine molecule on a decoupling layer-enables active tuning of the transition dipole, allowing either suppression or enhancement of emission. Exploiting this control, we realized a tunable homodimer switchable among three optical states: non-emissive, single-molecule-like emissive, and coupled states exhibiting subradiant and superradiant modes, directly revealing intermolecular dipole-dipole coupling. We further demonstrate a heterodimer in which resonant energy transfer can be turned on or off simply by controlling the acceptor's transition dipole moment. These findings not only establish atomic-scale displacement as a general strategy for optical molecular switching, but also demonstrate the reconfigurable engineering of excitonic interactions within molecular assemblies.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-03-31T05:40:45Z",
+    "updated": "2026-03-31T05:40:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.29286v1",
+      "pdf_path": "data/pdfs/2026-04-01/3_Atomically Reconfigurable Single-Molecule Optoelectronics__2603.29286v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.759698",
+    "updated_at": "2026-04-01T01:27:45.759690Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/3_Atomically Reconfigurable Single-Molecule Optoelectronics__2603.29286v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.29286v1",
+    "pdf_filename": "3_Atomically Reconfigurable Single-Molecule Optoelectronics__2603.29286v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过操纵单个锡酞菁分子中心原子的垂直位移，实现了单分子发光特性和激子耦合的原子级可重构控制。",
+      "en": "Achieving atomically reconfigurable control of single-molecule luminescence and excitonic coupling by manipulating the vertical displacement of the central atom in tin phthalocyanine."
+    },
+    "problem": {
+      "zh": "如何在不改变化学结构或电荷态的情况下，通过原子尺度的结构修改直接控制分子的跃迁偶极矩及其产生的光发射。",
+      "en": "How to directly control a molecule's transition dipole moment and resulting light emission via atomic-scale structural modification without altering chemical structure or charge states."
+    },
+    "approach": {
+      "zh": "利用扫描隧道显微镜诱导发光（STML）技术，通过电压脉冲精确控制SnPc分子中心锡原子的上下位置，并结合理论计算分析对称性对跃迁偶极矩的影响。",
+      "en": "Using scanning tunneling microscopy-induced luminescence (STML) to precisely control the vertical position of the Sn atom in SnPc via voltage pulses, combined with theoretical analysis of symmetry effects on the transition dipole moment."
+    },
+    "main_takeaway": {
+      "zh": "单个原子的垂直位移可作为调节分子跃迁偶极矩的关键结构参数，从而实现发光的开启与抑制，并能按需重构二聚体中的偶极-偶极耦合和共振能量转移。",
+      "en": "The vertical displacement of a single atom serves as a key structural parameter to tune the transition dipole moment, enabling the switching of emission and on-demand reconfiguration of dipole-dipole coupling and resonant energy transfer in dimers."
+    },
+    "why_it_matters": {
+      "zh": "该研究将分子光电子学从单纯的观测提升到了主动操控层面，为开发原子级可重构的纳米光电器件和单分子量子工程提供了新路径。",
+      "en": "This work advances molecular optoelectronics from observation to active manipulation, providing a new path for developing atomically reconfigurable nanophotonic devices and single-molecule quantum engineering."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次证明了通过单一原子的机械位移可逆地控制分子偶极矩，并实现了激子相互作用的人工重构。",
+        "en": "First demonstration of reversible control over molecular dipoles via single-atom mechanical displacement and artificial reconfiguration of excitonic interactions."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究展示了极高水平的原子级操控能力，并解决了单分子光电子学中的核心控制问题，非常符合该期刊的定位。",
+        "en": "The study demonstrates high-level atomic manipulation and addresses core control challenges in single-molecule optoelectronics, fitting the journal's scope perfectly."
+      }
+    },
+    "keywords": [
+      "STML",
+      "Single-Molecule Optoelectronics",
+      "Transition Dipole Moment",
+      "Excitonic Coupling",
+      "Molecular Switch",
+      "Tin Phthalocyanine"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:39:20",
+    "input_scope": "full_pdf_text"
+  }
+}

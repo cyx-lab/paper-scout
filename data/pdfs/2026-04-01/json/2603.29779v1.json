@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2603.29779v1",
+    "title": "Emergence of Non-Hermitian Magic Angles and Topological Phase Transitions in Twisted Bilayer $α$-$T_3$ Lattices",
+    "authors": [
+      "Shaina Gandhi",
+      "Gourab Paul",
+      "Srijata Lahiri",
+      "Saurabh Basu"
+    ],
+    "abstract": "We investigate the flat-band properties and topological phase transitions in a non-Hermitian twisted bilayer $α-T_3$ lattice. Here, non-Hermiticity is introduced via Hatano-Nelson-type asymmetric hopping, while an aligned hexagonal boron nitride substrate provides a staggered sublattice mass to the system. We find that the introduction of non-reciprocal hopping splits the conventional single magic angle into three distinct non-Hermitian magic angles (NHMAs). Unlike the exceptional magic angles driven by spectral singularities, these NHMAs host perfectly isolated flat bands where the real and imaginary parts of the bandwidth simultaneously vanish. By mapping the complex eigenspectrum across the moiré Brillouin zone, we show that the scattered energy eigenvalues coalesce into well-defined, closed loop-like structures as the non-Hermitian parameter strength increases, indicating emergence of a nontrivial point-gap topology and hence the non-Hermitian skin effect. Furthermore, we characterize the topological phases by computing the direct band gap and the biorthogonal Chern number. While the system exhibits a transition to a higher topological phase at weak non-Hermiticity, we demonstrate that stronger non-Hermiticity drives the gap-closing boundaries to merge and their topological charges to mutually annihilate. This convergence results in a trivial gap closing and a complete suppression of the intermediate topological phase, confirming that non-Hermiticity fundamentally plays a crucial role with regard to destabilizing the robust topological features of this moiré system.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-03-31T14:18:38Z",
+    "updated": "2026-03-31T14:18:38Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.29779v1",
+      "pdf_path": "data/pdfs/2026-04-01/3_Emergence of Non-Hermitian Magic Angles and Topological Phase Transitions in Twisted Bilayer $α$-$T_3$ Lattices__2603.29779v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.758238",
+    "updated_at": "2026-04-01T01:27:45.758195Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/3_Emergence of Non-Hermitian Magic Angles and Topological Phase Transitions in Twisted Bilayer $α$-$T_3$ Lattices__2603.29779v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.29779v1",
+    "pdf_filename": "3_Emergence of Non-Hermitian Magic Angles and Topological Phase Transitions in Twisted Bilayer $α$-$T_3$ Lattices__2603.29779v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了非厄米扭转双层 alpha-T3 晶格中单个魔角会分裂为三个非厄米魔角，并伴随拓扑相的湮灭。",
+      "en": "The study reveals that a single magic angle splits into three distinct non-Hermitian magic angles in twisted bilayer alpha-T3 lattices, accompanied by topological phase annihilation."
+    },
+    "problem": {
+      "zh": "探索非互易跳符（非厄米性）如何影响扭转双层 alpha-T3 系统的平带形成条件、复能谱拓扑以及拓扑相的稳定性。",
+      "en": "Exploring how non-reciprocal hopping (non-Hermiticity) affects flat-band conditions, complex spectral topology, and the stability of topological phases in twisted bilayer alpha-T3 systems."
+    },
+    "approach": {
+      "zh": "采用连续谱模型哈密顿量，引入 Hatano-Nelson 型非对称跳符和交错质量项，通过数值对角化计算带宽、复能谱流和双正交陈数。",
+      "en": "Using a continuum model Hamiltonian with Hatano-Nelson type asymmetric hopping and staggered mass, calculating bandwidths, complex spectral flows, and biorthogonal Chern numbers via numerical diagonalization."
+    },
+    "main_takeaway": {
+      "zh": "非厄米性不仅将魔角分裂为三个，还诱导了点能隙拓扑（非厄米皮肤效应）；强非厄米性会导致拓扑电荷成对湮灭，从而破坏原本鲁棒的拓扑相。",
+      "en": "Non-Hermiticity splits the magic angle into three and induces point-gap topology (non-Hermitian skin effect); strong non-Hermiticity leads to pairwise annihilation of topological charges, destroying previously robust topological phases."
+    },
+    "why_it_matters": {
+      "zh": "该研究区分了非厄米魔角与例外魔角的不同机制，为利用非厄米参数调控莫尔材料的电子结构和拓扑态提供了理论依据。",
+      "en": "This work distinguishes the mechanism of non-Hermitian magic angles from exceptional magic angles, providing a theoretical basis for tuning electronic structures and topological states in moiré materials using non-Hermitian parameters."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在扭转 alpha-T3 系统中发现了魔角分裂现象，并深入阐述了非厄米性对莫尔拓扑相的抑制作用。",
+        "en": "First discovery of magic-angle splitting in twisted alpha-T3 systems and a detailed explanation of how non-Hermiticity suppresses moiré topological phases."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及凝聚态物理中的莫尔晶格与非厄米拓扑，属于 PRB 的核心选题范围。",
+        "en": "The research involves moiré lattices and non-Hermitian topology in condensed matter physics, which are core topics for PRB."
+      }
+    },
+    "keywords": [
+      "非厄米物理",
+      "莫尔超晶格",
+      "魔角",
+      "拓扑相变",
+      "非厄米皮肤效应",
+      "alpha-T3 晶格"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:42:04",
+    "input_scope": "full_pdf_text"
+  }
+}

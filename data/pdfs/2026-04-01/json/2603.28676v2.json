@@ -1,0 +1,120 @@
+{
+  "paper_record": {
+    "id": "2603.28676v2",
+    "title": "Kramers-Kronig causality in integrated photonics: The spectral tension between ultraviolet transition and mid-infrared absorption",
+    "authors": [
+      "Yue Hu",
+      "Zhenyuan Shang",
+      "Chenxi Zhang",
+      "Yuanjie Ning",
+      "Weiqin Zheng",
+      "Dengke Chen",
+      "Sanli Huang",
+      "Baoqi Shi",
+      "Zeying Zhong",
+      "Hao Tan",
+      "Wei Sun",
+      "Yi-Han Luo",
+      "Xinmao Yin",
+      "Zhi-Chuan Niu",
+      "Junqiu Liu"
+    ],
+    "abstract": "Dispersion engineering via geometric confinement is essential to integrated photonics, enabling phenomena such as soliton microcombs, supercontinua, parametric oscillators, and entangled photons. However, prevailing methodologies rely on semi-empirical Sellmeier models that assume idealized material purity, neglecting the pronounced dispersion shifts induced by residual impurities like hydrogen-related bonds. Here, we demonstrate that these residual bonds fundamentally alter the dispersion landscape spanning from the ultraviolet (UV) to the mid-infrared (MIR) spectra. Specifically, they introduce MIR vibrational absorption while simultaneously modifying UV electronic transition, shifting the bandgap and UV pole. We show that the spectral tension between these UV and MIR modifications dictates the group velocity dispersion from the visible to the near-infrared (NIR) via the Kramers-Kronig causality. We experimentally validate this phenomenon through systematic characterization of broadband loss and dispersion in ultralow-loss silicon nitride photonic integrated circuits. By rigorously incorporating these effects, we bridge the gap between empirical fitting and predictive physical modelling. Our study resolves long-standing discrepancies in dispersion engineering, providing precision control essential for next-generation integrated photonics.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-03-30T16:57:51Z",
+    "updated": "2026-03-31T04:12:47Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.28676v2",
+      "pdf_path": "data/pdfs/2026-04-01/2_Kramers-Kronig causality in integrated photonics The spectral tension between ultraviolet transition and mid-infrared ab__2603.28676v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.761043",
+    "updated_at": "2026-04-01T01:27:45.761027Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/2_Kramers-Kronig causality in integrated photonics The spectral tension between ultraviolet transition and mid-infrared ab__2603.28676v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.28676v2",
+    "pdf_filename": "2_Kramers-Kronig causality in integrated photonics The spectral tension between ultraviolet transition and mid-infrared ab__2603.28676v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了氮化硅薄膜中残留氢杂质通过克拉默-克罗尼希（KK）关系同时影响紫外电子跃迁和中红外吸收，从而显著改变近红外波段的色散特性。",
+      "en": "This study reveals that residual hydrogen impurities in silicon nitride films fundamentally alter NIR dispersion by simultaneously modifying UV electronic transitions and MIR absorption via Kramers-Kronig relations."
+    },
+    "problem": {
+      "zh": "传统的色散模型通常假设材料纯净，忽略了残留杂质（如N-H键）引起的非局部色散偏移，导致宽带光子器件的色散设计存在实验与理论的偏差。",
+      "en": "Conventional dispersion models assume material purity and neglect non-local dispersion shifts induced by residual impurities (like N-H bonds), leading to discrepancies between experiment and theory in broadband photonic device design."
+    },
+    "approach": {
+      "zh": "通过对氮化硅微腔进行分步退火处理，结合椭偏仪、红外光谱和多波段矢量光谱分析，定量研究了氢杂质对紫外能隙和中红外吸收的影响，并利用KK关系建立了预测性物理模型。",
+      "en": "By performing sequential annealing on Si3N4 microresonators and using ellipsometry, FTIR, and multi-band vector spectral analysis, the authors quantified the impact of H-impurities on UV bandgap and MIR absorption, establishing a predictive physical model based on KK relations."
+    },
+    "main_takeaway": {
+      "zh": "近红外波段的色散偏移源于紫外能隙蓝移（正色散贡献）与中红外振动吸收（负色散贡献）之间的“光谱张力”竞争，两者在约2微米处达到平衡点。",
+      "en": "The NIR dispersion shift stems from the 'spectral tension' between UV bandgap blue-shift (positive GVD contribution) and MIR vibrational absorption (negative GVD contribution), reaching a balance point near 2 μm."
+    },
+    "why_it_matters": {
+      "zh": "该研究为集成光子器件提供了更精确的色散控制手段，对于开发跨倍频程的孤子微梳、超连续谱产生和量子光源至关重要。",
+      "en": "This study provides more precise dispersion control for integrated photonic devices, which is crucial for developing octave-spanning soliton microcombs, supercontinuum generation, and quantum light sources."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "深入揭示了杂质通过因果律影响全局色散的物理本质，修正了长期以来依赖经验模型进行色散设计的不足。",
+        "en": "It deeply reveals the physical essence of how impurities affect global dispersion via causality, correcting the long-standing reliance on empirical models for dispersion design."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章结合了基础物理机制探索与高性能集成光子器件的应用，符合该期刊对创新性和影响力的要求。",
+        "en": "The paper combines fundamental physical mechanism exploration with high-performance integrated photonic applications, meeting the journal's standards for innovation and impact."
+      }
+    },
+    "keywords": [
+      "Kramers-Kronig relations",
+      "Silicon nitride",
+      "Dispersion engineering",
+      "Hydrogen impurities",
+      "Microcombs",
+      "Integrated photonics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:33:58",
+    "input_scope": "full_pdf_text"
+  }
+}

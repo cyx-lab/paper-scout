@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2603.29188v1",
+    "title": "Quantum Fisher information in many-photon states from shift current shot noise",
+    "authors": [
+      "Evgenii Barts",
+      "Takahiro Morimoto",
+      "Naoto Nagaosa"
+    ],
+    "abstract": "Quantum Fisher information (QFI) sets the ultimate precision of optical phase measurements and reveals multiphoton entanglement, but it is not accessible with conventional photodetection. We theoretically predict that a photodetector utilizing the shot noise of the quantum-geometric shift current of exciton polaritons can directly measure the QFI of nonclassical light. By solving the Lindblad equation, we obtain the time-dependent nonlinear photocurrent for an arbitrary initial photon state. It turns out that, regardless of the quantum state of the incident light, the integrated current depends only on the mean photon number. In stark contrast, the shot noise retains the quantum information: its Fano factor is proportional to the photon number variance and therefore encodes the QFI. Numerical calculations confirm these relations for illumination with optical Schrödinger cat and squeezed vacuum states. Quantum correlations in nonclassical light, usually hidden from direct detection, become observable in the form of shift current shot noise",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-03-31T02:54:06Z",
+    "updated": "2026-03-31T02:54:06Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.29188v1",
+      "pdf_path": "data/pdfs/2026-04-01/3_Quantum Fisher information in many-photon states from shift current shot noise__2603.29188v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.760034",
+    "updated_at": "2026-04-01T01:27:45.760010Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/3_Quantum Fisher information in many-photon states from shift current shot noise__2603.29188v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.29188v1",
+    "pdf_filename": "3_Quantum Fisher information in many-photon states from shift current shot noise__2603.29188v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究提出利用激子极化激元的位移电流散粒噪声直接测量非经典光的量子 Fisher 信息。",
+      "en": "The study proposes using the shot noise of exciton-polariton shift currents to directly measure the Quantum Fisher Information of nonclassical light."
+    },
+    "problem": {
+      "zh": "传统的探测方法难以直接获取非经典光（如猫态、挤压态）的量子 Fisher 信息（QFI）和多光子纠缠信息。",
+      "en": "Conventional photodetection cannot directly access the Quantum Fisher Information (QFI) and multiphoton entanglement of nonclassical light states."
+    },
+    "approach": {
+      "zh": "建立激子极化激元腔模型，通过求解 Lindblad 方程分析耗散动力学下的非线性光电流及其散粒噪声的统计特性。",
+      "en": "Developed an exciton-polariton cavity model and solved the Lindblad equation to analyze the statistical properties of nonlinear photocurrent and its shot noise under dissipative dynamics."
+    },
+    "main_takeaway": {
+      "zh": "位移电流的累积电荷仅取决于平均光子数，但其散粒噪声的 Fano 因子与光子数方差成正比，从而直接编码了 QFI。",
+      "en": "While the integrated shift charge depends only on the mean photon number, the Fano factor of its shot noise is proportional to the photon number variance, thus directly encoding the QFI."
+    },
+    "why_it_matters": {
+      "zh": "它为量子光学中的抽象指标（QFI）与凝聚态物理中的可观测物理量（散粒噪声）建立了直接联系，为量子光子探测和计量提供了新方案。",
+      "en": "It establishes a direct link between abstract quantum optics metrics (QFI) and solid-state observables (shot noise), offering a new scheme for quantum photonic detection and metrology."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了位移电流噪声与量子信息度量之间的普适关系，并提出了具体的固态探测机制。",
+        "en": "Reveals a universal relationship between shift current noise and quantum information metrics, proposing a concrete solid-state detection mechanism."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了拓扑几何相位与量子光学前沿，具有广泛的物理兴趣和潜在的应用价值。",
+        "en": "The study combines topological geometric phases with quantum optics frontiers, holding broad physical interest and potential application value."
+      }
+    },
+    "keywords": [
+      "Quantum Fisher Information",
+      "Shift Current",
+      "Exciton Polariton",
+      "Shot Noise",
+      "Nonclassical Light"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:38:51",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2603.29132v1",
+    "title": "Time-resolved role of coherence and delocalization in photosynthetic energy transfer from an extended exciton model",
+    "authors": [
+      "Jingyu Liu",
+      "Tao-Yuan Du"
+    ],
+    "abstract": "Photosynthetic antenna complexes achieve high quantum efficiency through exciton transport in coupled pigment networks. Conventional Frenkel-exciton models treat each chromophore as a structureless site and neglect internal electronic degrees of freedom that can influence coherence and delocalization. Here we develop an extended excitonic network model that preserves the pigment-pigment coupling topology while introducing tunable intrachromophoric electronic mixing within the single-excitation manifold. Using a Lindblad open-quantum-system framework, we quantify coherence, delocalization, and trapping efficiency across parameter space. We show that intrachromophoric mixing plays a time-dependent role: enhanced mixing on the antenna side promotes short-time coherent delocalization and improves excitation injection, whereas excessive mixing near the trapping site induces persistent delocalization and suppresses transfer efficiency. Simulated two-dimensional electronic spectra reveal enhanced cross peaks and systematic blue shifts, providing spectroscopic signatures of coherence-modulated transport. These results establish a microscopic connection between internal electronic structure and quantum transport performance in excitonic networks.",
+    "categories": [
+      "physics.optics",
+      "quant-ph"
+    ],
+    "published": "2026-03-31T01:32:12Z",
+    "updated": "2026-03-31T01:32:12Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.29132v1",
+      "pdf_path": "data/pdfs/2026-04-01/3_Time-resolved role of coherence and delocalization in photosynthetic energy transfer from an extended exciton model__2603.29132v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.760350",
+    "updated_at": "2026-04-01T01:27:45.760343Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/3_Time-resolved role of coherence and delocalization in photosynthetic energy transfer from an extended exciton model__2603.29132v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.29132v1",
+    "pdf_filename": "3_Time-resolved role of coherence and delocalization in photosynthetic energy transfer from an extended exciton model__2603.29132v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过扩展激子模型揭示了色素内部电子混合在光合能量传递中具有时间依赖的双重作用。",
+      "en": "This study reveals the time-dependent dual role of intrachromophoric electronic mixing in photosynthetic energy transfer using an extended exciton model."
+    },
+    "problem": {
+      "zh": "传统的 Frenkel 激子模型将发色团视为无结构的位点，忽略了内部电子自由度对相干性和离域化的影响。",
+      "en": "Conventional Frenkel exciton models treat chromophores as structureless sites, neglecting the impact of internal electronic degrees of freedom on coherence and delocalization."
+    },
+    "approach": {
+      "zh": "开发了一种保留拓扑结构但引入内部电子混合的扩展激子网络模型，并结合 Lindblad 开放量子系统框架和二维电子光谱模拟进行分析。",
+      "en": "Developed an extended excitonic network model with tunable internal electronic mixing, analyzed using the Lindblad open-quantum-system framework and 2D electronic spectroscopy simulations."
+    },
+    "main_takeaway": {
+      "zh": "相干离域在不同阶段作用不同：天线端的混合促进初期注入，而捕获端过度的混合会因持续离域抑制能量捕获效率。",
+      "en": "Coherent delocalization plays distinct roles: antenna-side mixing promotes early-stage injection, while excessive mixing near the trapping site suppresses efficiency due to persistent delocalization."
+    },
+    "why_it_matters": {
+      "zh": "澄清了量子相干性在光合作用中是有利还是有害的长期争论，并为高效人工光合器件设计提供了微观准则。",
+      "en": "It clarifies the long-standing debate on whether quantum coherence benefits photosynthesis and provides microscopic design principles for efficient artificial light-harvesting devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "深入探讨了内部结构如何通过调节相干性动态影响传输效率，并给出了明确的设计原则。",
+        "en": "It deeply explores how internal structure dynamically affects transport efficiency via coherence modulation and provides clear design principles."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical Simulation"
+    },
+    "likely_venue": {
+      "journal": "Journal of Physical Chemistry Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文关注光合作用物理化学机制，使用了 2DES 模拟，符合该刊发表偏好。",
+        "en": "The paper focuses on physicochemical mechanisms of photosynthesis and uses 2DES simulations, aligning with the journal's scope."
+      }
+    },
+    "keywords": [
+      "FMO complex",
+      "Exciton transport",
+      "Quantum coherence",
+      "2D electronic spectroscopy",
+      "Open quantum systems"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:36:20",
+    "input_scope": "full_pdf_text"
+  }
+}

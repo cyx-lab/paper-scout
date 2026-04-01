@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2603.29776v1",
+    "title": "Strongly Nonlinear Slow Light Polaritons in Subwavelength Modulated Waveguides",
+    "authors": [
+      "Amir Rahmani",
+      "Maciej Dems",
+      "Michał Matuszewski"
+    ],
+    "abstract": "Slow light is a regime of reduced group velocity, resulting in increased photon density in optical pulses and enhanced nonlinear effects. Here, we propose the realization of slow light in the regime of strong light-matter interaction between waveguide photons and semiconductor excitons. We design a dielectric superlattice structure with a nearly-flat band characterized by low group velocity and group velocity dispersion, both required for enhancing nonlinear effects with ultrashort pulses. Furthermore, by applying this general framework to a perovskite-based structure, we demonstrate an enhancement of the single-particle phase shift by a factor of more than 20, representing a significant step toward the few-photon quantum regime. Our results provide a blueprint for accessible strong interactions in solid-state integrated optics.",
+    "categories": [
+      "physics.optics",
+      "quant-ph"
+    ],
+    "published": "2026-03-31T14:15:41Z",
+    "updated": "2026-03-31T14:15:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.29776v1",
+      "pdf_path": "data/pdfs/2026-04-01/3_Strongly Nonlinear Slow Light Polaritons in Subwavelength Modulated Waveguides__2603.29776v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.758291",
+    "updated_at": "2026-04-01T01:27:45.758280Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/3_Strongly Nonlinear Slow Light Polaritons in Subwavelength Modulated Waveguides__2603.29776v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.29776v1",
+    "pdf_filename": "3_Strongly Nonlinear Slow Light Polaritons in Subwavelength Modulated Waveguides__2603.29776v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过在亚波长调制波导中结合慢光效应与激子极化激元强耦合，实现了非线性相移的显著增强。",
+      "en": "Significant enhancement of nonlinear phase shift is achieved by combining slow-light effects with exciton-polariton strong coupling in subwavelength modulated waveguides."
+    },
+    "problem": {
+      "zh": "在集成光子学平台中，由于光与物质相互作用时间短且材料固有非线性有限，难以实现足以用于量子逻辑门的大非线性相移。",
+      "en": "Achieving large nonlinear phase shifts for quantum logic gates is challenging in integrated photonics due to short interaction times and limited material nonlinearities."
+    },
+    "approach": {
+      "zh": "设计了一种具有缺陷的鱼骨型介质超晶格波导，利用结构色散产生近平带慢光模式，并将其与钙钛矿激子强耦合形成极化激元。",
+      "en": "Designing a fishbone-like dielectric superlattice waveguide with defects to create near-flat slow-light bands, which are then strongly coupled with perovskite excitons to form polaritons."
+    },
+    "main_takeaway": {
+      "zh": "慢光极化激元可将单粒子非线性相移提高20倍以上，为室温下实现集成量子光学元件提供了可行方案。",
+      "en": "Slow-light polaritons can enhance the single-particle nonlinear phase shift by more than 20 times, providing a viable route for integrated quantum optical components at room temperature."
+    },
+    "why_it_matters": {
+      "zh": "该研究展示了如何通过结构工程而非仅仅依赖材料特性来突破非线性光学限制，对全光计算和量子信息处理具有重要意义。",
+      "en": "The study demonstrates how structural engineering can overcome nonlinear optical limits beyond material properties, which is crucial for all-optical computing and quantum information processing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次提出利用结构色散工程在强耦合体系中实现巨非线性相移，且方案在室温下具有可操作性。",
+        "en": "First proposal to use structural dispersion engineering for giant nonlinear phase shifts in the strong coupling regime, with room-temperature feasibility."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "medium",
+      "reason": {
+        "zh": "论文涉及非线性光学、慢光和极化激元等前沿集成光子学话题，且结果具有显著的应用潜力。",
+        "en": "The paper covers cutting-edge integrated photonics topics like nonlinear optics, slow light, and polaritons, with results showing significant application potential."
+      }
+    },
+    "keywords": [
+      "Slow light",
+      "Exciton-polaritons",
+      "Nonlinear phase shift",
+      "Superlattice waveguide",
+      "Perovskites"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:41:42",
+    "input_scope": "full_pdf_text"
+  }
+}

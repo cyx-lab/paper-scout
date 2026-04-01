@@ -1,0 +1,122 @@
+{
+  "paper_record": {
+    "id": "2603.29342v1",
+    "title": "Layer-selective hydrogenation and proton transport in twisted bilayer graphene",
+    "authors": [
+      "J. Tong",
+      "G. Chen",
+      "H. Li",
+      "E. Hoenig",
+      "M. Alhashmi",
+      "X. Zhang",
+      "D. Bahamon",
+      "G. R. Tainton",
+      "S. Sullivan-Allsop",
+      "Y. Mayamei",
+      "D. R. da Costa",
+      "L. F. Vega",
+      "S. J. Haigh",
+      "D. Domaretskiy",
+      "F. M. Peeters",
+      "M. Lozada-Hidalgo"
+    ],
+    "abstract": "Recent work investigated graphene's hydrogenation with independent control of the electric field, E, and charge density, n, in the crystal and showed that the process is controlled by n. Here, we demonstrate layer-selective conductor-insulator transitions in twisted bilayer graphene, driven by hydrogenation at fixed n under strong E. This process is accompanied by proton transport through the bilayer, enabling several parallel and configurable logic gates in the devices. Selectivity arises because the large twist angle decouples the two layers' electronic systems, enabling independent control of their charge densities. Polarisation by the field then induces a charge imbalance at fixed total n, triggering hydrogenation when one of the layers' charge densities reaches the threshold for monolayer hydrogenation. Our results introduce a new type of electrode-electrolyte interface in which electrochemical processes are controlled with two decoupled 2D electron gases, opening new design opportunities for energy and information processing devices.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.chem-ph"
+    ],
+    "published": "2026-03-31T07:09:46Z",
+    "updated": "2026-03-31T07:09:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2603.29342v1",
+      "pdf_path": "data/pdfs/2026-04-01/3_Layer-selective hydrogenation and proton transport in twisted bilayer graphene__2603.29342v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-01T01:27:45.759522",
+    "updated_at": "2026-04-01T01:27:45.759513Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-01/3_Layer-selective hydrogenation and proton transport in twisted bilayer graphene__2603.29342v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2603.29342v1",
+    "pdf_filename": "3_Layer-selective hydrogenation and proton transport in twisted bilayer graphene__2603.29342v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过双栅极控制扭转双层石墨烯，实现了层选择性氢化和可配置的质子-电子逻辑器件。",
+      "en": "Achieved layer-selective hydrogenation and configurable proton-electronic logic gates in twisted bilayer graphene via double-gating control."
+    },
+    "problem": {
+      "zh": "如何在范德华异质结中独立控制各层的电化学过程（如氢化），并利用其开发新型逻辑器件。",
+      "en": "How to independently control electrochemical processes like hydrogenation in individual layers of van der Waals heterostructures and utilize them for logic devices."
+    },
+    "approach": {
+      "zh": "利用大角度扭转双层石墨烯的电子解耦特性，结合双离子栅极技术独立调节电场和电荷密度，诱导层间电荷极化。",
+      "en": "Utilizing electronic decoupling in large-angle twisted bilayer graphene and double ionic gating to independently tune electric field and charge density, inducing interlayer charge polarization."
+    },
+    "main_takeaway": {
+      "zh": "强电场诱导的电荷极化可使单层电荷密度达到氢化阈值，从而实现层选择性的导体-绝缘体转变，并构建出多种并行的逻辑门。",
+      "en": "Field-induced polarization can drive a single layer's charge density to the hydrogenation threshold, enabling layer-selective conductor-insulator transitions and parallel logic gates."
+    },
+    "why_it_matters": {
+      "zh": "提出了一种由解耦二维电子气控制的新型电极-电解质界面，为能源存储和离子信息处理设备提供了新设计思路。",
+      "en": "Introduces a new electrode-electrolyte interface controlled by decoupled 2D electron gases, offering new design opportunities for energy storage and ion-based information processing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在双层石墨烯中实现了层选择性的化学改性，并展示了复杂的质子-电子混合逻辑功能。",
+        "en": "First demonstration of layer-selective chemical modification in bilayer graphene and complex hybrid proton-electronic logic."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论分析",
+      "en": "Experimental + Theoretical analysis"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了扭转电子学与电化学，展示了高度创新的逻辑器件应用，且实验数据详实。",
+        "en": "Combines twistronics with electrochemistry, demonstrating highly innovative logic device applications with comprehensive experimental data."
+      }
+    },
+    "keywords": [
+      "Twisted bilayer graphene",
+      "Hydrogenation",
+      "Proton transport",
+      "Logic gates",
+      "Double gating"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-01T09:41:29",
+    "input_scope": "full_pdf_text"
+  }
+}
