@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2604.00797v1",
+    "title": "Emergent Weyl Nodes and Berry Curvature in Bose Polarons via $p$-Wave Feshbach Coupling",
+    "authors": [
+      "Hiroyuki Tajima",
+      "Eiji Nakano",
+      "Kei Iida"
+    ],
+    "abstract": "We show that an impurity quasiparticle immersed in a Bose-Einstein condensate, known as a Bose polaron, exhibits topological properties characterized by a nonzero Berry curvature, which is induced by Weyl nodes that emerge via interspecies $p$-wave Feshbach resonance. Such nodes occur even in the absence of spin degrees of freedom and spin-orbit coupling. For charged impurities, the corresponding $p$-wave polarons are shown to be accompanied by chiral anomaly. The above predictions can be tested in a cold atomic environment by observing the Hall transport of the atomic or ionic impurity cloud.",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "hep-th",
+      "nucl-th"
+    ],
+    "published": "2026-04-01T12:06:22Z",
+    "updated": "2026-04-01T12:06:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.00797v1",
+      "pdf_path": "data/pdfs/2026-04-02/3_Emergent Weyl Nodes and Berry Curvature in Bose Polarons via $p$-Wave Feshbach Coupling__2604.00797v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-02T01:17:50.521239",
+    "updated_at": "2026-04-02T01:17:50.521231Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-02/3_Emergent Weyl Nodes and Berry Curvature in Bose Polarons via $p$-Wave Feshbach Coupling__2604.00797v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.00797v1",
+    "pdf_filename": "3_Emergent Weyl Nodes and Berry Curvature in Bose Polarons via $p$-Wave Feshbach Coupling__2604.00797v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了通过p波Feshbach耦合在玻色极化子中诱导出的新兴外尔点和贝里曲率。",
+      "en": "The study reveals emergent Weyl nodes and Berry curvature in Bose polarons induced by p-wave Feshbach coupling."
+    },
+    "problem": {
+      "zh": "如何在不依赖人工规范场或拓扑介质的情况下，在冷原子极化子系统中实现拓扑态。",
+      "en": "How to realize topological states in cold-atom polaron systems without relying on artificial gauge fields or topological media."
+    },
+    "approach": {
+      "zh": "理论分析了与玻色-爱因斯坦凝聚体通过p波Feshbach共振相互作用的杂质原子，构建了两通道有效哈密顿量，并研究了其动量空间中的拓扑能带结构。",
+      "en": "Theoretically analyzed an impurity atom interacting with a BEC via p-wave Feshbach resonance, constructed a two-channel effective Hamiltonian, and investigated the topological band structure in momentum space."
+    },
+    "main_takeaway": {
+      "zh": "p波耦合在杂质态与闭通道分子态之间产生相干混合，形成伪自旋结构，从而在动量空间产生外尔点和非零贝里曲率，导致反常霍尔输运和手征反常。",
+      "en": "The p-wave coupling induces coherent mixing between impurity and closed-channel molecular states, creating a pseudo-spin structure that generates Weyl nodes and non-zero Berry curvature, leading to anomalous Hall transport and chiral anomaly."
+    },
+    "why_it_matters": {
+      "zh": "提出了一种无需自旋轨道耦合即可实现拓扑极化子的新机制，为在冷原子实验中模拟外尔半金属物理和手征动力学提供了简洁的平台。",
+      "en": "It proposes a new mechanism for topological polarons without spin-orbit coupling, providing a simple platform to simulate Weyl semimetal physics and chiral dynamics in cold-atom experiments."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在极化子系统中通过简单的p波共振实现了外尔物理，将极化子研究从传统热力学扩展到了拓扑输运领域。",
+        "en": "First realization of Weyl physics in polaron systems via simple p-wave resonance, extending polaron research from traditional thermodynamics to topological transport."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了具有普适性的新物理机制，且与当前冷原子实验高度相关，符合该期刊对创新性和广泛影响力的要求。",
+        "en": "The study proposes a universal new physical mechanism and is highly relevant to current cold-atom experiments, meeting the journal's criteria for innovation and broad impact."
+      }
+    },
+    "keywords": [
+      "Bose polaron",
+      "p-wave Feshbach resonance",
+      "Weyl nodes",
+      "Berry curvature",
+      "Anomalous Hall effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-02T09:19:19",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2604.00412v1",
+    "title": "Robust $d$-wave altermagnetism in $\\mathrm{RbCr_2Se_2O}$",
+    "authors": [
+      "San-Dong Guo"
+    ],
+    "abstract": "The $\\mathrm{KV_2Se_2O}$, $\\mathrm{Rb_{1-δ}V_2Te_2O}$ and $\\mathrm{Cs_{1-δ}V_2Te_2O}$ are experimentally confirmed to adopt either C-type or G-type antiferromagnetic configuration, corresponding to apparent or hidden altermagnetism. However, their nearly degenerate energies lead to inconsistent experimental assignments between the two antiferromagnetic configurations. Here, we predict that the experimentally synthesized $\\mathrm{RbCr_2Se_2O}$ is a robust $d$-wave altermagnetic metal, since the energy difference between C-type and G-type configurations is large, which is independent of electron correlation strength and van der Waals interaction. Upon applying in-plane uniaxial strain, $\\mathrm{RbCr_2Se_2O}$ can generate a net total magnetic moment via a direct piezomagnetic effect, which is distinct from semiconductor that typically requires carrier doping in addition to strain. This provides an experimental strategy for distinguishing the G-type antiferromagnetic configuration, in which the total magnetic moment remains zero under uniaxial strain. Our work presents an isostructural $d$-wave altermagnetic $\\mathrm{RbCr_2Se_2O}$ analogous to $\\mathrm{KV_2Se_2O}$, $\\mathrm{Rb_{1-δ}V_2Te_2O}$ and $\\mathrm{Cs_{1-δ}V_2Te_2O}$, which can facilitate further experimental verification. Furthermore, these results are universal across materials of this family $\\mathrm{XCr_2Y_2O}$ (X=K, Rb, Cs; Y=Se, Te), thus expanding the family of altermagnets.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-01T02:54:41Z",
+    "updated": "2026-04-01T02:54:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.00412v1",
+      "pdf_path": "data/pdfs/2026-04-02/3_Robust $d$-wave altermagnetism in $mathrm{RbCr_2Se_2O}$__2604.00412v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-02T01:17:50.522444",
+    "updated_at": "2026-04-02T01:17:50.522437Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-02/3_Robust $d$-wave altermagnetism in $mathrm{RbCr_2Se_2O}$__2604.00412v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.00412v1",
+    "pdf_filename": "3_Robust $d$-wave altermagnetism in $mathrm{RbCr_2Se_2O}$__2604.00412v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "预测实验已合成的 RbCr2Se2O 是一种鲁棒的 d 波交错磁体，并提出通过单轴应变诱导净磁矩来区分磁序。",
+      "en": "Predicts experimentally synthesized RbCr2Se2O as a robust d-wave altermagnet and proposes uniaxial strain-induced magnetization to distinguish magnetic configurations."
+    },
+    "problem": {
+      "zh": "此前发现的钒基同构材料中，表现型与隐藏型交错磁序能量极度简并，导致实验上难以准确判定其磁基态。",
+      "en": "In previously discovered isostructural vanadium-based materials, the energy difference between apparent and hidden altermagnetic configurations is too small for unambiguous experimental assignment."
+    },
+    "approach": {
+      "zh": "采用第一性原理计算，结合 Hubbard U 修正和范德华相互作用，对比不同磁构型的能量稳定性，并模拟单轴应变对电子结构和磁性的影响。",
+      "en": "Used first-principles calculations with Hubbard U and vdW corrections to compare magnetic stability and simulated the effects of uniaxial strain on electronic and magnetic properties."
+    },
+    "main_takeaway": {
+      "zh": "RbCr2Se2O 的 C 型交错磁序具有显著的能量优势，且在单轴应变下能产生可观测的净磁矩（压磁效应），这为实验区分表现型与隐藏型交错磁性提供了可靠方案。",
+      "en": "The C-type altermagnetic state in RbCr2Se2O is energetically robust, and uniaxial strain can induce a measurable net magnetic moment (piezomagnetic effect), providing a reliable experimental strategy to distinguish apparent from hidden altermagnetism."
+    },
+    "why_it_matters": {
+      "zh": "该研究扩展了交错磁体家族，并解决了一类重要材料体系中磁序判定的实验难题，有助于推动交错磁性自旋电子器件的发展。",
+      "en": "This work expands the family of altermagnets and resolves experimental ambiguities in magnetic ordering for a key material class, facilitating the development of altermagnetic spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "在已知实验合成材料中发现了比同类体系更鲁棒的交错磁性候选者，并提出了切实可行的实验验证方法。",
+        "en": "Identified a more robust altermagnetic candidate among experimentally synthesized materials and proposed a feasible experimental verification method."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究聚焦于特定材料体系的电子结构与磁性预测，非常符合 PRB 的报道范围。",
+        "en": "The study focuses on electronic structure and magnetic predictions of a specific material system, fitting well within the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "RbCr2Se2O",
+      "Piezomagnetic effect",
+      "Spin splitting",
+      "Electronic structure"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-02T09:18:14",
+    "input_scope": "full_pdf_text"
+  }
+}

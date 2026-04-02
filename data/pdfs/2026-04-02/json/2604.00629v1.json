@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2604.00629v1",
+    "title": "Strain-tunable multipiezo effects in Janus monolayer Cr2SSe: Selective reversal of valley polarization and single-spin-channel anomalous valley Hall effect",
+    "authors": [
+      "Quan Shen",
+      "Jianing Tan",
+      "Tao Yao",
+      "Wenhu Liao",
+      "Jiansheng Dong"
+    ],
+    "abstract": "Altermagnetism, the third class of collinear magnetic order, uniquely combines a zero net magnetization with spin polarized bands in reciprocal space, opening new avenues for two dimensional valleytronics and spintronics. Here, using first principles calculations, we predict that the Janus monolayer Cr2SSe, which possesses intrinsic inversion symmetry breaking, hosts a strain tunable multipiezo effect and exhibits distinctive valleytronic properties. The system displays pronounced spin splitting and band inversion at the X and Y high symmetry points in the Brillouin zone, giving rise to robust spin-valley locking. The degeneracy of these valleys is protected by diagonal mirror symmetry. Application of uniaxial strain breaks this symmetry, concurrently inducing piezovalley, piezoelectric, and piezomagnetic responses, a manifestation of the multipiezo effect. Critically, strain applied along orthogonal crystallographic directions yields opposite valley polarization, while under small compressive strain, we achieve selective reversal of valley polarization, enabling independent control of valence and conduction band valleys and promoting a single-spin-channel anomalous valley Hall effect. These findings establish a pathway for low-power, non volatile manipulation of valley degrees of freedom and enhanced spin transport efficiency, providing a theoretical foundation for the design of energy-efficient valleytronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-01T08:35:33Z",
+    "updated": "2026-04-01T08:35:33Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.00629v1",
+      "pdf_path": "data/pdfs/2026-04-02/3_Strain-tunable multipiezo effects in Janus monolayer Cr2SSe Selective reversal of valley polarization and single-spin-ch__2604.00629v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-02T01:17:50.521756",
+    "updated_at": "2026-04-02T01:17:50.521749Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-02/3_Strain-tunable multipiezo effects in Janus monolayer Cr2SSe Selective reversal of valley polarization and single-spin-ch__2604.00629v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.00629v1",
+    "pdf_filename": "3_Strain-tunable multipiezo effects in Janus monolayer Cr2SSe Selective reversal of valley polarization and single-spin-ch__2604.00629v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "预测Janus单层Cr2SSe具有应变可调的多重压电效应，并实现了选择性谷极化翻转和单自旋通道反常谷霍尔效应。",
+      "en": "Predicts strain-tunable multipiezo effects in Janus monolayer Cr2SSe, achieving selective valley polarization reversal and single-spin-channel anomalous valley Hall effect."
+    },
+    "problem": {
+      "zh": "如何在单种材料中集成多种压电效应，并实现对价带和导带谷极化的独立、非对称调控。",
+      "en": "How to integrate multiple piezo-effects in a single material and achieve independent, asymmetric control over valence and conduction band valley polarizations."
+    },
+    "approach": {
+      "zh": "基于第一性原理计算，研究Janus单层Cr2SSe的电子结构、磁性及在单轴应变下的响应。",
+      "en": "Investigates the electronic structure, magnetism, and uniaxial strain response of Janus monolayer Cr2SSe using first-principles calculations."
+    },
+    "main_takeaway": {
+      "zh": "通过单轴应变打破对角镜像对称性，可同时诱导压电、压磁和压谷效应，并在特定压缩应变下实现价带谷极化的选择性翻转。",
+      "en": "Breaking diagonal mirror symmetry via uniaxial strain concurrently induces piezoelectric, piezomagnetic, and piezovalley effects, enabling selective reversal of valence band valley polarization under specific compressive strain."
+    },
+    "why_it_matters": {
+      "zh": "为开发低功耗、多功能谷电子学和自旋电子学器件提供了理论基础，特别是实现了单自旋通道的量子输运。",
+      "en": "Provides a theoretical foundation for low-power, multifunctional valleytronic and spintronic devices, specifically enabling single-spin-channel quantum transport."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了Janus交替磁体中对称性破缺与多重压电效应的耦合机制，并提出了独立调控不同能带谷极化的新方案。",
+        "en": "Clarifies the coupling mechanism between symmetry breaking and multipiezo effects in Janus altermagnets, proposing a new scheme for independent valley control."
+      }
+    },
+    "paper_type": {
+      "zh": "理论计算",
+      "en": "Theoretical calculation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究包含详尽的对称性分析、第一性原理计算以及对新型磁性材料物性的深入探讨，非常符合PRB的刊发范围。",
+        "en": "The study includes detailed symmetry analysis, first-principles calculations, and in-depth exploration of novel magnetic properties, aligning well with PRB's scope."
+      }
+    },
+    "keywords": [
+      "Janus monolayer",
+      "Altermagnetism",
+      "Multipiezo effect",
+      "Valley polarization",
+      "Anomalous valley Hall effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-02T09:19:07",
+    "input_scope": "full_pdf_text"
+  }
+}

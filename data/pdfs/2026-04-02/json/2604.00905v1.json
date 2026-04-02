@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2604.00905v1",
+    "title": "The origin of KPZ-scaling in arrays of polariton condensates",
+    "authors": [
+      "Denis Novokreschenov",
+      "Alexey Kavokin"
+    ],
+    "abstract": "This work investigates the origin of Kardar-Parisi-Zhang (KPZ) scaling in the phase dynamics of one-dimensional and two-dimensional polariton condensates. We demonstrate that the key mechanism leading to the observed power laws for the first-order correlation function $g^{(1)}$ is the fluctuation of the population of Goldstone modes, which arise due to the spontaneous breaking of $U(1)$ symmetry. Numerical simulations and analytical theory confirm that the critical exponents describing the KPZ universality class directly follow from the dynamics of Goldstone excitations. Our results establish a direct connection between the microscopic parameters of arrays of exciton-polariton condensates and the coherent properties of the light they emit.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-01T13:48:27Z",
+    "updated": "2026-04-01T13:48:27Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.00905v1",
+      "pdf_path": "data/pdfs/2026-04-02/3_The origin of KPZ-scaling in arrays of polariton condensates__2604.00905v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-02T01:17:50.520722",
+    "updated_at": "2026-04-02T01:17:50.520714Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-02/3_The origin of KPZ-scaling in arrays of polariton condensates__2604.00905v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.00905v1",
+    "pdf_filename": "3_The origin of KPZ-scaling in arrays of polariton condensates__2604.00905v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究揭示了激子极化激元凝聚态阵列中 KPZ 标度律起源于自发对称性破缺产生的南部-戈德斯通模的随机动力学。",
+      "en": "This study reveals that KPZ scaling in exciton-polariton condensate arrays originates from the stochastic dynamics of Nambu-Goldstone modes arising from spontaneous symmetry breaking."
+    },
+    "problem": {
+      "zh": "虽然实验已在极化激元系统中观察到 KPZ 普适类标度，但缺乏从微观参数（如相互作用强度和泵浦功率）推导该行为的理论解释。",
+      "en": "While KPZ universal scaling has been observed in polariton systems, a microscopic explanation linking system parameters like interaction strength and pump power to this behavior was missing."
+    },
+    "approach": {
+      "zh": "作者采用基于 Bogolyubov 变换的解析模型和数值模拟，计算了一维和二维极化激元晶格的一阶相干函数，并提取了临界指数。",
+      "en": "The authors used an analytical model based on the Bogolyubov ansatz and numerical simulations to calculate the first-order coherence function in 1D and 2D polariton lattices and extract critical exponents."
+    },
+    "main_takeaway": {
+      "zh": "KPZ 标度律直接源于戈德斯通模的涨落，且这种非平衡动力学在低泵浦功率（涨落与凝聚体密度相当时）最为显著。",
+      "en": "KPZ scaling stems directly from Goldstone mode fluctuations, and this non-equilibrium dynamics is most prominent at low pump powers where fluctuations are comparable to the condensate density."
+    },
+    "why_it_matters": {
+      "zh": "它建立了微观物理量与宏观普适性之间的桥梁，为通过调控戈德斯通模来控制量子光源的相干特性提供了理论依据。",
+      "en": "It bridges microscopic physical quantities and macroscopic universality, providing a theoretical basis for controlling the coherence properties of quantum light sources by manipulating Goldstone modes."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究明确指出了极化激元系统中 KPZ 行为的物理起源，解释了实验中观察到的动力学过程。",
+        "en": "The study identifies the specific physical origin of KPZ behavior in polariton systems, explaining the dynamical processes observed in experiments."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "KPZ 普适性是凝聚态和统计物理的热点，且该研究对近期多篇高影响力实验论文给出了理论解释。",
+        "en": "KPZ universality is a hot topic in condensed matter and statistical physics, and this work provides a theoretical explanation for several recent high-impact experimental papers."
+      }
+    },
+    "keywords": [
+      "Exciton-polariton condensates",
+      "KPZ universality",
+      "Nambu-Goldstone modes",
+      "Phase dynamics",
+      "Coherence properties"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-02T09:21:01",
+    "input_scope": "full_pdf_text"
+  }
+}
