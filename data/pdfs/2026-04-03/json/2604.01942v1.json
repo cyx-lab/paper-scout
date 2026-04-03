@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2604.01942v1",
+    "title": "Lead-free antiperovskite derivatives Ba$_3$MA$_3$ (M = P, As, Sb, Bi; A = Cl, Br, I): Next-gen materials for optoelectronics",
+    "authors": [
+      "Surajit Adhikari",
+      "Aftab Alam",
+      "Priya Johari"
+    ],
+    "abstract": "Antiperovskite derivatives have recently emerged as promising lead-free alternatives to halide perovskites for optoelectronic applications. Here, using a comprehensive first-principles calculations including density functional perturbation theory and many-body perturbation theory (involving GW and Bethe-Salpeter equation (BSE)), we investigate the stability, excitonic, polaronic, and optoelectronic properties of cubic Ba$_3$MA$_3$ (M = P, As, Sb, Bi; A = Cl, Br, I). These compounds are found to be dynamically and thermodynamically stable direct-gap semiconductors with G$_0$W$_0$@PBE+SOC band gaps spanning 1.23-2.17 eV. BSE calculations reveal moderate exciton binding energies (0.254-0.352 eV) and intermediate-radius excitons, while Fröhlich polaron analysis indicates intermediate carrier-phonon coupling and mobilities up to $\\sim$ 75 cm$^{2}$V$^{-1}$s$^{-1}$. The resulting spectroscopic limited maximum efficiencies reach $\\sim$ 19-32%, surpassing several lead-based perovskites. Our results establish Ba-based antiperovskite derivatives as a robust, eco-friendly platform for next-generation optoelectronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-02T12:02:51Z",
+    "updated": "2026-04-02T12:02:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.01942v1",
+      "pdf_path": "data/pdfs/2026-04-03/3_Lead-free antiperovskite derivatives Ba$_3$MA$_3$ (M = P, As, Sb, Bi; A = Cl, Br, I) Next-gen materials for optoelectron__2604.01942v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-03T01:20:22.914445",
+    "updated_at": "2026-04-03T01:20:22.914435Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-03/3_Lead-free antiperovskite derivatives Ba$_3$MA$_3$ (M = P, As, Sb, Bi; A = Cl, Br, I) Next-gen materials for optoelectron__2604.01942v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.01942v1",
+    "pdf_filename": "3_Lead-free antiperovskite derivatives Ba$_3$MA$_3$ (M = P, As, Sb, Bi; A = Cl, Br, I) Next-gen materials for optoelectron__2604.01942v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了新型无铅反钙钛矿衍生物 Ba3MA3 的激子、极化子及光电特性，预测其理论光电转换效率最高可达 32%。",
+      "en": "Investigates the excitonic, polaronic, and optoelectronic properties of lead-free antiperovskite derivatives Ba3MA3, predicting efficiencies up to 32%."
+    },
+    "problem": {
+      "zh": "传统铅基卤化物钙钛矿存在毒性和长期稳定性不足的问题，亟需寻找高性能且环保的替代材料。",
+      "en": "Traditional lead halide perovskites suffer from toxicity and stability issues, necessitating the search for high-performance, eco-friendly alternatives."
+    },
+    "approach": {
+      "zh": "采用第一性原理计算，结合密度泛函微扰理论 (DFPT) 和多体微扰理论 (GW+BSE)，分析材料的稳定性、能带结构、激子效应、极化子迁移率及光谱极限最大效率 (SLME)。",
+      "en": "Used first-principles calculations combining DFPT and many-body perturbation theory (GW+BSE) to analyze stability, band structures, excitonic effects, polaron mobilities, and SLME."
+    },
+    "main_takeaway": {
+      "zh": "Ba3MA3 系列材料具有 1.23–2.17 eV 的理想直接带隙，表现出中等强度的激子结合能和极化子耦合，其理论效率 (19–32%) 超过了多种主流铅基钙钛矿。",
+      "en": "Ba3MA3 compounds possess ideal direct bandgaps (1.23–2.17 eV), moderate exciton binding energies, and polaron coupling, with theoretical efficiencies (19–32%) surpassing many lead-based perovskites."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了钡基反钙钛矿衍生物作为下一代高效无铅光电器件的潜力平台，并提供了关键的物理参数指导实验合成。",
+      "en": "This work establishes Ba-based antiperovskite derivatives as a promising platform for next-gen lead-free optoelectronics and provides key physical insights to guide experimental synthesis."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次全面揭示了该类新型反钙钛矿材料的激子和极化子物理特性，并预测了极具竞争力的光电效率。",
+        "en": "First comprehensive revelation of excitonic and polaronic physics in this new class of antiperovskites with highly competitive predicted efficiencies."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文包含深入的多体物理计算（GW/BSE）和对新型凝聚态材料性质的系统研究，符合该刊风格。",
+        "en": "The paper includes in-depth many-body physics (GW/BSE) and systematic study of novel condensed matter properties, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "Antiperovskite derivatives",
+      "Lead-free optoelectronics",
+      "Exciton binding energy",
+      "Polaron mobility",
+      "SLME"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-03",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-03T09:23:24",
+    "input_scope": "full_pdf_text"
+  }
+}

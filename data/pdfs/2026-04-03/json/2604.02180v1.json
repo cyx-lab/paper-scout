@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2604.02180v1",
+    "title": "Entropic crystallization of geometrically frustrated magnets on 1/1 approximant Tsai-type quasicrystal",
+    "authors": [
+      "Oscar Novat",
+      "Ludovic D. C. Jaubert",
+      "Masafumi Udagawa"
+    ],
+    "abstract": "We have studied the antiferromagnetic Ising model on the icosahedral bcc lattice, as a model system of 1/1 approximant Tsai-type quasicrystals. We addressed thermal equilibrium properties of this system with Markov-chain Monte Carlo simulation supplemented with the parallel tempering technique to accelerate the relaxation dynamics. As a result, we found a second-order phase transition takes place to the magnetic ordered phase with ${\\mathbb Z_3}\\times {\\mathbb Z_2}$ symmetry breaking. Despite the ordering, the low-temperature phase keeps macroscopic degeneracy as identified by finite residual entropy, $\\mathcal{S}\\sim0.1767/{\\rm spin}$. Remarkably, the existence of residual entropy turns out to play a major role in the formation of magnetic order. Generation of domain wall is suppressed, as it reduces the residual entropy locally stored in icosahedra, beyond the gain of configurational entropy due to domain wall patterns. Magnetic order arises out of this competition as entropic crystallization, which manifest universal mechanism of strongly frustrated systems with large geometrical units.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-04-02T15:42:53Z",
+    "updated": "2026-04-02T15:42:53Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasicrystal",
+        "quasicrystal:icosahedral"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.02180v1",
+      "pdf_path": "data/pdfs/2026-04-03/4_Entropic crystallization of geometrically frustrated magnets on 11 approximant Tsai-type quasicrystal__2604.02180v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-03T01:20:22.913777",
+    "updated_at": "2026-04-03T01:20:22.913768Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-03/4_Entropic crystallization of geometrically frustrated magnets on 11 approximant Tsai-type quasicrystal__2604.02180v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.02180v1",
+    "pdf_filename": "4_Entropic crystallization of geometrically frustrated magnets on 11 approximant Tsai-type quasicrystal__2604.02180v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现蔡型1/1近似晶体中的反铁磁伊辛模型通过“熵致结晶”机制形成具有残余熵的有序态。",
+      "en": "The study finds that the antiferromagnetic Ising model on 1/1 Tsai-type approximants forms an ordered state with residual entropy via an 'entropic crystallization' mechanism."
+    },
+    "problem": {
+      "zh": "探索几何受挫磁体（特别是蔡型准晶近似晶体）在低温下的磁有序模式及其物理机制。",
+      "en": "Exploring the low-temperature magnetic ordering patterns and underlying mechanisms in geometrically frustrated magnets, specifically Tsai-type quasicrystal approximants."
+    },
+    "approach": {
+      "zh": "在体心立方排列的二十面体格点上建立反铁磁伊辛模型，并利用带并行回火技术的蒙特卡洛模拟研究其热力学性质。",
+      "en": "Constructing an antiferromagnetic Ising model on a bcc lattice of icosahedra and using Monte Carlo simulations with parallel tempering to study its thermodynamic properties."
+    },
+    "main_takeaway": {
+      "zh": "磁有序的形成源于“熵致结晶”：产生畴壁虽然增加配置熵，但会剧烈减少二十面体单元内部的局部残余熵，系统为保留更多残余熵而选择有序。",
+      "en": "Magnetic order arises from 'entropic crystallization': while domain walls add configurational entropy, they severely reduce local residual entropy within icosahedra, leading the system to favor order to preserve total entropy."
+    },
+    "why_it_matters": {
+      "zh": "为理解准晶磁体中复杂的磁性行为提供了理论基础，并揭示了强受挫系统中一种由熵驱动而非能量驱动的普遍有序机制。",
+      "en": "It provides a theoretical basis for understanding complex magnetism in quasicrystal magnets and reveals a universal ordering mechanism driven by entropy rather than energy in strongly frustrated systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确解释了高度简并的受挫系统如何通过局部与全局熵的竞争选择特定的有序态。",
+        "en": "It clearly explains how a highly degenerate frustrated system selects a specific ordered state through the competition between local and global entropy."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "提出了新颖的“熵致结晶”物理机制，且对准晶近似晶体这一前沿领域具有重要指导意义。",
+        "en": "It proposes a novel 'entropic crystallization' mechanism with significant implications for the frontier field of quasicrystal approximants."
+      }
+    },
+    "keywords": [
+      "Quasicrystal approximant",
+      "Geometrical frustration",
+      "Entropic crystallization",
+      "Ising model",
+      "Residual entropy"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-03",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-03T09:34:20",
+    "input_scope": "full_pdf_text"
+  }
+}

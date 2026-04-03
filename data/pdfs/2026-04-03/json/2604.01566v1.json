@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2604.01566v1",
+    "title": "Abrupt crystallization from shock-compressed CaSiO3 glass",
+    "authors": [
+      "A. Amouretti",
+      "K. Nonaka",
+      "X. Liu",
+      "Y. Hironaka",
+      "H. Huang",
+      "R. Kodama",
+      "K. Lawler",
+      "K. Miyanishi",
+      "H. Nakamura",
+      "C. Schwartz",
+      "Y. Seto",
+      "K. Sueda",
+      "Y. Wu",
+      "M. Yabashi",
+      "T. Yabuuchi",
+      "N. Ozaki"
+    ],
+    "abstract": "We have performed in situ time-resolved X-ray diffraction at ~100 GPa on laser-shocked CaSiO3 glass to investigate the glass-to-crystal transition. At this extreme pressure, we observe the ultrafast crystallization of the CaSiO3 perovskite structure from the compressed amorphous phase, with a typical nucleation time of 1.69 +/- 0.10 ns and a final grainsize of ~20 nm. The grain size temporal evolution suggest a diffusion controlled transformation. Moreover, the observed concomitant explosive grain growth together with the release wave arrival into shocked CaSiO3 also suggests a role of the release in the nucleation process.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-02T03:27:17Z",
+    "updated": "2026-04-02T03:27:17Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [],
+      "author_match": true,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.01566v1",
+      "pdf_path": "data/pdfs/2026-04-03/5_Abrupt crystallization from shock-compressed CaSiO3 glass__2604.01566v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-03T01:20:22.915552",
+    "updated_at": "2026-04-03T01:20:22.915545Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-03/5_Abrupt crystallization from shock-compressed CaSiO3 glass__2604.01566v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.01566v1",
+    "pdf_filename": "5_Abrupt crystallization from shock-compressed CaSiO3 glass__2604.01566v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "实验观测到 CaSiO3 玻璃在 100 GPa 冲击压缩下发生纳秒级超快结晶。",
+      "en": "Experimental observation of nanosecond-scale ultrafast crystallization of CaSiO3 glass under 100 GPa shock compression."
+    },
+    "problem": {
+      "zh": "研究硅酸盐玻璃在极端压力和温度条件下的快速结晶动力学，特别是 CaSiO3 在纳秒时间尺度上的相变行为。",
+      "en": "Investigating the rapid crystallization kinetics of silicate glasses under extreme pressure and temperature, specifically the phase transition of CaSiO3 on nanosecond timescales."
+    },
+    "approach": {
+      "zh": "利用 SACLA 设施的 X 射线自由电子激光（XFEL）结合激光冲击技术，对约 100 GPa 压力下的样品进行原位时间分辨 X 射线衍射测量。",
+      "en": "Utilizing in situ time-resolved X-ray diffraction at the SACLA X-ray free electron laser (XFEL) facility combined with laser-shock compression at approximately 100 GPa."
+    },
+    "main_takeaway": {
+      "zh": "在 108 GPa 压力下，CaSiO3 玻璃在约 1.69 ns 内迅速结晶为钙钛矿结构，其生长过程受扩散控制，且卸载波的到达可能促进了成核过程。",
+      "en": "At 108 GPa, CaSiO3 glass abruptly crystallizes into a perovskite structure within ~1.69 ns via a diffusion-controlled process, with the release wave potentially playing a role in nucleation."
+    },
+    "why_it_matters": {
+      "zh": "这是首次观测到 CaSiO3 在该压力下的纳秒级结晶，对于理解行星撞击过程中的物质演化以及极端条件下的硅酸盐动力学具有重要意义。",
+      "en": "This is the first observation of nanosecond crystallization in CaSiO3 at such pressures, which is crucial for understanding material evolution during planetary impacts and silicate dynamics under extreme conditions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在 100 GPa 极端条件下捕捉到硅酸盐玻璃的超快结晶过程，并定量分析了晶粒生长动力学。",
+        "en": "First to capture the ultrafast crystallization of silicate glass at 100 GPa and quantitatively analyze the grain growth kinetics."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了先进的 XFEL 技术与极端高压物理，解决了凝聚态物理和地球科学中的重要动力学问题。",
+        "en": "The study combines advanced XFEL technology with extreme high-pressure physics, addressing key dynamical questions in condensed matter physics and geoscience."
+      }
+    },
+    "keywords": [
+      "CaSiO3 glass",
+      "Laser-shock compression",
+      "Ultrafast crystallization",
+      "Perovskite",
+      "X-ray free electron laser",
+      "Phase transition kinetics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-03",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-03T09:20:50",
+    "input_scope": "full_pdf_text"
+  }
+}

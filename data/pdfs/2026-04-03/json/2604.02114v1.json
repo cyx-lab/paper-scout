@@ -1,0 +1,124 @@
+{
+  "paper_record": {
+    "id": "2604.02114v1",
+    "title": "Altermagnetism and Room-Temperature Metal-to-Insulator Transition in CsCr$_2$S$_2$O",
+    "authors": [
+      "Yi Liu",
+      "Chen-Chao Xu",
+      "Jin-Ke Bao",
+      "Bai-Jiang Lv",
+      "Hao Li",
+      "Jing Li",
+      "Yi-Qiang Lin",
+      "Hua-Xun Li",
+      "Yi-Ming Lu",
+      "Xin-Yu Zhao",
+      "Wu-Zhang Yang",
+      "Zhen-Yi Zhang",
+      "Xian-Yan Chen",
+      "Wen-he Jiao",
+      "Ji-Yong Liu",
+      "Bai-Ren Zhu",
+      "Guang-Han Cao"
+    ],
+    "abstract": "Metal-to-insulator transitions (MITs), particularly near room temperature, have been extensively studied in nonmagnetic and conventional ferromagnetic and antiferromagnetic systems, yet the co-emergence of MIT and altermagnetism (AM) remains unexplored. Here, a layered chromium-based compound CsCr$_2$S$_2$O that realizes this coexistence was synthesized. It crystalizes in CeCr$_2$Si$_2$C-type structure with Cr moments orders in a C-type antiferromagnetic configuration below $T_\\mathrm{N}$ = 326 K, constituting a room-temperature d-wave altermagnet. In the altermagnetic state, a subsequent Verwey-type MIT appears at $T_\\mathrm{MI}$ = 305 K, driven by a tetragonal-to-orthorhombic structural distortion and stripe charge ordering of Cr$^{+2}$/Cr$^{+3}$ ions, while maintaining its altermagnetic character. First-principles calculations show moment-dependent spin-split electronic structures with maximum splitting energies of ~0.6 eV and ~0.3 eV in the metallic and insulating states, respectively. Our work links the two prominent phenomena, MIT and AM, in a single material, establishing a new platform for potential spintronic applications.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-04-02T14:49:22Z",
+    "updated": "2026-04-02T14:49:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.02114v1",
+      "pdf_path": "data/pdfs/2026-04-03/3_Altermagnetism and Room-Temperature Metal-to-Insulator Transition in CsCr$_2$S$_2$O__2604.02114v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-03T01:20:22.914016",
+    "updated_at": "2026-04-03T01:20:22.914005Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-03/3_Altermagnetism and Room-Temperature Metal-to-Insulator Transition in CsCr$_2$S$_2$O__2604.02114v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.02114v1",
+    "pdf_filename": "3_Altermagnetism and Room-Temperature Metal-to-Insulator Transition in CsCr$_2$S$_2$O__2604.02114v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在新型层状化合物 CsCr2S2O 中首次发现了室温附近的交错磁性与金属-绝缘体转变的共存。",
+      "en": "Discovery of the coexistence of altermagnetism and metal-to-insulator transition near room temperature in the new layered compound CsCr2S2O."
+    },
+    "problem": {
+      "zh": "探索交错磁性（AM）与金属-绝缘体转变（MIT）能否在单一材料中结合，并实现室温下的自旋极化调控。",
+      "en": "Exploring whether altermagnetism (AM) and metal-to-insulator transition (MIT) can coexist in a single material to enable spin-polarization control at room temperature."
+    },
+    "approach": {
+      "zh": "合成新型铬基化合物 CsCr2S2O，结合单晶/粉末 X 射线衍射、中子粉末衍射、电输运测量以及第一性原理计算进行系统研究。",
+      "en": "Synthesized a new Cr-based compound CsCr2S2O and investigated it using single-crystal/powder XRD, neutron powder diffraction, transport measurements, and DFT calculations."
+    },
+    "main_takeaway": {
+      "zh": "CsCr2S2O 在 326 K 表现为 d 波交错磁体，并在 305 K 发生由电荷有序驱动的 Verwey 型金属-绝缘体转变，且在绝缘态下依然保持显著的自旋分裂特征。",
+      "en": "CsCr2S2O acts as a d-wave altermagnet below 326 K and undergoes a charge-order-driven Verwey-type MIT at 305 K, while maintaining significant spin-splitting features in the insulating state."
+    },
+    "why_it_matters": {
+      "zh": "该研究将关联电子物理与自旋电子学联系起来，为开发基于交错磁性的室温自旋电子器件（如自旋过滤器或开关）提供了理想平台。",
+      "en": "This work links correlated electron physics with spintronics, providing an ideal platform for developing altermagnetism-based room-temperature spintronic devices like spin filters or switches."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在实验上展示了交错磁性与金属-绝缘体转变的共存，且转变温度位于室温附近，具有很强的应用前景。",
+        "en": "Experimentally demonstrates the coexistence of altermagnetism and MIT for the first time, with transition temperatures near room temperature, showing strong application potential."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文报道了新型磁性材料及其独特的相变行为，属于当前凝聚态物理极其关注的前沿领域。",
+        "en": "The paper reports a new magnetic material and its unique phase transition behavior, which is a highly focused frontier in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "CsCr2S2O",
+      "Altermagnetism",
+      "Metal-to-insulator transition",
+      "Verwey transition",
+      "Charge ordering",
+      "Spintronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-03",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-03T09:33:43",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2604.01948v1",
+    "title": "Quantum anomalous Hall conductivity in altermagnets under applied magnetic field",
+    "authors": [
+      "Meysam Bagheri Tagani",
+      "Amar Fakhredine",
+      "Carmine Autieri"
+    ],
+    "abstract": "We investigate the emergence of quantum anomalous Hall conductivity in a two-dimensional $d$-wave altermagnet on a Lieb lattice under an external magnetic field. Altermagnetic order induces momentum-dependent spin splitting without net magnetization in the relativistic limit, producing distinct spin-resolved bands at the $X$ and $Y$ valleys. The phase diagram features a normal insulator and a spin Chern insulator separated by an accidental Dirac semimetal. The magnetic field breaks rotational symmetry between valleys while maintaining vanishing total magnetization, enabling independent valley contributions to topology. One valley supports Chern numbers $C=-1$ or $0$, while the other hosts $C=0$ or $+1$, governed by field strength and bandwidth. This competition yields valley-dependent topology. Berry curvature analysis reveals fully gapped phases with total Chern numbers $C=\\pm1$, separated by valley-selective gap closings. We uncover a mechanism for rapid magnetic control of the quantum anomalous Hall effect near the semimetal phase and highlight key distinctions from ferro-valleytronic and quantum spin Hall systems.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-02T12:14:08Z",
+    "updated": "2026-04-02T12:14:08Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.01948v1",
+      "pdf_path": "data/pdfs/2026-04-03/6_Quantum anomalous Hall conductivity in altermagnets under applied magnetic field__2604.01948v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-03T01:20:22.914404",
+    "updated_at": "2026-04-03T01:20:22.914397Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-03/6_Quantum anomalous Hall conductivity in altermagnets under applied magnetic field__2604.01948v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.01948v1",
+    "pdf_filename": "6_Quantum anomalous Hall conductivity in altermagnets under applied magnetic field__2604.01948v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了外磁场如何通过打破谷对称性在零磁化的 Lieb 晶格交错磁体中诱导出量子反常霍尔效应。",
+      "en": "Investigates how an external magnetic field induces the quantum anomalous Hall effect in zero-magnetization Lieb-lattice altermagnets by breaking valley symmetry."
+    },
+    "problem": {
+      "zh": "如何在保持净磁化强度为零的情况下，在交错磁体中实现并调控量子反常霍尔效应。",
+      "en": "How to realize and control the quantum anomalous Hall effect in altermagnets while maintaining vanishing net magnetization."
+    },
+    "approach": {
+      "zh": "使用 Lieb 晶格紧束缚模型，结合 d 波交错磁序、Rashba 自旋轨道耦合和外磁场，通过 Berry 曲率和陈数计算分析拓扑相图。",
+      "en": "Utilizing a tight-binding model on a Lieb lattice with d-wave altermagnetic order, Rashba SOC, and external magnetic fields to analyze topological phase diagrams via Berry curvature and Chern number calculations."
+    },
+    "main_takeaway": {
+      "zh": "外磁场打破了 X 和 Y 谷之间的旋转对称性，使得两个谷可以独立贡献拓扑性质，从而在总磁化为零的系统中产生总陈数为 ±1 的量子反常霍尔态。",
+      "en": "The external magnetic field breaks the rotational symmetry between X and Y valleys, enabling independent valley contributions that produce a quantum anomalous Hall state with a total Chern number of ±1 in a zero-net-magnetization system."
+    },
+    "why_it_matters": {
+      "zh": "该研究提供了一种无需应变或结构畸变、仅通过磁场即可快速切换交错磁体拓扑态的新机制，对开发无磁化拓扑电子器件具有重要意义。",
+      "en": "The study provides a mechanism to rapidly switch topological states in altermagnets using only magnetic fields without strain or structural distortion, which is significant for developing magnetization-free topological electronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "清晰地阐明了交错磁体中谷非对称性与拓扑量子化之间的物理联系。",
+        "en": "Clearly elucidates the physical link between valley asymmetry and topological quantization in altermagnets."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "交错磁体是当前凝聚态物理的前沿热点，且该工作提供了新颖的对称性分析和物理图像。",
+        "en": "Altermagnetism is a current frontier in condensed matter physics, and this work provides novel symmetry analysis and physical insights."
+      }
+    },
+    "keywords": [
+      "Altermagnets",
+      "Quantum anomalous Hall effect",
+      "Lieb lattice",
+      "Valleytronics",
+      "Chern insulator"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-03",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-03T09:26:00",
+    "input_scope": "full_pdf_text"
+  }
+}
