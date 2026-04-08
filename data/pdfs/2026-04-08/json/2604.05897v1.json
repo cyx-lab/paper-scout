@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2604.05897v1",
+    "title": "Frequency combs and coherent dissipative structures in nonlinear optical microresonators",
+    "authors": [
+      "Tobias Herr",
+      "Alexey Tikan",
+      "Tobias J. Kippenberg"
+    ],
+    "abstract": "Laser-driven high-Q Kerr-nonlinear optical microresonators enable parametric oscillation with low-power continuous-wave lasers and host a variety of coherent dissipative structures, including dissipative Kerr solitons and switching waves. These time-periodic structures constitute coherent optical frequency combs, and photonic-chip integration has miniaturized them to the chip scale. Such photonic-integrated, microresonator-based frequency combs - often termed 'microcombs' or 'Kerr combs' - have been demonstrated in various system-level and scientific applications. They complement femtosecond-laser-based frequency combs when high repetition rates, broad bandwidths, or high power per comb line are needed. This review introduces the field of microcombs and outlines the fundamental physical principles governing the generation of coherent frequency combs in microresonators.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-04-07T14:00:49Z",
+    "updated": "2026-04-07T14:00:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.05897v1",
+      "pdf_path": "data/pdfs/2026-04-08/2_Frequency combs and coherent dissipative structures in nonlinear optical microresonators__2604.05897v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-08T01:22:38.331721",
+    "updated_at": "2026-04-08T01:22:38.331712Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-08/2_Frequency combs and coherent dissipative structures in nonlinear optical microresonators__2604.05897v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.05897v1",
+    "pdf_filename": "2_Frequency combs and coherent dissipative structures in nonlinear optical microresonators__2604.05897v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文全面综述了非线性光学微腔中相干光频梳的物理原理、动力学及生成机制。",
+      "en": "This paper reviews the physical principles, dynamics, and generation mechanisms of coherent optical frequency combs in nonlinear microresonators."
+    },
+    "problem": {
+      "zh": "如何在芯片尺度上产生并稳定高相干、宽带的光频梳，并理解其背后的耗散结构动力学。",
+      "en": "How to generate and stabilize coherent, broadband optical frequency combs at the chip scale and understand the underlying dissipative dynamics."
+    },
+    "approach": {
+      "zh": "系统回顾了微腔线性与非线性物理，重点分析了Lugiato-Lefever方程、耗散凯尔孤子形成及色散工程。",
+      "en": "Systematically reviews microresonator physics, focusing on the Lugiato-Lefever Equation, dissipative Kerr soliton formation, and dispersion engineering."
+    },
+    "main_takeaway": {
+      "zh": "相干微梳源于色散与非线性、增益与损耗的双重平衡，耗散凯尔孤子是实现低噪声宽带应用的核心。",
+      "en": "Coherent microcombs result from the dual balance of dispersion/nonlinearity and gain/loss, with dissipative Kerr solitons being central to low-noise applications."
+    },
+    "why_it_matters": {
+      "zh": "为微梳技术小型化提供了理论与实验框架，对精密计量、光通信和光计算等领域至关重要。",
+      "en": "Provides a framework for microcomb miniaturization, essential for precision metrology, optical communications, and optical computing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "奠基性",
+        "en": "Foundational"
+      },
+      "reason": {
+        "zh": "由领域先驱撰写，系统总结了微梳物理十余年的发展，是该方向的权威综述。",
+        "en": "Written by field pioneers, it systematically summarizes over a decade of microcomb physics as an authoritative reference."
+      }
+    },
+    "paper_type": {
+      "zh": "综述",
+      "en": "Review"
+    },
+    "likely_venue": {
+      "journal": "Reviews of Modern Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章深度、广度及作者权威性高度符合该刊要求。",
+        "en": "The depth, scope, and author authority align perfectly with the journal's standards."
+      }
+    },
+    "keywords": [
+      "Microcombs",
+      "Dissipative Kerr Solitons",
+      "Lugiato-Lefever Equation",
+      "Nonlinear Microresonators",
+      "Optical Frequency Combs"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-08T09:26:56",
+    "input_scope": "full_pdf_text"
+  }
+}

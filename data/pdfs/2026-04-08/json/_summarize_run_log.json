@@ -1,0 +1,74 @@
+{
+  "run_date": "2026-04-08",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2604.05311v1.json": 1,
+    "2604.05391v1.json": 1,
+    "2604.05412v1.json": 1,
+    "2604.05450v1.json": 1,
+    "2604.05608v1.json": 1,
+    "2604.05883v1.json": 2,
+    "2604.05897v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2604.05311v1.json",
+      "status": "ok",
+      "secs": 15.36,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.05391v1.json",
+      "status": "ok",
+      "secs": 19.31,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.05412v1.json",
+      "status": "ok",
+      "secs": 15.4,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.05450v1.json",
+      "status": "ok",
+      "secs": 25.78,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.05608v1.json",
+      "status": "ok",
+      "secs": 22.45,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.05883v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid project resource name projects/projects/random-9c792882/locations/global', 'type': 'upstream_error', 'param': '', 'code': 400}}",
+      "secs": 21.79,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.05897v1.json",
+      "status": "ok",
+      "secs": 106.83,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.05883v1.json",
+      "status": "ok",
+      "secs": 37.49,
+      "round": 2,
+      "attempt": 2
+    }
+  ]
+}

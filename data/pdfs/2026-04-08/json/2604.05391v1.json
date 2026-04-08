@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2604.05391v1",
+    "title": "Topologically shadowed quantum criticality: A non-compact conformal manifold",
+    "authors": [
+      "Tianyao Fang",
+      "Weicheng Ye",
+      "Zhengcheng Gu",
+      "Fei Zhou"
+    ],
+    "abstract": "We put forward a proposal for topological quantum critical points (tQCPs) separating non-invertible chiral topological orders in $(2+1)$ dimensions. We conjecture that these tQCPs can be captured by a family of scale-invariant field theories forming a non-compact scale-invariant manifold. A central feature of our proposal is topological shadowing: the underlying critical theory is rigorously constrained by the global topological data of the two adjacent gapped phases. These theories can be further projected into quantum field theories with universal non-local structures. Specifically, we show that the quantum dynamics of the $U(1)$ symmetric critical point uniquely characterized by a topological angle $Θ_{\\text{cft}}$ -- which is defined by a commutator between two Wilson loop operators on a torus -- is determined by the braiding angles $Θ_{1,2}$ of the adjacent gapped phases via the relation $Θ_{\\text{cft}}^{-1} =\\frac{1}{2}[Θ_1^{-1} + Θ_2^{-1}]$. Despite the non-locality, our renormalization group calculations (up to two-loop order) strongly suggest that the theory shall maintain exact scale invariance. This establishes, without supersymmetry, a continuous manifold of fixed points that naturally becomes a conformal manifold when the local structure is further enforced.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall",
+      "hep-th"
+    ],
+    "published": "2026-04-07T03:42:55Z",
+    "updated": "2026-04-07T03:42:55Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:wilson loop"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.05391v1",
+      "pdf_path": "data/pdfs/2026-04-08/3_Topologically shadowed quantum criticality A non-compact conformal manifold__2604.05391v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-08T01:22:38.333189",
+    "updated_at": "2026-04-08T01:22:38.333182Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-08/3_Topologically shadowed quantum criticality A non-compact conformal manifold__2604.05391v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.05391v1",
+    "pdf_filename": "3_Topologically shadowed quantum criticality A non-compact conformal manifold__2604.05391v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "论文证明了 (2+1) 维拓扑量子临界点受相邻相拓扑数据约束，并形成非紧致共形流形。",
+      "en": "The paper demonstrates that (2+1)D topological quantum critical points are constrained by adjacent topological data and form a non-compact conformal manifold."
+    },
+    "problem": {
+      "zh": "如何系统地确定连接两个不同拓扑序的量子临界点的性质，以及这些临界点是否允许连续变形。",
+      "en": "How to systematically determine the nature of quantum critical points between distinct topological orders and whether these points allow for continuous deformations."
+    },
+    "approach": {
+      "zh": "结合拓扑异常匹配原则与二圈图重整化群分析，研究带有非局部项的 Chern-Simons-费米子有效场论。",
+      "en": "Combining topological anomaly matching with two-loop renormalization group analysis of a Chern-Simons-fermion effective field theory with non-local terms."
+    },
+    "main_takeaway": {
+      "zh": "临界点的拓扑角由相邻相的编织角通过调和平均关系唯一确定，且临界点并非孤立点，而是形成了一个精确标度不变的连续流形。",
+      "en": "The critical topological angle is uniquely determined by the braiding angles of adjacent phases via a harmonic mean relation, and the critical points form a continuous, exactly scale-invariant manifold rather than isolated fixed points."
+    },
+    "why_it_matters": {
+      "zh": "在无超对称的情况下实现了 (2+1) 维的 Luttinger 液体类比，为理解扭曲石墨烯等系统中的拓扑相变提供了新框架。",
+      "en": "Realizes a (2+1)D analogue of Luttinger liquids without supersymmetry, providing a new framework for understanding topological phase transitions in systems like twisted graphene."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了“拓扑阴影”机制，并证明了在非超对称 (2+1) 维系统中存在非紧致共形流形。",
+        "en": "Proposed the 'topological shadowing' mechanism and demonstrated the existence of a non-compact conformal manifold in non-supersymmetric (2+1)D systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文提出了具有普遍意义的新物理概念（拓扑阴影）和新奇的场论结构，符合该期刊对创新性的要求。",
+        "en": "The paper proposes a novel physical concept (topological shadowing) and a unique field-theoretic structure with broad significance, meeting the journal's innovation standards."
+      }
+    },
+    "keywords": [
+      "Topological Quantum Criticality",
+      "Conformal Manifold",
+      "Topological Shadowing",
+      "Chern-Simons Theory",
+      "Non-invertible Topological Order"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-08T09:23:44",
+    "input_scope": "full_pdf_text"
+  }
+}

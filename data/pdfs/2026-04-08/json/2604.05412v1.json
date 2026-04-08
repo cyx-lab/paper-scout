@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2604.05412v1",
+    "title": "Magnetic toroidal monopoles from relativistic polarization responses to magnetic field gradients",
+    "authors": [
+      "Taisei Yamanaka",
+      "Takumi Sato",
+      "Satoru Hayami"
+    ],
+    "abstract": "The magnetic toroidal monopole, a time-reversal-odd scalar, has attracted attention through its characteristic responses, such as electric-field-induced nonreciprocal directional dichroism observed in Co$_2$SiO$_4$. However, its evaluation in crystalline solids remains unresolved, as it cannot be defined within conventional multipole expansions or thermodynamic formulations. In this paper, we propose a theoretical framework to evaluate the magnetic toroidal monopole in periodic crystals based on the response of relativistic electric polarization to a magnetic field gradient. By incorporating the magnetic-field-gradient correction to the relativistic polarization, we derive an explicit expression for the magnetic toroidal monopole beyond symmetry arguments. The resulting expression is formulated in terms of geometric quantity such as Berry curvatures and orbital magnetic moment defined in an extended parameter space spanning momentum, magnetic field, and electric field. We further perform model calculations for an antiferromagnetic system hosting a magnetic toroidal monopole and confirm that the proposed quantity is finite. These results provide a practical route to characterize magnetic toroidal monopoles in crystalline solids and clarify their quantum geometric nature.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-04-07T04:13:40Z",
+    "updated": "2026-04-07T04:13:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.05412v1",
+      "pdf_path": "data/pdfs/2026-04-08/3_Magnetic toroidal monopoles from relativistic polarization responses to magnetic field gradients__2604.05412v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-08T01:22:38.333145",
+    "updated_at": "2026-04-08T01:22:38.333139Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-08/3_Magnetic toroidal monopoles from relativistic polarization responses to magnetic field gradients__2604.05412v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.05412v1",
+    "pdf_filename": "3_Magnetic toroidal monopoles from relativistic polarization responses to magnetic field gradients__2604.05412v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种基于相对论极化对磁场梯度响应的理论框架，用于评估周期性晶体中的磁性环形单极子。",
+      "en": "Proposes a theoretical framework to evaluate magnetic toroidal monopoles in periodic crystals based on the response of relativistic polarization to magnetic field gradients."
+    },
+    "problem": {
+      "zh": "磁性环形单极子在晶体中难以定义和评估，因为它无法在传统的极化或热力学公式中直接表达。",
+      "en": "Magnetic toroidal monopoles are difficult to define and evaluate in crystals as they lack a clear representation in conventional multipole or thermodynamic formulations."
+    },
+    "approach": {
+      "zh": "利用线性响应理论，推导了相对论电极化对磁场梯度的响应张量，并将其与扩展参数空间中的贝里曲率等量子几何量联系起来。",
+      "en": "Uses linear response theory to derive the response tensor of relativistic electric polarization to magnetic field gradients, linking it to quantum geometric quantities in an extended parameter space."
+    },
+    "main_takeaway": {
+      "zh": "磁性环形单极子在晶体中是一个复合量，由相对论极化、速度和自旋自由度之间的量子几何耦合构成。",
+      "en": "The magnetic toroidal monopole in crystals is a composite quantity arising from quantum geometric couplings between relativistic polarization, velocity, and spin degrees of freedom."
+    },
+    "why_it_matters": {
+      "zh": "为表征固体中的磁性环形单极子提供了实用路径，有助于理解非互易定向二色性等磁电效应的微观起源。",
+      "en": "Provides a practical route to characterize magnetic toroidal monopoles in solids, helping clarify the microscopic origin of magnetoelectric effects like nonreciprocal directional dichroism."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "解决了长期以来晶体中磁性环形单极子难以定量评估的问题，并建立了其与量子几何的联系。",
+        "en": "Resolves the long-standing difficulty of quantifying magnetic toroidal monopoles in crystals and establishes their link to quantum geometry."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值计算",
+      "en": "Theory + Numerical calculation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及凝聚态物理中多极子理论的深度推导和模型验证，非常符合该期刊的风格。",
+        "en": "The study involves deep derivation of multipole theory and model verification in condensed matter physics, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "magnetic toroidal monopole",
+      "relativistic polarization",
+      "quantum geometry",
+      "magnetic field gradient",
+      "antiferromagnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-08T09:23:59",
+    "input_scope": "full_pdf_text"
+  }
+}

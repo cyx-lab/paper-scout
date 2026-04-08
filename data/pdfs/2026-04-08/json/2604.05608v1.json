@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2604.05608v1",
+    "title": "Indication of Stochastic Photothermal Dynamics around a Topological Defect in a Chiral Magnet",
+    "authors": [
+      "Dongxue Han",
+      "Asuka Nakamura",
+      "Takahiro Shimojima",
+      "Kosuke Karube",
+      "Yasujiro Taguchi",
+      "Yoshinori Tokura",
+      "Kyoko Ishizaka"
+    ],
+    "abstract": "Chiral magnets host topologically protected spin textures whose nonequilibrium dynamics are crucial in phase transitions and domain evolution, yet ultrafast defect-mediated processes remain poorly understood. Here, we investigate photothermally induced helical-to-paramagnetic phase transition in Co$_9$Zn$_9$Mn$_2$ using pump-probe Lorentz transmission electron microscopy (LTEM). Following the suppression of the magnetic stripe contrast induced by femtosecond pulsed laser, we observe a directional recovery process of magnetic order driven by the anisotropic thermal diffusion, toward the thick region that effectively acts as a heat sink. Remarkably, around a magnetic edge dislocation, the magnetic contrast recovery exhibits a pronounced delay accompanied by a transient blurring of LTEM contrast. These findings suggest that the recovery dynamics around the magnetic edge dislocation proceed through multiple relaxation paths that are selected stochastically. Our results indicate a possible enhancement of stochasticity around topological defects during the recovery dynamics of magnetic phase transitions.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-07T09:00:18Z",
+    "updated": "2026-04-07T09:00:18Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.05608v1",
+      "pdf_path": "data/pdfs/2026-04-08/2_Indication of Stochastic Photothermal Dynamics around a Topological Defect in a Chiral Magnet__2604.05608v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-08T01:22:38.332592",
+    "updated_at": "2026-04-08T01:22:38.332582Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-08/2_Indication of Stochastic Photothermal Dynamics around a Topological Defect in a Chiral Magnet__2604.05608v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.05608v1",
+    "pdf_filename": "2_Indication of Stochastic Photothermal Dynamics around a Topological Defect in a Chiral Magnet__2604.05608v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用泵浦-探测洛伦兹透射电子显微镜揭示了手性磁体中拓扑缺陷导致的随机光热动力学。",
+      "en": "Unveiling stochastic photothermal dynamics around topological defects in a chiral magnet using pump-probe LTEM."
+    },
+    "problem": {
+      "zh": "拓扑缺陷在手性磁体超快非平衡相变动力学中的具体作用和影响尚不明确。",
+      "en": "The specific role and impact of topological defects in the ultrafast nonequilibrium phase transition dynamics of chiral magnets remain poorly understood."
+    },
+    "approach": {
+      "zh": "使用具有10纳秒时间分辨率的泵浦-探测洛伦兹透射电子显微镜（LTEM），观测手性磁体 Co9Zn9Mn2 在激光激发后的磁有序恢复过程。",
+      "en": "Using pump-probe Lorentz transmission electron microscopy (LTEM) with 10 ns temporal resolution to observe the magnetic order recovery in the chiral magnet Co9Zn9Mn2 after laser excitation."
+    },
+    "main_takeaway": {
+      "zh": "磁刃位错显著延迟了磁条纹对比度的恢复，并因多种随机弛豫路径（如位错滑移）的系综平均导致了瞬态图像模糊。",
+      "en": "Magnetic edge dislocations significantly delay the recovery of magnetic stripe contrast and cause transient image blurring due to the ensemble averaging of multiple stochastic relaxation paths, such as dislocation slipping."
+    },
+    "why_it_matters": {
+      "zh": "该研究在纳米尺度直接证实了拓扑缺陷如何通过增强随机性来调控磁相变的动力学，为超快磁性控制提供了新视角。",
+      "en": "This study directly confirms at the nanoscale how topological defects govern magnetic phase transition kinetics by enhancing stochasticity, offering new insights for ultrafast magnetic control."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过高时空分辨率成像，明确了拓扑缺陷在磁性恢复过程中引入随机性和局部延迟的物理机制。",
+        "en": "Through high spatiotemporal resolution imaging, it clarifies the physical mechanism by which topological defects introduce stochasticity and localized delays during magnetic recovery."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了先进的超快电子显微技术与拓扑磁学的前沿问题，符合该期刊的兴趣方向。",
+        "en": "The study combines advanced ultrafast electron microscopy with frontier topics in topological magnetism, aligning with the journal's scope."
+      }
+    },
+    "keywords": [
+      "手性磁体",
+      "拓扑缺陷",
+      "洛伦兹透射电镜",
+      "相变动力学",
+      "随机性"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-08T09:24:47",
+    "input_scope": "full_pdf_text"
+  }
+}
