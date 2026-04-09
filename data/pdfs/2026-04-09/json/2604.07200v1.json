@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2604.07200v1",
+    "title": "Excitons in WSe2 time-resolved ARPES: particle or oscillation?",
+    "authors": [
+      "Kai Wu",
+      "Michele Puppin",
+      "Andrea Marini"
+    ],
+    "abstract": "The time-resolved angle-resolved photoemission spectra of WSe$_2$, a paradigmatic transition metal dichalcogenide, are dominated by a transient signal that, after being initially observed in the gap at the K valley, scatters, on an ultra-fast time scale of $\\sim$ 30 fs, to the $Σ$ valley. In this work we question the common interpretation of the experimental dynamics in terms of a massive bound electron-hole exciton that scatters with phonons and behaves as a quasi-particle. By using a combined theoretical and experimental investigation, we demonstrate that the observed dynamics can be interpreted as the photo-induced transition from direct to indirect excitonic-insulating order. The features that appear in the experimental spectrum correspond to single-particle levels renormalized by the excitonic spontaneous polarization.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-08T15:27:55Z",
+    "updated": "2026-04-08T15:27:55Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.07200v1",
+      "pdf_path": "data/pdfs/2026-04-09/3_Excitons in WSe2 time-resolved ARPES particle or oscillation__2604.07200v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-09T01:15:10.779717",
+    "updated_at": "2026-04-09T01:15:10.779709Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-09/3_Excitons in WSe2 time-resolved ARPES particle or oscillation__2604.07200v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.07200v1",
+    "pdf_filename": "3_Excitons in WSe2 time-resolved ARPES particle or oscillation__2604.07200v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究提出 WSe2 的时间分辨光电子能谱信号并非源于激子准粒子散射，而是光诱导的从直接到间接激子绝缘相的相变过程。",
+      "en": "This study proposes that the trARPES signals in WSe2 originate from a photo-induced transition between direct and indirect excitonic-insulating phases rather than excitonic quasiparticle scattering."
+    },
+    "problem": {
+      "zh": "解释 WSe2 在 trARPES 实验中观察到的超快（约 30 fs）谷间散射现象，并质疑传统的激子准粒子图像在非线性机制下的适用性。",
+      "en": "Explaining the ultrafast (~30 fs) intervalley scattering observed in WSe2 trARPES and questioning the validity of the conventional excitonic quasiparticle picture in the non-linear regime."
+    },
+    "approach": {
+      "zh": "采用理论与实验相结合的方法，利用非平衡 Williams-Lax 方法构建自洽哈密顿量，模拟受激载流子驱动下的激子序参量和晶格位移的动力学演化。",
+      "en": "A combined theoretical and experimental approach using a non-equilibrium Williams-Lax method and self-consistent Hamiltonian to simulate the dynamical evolution of excitonic order parameters and lattice displacements driven by excited carriers."
+    },
+    "main_takeaway": {
+      "zh": "trARPES 观察到的激子特征实际上是受激子自发极化调制的单粒子能级，其谷间动力学反映了直接激子绝缘体向间接激子绝缘体的相变。",
+      "en": "The excitonic features in trARPES are single-particle levels renormalized by spontaneous excitonic polarization, with intervalley dynamics reflecting a transition from a direct to an indirect excitonic insulator."
+    },
+    "why_it_matters": {
+      "zh": "它为过渡金属硫族化合物中的超快动力学提供了一个非微扰的相变视角，并预测了伴随该过程产生的相干声子振荡，有助于重新审视激子的本质。",
+      "en": "It provides a non-perturbative phase-transition perspective on ultrafast dynamics in TMDs and predicts accompanying coherent phonon oscillations, prompting a re-evaluation of the nature of excitons."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究通过引入激子绝缘体序参量演化的视角，成功解释了实验中超快散射时间与准粒子寿命不匹配的矛盾。",
+        "en": "The study resolves the discrepancy between ultrafast scattering times and quasiparticle lifetimes by introducing the perspective of excitonic insulator order parameter evolution."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章对凝聚态物理中的基础概念（激子）提出了新颖的物理解释，且理论模型与实验数据高度吻合。",
+        "en": "The paper offers a novel physical interpretation of a fundamental concept (excitons) in condensed matter physics, with high agreement between theory and experiment."
+      }
+    },
+    "keywords": [
+      "WSe2",
+      "trARPES",
+      "Excitonic Insulator",
+      "Order Parameter",
+      "Ultrafast Dynamics",
+      "Phase Transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-09T09:31:42",
+    "input_scope": "full_pdf_text"
+  }
+}

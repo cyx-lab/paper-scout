@@ -1,0 +1,120 @@
+{
+  "paper_record": {
+    "id": "2604.06897v1",
+    "title": "Excitonic Mott transition without population inversion",
+    "authors": [
+      "Oleg Dogadov",
+      "Armando Genco",
+      "Allison R. Cadore",
+      "James A. Kerfoot",
+      "Evgeny M. Alexeev",
+      "Osman Balci",
+      "Chiara Trovatello",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Seth Ariel Tongay",
+      "Andrea C. Ferrari",
+      "Giulio Cerullo",
+      "Stefano Dal Conte",
+      "Gianluca Stefanucci",
+      "Enrico Perfetto"
+    ],
+    "abstract": "Exciton dissociation via the excitonic Mott transition (EMT) governs the high-density optical response of semiconductors and sets fundamental limits for optoelectronic devices. The EMT is conventionally linked to the onset of population inversion and the emergence of optical gain. Here, we demonstrate that this paradigm can break down under ultrafast non-equilibrium excitation. Using femtosecond pump-probe optical spectroscopy, we drive a monolayer transition metal dichalcogenide into a dense photoexcited state in which the excitonic resonance is completely quenched within ~100 fs, while the optical gain is entirely absent across the explored fluence range. State-of-the-art real-time ab initio simulations reveal that the EMT is governed by an interplay of strongly nonthermal carrier populations and nonequilibrium dynamical screening of the Coulomb interaction. The quantitative agreement between theory and experiment identifies a distinct, ultrafast pathway to exciton ionization beyond quasi-equilibrium descriptions and demonstrates that population inversion is not a universal prerequisite for the EMT.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-08T09:56:14Z",
+    "updated": "2026-04-08T09:56:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.06897v1",
+      "pdf_path": "data/pdfs/2026-04-09/3_Excitonic Mott transition without population inversion__2604.06897v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-09T01:15:10.780788",
+    "updated_at": "2026-04-09T01:15:10.780781Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-09/3_Excitonic Mott transition without population inversion__2604.06897v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.06897v1",
+    "pdf_filename": "3_Excitonic Mott transition without population inversion__2604.06897v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究证明单层WSe2中的激子莫特转变可以在没有粒子数反转和光学增益的情况下发生。",
+      "en": "The study demonstrates that the excitonic Mott transition in monolayer WSe2 can occur without population inversion or optical gain."
+    },
+    "problem": {
+      "zh": "传统的激子莫特转变理论通常将其与粒子数反转和光学增益的出现联系在一起，但在超快非平衡激发下这一范式是否依然适用尚不清楚。",
+      "en": "Traditional theories link the excitonic Mott transition to population inversion and optical gain, but it is unclear if this paradigm holds under ultrafast non-equilibrium excitation."
+    },
+    "approach": {
+      "zh": "结合飞秒泵浦-探测光学光谱实验与基于非平衡格林函数（NEGF）的实时从头算模拟，研究强激发下激子的动力学演化。",
+      "en": "Combined femtosecond pump-probe spectroscopy with real-time ab initio simulations based on the non-equilibrium Green’s function (NEGF) formalism."
+    },
+    "main_takeaway": {
+      "zh": "激子莫特转变是由强非热载流子分布与库仑相互作用的非平衡动态屏蔽共同驱动的，粒子数反转并非激子离解的普遍前提。",
+      "en": "The excitonic Mott transition is driven by the interplay of strongly non-thermal carrier populations and non-equilibrium dynamical screening, showing that population inversion is not a universal prerequisite for exciton dissociation."
+    },
+    "why_it_matters": {
+      "zh": "该发现挑战了半导体物理中的传统认知，为理解高密度光激发下的多体动力学提供了新框架，对开发超快光电器件具有重要意义。",
+      "en": "The findings challenge conventional wisdom in semiconductor physics and provide a new framework for understanding many-body dynamics under high-density excitation, which is crucial for ultrafast optoelectronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过实验与理论的定量结合，澄清了非平衡态下激子莫特转变的微观起源，修正了传统准平衡态模型的局限性。",
+        "en": "By quantitatively combining experiment and theory, it clarifies the microscopic origin of the excitonic Mott transition under non-equilibrium conditions and corrects the limitations of traditional quasi-equilibrium models."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了先进的超快光谱技术与复杂的从头算理论，解决了凝聚态物理中关于激子动力学的一个基础且长期存在的问题。",
+        "en": "The study combines state-of-the-art ultrafast spectroscopy with sophisticated ab initio theory to resolve a fundamental and long-standing question in exciton dynamics."
+      }
+    },
+    "keywords": [
+      "Excitonic Mott transition",
+      "WSe2",
+      "Non-equilibrium Green’s function",
+      "Ultrafast spectroscopy",
+      "Dynamical screening"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-09T09:30:52",
+    "input_scope": "full_pdf_text"
+  }
+}

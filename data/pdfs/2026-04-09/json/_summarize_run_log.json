@@ -1,0 +1,58 @@
+{
+  "run_date": "2026-04-09",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2604.06619v1.json": 1,
+    "2604.06660v1.json": 1,
+    "2604.06785v1.json": 2,
+    "2604.06897v1.json": 1,
+    "2604.07200v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2604.06619v1.json",
+      "status": "ok",
+      "secs": 758.36,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.06660v1.json",
+      "status": "ok",
+      "secs": 19.57,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.06785v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid project resource name projects/projects/random-b25b4dd3/locations/global', 'type': 'upstream_error', 'param': '', 'code': 400}}",
+      "secs": 22.98,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.06897v1.json",
+      "status": "ok",
+      "secs": 120.47,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.07200v1.json",
+      "status": "ok",
+      "secs": 49.95,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.06785v1.json",
+      "status": "ok",
+      "secs": 14.97,
+      "round": 2,
+      "attempt": 2
+    }
+  ]
+}

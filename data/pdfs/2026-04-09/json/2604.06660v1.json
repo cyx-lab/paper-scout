@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2604.06660v1",
+    "title": "Cholesteric Fingers from a Magnetic Perspective: Topology, Energetics, and Interactions",
+    "authors": [
+      "Takayuki Shigenaga",
+      "Andrey O. Leonov"
+    ],
+    "abstract": "Chiral liquid crystals and chiral magnets host a wide variety of topological solitons described by closely related continuum theories, namely the Frank-Oseen and Dzyaloshinskii models. Exploiting this correspondence, we develop a unified description of cholesteric fingers in confined liquid crystals and their magnetic counterparts. Within a continuum framework including bulk and surface anisotropies, we analyze the topology, structure, interactions, and collective states of the two main finger types, CF-1 and CF-2. We show that cholesteric fingers are composite chiral solitons built from merons. CF-2 corresponds to a bimeron with unit topological charge, while CF-1 is a topologically trivial composite of two merons with identical vorticities. From a homotopic viewpoint these textures correspond to skyrmions and droplets. Strong homeotropic anchoring induces confinement effects that reshape the meron structure and redistribute topological charge across the film thickness. Isolated fingers in the homogeneous state interact repulsively and behave as particle-like objects. Periodic phases emerge when the energy of an isolated finger becomes negative, leading to nucleation-type transitions with a diverging lattice period. Degenerate finger types allow mixed periodic sequences, analogous to stacking polytypes. In a conical background, interactions become attractive due to overlap of distortion regions. Film thickness controls stability and structure: at small thickness solitons collapse, while at large thickness bimerons exhibit bistability between surface-stabilized and bulk-like states.",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mes-hall",
+      "math-ph"
+    ],
+    "published": "2026-04-08T04:26:18Z",
+    "updated": "2026-04-08T04:26:18Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.06660v1",
+      "pdf_path": "data/pdfs/2026-04-09/2_Cholesteric Fingers from a Magnetic Perspective Topology, Energetics, and Interactions__2604.06660v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-09T01:15:10.781716",
+    "updated_at": "2026-04-09T01:15:10.781708Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-09/2_Cholesteric Fingers from a Magnetic Perspective Topology, Energetics, and Interactions__2604.06660v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.06660v1",
+    "pdf_filename": "2_Cholesteric Fingers from a Magnetic Perspective Topology, Energetics, and Interactions__2604.06660v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过统一的连续介质模型研究了受限手性介质中胆固醇型指状织构的拓扑结构、能量特性及相互作用。",
+      "en": "This study develops a unified theoretical description of cholesteric fingers in confined chiral media, analyzing their topology, energetics, and interactions."
+    },
+    "problem": {
+      "zh": "阐明手性液晶和手性磁体中胆固醇型指状织构（CF-1 和 CF-2）的内部结构、稳定性及其作为粒子状孤子的相互作用机制。",
+      "en": "To clarify the internal structure, stability, and interaction mechanisms of cholesteric fingers (CF-1 and CF-2) as particle-like solitons in chiral liquid crystals and magnets."
+    },
+    "approach": {
+      "zh": "采用包含体各向异性和表面锚定效应的 Dzyaloshinskii 模型，通过数值模拟分析孤立指状织构及其周期性阵列的能量最小化过程。",
+      "en": "Using a Dzyaloshinskii-based continuum model including bulk anisotropy and surface anchoring, with numerical minimization to analyze isolated fingers and their periodic arrays."
+    },
+    "main_takeaway": {
+      "zh": "指状织构是基于半子（meron）的复合孤子：CF-2 等效于电荷为 1 的双半子，而 CF-1 是拓扑平庸的复合体；它们的相互作用在均匀背景下呈排斥性，但在锥面背景下因畸变区重叠转为吸引性。",
+      "en": "Cholesteric fingers are composite solitons: CF-2 is a bimeron with unit charge, while CF-1 is a topologically trivial composite; their interaction is repulsive in a homogeneous background but becomes attractive in a conical background."
+    },
+    "why_it_matters": {
+      "zh": "该研究建立了手性液晶与手性磁体孤子物理之间的深度联系，并证明了通过混合不同类型的指状织构可以实现组合多样化的信息编码方案。",
+      "en": "It establishes a deep correspondence between solitons in liquid crystals and magnets, demonstrating that mixed finger sequences can provide a combinatorial platform for information encoding."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "清晰地解释了指状织构的半子组成及其相互作用随背景场变化的物理本质。",
+        "en": "It clearly explains the meronic composition of fingers and the physical origin of interaction switching based on the background state."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章涉及凝聚态物理中拓扑孤子的详细能量和拓扑分析，非常符合 PRB 的范畴。",
+        "en": "The detailed energetic and topological analysis of solitons in condensed matter is a core topic for Physical Review B."
+      }
+    },
+    "keywords": [
+      "Cholesteric fingers",
+      "Bimerons",
+      "Topological solitons",
+      "Chiral magnets",
+      "Liquid crystals",
+      "Confinement effects"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-09T09:28:29",
+    "input_scope": "full_pdf_text"
+  }
+}

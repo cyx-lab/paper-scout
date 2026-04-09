@@ -1,0 +1,123 @@
+{
+  "paper_record": {
+    "id": "2604.06619v1",
+    "title": "Investigating the intrinsic anomalous Hall effect in MnPt3 topological semimetal",
+    "authors": [
+      "Jing Meng",
+      "Hongru Wang",
+      "Kun Zheng",
+      "Yuhao Wang",
+      "Zheng Li",
+      "Bocheng Yu",
+      "Haoyu Lin",
+      "Keqi Xia",
+      "Jingzhong Luo",
+      "Zengyao Wang",
+      "Xiaoyan Zhu",
+      "Baiqing Lv",
+      "Yaobo Huang",
+      "Jie Ma",
+      "Yang Xu",
+      "Shijing Gong",
+      "Tian Shang",
+      "Qingfeng Zhan"
+    ],
+    "abstract": "The cubic Cu$_3$Au-type $X$Pt$_3$ family ($X$ = V, Cr, and Mn) is a topological semimetal characterized by anti-crossing gapped nodal lines near the Fermi level, which give rise to significant Berry curvatures and thus to the anomalous Hall effect (AHE). Among the three members, CrPt$_3$ has been experimentally verified to exhibit a large anomalous Hall conductivity (AHC), while its counterparts MnPt$_3$ and VPt$_3$ remain largely unexplored. Here, a series of MnPt$_3$ thin films with varying thicknesses (20--70 nm) was epitaxially grown on the MgO substrates using magnetron sputtering and was systematically investigated by magnetization, electrical resistivity, and Hall resistivity measurements. MnPt$_3$ films undergo a ferromagnetic transition at a Curie temperature $T_\\mathrm{C}$, which increases as the film thickness increases, reaching $\\sim$ 344 K for the 70-nm-thick film. All the anomalous Hall transport properties of MnPt$_3$ films, including the resistivity, conductivity, and angle, exhibit a strong correlation with their magnetic properties. The scaling analysis suggests that the intrinsic Berry-curvature mechanism dominates the observed AHE, while the extrinsic contributions are much smaller. The intrinsic AHC increases as the film thickness increases, while the extrinsic AHC is thickness-independent. Such an enhanced intrinsic AHC in the MnPt$_3$ films is most likely attributed to the strain effect, implying that it serves as an effective method to tune the electronic band topology in the $X$Pt$_3$ topological semimetal.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-08T02:59:48Z",
+    "updated": "2026-04-08T02:59:48Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.06619v1",
+      "pdf_path": "data/pdfs/2026-04-09/3_Investigating the intrinsic anomalous Hall effect in MnPt3 topological semimetal__2604.06619v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-09T01:15:10.781843",
+    "updated_at": "2026-04-09T01:15:10.781836Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-09/3_Investigating the intrinsic anomalous Hall effect in MnPt3 topological semimetal__2604.06619v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.06619v1",
+    "pdf_filename": "3_Investigating the intrinsic anomalous Hall effect in MnPt3 topological semimetal__2604.06619v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过外延生长 MnPt3 薄膜，证实了其反常霍尔效应主要源于本征 Berry 曲率机制，并发现其受应变效应显著调控。",
+      "en": "This study investigates epitaxial MnPt3 thin films, demonstrating that the anomalous Hall effect is dominated by the intrinsic Berry curvature mechanism and significantly tuned by strain effects."
+    },
+    "problem": {
+      "zh": "尽管理论预测 XPt3 家族是具有节点线的拓扑半金属，但 MnPt3 的反常霍尔输运性质此前缺乏系统的实验研究。",
+      "en": "Although the XPt3 family is theoretically predicted to be topological semimetals with nodal lines, the anomalous Hall transport properties of MnPt3 lacked systematic experimental investigation."
+    },
+    "approach": {
+      "zh": "利用磁控溅射在 MgO 基底上外延生长不同厚度（20-70 nm）的 MnPt3 薄膜，通过磁化强度和输运测量进行标度分析，区分本征与外延贡献。",
+      "en": "Epitaxial MnPt3 thin films (20–70 nm) were grown on MgO substrates via magnetron sputtering, followed by scaling analysis of magnetization and transport measurements to distinguish intrinsic and extrinsic contributions."
+    },
+    "main_takeaway": {
+      "zh": "MnPt3 的反常霍尔效应由本征 Berry 曲率机制主导，且本征反常霍尔电导随厚度增加而增强，这主要归因于应变对电子能带拓扑的有效调控。",
+      "en": "The anomalous Hall effect in MnPt3 is dominated by the intrinsic Berry curvature mechanism, and the intrinsic anomalous Hall conductivity increases with thickness, primarily attributed to the effective tuning of electronic band topology by strain."
+    },
+    "why_it_matters": {
+      "zh": "该研究填补了 MnPt3 拓扑输运实验的空白，证明了应变工程是调控拓扑磁性材料中 Berry 曲率和输运性质的有效手段。",
+      "en": "This work fills the experimental gap in the topological transport of MnPt3 and demonstrates that strain engineering is an effective tool for tuning Berry curvature and transport properties in topological magnetic materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次实验证实了 MnPt3 中的本征反常霍尔效应，并建立了厚度、应变与拓扑输运之间的定量联系。",
+        "en": "It provides the first experimental verification of the intrinsic anomalous Hall effect in MnPt3 and establishes a quantitative link between thickness, strain, and topological transport."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文对反常霍尔效应机制进行了详尽的标度分析，非常符合该期刊在凝聚态物理输运领域的审稿偏好。",
+        "en": "The detailed scaling analysis of the anomalous Hall effect mechanism aligns perfectly with the journal's focus on transport phenomena in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "MnPt3",
+      "反常霍尔效应",
+      "Berry 曲率",
+      "拓扑半金属",
+      "应变工程"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-09T09:28:09",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2604.06785v1",
+    "title": "Magnetic-field switching of exciton-magnon coupling in LiNiPO$_4$",
+    "authors": [
+      "Bei Sun",
+      "Zhuo Yang",
+      "Julian Shibuya",
+      "Koichi Kindo",
+      "Kenta Kimura",
+      "Atsuhiko Miyata"
+    ],
+    "abstract": "Exciton-magnon transitions provide a fundamental optical fingerprint of coupled excitonic and magnetic excitations in antiferromagnets. However, controlling such coupled excitations by external fields remains a key challenge. Here we report the temperature and magnetic-field evolution of exciton-magnon coupling in the magnetoelectric antiferromagnet LiNiPO$_4$ using pulsed magnetic fields up to 50 T. The magnon sideband intensity exhibits sharp switching across field-induced magnetic phases, with strong suppression in plateau phases and enhancement in canted spin states. This behavior is attributed to the interplay between the thermal magnon population and the spin-dependent optical transition matrix element. These results demonstrate that magnetic-field control of spin degrees of freedom enables selective switching of exciton-magnon coupling in antiferromagnets.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-04-08T07:55:04Z",
+    "updated": "2026-04-08T07:55:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.06785v1",
+      "pdf_path": "data/pdfs/2026-04-09/3_Magnetic-field switching of exciton-magnon coupling in LiNiPO$_4$__2604.06785v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-09T01:15:10.781163",
+    "updated_at": "2026-04-09T01:15:10.781153Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-09/3_Magnetic-field switching of exciton-magnon coupling in LiNiPO$_4$__2604.06785v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.06785v1",
+    "pdf_filename": "3_Magnetic-field switching of exciton-magnon coupling in LiNiPO$_4$__2604.06785v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了磁电抗铁磁体 LiNiPO4 中激子-磁振子耦合随磁场和温度的演化，实现了耦合强度的磁场开关。",
+      "en": "Investigated the magnetic-field and temperature evolution of exciton-magnon coupling in LiNiPO4, demonstrating field-induced switching of coupling intensity."
+    },
+    "problem": {
+      "zh": "如何利用外部磁场控制反铁磁体中的激子-磁振子耦合，以及这种耦合在不同磁相中如何演化。",
+      "en": "How to control exciton-magnon coupling in antiferromagnets using external magnetic fields and how this coupling evolves across different magnetic phases."
+    },
+    "approach": {
+      "zh": "使用高达 50 T 的脉冲强磁场，测量了 LiNiPO4 在不同温度下的磁光吸收光谱。",
+      "en": "Measured magneto-absorption spectra of LiNiPO4 under pulsed magnetic fields up to 50 T at various temperatures."
+    },
+    "main_takeaway": {
+      "zh": "激子-磁振子侧带强度在不同磁相间表现出剧烈的开关行为：在具有磁振子能隙的平台相被抑制，而在倾斜自旋态被增强。",
+      "en": "The magnon sideband intensity exhibits sharp switching across magnetic phases, being suppressed in plateau phases with a magnon gap and enhanced in canted spin states."
+    },
+    "why_it_matters": {
+      "zh": "揭示了通过磁场调控自旋自由度来选择性开关激子-磁振子光学跃迁的可能性，为光-物质相互作用的磁控提供了新途径。",
+      "en": "It reveals the possibility of selectively switching exciton-magnon optical transitions by controlling spin degrees of freedom, offering a new path for magnetic control of light-matter interactions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了磁场诱导的磁相变如何通过改变磁振子能隙和跃迁矩阵元来调控激子-磁振子耦合。",
+        "en": "Clarified how field-induced magnetic phase transitions regulate exciton-magnon coupling by altering the magnon gap and transition matrix elements."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "结合了强磁场技术与激子-磁振子物理，具有较强的物理深度和普适意义。",
+        "en": "Combines high-field techniques with exciton-magnon physics, offering significant physical depth and general interest."
+      }
+    },
+    "keywords": [
+      "LiNiPO4",
+      "Exciton-magnon coupling",
+      "Pulsed magnetic fields",
+      "Magneto-optics",
+      "Antiferromagnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-09T09:31:57",
+    "input_scope": "full_pdf_text"
+  }
+}
