@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2604.08043v1",
+    "title": "Optical Hall absorption sum rule and spectral compensation in time-reversal-breaking moiré and Hofstadter systems",
+    "authors": [
+      "Yixin Zhang",
+      "H. Huang"
+    ],
+    "abstract": "Optical spectroscopy provides a powerful, contact-free probe of topological quantum states, yet exact constraints on antisymmetric Hall absorption remain much less well developed than their longitudinal counterparts. Motivated by earlier Hall-conductivity sum rules, we formulate the corresponding first-frequency-moment constraint for the antisymmetric optical conductivity, whose imaginary part governs chirality-dependent absorption. We then demonstrate this sum rule in two classes of time-reversal-breaking topological systems. For a zero-field moiré continuum model hosting topological bands, the moment vanishes exactly, implying that any low-frequency anomalous Hall absorption must be compensated by higher-frequency spectral weight of the opposite sign. For a Hofstadter model under a uniform magnetic field, the same moment takes a universal value fixed by the magnetic flux density, independent of microscopic model details. By linking low- and high-frequency spectral contributions, this optical Hall absorption sum rule provides a rigorous framework for quantifying circular dichroism constraints and diagnosing Landau-level mixing. Our results show how a known Hall spectral constraint acquires new and experimentally relevant content in modern interacting topological materials.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-04-09T09:48:36Z",
+    "updated": "2026-04-09T09:48:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": true,
+      "rule_score": 8,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.08043v1",
+      "pdf_path": "data/pdfs/2026-04-10/8_Optical Hall absorption sum rule and spectral compensation in time-reversal-breaking moiré and Hofstadter systems__2604.08043v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-10T01:23:34.730108",
+    "updated_at": "2026-04-10T01:23:34.730101Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-10/8_Optical Hall absorption sum rule and spectral compensation in time-reversal-breaking moiré and Hofstadter systems__2604.08043v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.08043v1",
+    "pdf_filename": "8_Optical Hall absorption sum rule and spectral compensation in time-reversal-breaking moiré and Hofstadter systems__2604.08043v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了打破时间反演对称性的莫尔和Hofstadter系统中的光学霍尔吸收加和定则及其光谱补偿机制。",
+      "en": "Investigates the optical Hall absorption sum rule and spectral compensation in time-reversal-breaking moiré and Hofstadter systems."
+    },
+    "problem": {
+      "zh": "缺乏针对拓扑量子态中反对称霍尔吸收的精确约束定则，难以区分内部自发拓扑与外部磁场诱导的拓扑响应。",
+      "en": "Lack of exact constraints on antisymmetric Hall absorption in topological states, making it difficult to distinguish between internal and field-induced topological responses."
+    },
+    "approach": {
+      "zh": "基于Kubo公式推导霍尔电导率的第一阶频率矩加和定则，并利用莫尔连续模型（结合Hartree-Fock和BSE方法）与Hofstadter模型进行理论分析与数值验证。",
+      "en": "Derived the first-frequency-moment sum rule for Hall conductivity and performed theoretical analysis and numerical verification using moiré continuum models (with Hartree-Fock and BSE) and Hofstadter models."
+    },
+    "main_takeaway": {
+      "zh": "零场莫尔系统的霍尔吸收第一阶矩恒为零，要求低频响应必须由高频相反信号补偿；而磁场系统的该矩由磁通密度决定，与微观细节无关。",
+      "en": "The first moment of Hall absorption vanishes in zero-field moiré systems, requiring spectral compensation, whereas in magnetic systems, it is universally fixed by magnetic flux density."
+    },
+    "why_it_matters": {
+      "zh": "该定则为定量分析圆二色性、诊断朗道能级混合以及区分拓扑响应的微观起源提供了严格的非接触式探测框架。",
+      "en": "The sum rule provides a rigorous, contact-free framework for quantifying circular dichroism, diagnosing Landau-level mixing, and identifying the microscopic origin of topological response."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了不同拓扑系统中光学霍尔响应的加和定则约束，揭示了光谱补偿的物理本质及其与朗道能级混合的关系。",
+        "en": "Clarifies the sum rule constraints on optical Hall response in different topological systems and reveals the nature of spectral compensation and its link to Landau-level mixing."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值计算",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提供了具有普适性的理论框架，并针对当前热门的莫尔拓扑材料给出了明确的实验预言。",
+        "en": "The study provides a universal theoretical framework and offers clear experimental predictions for currently popular moiré topological materials."
+      }
+    },
+    "keywords": [
+      "Sum rule",
+      "Optical Hall absorption",
+      "Moiré systems",
+      "Hofstadter model",
+      "Spectral compensation",
+      "Landau-level mixing"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-10T09:23:58",
+    "input_scope": "full_pdf_text"
+  }
+}

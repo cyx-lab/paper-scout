@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2604.08145v1",
+    "title": "Chirality of Zitterbewegung and its relation to Berry curvature in Dirac systems",
+    "authors": [
+      "Sonja Predin"
+    ],
+    "abstract": "We establish an exact analytical relation between Zitterbewegung dynamics and the band geometry in two-dimensional Dirac systems. By identifying a time-independent antisymmetric observable-the \\textit{areal rate of Zitterbewegung}-we show that this quantity is directly determined by the Berry curvature. Its sign defines the sense of rotation and reproduces the contributions of Dirac points to the Chern number. This relation is independent of the initial state and holds for generic two-band Dirac models. Our findings reveal a direct connection between interband quantum dynamics and topological band geometry beyond the semiclassical regime.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-09T12:07:37Z",
+    "updated": "2026-04-09T12:07:37Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.08145v1",
+      "pdf_path": "data/pdfs/2026-04-10/3_Chirality of Zitterbewegung and its relation to Berry curvature in Dirac systems__2604.08145v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-10T01:23:34.729713",
+    "updated_at": "2026-04-10T01:23:34.729706Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-10/3_Chirality of Zitterbewegung and its relation to Berry curvature in Dirac systems__2604.08145v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.08145v1",
+    "pdf_filename": "3_Chirality of Zitterbewegung and its relation to Berry curvature in Dirac systems__2604.08145v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "建立了二维狄拉克系统中颤运（Zitterbewegung）动力学与贝里曲率之间的精确解析关系。",
+      "en": "Establishes an exact analytical relation between Zitterbewegung dynamics and Berry curvature in 2D Dirac systems."
+    },
+    "problem": {
+      "zh": "颤运源于带间量子相干，而拓扑性质通常由带内几何属性定义，两者之间缺乏明确的解析联系。",
+      "en": "Zitterbewegung originates from interband coherence while topological properties are defined by intraband geometry; a clear analytical link between them was missing."
+    },
+    "approach": {
+      "zh": "定义了一个时间无关的反对称观测物理量——颤运面积速率，并利用投影算符分解方法将其与量子几何张量联系起来。",
+      "en": "Defined a time-independent antisymmetric observable called the areal rate of Zitterbewegung and linked it to the quantum geometric tensor using projector decomposition."
+    },
+    "main_takeaway": {
+      "zh": "颤运的旋转方向（手性）由贝里曲率的符号直接决定，并能通过动力学演化重现狄拉克点对陈数的贡献。",
+      "en": "The sense of rotation (chirality) of Zitterbewegung is directly determined by the sign of the Berry curvature and reproduces the Chern number contributions from Dirac points."
+    },
+    "why_it_matters": {
+      "zh": "它为通过非平衡态动力学观测手段探测能带拓扑和量子几何提供了一种超越半经典框架的新方法。",
+      "en": "It provides a new method beyond the semiclassical regime to probe band topology and quantum geometry through nonequilibrium dynamical observables."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究成功统一了看似独立的动力学现象与拓扑几何属性，为理解狄拉克系统的量子动力学提供了坚实的解析基础。",
+        "en": "The study successfully unifies seemingly independent dynamical phenomena and topological geometric properties, providing a solid analytical basis for understanding quantum dynamics in Dirac systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章探讨了凝聚态物理中基础的拓扑与动力学关系，且引用和风格高度符合该期刊要求。",
+        "en": "The paper explores fundamental topological and dynamical relations in condensed matter physics, with citations and style highly consistent with this journal."
+      }
+    },
+    "keywords": [
+      "Zitterbewegung",
+      "Berry curvature",
+      "Dirac systems",
+      "Quantum geometry",
+      "Chern number"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-10T09:24:10",
+    "input_scope": "full_pdf_text"
+  }
+}
