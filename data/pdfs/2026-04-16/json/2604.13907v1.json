@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2604.13907v1",
+    "title": "Twistoptics in Planar Heterostructures with an Arbitrary Number of Rotated 3D Thin Layers and 2D Conductive Sheets",
+    "authors": [
+      "Christian Lanza",
+      "José Álvarez-Cuervo",
+      "Kirill V. Voronin",
+      "Gonzalo Álvarez-Pérez",
+      "Aitana Tarazaga Martín-Luengo",
+      "Javier Martín-Sánchez",
+      "Alexey Y. Nikitin",
+      "Pablo Alonso-González"
+    ],
+    "abstract": "Twistoptics has recently emerged as a branch of nano-optics that explores light propagation in stacks of thin anisotropic layers rotated relative to one another. The concept is particularly relevant for polaritons -- hybrid light-matter quasiparticles -- in van der Waals (vdW) materials, where strong in-plane anisotropy and deep subwavelength confinement make the polaritonic dispersion highly sensitive to interlayer twist angles. This sensitivity enables exotic phenomena such as canalization, i.e., diffraction-free propagation, with potential applications ranging from thermal management to super-resolution imaging. Despite rapid progress, a general analytical framework to describe polariton propagation in twisted planar heterostructures has been missing. Here we present an analytical model for planar stacks comprising an arbitrary number of finite-thickness anisotropic (biaxial) layers and infinitesimally thin anisotropic conductive sheets. The formalism and its high-momentum and thin-film approximations predict key polaritonic observables, such as wavelength, propagation length, and electromagnetic field distributions. We also provide open-access numerical scripts implementing the model to support their practical use. Together, these results provide a general theoretical foundation for twistoptics and should facilitate the discovery and accelerate the implementation of twist-engineered polaritonic phenomena across the electromagnetic spectrum.",
+    "categories": [
+      "physics.optics",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-15T14:16:52Z",
+    "updated": "2026-04-15T14:16:52Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton",
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.13907v1",
+      "pdf_path": "data/pdfs/2026-04-16/6_Twistoptics in Planar Heterostructures with an Arbitrary Number of Rotated 3D Thin Layers and 2D Conductive Sheets__2604.13907v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-16T06:37:17.093396",
+    "updated_at": "2026-04-16T06:37:17.093389Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-16/6_Twistoptics in Planar Heterostructures with an Arbitrary Number of Rotated 3D Thin Layers and 2D Conductive Sheets__2604.13907v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.13907v1",
+    "pdf_filename": "6_Twistoptics in Planar Heterostructures with an Arbitrary Number of Rotated 3D Thin Layers and 2D Conductive Sheets__2604.13907v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "开发了一个描述任意层数旋转各向异性晶体和2D导电层异质结中极化激元传播的通用解析框架。",
+      "en": "Developed a general analytical framework for polariton propagation in planar heterostructures with an arbitrary number of rotated anisotropic layers and 2D conductive sheets."
+    },
+    "problem": {
+      "zh": "现有的扭转光学理论多依赖数值模拟或仅限于少数几层，缺乏能处理任意层数及混合3D/2D系统的通用解析模型。",
+      "en": "Existing twistoptics theories rely on numerical simulations or are limited to a few layers, lacking a general analytical model for arbitrary layer counts and hybrid 3D/2D systems."
+    },
+    "approach": {
+      "zh": "基于麦克斯韦方程组推导了电磁准正规模式的解析模型，并结合高动量和薄膜近似，给出了色散关系、场分布和菲涅耳系数。",
+      "en": "Derived an analytical model for electromagnetic quasi-normal modes using Maxwell's equations, combined with high-momentum and thin-film approximations to provide dispersion relations, field distributions, and Fresnel coefficients."
+    },
+    "main_takeaway": {
+      "zh": "该模型不仅能精确预测扭转双层及多层结构中的激元行为（如无衍射传播），还显著提升了计算效率，并支持大规模参数空间的快速探索。",
+      "en": "The model accurately predicts polaritonic behaviors (e.g., canalization) in twisted bilayers and multilayers while significantly improving computational efficiency and supporting rapid exploration of large parameter spaces."
+    },
+    "why_it_matters": {
+      "zh": "为扭转光学提供了普适的理论基础，有助于加速超分辨率成像、热管理和极化激元器件逆向设计的发展。",
+      "en": "Provides a universal theoretical foundation for twistoptics, accelerating the development of super-resolution imaging, thermal management, and inverse design of polaritonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "填补了多层扭转异质结解析理论的空白，将扭转光学从简单的双层结构推广到了任意复杂的堆叠体系。",
+        "en": "Fills the gap in analytical theory for multilayer twisted heterostructures, extending twistoptics from simple bilayers to arbitrary complex stacks."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值验证",
+      "en": "Theory + Numerical validation"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究由该领域的领军团队完成，提出了具有普适性的物理框架，对纳米光子学有重要影响。",
+        "en": "Conducted by leading groups in the field, proposing a universal physical framework with significant impact on nanophotonics."
+      }
+    },
+    "keywords": [
+      "Twistoptics",
+      "Polaritons",
+      "Van der Waals materials",
+      "Canalization",
+      "Analytical model"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-16T14:38:02",
+    "input_scope": "full_pdf_text"
+  }
+}

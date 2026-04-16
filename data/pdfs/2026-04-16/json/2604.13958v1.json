@@ -1,0 +1,120 @@
+{
+  "paper_record": {
+    "id": "2604.13958v1",
+    "title": "Continuous correlated states and dual-flatness in a moiré heterostructure",
+    "authors": [
+      "Mohammed M. Al Ezzi",
+      "Na Xin",
+      "Yanmeng Shi",
+      "Shuigang Xu",
+      "Julien Barrier",
+      "Alexey Berdyugin",
+      "Shubhadeep Bhattacharjee",
+      "Angelika Knothe",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Vladimir Falko",
+      "Giovanni Vignale",
+      "Andre K. Geim",
+      "Shaffique Adam",
+      "Kostya S. Novoselov",
+      "Minsoo Kim"
+    ],
+    "abstract": "Many-body effects in condensed matter yield novel quantum states when the electronic density of states is enhanced. A vivid example is flat bands, which suppress kinetic energy and let interactions dominate, when they are filled with an integer number of electrons in moire systems. Yet flat bands and commensurate fillings are not the only conditions for correlated phenomena. Situations may occur where the band structure develops locally enhanced density of states, leading to strong correlations even at non-integer fillings, although such cases often yield pseudogaps that make detection elusive. Here we demonstrate that small-angle twisted monolayer-bilayer graphene combines moire-induced global flat band and additional local band flattening. Their coexistence allows direct comparison of correlated effects. The global route stabilizes commensurate states, while the local mechanism produces nearly flat bands, lifting degeneracy and generating symmetry breaking at non-integer fillings, yet without opening a global gap. Because there is no global gapped signature, the system remains metallic, but the effect reveals itself in anomalous Hall responses, signaling time-reversal symmetry breaking and valley polarization. Our results demonstrate dual-flatness as a guiding principle, extending moire physics beyond commensurate fillings and identifying topological transport as a probe of gapless correlated metals.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-04-15T15:09:28Z",
+    "updated": "2026-04-15T15:09:28Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:moire"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.13958v1",
+      "pdf_path": "data/pdfs/2026-04-16/3_Continuous correlated states and dual-flatness in a moiré heterostructure__2604.13958v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-16T06:37:17.093051",
+    "updated_at": "2026-04-16T06:37:17.093044Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-16/3_Continuous correlated states and dual-flatness in a moiré heterostructure__2604.13958v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.13958v1",
+    "pdf_filename": "3_Continuous correlated states and dual-flatness in a moiré heterostructure__2604.13958v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了扭曲单层-双层石墨烯中全局与局部平带的共存，及其在非整数填充下诱导的连续关联金属态。",
+      "en": "The study demonstrates the coexistence of global and local band flatness in twisted monolayer-bilayer graphene, leading to continuous correlated metallic states at non-integer fillings."
+    },
+    "problem": {
+      "zh": "莫尔系统中的强关联效应通常被认为局限于整数填充的全局平带，而对于非整数填充下局部平带诱导的关联机制及其与全局平带的竞争关系缺乏统一理解。",
+      "en": "Strong correlations in moiré systems are typically associated with global flatness at integer fillings; the mechanism for correlations at non-integer fillings driven by local flatness and its interplay with global flatness remains poorly understood."
+    },
+    "approach": {
+      "zh": "通过输运实验测量扭曲单层-双层石墨烯（tMBG）的纵向和霍尔电阻，结合解析Stoner模型和连续模型计算，对比分析整数与非整数填充下的对称性破缺态。",
+      "en": "Using transport measurements of longitudinal and Hall resistance in twisted monolayer-bilayer graphene (tMBG), combined with an analytical Stoner model and continuum model calculations to analyze symmetry-breaking states at various fillings."
+    },
+    "main_takeaway": {
+      "zh": "局部平带（由范霍夫奇异点引起）能在不产生全局能隙的情况下诱导谷极化，从而在非整数填充处产生具有反常霍尔效应的连续关联金属态，这与整数填充处的绝缘态显著不同。",
+      "en": "Local band flattening (driven by van Hove singularities) induces valley polarization without opening a global gap, resulting in continuous correlated metallic states with anomalous Hall signatures at non-integer fillings, distinct from the insulators at integer fillings."
+    },
+    "why_it_matters": {
+      "zh": "提出了“双重平坦性”作为设计关联量子物质的新原则，将莫尔物理的研究范畴从整数填充扩展到连续的非整数填充区域，并证明了拓扑输运是探测无能隙关联态的有效工具。",
+      "en": "It establishes 'dual-flatness' as a new design principle for correlated quantum matter, extending moiré physics from discrete integer fillings to continuous non-integer regimes and identifying topological transport as a probe for gapless correlated states."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究在单一材料系统中成功区分并统一了两种不同的平带关联机制，并发现了非整数填充下的鲁棒谷极化态。",
+        "en": "The study successfully distinguishes and unifies two different flat-band correlation mechanisms within a single material system and discovers robust valley-polarized states at non-integer fillings."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文涉及莫尔超晶格、强关联物理和拓扑输运等凝聚态物理前沿热点，且包含高质量的实验数据与理论模型。",
+        "en": "The paper covers frontier topics in condensed matter physics such as moiré superlattices, strong correlations, and topological transport, featuring high-quality experimental data and theoretical modeling."
+      }
+    },
+    "keywords": [
+      "Twisted monolayer-bilayer graphene",
+      "Dual-flatness",
+      "Anomalous Hall effect",
+      "Correlated metals",
+      "Van Hove singularity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-16T14:39:02",
+    "input_scope": "full_pdf_text"
+  }
+}
