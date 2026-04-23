@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2604.20272v1",
+    "title": "Interplay of Flat-band and Anderson localizations in disordered moire superlattices",
+    "authors": [
+      "Qian Liu",
+      "Xiaoshuang Xia",
+      "Junjie Wang",
+      "Peilong Hong",
+      "Lei Xu",
+      "Lujun Huang",
+      "Daohong Song",
+      "Yi Liang"
+    ],
+    "abstract": "Disorder in moire superlattices simultaneously degrades flat-band localization and induces Anderson localization, yet how these two regimes interact has remained unclear. Here, we introduce a combined framework linking localization-length scaling with differential probability density analysis to map localization transitions in partially disordered one-dimensional silicon moire lattices. It is found that flat bands confined within the interband gap keep their strong localization even as disorder grows. In contrast, flat bands intersecting dispersive bands exhibit rich behaviors: the low-frequency branch undergoes an inverse Anderson transition, while the high-frequency branch supports coexisting flat-band and Anderson localization at strong disorder. Our results deliver the direct evidence of competing localization mechanisms in disordered moire systems and offer guiding principles for engineering robust, nonideal moire photonic devices.",
+    "categories": [
+      "cond-mat.dis-nn",
+      "physics.optics"
+    ],
+    "published": "2026-04-22T07:18:58Z",
+    "updated": "2026-04-22T07:18:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:moire"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20272v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Interplay of Flat-band and Anderson localizations in disordered moire superlattices__2604.20272v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232494",
+    "updated_at": "2026-04-23T01:45:27.232488Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Interplay of Flat-band and Anderson localizations in disordered moire superlattices__2604.20272v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20272v1",
+    "pdf_filename": "3_Interplay of Flat-band and Anderson localizations in disordered moire superlattices__2604.20272v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了无序莫尔超晶格中平带局域化与安德森局域化的竞争与演化机制。",
+      "en": "Investigates the interplay between flat-band and Anderson localizations in disordered 1D moiré superlattices."
+    },
+    "problem": {
+      "zh": "探讨结构无序如何影响莫尔光子晶体中的平带局域化，以及平带局域化与安德森局域化之间的相互作用。",
+      "en": "Understanding how structural disorder affects moiré flat bands and the competition between intrinsic flat-band localization and disorder-induced Anderson localization."
+    },
+    "approach": {
+      "zh": "构建一维硅莫尔超晶格模型，引入随机条宽无序，利用平均局域化长度和强度概率密度分布进行统计分析。",
+      "en": "1D silicon moiré lattice model with random width disorder, analyzed via localization-length scaling and differential probability density of optical intensity."
+    },
+    "main_takeaway": {
+      "zh": "位于能隙内的孤立平带在无序下保持强局域化，而与色散带相交的平带则表现出反安德森转变或重入局域化现象。",
+      "en": "Isolated flat bands remain localized under disorder, while intersecting flat bands exhibit inverse Anderson transitions or reentrant localization."
+    },
+    "why_it_matters": {
+      "zh": "为设计在实际无序环境下仍能保持高性能的非理想莫尔光子器件（如激光器和量子光源）提供了理论指导。",
+      "en": "Provides guiding principles for engineering robust moiré photonic devices that are resilient to inevitable fabrication disorder."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文详细阐明了不同类型平带在无序环境下的局域化演化逻辑，区分了孤立平带与相交平带的不同响应。",
+        "en": "It clarifies the distinct response of different flat-band types to structural perturbations in moiré systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及凝聚态物理与光子学的交叉热点（莫尔超晶格），且提出了新的分析框架来解释复杂的局域化现象。",
+        "en": "The study addresses a hot topic in condensed matter and photonics (moiré lattices) with a novel analytical framework for localization transitions."
+      }
+    },
+    "keywords": [
+      "莫尔超晶格",
+      "平带局域化",
+      "安德森局域化",
+      "光子晶体",
+      "无序系统"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:47:27",
+    "input_scope": "full_pdf_text"
+  }
+}

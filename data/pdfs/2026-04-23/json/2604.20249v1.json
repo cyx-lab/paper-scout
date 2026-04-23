@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2604.20249v1",
+    "title": "Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry",
+    "authors": [
+      "Sunit Das",
+      "Amit Agarwal"
+    ],
+    "abstract": "Intrinsic Hall effects, such as the anomalous Hall effect, originate from the orbital quantum geometry of Bloch states. However, in layered materials, the combined action of out-of-plane electric and magnetic fields couples to layer polarization and orbital moment, generating a mixed layer-orbital quantum geometry in field-dressed Bloch states. We show that this geometry produces an intrinsic magnetoelectric Hall effect that is bilinear in the electric and magnetic fields. The response is scattering-time independent and can arise in nonmagnetic systems without spin-orbit coupling. Its origin lies in interband coherence involving layer polarization and orbital moment, leading to a finite, non-quantized Hall response that persists in the band gap. The Hall coefficient is odd under gate reversal and tracks layer polarization. A symmetry analysis identifies the classes of layered materials that host this effect. As a representative realization, we demonstrate the effect in rhombohedral pentalayer graphene, where the conductivity reaches values of order $0.05\\,e^2/h$. These results establish mixed layer-orbital quantum geometry as a mechanism for intrinsic magnetoelectric Hall transport and a direct probe of layer-resolved quantum geometry in Bloch bands.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-22T06:55:22Z",
+    "updated": "2026-04-22T06:55:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20249v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry__2604.20249v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232558",
+    "updated_at": "2026-04-23T01:45:27.232552Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry__2604.20249v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20249v1",
+    "pdf_filename": "3_Intrinsic Magnetoelectric Hall Effect from Layer-Orbital Quantum Geometry__2604.20249v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了由层极化与轨道运动耦合产生的层-轨道量子几何及其诱导的内禀磁电霍尔效应。",
+      "en": "Investigates the intrinsic magnetoelectric Hall effect arising from layer-orbital quantum geometry induced by coupled electric and magnetic fields."
+    },
+    "problem": {
+      "zh": "探讨在无自旋轨道耦合和磁序的非磁性层状材料中，外部场能否通过混合层自由度和轨道自由度产生新的内禀霍尔响应。",
+      "en": "Explores whether external fields can generate new intrinsic Hall responses by mixing layer and orbital degrees of freedom in nonmagnetic layered materials without SOC."
+    },
+    "approach": {
+      "zh": "利用半经典玻尔兹曼理论和量子几何分析，研究场修正后的布洛赫态，并以菱面体五层石墨烯作为模型进行数值验证。",
+      "en": "Uses semiclassical Boltzmann theory and quantum geometric analysis of field-dressed Bloch states, with numerical demonstration in rhombohedral pentalayer graphene."
+    },
+    "main_takeaway": {
+      "zh": "垂直电场和磁场的共同作用产生了一种与散射时间无关的内禀磁电霍尔效应，其起源于层极化与轨道矩之间的带间相干性。",
+      "en": "The combined action of out-of-plane E and B fields produces a scattering-time-independent intrinsic magnetoelectric Hall effect originating from interband coherence between layer polarization and orbital moment."
+    },
+    "why_it_matters": {
+      "zh": "揭示了混合量子几何作为内禀输运的新机制，并为探测层状材料中层相关的量子几何提供了直接的输运手段。",
+      "en": "Reveals mixed quantum geometry as a new mechanism for intrinsic transport and provides a direct transport probe for layer-resolved quantum geometry in layered materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种全新的内禀霍尔效应机制，扩展了量子几何在输运理论中的应用范畴。",
+        "en": "Proposes a novel intrinsic Hall effect mechanism, extending the scope of quantum geometry in transport theory."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了基础性的物理机制，具有明确的对称性分析和实验可观测的预言。",
+        "en": "The study proposes a fundamental physical mechanism with clear symmetry analysis and experimentally observable predictions."
+      }
+    },
+    "keywords": [
+      "Magnetoelectric Hall effect",
+      "Quantum geometry",
+      "Layered materials",
+      "Rhombohedral graphene",
+      "Orbital magnetization"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:47:05",
+    "input_scope": "full_pdf_text"
+  }
+}

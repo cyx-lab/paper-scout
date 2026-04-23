@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2604.20312v1",
+    "title": "Perfect spin nonreciprocity in gated superconducting altermagnetic heterostructures",
+    "authors": [
+      "Pei-Hao Fu",
+      "Jun-Feng Liu",
+      "Luca Chirolli",
+      "Jorge Cayao"
+    ],
+    "abstract": "We consider a superconducting altermagnet heterostructure and demonstrate that the interplay between altermagnetism and a selective filter of transverse momentum channels enables perfect nonreciprocal spin-polarized currents. We demonstrate that this nonreciprocity manifests in both local and nonlocal spin currents, signalling the emergence of directionally selective local and nonlocal spin behaviors. We show that the selective filter of transverse momentum channels is realized by gating a finite normal region between the superconducting altermagnet and the metallic reservoir, which then directionally selects transport channels that match the momentum-dependent spin-split superconducting altermagnetic states, allowing for nonreciprocal spin-polarized currents. We discover that the local and nonlocal spin nonreciprocity features a highly tunable polarity and nearly perfect quality factors, respectively, which is achieved by means of gate voltages and by varying the length of the finite region. Moreover, we find that local and nonlocal charge currents also develop a nonreciprocal behavior, whose quality factors can also reach perfect values. In all cases, the spin and charge currents are sensitive to variations of the altermagnetic field, a functional dependence that can be exploited to identify the type of altermagnetism. Our findings put forward an electrically controllable route towards nonreciprocal superconducting spintronic devices based on altermagnets.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-22T08:11:41Z",
+    "updated": "2026-04-22T08:11:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20312v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Perfect spin nonreciprocity in gated superconducting altermagnetic heterostructures__2604.20312v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232281",
+    "updated_at": "2026-04-23T01:45:27.232273Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Perfect spin nonreciprocity in gated superconducting altermagnetic heterostructures__2604.20312v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20312v1",
+    "pdf_filename": "3_Perfect spin nonreciprocity in gated superconducting altermagnetic heterostructures__2604.20312v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究证明通过门电压调控的动量过滤机制，可在超导交错磁体异质结中实现完美的自旋非互易传输。",
+      "en": "The study demonstrates that perfect spin nonreciprocity can be achieved in superconducting altermagnet heterostructures via a gate-controlled momentum filtering mechanism."
+    },
+    "problem": {
+      "zh": "如何在不依赖外部磁场或强自旋轨道耦合的情况下，在超导交错磁体中实现高效且电学可控的自旋极化非互易电流。",
+      "en": "How to achieve high-efficiency and electrically controllable spin-polarized nonreciprocal currents in superconducting altermagnets without relying on external magnetic fields or strong spin-orbit coupling."
+    },
+    "approach": {
+      "zh": "理论模拟金属-门控正规金属-超导交错磁体异质结，利用Bogoliubov-de Gennes哈密顿量和格林函数方法计算局部与非局部输运系数。",
+      "en": "Theoretical modeling of a Lead-Gated Normal-Superconducting Altermagnet heterostructure, using the Bogoliubov-de Gennes Hamiltonian and Green's function methods to calculate local and nonlocal transport coefficients."
+    },
+    "main_takeaway": {
+      "zh": "有限长度的门控区域充当动量过滤器，通过选择性匹配交错磁体中特定自旋的动量通道，可产生效率接近100%的自旋和电荷二极管效应。",
+      "en": "A finite gated region acts as a momentum filter that selectively matches specific spin-polarized momentum channels in the altermagnet, enabling nearly 100% efficient spin and charge diode effects."
+    },
+    "why_it_matters": {
+      "zh": "该发现为设计无净磁化、无磁场的超导自旋电子器件（如自旋二极管和晶体管）提供了一种纯电学调控的新路径。",
+      "en": "The findings provide a purely electrical route for designing superconducting spintronic devices, such as spin diodes and transistors, that operate without net magnetization or external magnetic fields."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种利用动量过滤实现完美非互易性的新机制，克服了以往交错磁体输运中自旋通道相互抵消的难题。",
+        "en": "Proposes a new mechanism using momentum filtering to achieve perfect nonreciprocity, overcoming the challenge of compensated spin channels in altermagnetic transport."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "交错磁体是当前凝聚态物理热点，且该工作实现了“完美”非互易性这一具有高度物理意义的结果。",
+        "en": "Altermagnetism is a hot topic in condensed matter physics, and achieving 'perfect' nonreciprocity is a highly significant result."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Superconducting diode effect",
+      "Spin nonreciprocity",
+      "Momentum filtering",
+      "Nonlocal transport"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:48:01",
+    "input_scope": "full_pdf_text"
+  }
+}

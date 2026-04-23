@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2604.20355v1",
+    "title": "Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$",
+    "authors": [
+      "Luka Benić",
+      "Dino Novko",
+      "Ivor Lončarić"
+    ],
+    "abstract": "The exact microscopic origin, symmetry, and thermal melting mechanism of the charge density wave (CDW) phase in TiSe$_{2}$ remain a subject of intense debate, particularly regarding the presence of chiral structural order and a multi-step phase transition. Here, we resolve the finite-temperature structural dynamics of the monolayer TiSe$_{2}$ using large-scale molecular dynamics simulations driven by an accurate, first-principles-trained machine-learning interatomic potential. We demonstrate that the CDW melting deviates from a conventional second-order phase transition, while it undergoes a two-step melting process characterised by an extended fluctuation regime between $T^{\\ast}\\approx200$ K and $T_{\\mathrm{CDW}}\\approx250$ K, with proliferation of topological defects and domain walls, and accompanied by a completely overdamped soft optical phonon. Furthermore, we reveal that anisotropic long-wavelength thermal fluctuations spontaneously stabilise an asymmetric $3Q$ chiral CDW order with $C2$ symmetry. These findings provide a unified microscopic framework for understanding complex fluctuation-driven phase transitions in 2D quantum materials, demonstrating that the intricate CDW physics of TiSe$_{2}$ can be largely captured without invoking excitonic correlations.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-22T08:57:42Z",
+    "updated": "2026-04-22T08:57:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20355v1",
+      "pdf_path": "data/pdfs/2026-04-23/5_Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$__2604.20355v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232196",
+    "updated_at": "2026-04-23T01:45:27.232190Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/5_Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$__2604.20355v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20355v1",
+    "pdf_filename": "5_Fluctuation-driven multi-step charge density wave transition in monolayer TiSe$_2$__2604.20355v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了单层TiSe2中由热涨落驱动的多步电荷密度波（CDW）相变机制，并发现了自发稳定的手性C2对称性。",
+      "en": "The study reveals a fluctuation-driven multi-step CDW transition in monolayer TiSe2 and identifies a spontaneously stabilized chiral C2 symmetry phase."
+    },
+    "problem": {
+      "zh": "解决单层TiSe2中CDW相变的微观起源、结构对称性以及是否存在多步熔化过程的长期争议。",
+      "en": "Resolving long-standing debates over the microscopic origin, structural symmetry, and the existence of a multi-step melting process in the CDW phase of monolayer TiSe2."
+    },
+    "approach": {
+      "zh": "利用基于第一性原理数据训练的机器学习原子间势（MACE）进行大规模分子动力学模拟，分析有限温度下的结构动力学。",
+      "en": "Large-scale molecular dynamics simulations driven by a machine-learning interatomic potential (MACE) trained on first-principles data to study finite-temperature structural dynamics."
+    },
+    "main_takeaway": {
+      "zh": "CDW熔化是一个涉及拓扑缺陷和畴壁增殖的两步过程（200K-250K），且各向异性的长波热涨落自发稳定了具有C2对称性的手性3Q CDW序。",
+      "en": "CDW melting is a two-step process (200K-250K) characterized by the proliferation of topological defects and domain walls, where anisotropic long-wavelength fluctuations stabilize a chiral 3Q order with C2 symmetry."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了无需激子关联即可解释TiSe2复杂的CDW物理，为理解二维量子材料中由涨落驱动的相变提供了统一的微观框架。",
+      "en": "It demonstrates that TiSe2's complex CDW physics can be explained without excitonic correlations, providing a unified microscopic framework for understanding fluctuation-driven transitions in 2D quantum materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "通过先进的机器学习模拟澄清了单层TiSe2中争议已久的手性序和多步相变机制。",
+        "en": "Clarifies the long-debated chiral order and multi-step transition mechanism in monolayer TiSe2 using advanced machine-learning simulations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了凝聚态物理中一个经典材料的关键争议，且使用了前沿的机器学习模拟方法。",
+        "en": "The study addresses a key controversy in a classic condensed matter material using state-of-the-art machine-learning simulation methods."
+      }
+    },
+    "keywords": [
+      "TiSe2",
+      "Charge Density Wave",
+      "Machine Learning Potential",
+      "Phase Transition",
+      "Chirality",
+      "Thermal Fluctuations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:48:22",
+    "input_scope": "full_pdf_text"
+  }
+}

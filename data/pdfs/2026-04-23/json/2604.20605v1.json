@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2604.20605v1",
+    "title": "An electrically tunable metaatom for visible light",
+    "authors": [
+      "Janna Wilhelmsen",
+      "Longzhu Liu",
+      "Harry Miyosi Silalahi",
+      "Suraya Kazi",
+      "Giancarlo Cincotti",
+      "Shangzhi Chen",
+      "Dongqing Lin",
+      "Yulong Duan",
+      "Magnus P. Jonsson"
+    ],
+    "abstract": "Phase-gradient metasurfaces provide powerful wavefront control through two-dimensional arrangement of nanostructures acting as metaatoms. While dynamic tuning forms a major driver for future breakthroughs and applications in this area, current metaatoms are generally static or limited to operation in the infrared. Here, we present a metaatom that is both electrically tunable and operates in the visible. Its function originates from an excitonic absorption band of a dedoped conducting polymer, which together with low background permittivity induces optical metallicity in a selected part of the visible. This allows anisotropic nanostructures to support excitonic resonances along one direction and not the other, promoting polarization-dependent optical response which can be toggled off and on through reversible doping induced by small bias potentials. Our study details the mechanism of these metaatoms and demonstrate their use in electrically tunable phasegradient metasurfaces for visible light, including erasable and rewritable holograms.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-04-22T14:20:49Z",
+    "updated": "2026-04-22T14:20:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20605v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_An electrically tunable metaatom for visible light__2604.20605v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.231361",
+    "updated_at": "2026-04-23T01:45:27.231355Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_An electrically tunable metaatom for visible light__2604.20605v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20605v1",
+    "pdf_filename": "3_An electrically tunable metaatom for visible light__2604.20605v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究展示了一种基于导电聚合物激子共振的电调控可见光超构原子，实现了动态光束偏转和可擦写全息图。",
+      "en": "The study demonstrates electrically tunable visible-light metaatoms based on excitonic resonances in conducting polymers for dynamic beam steering and rewritable holography."
+    },
+    "problem": {
+      "zh": "现有的动态超构表面主要局限于红外波段，在可见光波段实现高效、可逆的电控波前调节非常困难。",
+      "en": "Existing dynamic metasurfaces are largely limited to the infrared, and achieving efficient, reversible electrical wavefront control in the visible spectrum remains a challenge."
+    },
+    "approach": {
+      "zh": "利用去掺杂导电聚合物（PEDOT）的激子吸收带诱导光学金属性，通过低电压（±1V）调控其掺杂状态，从而切换纳米结构的各向异性共振响应。",
+      "en": "Utilizing the excitonic absorption band of dedoped conducting polymer (PEDOT) to induce optical metallicity, and switching the anisotropic resonance of nanostructures via low-voltage (±1V) redox doping."
+    },
+    "main_takeaway": {
+      "zh": "通过调控聚合物的激子态而非传统的载流子等离激元，可以在可见光波段实现亚秒级响应的电控相位调节。",
+      "en": "By tuning excitonic states instead of traditional carrier plasmonics in polymers, sub-second electrical phase control can be achieved in the visible spectrum."
+    },
+    "why_it_matters": {
+      "zh": "该技术为开发低功耗、像素化可寻址的可见光动态元光学器件（如动态全息显示和平面透镜）提供了新路径。",
+      "en": "This technology provides a new path for developing low-power, pixel-addressable dynamic meta-optics in the visible range, such as dynamic holographic displays and flat lenses."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在可见光波段实现了基于导电聚合物的电控相位梯度超构表面，并展示了实用的全息应用。",
+        "en": "First demonstration of electrically tunable phase-gradient metasurfaces in the visible using conducting polymers with practical holographic applications."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了创新的物理机制（激子诱导金属性）与高性能的动态光学应用，非常符合该期刊的定位。",
+        "en": "The study combines an innovative physical mechanism (exciton-induced metallicity) with high-performance dynamic optical applications, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "PEDOT",
+      "可见光超构表面",
+      "电调控",
+      "激子极化激元",
+      "动态全息"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:49:25",
+    "input_scope": "full_pdf_text"
+  }
+}

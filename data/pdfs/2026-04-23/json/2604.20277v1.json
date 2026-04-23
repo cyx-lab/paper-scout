@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2604.20277v1",
+    "title": "Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moiré Superlattices Revealed by Machine Learning",
+    "authors": [
+      "Jia-Wen Li",
+      "Sheng Meng",
+      "Xinghua Shi",
+      "Jin Zhang",
+      "Wei-Hai Fang"
+    ],
+    "abstract": "Sliding ferroelectrics built from stacked nonpolar monolayers enable out-of-plane polarization and unconventional switching via interlayer sliding, yet the microscopic sliding dynamics remain unclear. Using machine-learning molecular dynamics, we reveal spontaneous thermally driven interlayer sliding in ferroelectric MoS2 moiré superlattices, with relative velocities on the order of 1 m/s at 300 K. Instead of rigid translation of the entire bilayer, the motion appears as a global drift of the moiré pattern. Such thermally driven sliding is inconsistent with the meV/atom-scale rigid-sliding barrier. In contrast, when constrained relaxation is allowed, the sliding proceeds along an almost barrierless pathway that directly reproduces the global drift of the moiré pattern. Furthermore, sulfur vacancies trigger a sliding-to-pinning transition, with about 0.1% S vacancies already sufficient to convert the long-range sliding into localized oscillations. Notably, these phenomena are not restricted to small twist angles, but arise generically in twisting-induced multidomain structures. These results reveal that the sliding process is governed by a domain-wall-mediated collective reconstruction pathway with an ultralow barrier, rather than rigid layer translation, deepening the understanding of microscopic dynamics in moiré superlattices and sliding ferroelectrics.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.comp-ph"
+    ],
+    "published": "2026-04-22T07:24:55Z",
+    "updated": "2026-04-22T07:24:55Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20277v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moiré Superlattices Revealed by Machine Learn__2604.20277v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232457",
+    "updated_at": "2026-04-23T01:45:27.232400Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moiré Superlattices Revealed by Machine Learn__2604.20277v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20277v1",
+    "pdf_filename": "3_Domain-Wall-Mediated Ultralow-Barrier Sliding and Pinning in Ferroelectric Moiré Superlattices Revealed by Machine Learn__2604.20277v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了铁电莫尔超晶格中由畴壁介导的超低能垒层间滑动及其受缺陷诱导的钉扎效应。",
+      "en": "This study reveals domain-wall-mediated ultralow-barrier interlayer sliding and defect-induced pinning in ferroelectric moiré superlattices."
+    },
+    "problem": {
+      "zh": "滑动铁电体的微观动力学（特别是层间滑动如何实现极化翻转）尚不清楚，传统刚性滑动模型与实验观察到的畴壁运动不符。",
+      "en": "The microscopic dynamics of interlayer sliding in sliding ferroelectrics remain unclear, as the rigid-sliding model contradicts experimental observations of domain-wall motion."
+    },
+    "approach": {
+      "zh": "使用基于E(3)等变图神经网络的高精度机器学习势函数进行分子动力学模拟（MLMD），并计算约束弛豫下的滑动能垒。",
+      "en": "Employed high-accuracy machine-learning molecular dynamics (MLMD) based on E(3)-equivariant graph neural networks and calculated relaxed sliding barriers under constrained interlayer shifts."
+    },
+    "main_takeaway": {
+      "zh": "层间滑动并非整体刚性平移，而是通过畴壁介导的集体重构实现的，这使有效能垒降低了两个数量级，达到近乎无能垒的状态；极少量的硫空位（约0.1%）即可将长程滑动转变为局部振荡（钉扎）。",
+      "en": "Interlayer sliding proceeds via domain-wall-mediated collective reconstruction rather than rigid translation, reducing the effective barrier by two orders of magnitude to a nearly barrierless level; as little as 0.1% sulfur vacancies can pin this long-range sliding."
+    },
+    "why_it_matters": {
+      "zh": "解释了滑动铁电体中超快开关和耐疲劳特性的物理起源，并为理解莫尔超晶格中的声子模式和热弛豫提供了统一框架。",
+      "en": "It explains the physical origin of fast switching and fatigue resistance in sliding ferroelectrics and provides a unified framework for understanding phason modes and thermal relaxation in moiré systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了莫尔体系中非刚性滑动的微观机制，并定量给出了缺陷钉扎的阈值。",
+        "en": "Reveals the microscopic mechanism of non-rigid sliding in moiré systems and quantifies the threshold for defect pinning."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theory + Numerical Simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "结合了热门的莫尔超晶格与滑动铁电体话题，且使用了先进的机器学习势方法。",
+        "en": "Combines hot topics of moiré superlattices and sliding ferroelectricity with advanced machine-learning potential methods."
+      }
+    },
+    "keywords": [
+      "Sliding ferroelectricity",
+      "Moiré superlattices",
+      "Domain wall dynamics",
+      "Machine learning potential",
+      "Pinning effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:47:44",
+    "input_scope": "full_pdf_text"
+  }
+}

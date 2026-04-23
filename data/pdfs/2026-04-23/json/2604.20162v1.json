@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2604.20162v1",
+    "title": "Layer-mediated tuning of spin and valley physics in stacked tetragonal altermagnetic bilayers",
+    "authors": [
+      "Jianke Tian",
+      "Xiaowen Zhou",
+      "Gui-Bin Liu"
+    ],
+    "abstract": "As an emerging magnetic phase, altermagnets (AMs) with collinear compensated magnetism in real space and alternating spin splitting in the band structure have attracted widespread attention. Here, based on first-principles calculations, we demonstrate that the layer stacking imposes symmetry constraints on the spin and valley degrees of freedom (DOFs) in an AM bilayer composed of two tetragonal altermagnetic monolayers, thereby enabling the tuning of these DOFs through interlayer sliding as well as by an external electric field. Using several representative AM bilayers, we reveal that the [C2||P] and [C2||Mz] symmetries intrinsically enforce spin degeneracy, while the coupling between spin and layer DOFs establishes a general framework for achieving electric field control of spin states. Appropriate interlayer sliding breaks the [C2||Md] symmetry of AM bilayers, thereby giving rise to a spontaneous valley splitting and driving a transition to a fully compensated ferrimagnetic state. Furthermore, owing to the tunable valley splitting induced by interlayer sliding, enhanced tunneling magnetoresistance (TMR) can be realized by AM bilayers. This work highlights the intrinsic correlation among spin, valley, and layer DOFs, offering symmetry-based design principles for layer-based spintronic and valleytronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-22T04:03:46Z",
+    "updated": "2026-04-22T04:03:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20162v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Layer-mediated tuning of spin and valley physics in stacked tetragonal altermagnetic bilayers__2604.20162v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232881",
+    "updated_at": "2026-04-23T01:45:27.232875Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Layer-mediated tuning of spin and valley physics in stacked tetragonal altermagnetic bilayers__2604.20162v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20162v1",
+    "pdf_filename": "3_Layer-mediated tuning of spin and valley physics in stacked tetragonal altermagnetic bilayers__2604.20162v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了四方晶系交错磁体双层结构中通过层间滑动和电场调控自旋与谷自由度的物理机制。",
+      "en": "Investigates the layer-mediated tuning of spin and valley degrees of freedom in tetragonal altermagnetic bilayers via interlayer sliding and electric fields."
+    },
+    "problem": {
+      "zh": "如何在二维交错磁体中实现除应变工程之外的谷极化调控，并阐明层间相互作用对自旋态的影响。",
+      "en": "How to achieve valley polarization in 2D altermagnets beyond strain engineering and clarify the impact of interlayer interactions on spin states."
+    },
+    "approach": {
+      "zh": "利用自旋空间群对称性分析结合第一性原理计算，研究层间滑动、磁矩配置和外加电场对双层体系能带的影响。",
+      "en": "Utilized spin space group symmetry analysis combined with first-principles calculations to study the effects of interlayer sliding, magnetic configuration, and external electric fields on bilayer band structures."
+    },
+    "main_takeaway": {
+      "zh": "层间滑动通过打破特定的空间旋转对称性，可诱导自旋劈裂和自发谷劈裂，使体系转变为完全补偿的亚铁磁态，并能显著增强隧穿磁阻效应。",
+      "en": "Interlayer sliding breaks specific spatial rotation symmetries to induce spin and spontaneous valley splitting, driving a transition to a fully compensated ferrimagnetic state and significantly enhancing tunneling magnetoresistance."
+    },
+    "why_it_matters": {
+      "zh": "该研究建立了自旋、谷与层自由度之间的内在关联，为开发基于二维交错磁体的新型自旋电子学和谷电子学器件提供了理论指导。",
+      "en": "The work establishes intrinsic correlations among spin, valley, and layer degrees of freedom, providing theoretical guidance for developing new spintronic and valleytronic devices based on 2D altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章系统地阐明了对称性约束与自旋/谷劈裂之间的关系，并提出了层间滑动这一有效的物理调控手段。",
+        "en": "The paper systematically clarifies the relationship between symmetry constraints and spin/valley splitting, proposing interlayer sliding as an effective physical tuning method."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究聚焦于凝聚态物理中的对称性分析与新型磁性材料物性，非常符合PRB的发表范畴。",
+        "en": "The study focuses on symmetry analysis and properties of novel magnetic materials in condensed matter physics, aligning well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Valley splitting",
+      "Interlayer sliding",
+      "Symmetry analysis",
+      "2D materials",
+      "Spintronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:46:18",
+    "input_scope": "full_pdf_text"
+  }
+}

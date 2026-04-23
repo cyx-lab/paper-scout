@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2604.20126v1",
+    "title": "Resonance-enhanced super-superexchange yields giant chiral magnon splitting in rutile altermagnets",
+    "authors": [
+      "Dai Q. Ho",
+      "D. Quang To",
+      "Byungkyun Kang",
+      "Matthew F. Doty",
+      "Garnett W. Bryant",
+      "Anderson Janotti"
+    ],
+    "abstract": "Altermagnets host momentum-selective spin splitting and chiral-split magnonic excitations despite vanishing net magnetization, enabling spin transport without ferromagnetism. In rutile structures, establishing altermagnetism spectroscopically has been challenging, motivating the search for a rutile platform with a resolvable exchange-driven chiral magnon splitting. Here we combine hybrid-functional first-principles calculations with linear spin-wave theory to show that rutile CuF$_2$ exhibits a meV-scale splitting between magnon modes of opposite chirality along momentum directions dictated by its $d$-wave altermagnetic symmetry. The splitting originates from an anomalously strong long-range super-superexchange channel Cu--F$\\cdots$F--Cu, which enhances the symmetry-allowed difference between seventh-neighbour exchanges, $J_{7b} - J_{7a}$, controlling the chiral-mode splitting. We identify an orbital-resonance mechanism: energetic alignment between Cu $3d_{z^2}$ and F $2p_z$ states strengthens virtual hopping along the Cu--F$\\cdots$F--Cu path and amplifies the anisotropic long-range exchange. Rutile CuF$_2$ therefore provides an ideal platform to validate rutile altermagnetism and suggests an orbital-energy description for engineering large chiral magnon splittings in insulating altermagnets.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-22T02:46:50Z",
+    "updated": "2026-04-22T02:46:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20126v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Resonance-enhanced super-superexchange yields giant chiral magnon splitting in rutile altermagnets__2604.20126v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232915",
+    "updated_at": "2026-04-23T01:45:27.232909Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Resonance-enhanced super-superexchange yields giant chiral magnon splitting in rutile altermagnets__2604.20126v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20126v1",
+    "pdf_filename": "3_Resonance-enhanced super-superexchange yields giant chiral magnon splitting in rutile altermagnets__2604.20126v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现金红石型 CuF2 具有由轨道共振增强的超-超交换作用驱动的巨手性磁振子分裂。",
+      "en": "Discovery of giant chiral magnon splitting in rutile CuF2 driven by resonance-enhanced super-superexchange."
+    },
+    "problem": {
+      "zh": "金红石型交错磁体（如 RuO2）的磁振子手性分裂通常极小，难以在实验光谱中观测和验证。",
+      "en": "Chiral magnon splitting in rutile altermagnets is typically too small to be resolved experimentally, hindering spectroscopic confirmation."
+    },
+    "approach": {
+      "zh": "结合杂化泛函第一性原理计算与线性磁振子理论，对比分析一系列过渡金属氟化物的交换相互作用和磁振子能谱。",
+      "en": "Combined hybrid-functional first-principles calculations with linear spin-wave theory to analyze exchange interactions and magnon spectra across transition-metal difluorides."
+    },
+    "main_takeaway": {
+      "zh": "CuF2 在特定动量方向表现出毫电子伏特量级的巨手性磁振子分裂，这源于 Cu 3d 与 F 2p 轨道能量对齐增强了长程超-超交换作用。",
+      "en": "CuF2 exhibits meV-scale chiral magnon splitting due to an orbital-resonance mechanism that amplifies long-range super-superexchange interactions."
+    },
+    "why_it_matters": {
+      "zh": "该研究为验证金红石型交错磁性提供了理想的实验平台，并提出了通过轨道能量工程设计大分裂磁振子的通用准则。",
+      "en": "It provides a clear experimental platform to validate rutile altermagnetism and establishes a design principle for engineering large magnon splittings via orbital alignment."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了增强交错磁体特征信号的物理机制，并预言了具有显著实验特征的新材料。",
+        "en": "Reveals the physical mechanism for enhancing altermagnetic signatures and predicts a new material with prominent experimental features."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对交错磁体这一前沿热点，提出了新颖的机制并具有明确的实验可验证性。",
+        "en": "The study addresses a hot topic in altermagnetism with a novel mechanism and clear experimental testability."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Chiral magnon",
+      "CuF2",
+      "Super-superexchange",
+      "Orbital resonance"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:46:01",
+    "input_scope": "full_pdf_text"
+  }
+}

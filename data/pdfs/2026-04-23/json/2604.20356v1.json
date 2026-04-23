@@ -1,0 +1,130 @@
+{
+  "paper_record": {
+    "id": "2604.20356v1",
+    "title": "Symplectic connection third-order Hall effect in a room-temperature ferromagnet",
+    "authors": [
+      "Yu Cao",
+      "Xukun Feng",
+      "Yiming Guo",
+      "Huiying Liu",
+      "Qia Shen",
+      "Hongliang Chen",
+      "Wanxi Gong",
+      "Yu Yang",
+      "Dandan Guan",
+      "Yaoyi Li",
+      "Shiyong Wang",
+      "Hao Zheng",
+      "Canhua Liu",
+      "Xiaoxue Liu",
+      "Yumeng Yang",
+      "Xuepeng Qiu",
+      "Ruidan Zhong",
+      "Jinfeng Jia",
+      "Shengyuan A. Yang",
+      "Cong Xiao",
+      "Liang Liu"
+    ],
+    "abstract": "Third-order nonlinear Hall effects (THE) have recently attracted considerable experimental interest as powerful probes for quantum geometric properties in emergent quantum materials, encompassing quadrupole moments of quantum metric and Berry curvature. Here, we report a fundamentally new THE in room-temperature van der Waals ferromagnet Fe3GaTe2 from second-order Berry connection polarizability, which manifests a higher-order characterization of band geometry called symplectic connection. Our observations show that the third-order transverse response in Fe3GaTe2 is odd to magnetization, vanishes above the Curie temperature and remains independent of driving current directions. Scaling law analysis combined with first-principles calculations establishes this response as the symplectic-connection-induced THE. This discovery opens the door to probing high-order quantum geometric properties beyond Berry curvature and quantum metric through nonlinear transport, unveiling the potential of exploring nonlinear Hall phenomena in broad classes of magnets without breaking inversion symmetry. Moreover, the room-temperature manipulation of THE holds promises for device applications based on harnessing the quantum-geometric connection structure.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-22T08:58:10Z",
+    "updated": "2026-04-22T08:58:10Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:berry connection",
+        "quantum_geometry:nonlinear Hall",
+        "quantum_geometry:nonlinear Hall effect"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20356v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Symplectic connection third-order Hall effect in a room-temperature ferromagnet__2604.20356v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232162",
+    "updated_at": "2026-04-23T01:45:27.232154Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Symplectic connection third-order Hall effect in a room-temperature ferromagnet__2604.20356v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20356v1",
+    "pdf_filename": "3_Symplectic connection third-order Hall effect in a room-temperature ferromagnet__2604.20356v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在室温铁磁体 Fe3GaTe2 中发现了由辛联络诱导的本质三阶霍尔效应。",
+      "en": "Discovery of intrinsic third-order Hall effect induced by symplectic connection in the room-temperature ferromagnet Fe3GaTe2."
+    },
+    "problem": {
+      "zh": "现有的非线性霍尔效应主要探测贝里曲率和量子度规，而更高阶的量子几何属性（如辛联络）在输运实验中仍未被探测，且通常受限于反演对称性破缺的材料。",
+      "en": "Existing nonlinear Hall effects primarily probe Berry curvature and quantum metric, while higher-order quantum geometric properties like symplectic connection remain undetected in transport and are typically limited to materials with broken inversion symmetry."
+    },
+    "approach": {
+      "zh": "对范德华铁磁体 Fe3GaTe2 进行多谐波输运测量，结合定标律分析和基于第一性原理的本质非线性电导率计算。",
+      "en": "Multi-harmonic transport measurements on van der Waals ferromagnet Fe3GaTe2, combined with scaling law analysis and first-principles calculations of intrinsic nonlinear conductivity."
+    },
+    "main_takeaway": {
+      "zh": "实验观测到一种与磁化强度成奇函数且各向同性的三阶霍尔效应，其物理起源是二阶贝里联络极化率中的辛联络贡献，而非传统的贝里曲率或量子度规效应。",
+      "en": "Observed a magnetization-odd and isotropic third-order Hall effect originating from the symplectic connection within the second-order Berry connection polarizability, rather than traditional Berry curvature or quantum metric effects."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了非线性输运可以探测超越贝里曲率的高阶量子几何属性，并展示了在中心对称铁磁体中实现室温非线性电子器件的潜力。",
+      "en": "This study demonstrates that nonlinear transport can probe high-order quantum geometry beyond Berry curvature and reveals the potential for room-temperature nonlinear electronic devices in centrosymmetric ferromagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在实验上将辛联络这一高阶几何概念与电子输运联系起来，并实现了室温下的观测。",
+        "en": "First experimental link between the high-order geometric concept of symplectic connection and electronic transport, achieved at room temperature."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及新物理机制的首次实验验证，且具有室温应用前景，符合顶刊品味。",
+        "en": "The study involves the first experimental verification of a new physical mechanism with room-temperature application potential, fitting high-impact journal criteria."
+      }
+    },
+    "keywords": [
+      "三阶霍尔效应",
+      "辛联络",
+      "Fe3GaTe2",
+      "量子几何",
+      "铁磁体",
+      "非线性输运"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:48:37",
+    "input_scope": "full_pdf_text"
+  }
+}

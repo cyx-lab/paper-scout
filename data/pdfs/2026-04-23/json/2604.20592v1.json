@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2604.20592v1",
+    "title": "Disorder induced time-reversal-odd nonlinear spin and orbital Hall effects",
+    "authors": [
+      "Ruda Guo",
+      "Yi Liu",
+      "Cong Xiao",
+      "Zhe Yuan"
+    ],
+    "abstract": "We develop a theory for the second-order time-reversal-odd ($\\mathcal{T}$-odd) angular-momentum current, incorporating both spin and orbital components. We reveal that besides spin and orbital Berry curvature dipoles, $\\mathcal{T}$-odd nonlinear angular-momentum current can originate from disorder-induced mechanisms including coordinate shift, side-jump spin and orbital currents, anomalous scattering amplitude, and skew scattering. A general scaling relation is derived to help distinguish some of these contributions in experiments. Model calculations demonstrate that the orbital component can be comparable to and much larger than the spin component. Our theory lays the groundwork for $\\mathcal{T}$-odd nonlinear spin and orbital transport.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-22T14:10:12Z",
+    "updated": "2026-04-22T14:10:12Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20592v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Disorder induced time-reversal-odd nonlinear spin and orbital Hall effects__2604.20592v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.231431",
+    "updated_at": "2026-04-23T01:45:27.231422Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Disorder induced time-reversal-odd nonlinear spin and orbital Hall effects__2604.20592v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20592v1",
+    "pdf_filename": "3_Disorder induced time-reversal-odd nonlinear spin and orbital Hall effects__2604.20592v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文建立了二阶时间反演奇（T-odd）非线性自旋和轨道霍尔效应的理论框架，揭示了杂质散射在其中的关键作用。",
+      "en": "This paper develops a theory for second-order time-reversal-odd (T-odd) nonlinear spin and orbital Hall effects, highlighting the critical role of disorder-induced mechanisms."
+    },
+    "problem": {
+      "zh": "目前缺乏对非线性角动量输运中杂质诱导贡献（如侧跳、斜散射等）的全面微观理解及其对应的实验定标关系。",
+      "en": "There is a lack of comprehensive microscopic understanding and experimental scaling relations for disorder-induced contributions (e.g., side-jump, skew scattering) in nonlinear angular-momentum transport."
+    },
+    "approach": {
+      "zh": "采用半经典玻尔兹曼理论，结合倾斜四带狄拉克模型，系统推导了包含自旋和轨道自由度的非线性输运系数及定标律。",
+      "en": "Using semiclassical Boltzmann theory combined with a tilted four-band Dirac model, the authors derived nonlinear transport coefficients and scaling laws for both spin and orbital degrees of freedom."
+    },
+    "main_takeaway": {
+      "zh": "杂质诱导的侧跳、坐标位移和斜散射等机制对T-odd非线性响应贡献显著，且在窄带隙系统中，轨道霍尔分量通常远大于自旋分量。",
+      "en": "Disorder-induced mechanisms such as side-jump, coordinate shift, and skew scattering contribute significantly to T-odd nonlinear responses, and the orbital component often dominates the spin component in small-gap systems."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在PT对称反铁磁体（如CuMnAs）中探测和区分不同的非线性输运机制提供了理论基础和实验判据。",
+      "en": "This study provides the theoretical foundation and experimental criteria for detecting and distinguishing different nonlinear transport mechanisms in PT-symmetric antiferromagnets like CuMnAs."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次系统地将多种杂质散射机制引入非线性角动量输运理论，并提出了可供实验验证的定标律。",
+        "en": "It is the first to systematically incorporate various disorder mechanisms into nonlinear angular-momentum transport theory and propose verifiable scaling laws."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值计算",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了自旋/轨道电子学领域的一个基础理论空白，且论文格式和深度符合该期刊要求。",
+        "en": "The study fills a fundamental theoretical gap in spintronics/orbitronics, and the format and depth align with the journal's standards."
+      }
+    },
+    "keywords": [
+      "Nonlinear spin Hall effect",
+      "Nonlinear orbital Hall effect",
+      "Disorder scattering",
+      "Berry curvature dipole",
+      "Scaling law",
+      "PT-symmetric magnets"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:49:11",
+    "input_scope": "full_pdf_text"
+  }
+}

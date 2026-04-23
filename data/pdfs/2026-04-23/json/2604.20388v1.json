@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2604.20388v1",
+    "title": "Quantum Optical Signatures of Band Topology in Solid-State High Harmonics",
+    "authors": [
+      "Denis Ilin",
+      "Alexander S. Solntsev",
+      "Ivan Iorsh"
+    ],
+    "abstract": "We develop a general theory of high-harmonic generation (HHG) in solid-state systems, based on a weak-correlation expansion of photonic and matter degrees of freedom. Unlike standard HHG theories, which treat light-matter dynamics through the Schrodinger equation, our approach employs density-matrix evolution, naturally capturing the mixed-state character of both the field and the matter - a critical aspect for describing complex solid-state band structures. We show explicitly that the properties of the emitted fields are governed by the quantum statistics and quantum geometry of the underlying solid. Taking the Su-Schrieffer-Heeger (SSH) model in a one-sided optical cavity as a paradigmatic example and considering the dual regime, we demonstrate that in the topological phase a system exhibits a stronger HHG response and stronger quantum-light signatures than in the trivial phase. Furthermore, we show that cavity-matter interaction gives rise to squeezed high-harmonic quantum light, whose properties are directly imprinted by the current-current fluctuations in the material system. Crucially, the observed squeezing does not rely on a separate quartic Kerr mechanism. In the mesoscopic regime, the genuine quantum Kerr term is higher order in light-matter coupling strength and negligible, while the relevant non-classical effect is governed by current-current fluctuations encoded in the complex susceptibility of the material. This work establishes a direct link between band topology and photon statistics, opening new avenues for topology-sensitive quantum light generation and photon statistics based spectroscopy of solid-state systems.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "published": "2026-04-22T09:43:25Z",
+    "updated": "2026-04-22T09:43:25Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.20388v1",
+      "pdf_path": "data/pdfs/2026-04-23/3_Quantum Optical Signatures of Band Topology in Solid-State High Harmonics__2604.20388v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-23T01:45:27.232101",
+    "updated_at": "2026-04-23T01:45:27.232095Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-23/3_Quantum Optical Signatures of Band Topology in Solid-State High Harmonics__2604.20388v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.20388v1",
+    "pdf_filename": "3_Quantum Optical Signatures of Band Topology in Solid-State High Harmonics__2604.20388v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文建立了一套固体高次谐波产生（HHG）的量子光学理论，揭示了能带拓扑和量子几何如何直接影响发射光子的量子统计特性。",
+      "en": "This paper develops a quantum optical theory of solid-state HHG, revealing how band topology and quantum geometry directly dictate the quantum statistics of emitted photons."
+    },
+    "problem": {
+      "zh": "传统的固体HHG理论通常将辐射场视为经典场，无法描述发射光的非经典统计特性（如挤压、纠缠）以及光与物质之间的量子回馈效应。",
+      "en": "Traditional solid-state HHG theories treat radiated fields classically, failing to capture non-classical photon statistics (e.g., squeezing, entanglement) and the quantum back-action between light and matter."
+    },
+    "approach": {
+      "zh": "采用基于弱相关展开的通用Lindblad类密度矩阵方程，将物质的量子动力学与量子化电磁场耦合，并以光学腔中的SSH模型作为拓扑材料的典型案例进行分析。",
+      "en": "Employs a universal Lindblad-like density matrix equation based on weak-correlation expansion to couple matter dynamics with quantized fields, analyzing the SSH model in an optical cavity as a topological example."
+    },
+    "main_takeaway": {
+      "zh": "拓扑相相比平庸相具有更强的HHG响应和更显著的量子挤压效应，这种差异主要由拓扑相中增强的量子度规张量所驱动。",
+      "en": "The topological phase exhibits a stronger HHG response and more pronounced quantum squeezing than the trivial phase, primarily driven by the enhanced quantum metric tensor in the topological regime."
+    },
+    "why_it_matters": {
+      "zh": "该研究为通过光子统计学探测固体拓扑性质开辟了新途径，并证明了利用固体系统产生非经典量子光的可行性，无需依赖传统的非线性克尔效应。",
+      "en": "This work opens new avenues for probing solid-state topology via photon statistics and demonstrates the feasibility of generating non-classical light using solids without relying on traditional nonlinear Kerr effects."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在理论上建立了固体HHG中能带拓扑与光子挤压、纠缠之间的直接定量联系。",
+        "en": "It establishes the first direct quantitative link between band topology and photon squeezing/entanglement in solid-state HHG."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了拓扑物理与量子光学两个前沿领域，具有高度的创新性和广泛的物理兴趣。",
+        "en": "The study combines topological physics and quantum optics, offering high innovation and broad physical interest."
+      }
+    },
+    "keywords": [
+      "高次谐波产生 (HHG)",
+      "能带拓扑",
+      "量子几何",
+      "挤压光",
+      "SSH模型",
+      "光子统计"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-23T09:48:55",
+    "input_scope": "full_pdf_text"
+  }
+}
