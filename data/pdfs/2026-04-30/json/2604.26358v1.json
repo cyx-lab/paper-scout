@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2604.26358v1",
+    "title": "Voltage-Regulated Photoluminescence Modulation in a 0D-2D Mixed Dimensional Heterostructure",
+    "authors": [
+      "S. V. U. Vedhanth",
+      "Amit Bhunia",
+      "Mohit Kumar Singh",
+      "Yuvraj Chaudhry",
+      "Mohamed Henini",
+      "Shouvik Datta"
+    ],
+    "abstract": "Bias dependent oscillations in excitonic photoluminescence are observed in a mixed dimensional 0D 2D heterostructure. These oscillations arise from modulation by oscillatory DC photocurrent, which exhibits periodic negative differential resistance, indicating recurring charge accumulation within the heterostructure. The persistence of these oscillations across a macroscopic area of diameter around 200 microns suggests the presence of periodically correlated quantum phenomena over large length scales. Furthermore, bias dependent oscillations in the photo capacitance are observed, reflecting a periodic ordering and disordering of excitonic populations. Together, these observations point to a direct competition between coherent and incoherent electron tunnelling processes. The coupled oscillatory behaviour of photoluminescence, photocurrent, and photo capacitance highlights new opportunities for exciton-based quantum optoelectronic devices.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.quant-gas"
+    ],
+    "published": "2026-04-29T07:12:47Z",
+    "updated": "2026-04-29T07:12:47Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26358v1",
+      "pdf_path": "data/pdfs/2026-04-30/3_Voltage-Regulated Photoluminescence Modulation in a 0D-2D Mixed Dimensional Heterostructure__2604.26358v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.019610",
+    "updated_at": "2026-04-30T01:57:33.019603Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/3_Voltage-Regulated Photoluminescence Modulation in a 0D-2D Mixed Dimensional Heterostructure__2604.26358v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26358v1",
+    "pdf_filename": "3_Voltage-Regulated Photoluminescence Modulation in a 0D-2D Mixed Dimensional Heterostructure__2604.26358v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了0D-2D混合维度异质结构中电压调控的激子光致发光振荡及其与共振隧穿的关联。",
+      "en": "Investigates voltage-regulated excitonic photoluminescence oscillations and their link to resonant tunneling in a 0D-2D mixed-dimensional heterostructure."
+    },
+    "problem": {
+      "zh": "探索共振隧穿二极管中光致发光、光电流和光电容之间的耦合振荡机制，特别是大尺度下的量子相干现象。",
+      "en": "Exploring the coupled oscillatory behavior of photoluminescence, photocurrent, and photo-capacitance in resonant tunneling diodes, specifically focusing on large-scale quantum coherence."
+    },
+    "approach": {
+      "zh": "制备含InAs量子点的GaAs/AlAs共振隧穿二极管，在低温下测量随偏压变化的光致发光光谱、直流光电流和交流阻抗，并结合理论模型进行模拟。",
+      "en": "Fabricating GaAs/AlAs resonant tunneling diodes with InAs quantum dots and measuring bias-dependent PL spectra, DC photocurrent, and AC impedance at cryogenic temperatures, supported by numerical simulations."
+    },
+    "main_takeaway": {
+      "zh": "发现光致发光强度与光电流呈反相振荡，这源于相干与非相干电子隧穿过程之间的动态竞争，且该量子现象在200微米的宏观尺度上保持同步。",
+      "en": "Discovered that PL intensity oscillates out-of-phase with photocurrent due to dynamic competition between coherent and incoherent tunneling, synchronized over a macroscopic scale of 200 micrometers."
+    },
+    "why_it_matters": {
+      "zh": "为开发基于激子的量子光电器件（如光调制器、存储器和开关）提供了物理基础，并展示了利用电压精确调控光学比特的可能性。",
+      "en": "Provides a physical basis for exciton-based quantum optoelectronic devices such as modulators, memories, and switches, demonstrating the potential for precise voltage control of optical bits."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "详细阐明了混合维度异质结构中光、电信号耦合振荡的物理起源，并验证了长程量子相干性的存在。",
+        "en": "Detailed clarification of the physical origin of coupled optoelectronic oscillations in mixed-dimensional heterostructures and validation of long-range quantum coherence."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 数值模拟",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Applied",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了半导体物理、量子输运和光电应用，非常符合该期刊的定位。",
+        "en": "The study combines semiconductor physics, quantum transport, and optoelectronic applications, aligning well with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Resonant Tunneling",
+      "Quantum Dots",
+      "Excitons",
+      "Negative Differential Resistance",
+      "Photoluminescence Modulation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-30T10:09:12",
+    "input_scope": "full_pdf_text"
+  }
+}

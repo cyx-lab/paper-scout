@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2604.26739v1",
+    "title": "Universal magnetotunnel conductance at a Weyl semimetal-layered Chern insulator junction",
+    "authors": [
+      "Nirnoy Basak",
+      "Sumathi Rao",
+      "Faruk Abdulla"
+    ],
+    "abstract": "We investigate electronic transport across a junction between a Weyl semimetal (WSM) and a layered Chern insulator (LCI) in the presence of a magnetic field perpendicular to the interface. The topological mismatch between the gapless Weyl semimetal and the momentum-resolved chiral edge modes of the layered Chern insulator leads to interface Fermi-arc states with a qualitatively distinct connectivity: unlike WSM-WSM junctions, the interface Fermi arcs are forced to reconnect through the Brillouin-zone boundary rather than terminating at the projections of the Weyl nodes. We analyze the spectrum and compute the magneto tunnel conductance mediated by the interface-localized states. We find that the conductance increases linearly with magnetic field at low fields and saturates beyond a critical field to a constant value that is independent of microscopic details such as interface coupling, arc geometry, and lattice-scale parameters. This universal saturation reflects a transport mechanism governed by the topological charge pumping associated with the Chern layers, rather than magnetic breakdown between Fermi arcs. We further show that, under specific conditions, a junction between two distinct Weyl semimetals can exhibit a similar saturation behavior, thereby clarifying the topological origin of the observed universality.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-29T14:38:38Z",
+    "updated": "2026-04-29T14:38:38Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "thouless_pump:charge pump"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26739v1",
+      "pdf_path": "data/pdfs/2026-04-30/3_Universal magnetotunnel conductance at a Weyl semimetal-layered Chern insulator junction__2604.26739v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.018061",
+    "updated_at": "2026-04-30T01:57:33.018053Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/3_Universal magnetotunnel conductance at a Weyl semimetal-layered Chern insulator junction__2604.26739v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26739v1",
+    "pdf_filename": "3_Universal magnetotunnel conductance at a Weyl semimetal-layered Chern insulator junction__2604.26739v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现外尔半金属与层状陈绝缘体接合处的磁隧穿电导在强磁场下会饱和至一个由拓扑决定的普适值。",
+      "en": "The study reveals that magnetotunnel conductance at a Weyl semimetal–layered Chern insulator junction saturates to a universal value at high magnetic fields due to topological constraints."
+    },
+    "problem": {
+      "zh": "探索无能隙的外尔半金属与受动量解析陈数保护的层状陈绝缘体之间的拓扑失配如何影响界面态及其磁输运性质。",
+      "en": "To explore how the topological mismatch between a gapless Weyl semimetal and a layered Chern insulator affects interface states and magnetotransport properties."
+    },
+    "approach": {
+      "zh": "采用双能带晶格模型，结合数值对角化分析界面能谱，并利用 KWANT 软件模拟垂直磁场下的磁隧穿电导。",
+      "en": "Using a two-band lattice model, the authors analyze the interface spectrum via exact diagonalization and simulate magnetotunnel conductance under a perpendicular magnetic field using KWANT."
+    },
+    "main_takeaway": {
+      "zh": "磁隧穿电导在低场下随磁场线性增加，但在临界场后饱和至一个普适常数，该值仅取决于系统尺寸和陈层数，与界面耦合强度或费米弧几何细节无关。",
+      "en": "Magnetotunnel conductance increases linearly at low fields but saturates to a universal constant beyond a critical field; this value depends only on system size and Chern layers, independent of interface coupling or Fermi-arc geometry."
+    },
+    "why_it_matters": {
+      "zh": "该研究揭示了一种由拓扑电荷泵浦驱动而非磁击穿控制的输运机制，为识别拓扑半金属异质结提供了普适的实验判据。",
+      "en": "It identifies a transport mechanism governed by topological charge pumping rather than magnetic breakdown, providing a universal experimental signature for identifying topological semimetal heterojunctions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "发现了磁输运中不依赖于微观参数的普适饱和行为，并阐明了其拓扑起源。",
+        "en": "Discovered a universal saturation behavior in magnetotransport independent of microscopic parameters and clarified its topological origin."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文深入探讨了拓扑材料的输运机制，符合该期刊凝聚态物理方向的定位。",
+        "en": "The paper provides an in-depth study of transport mechanisms in topological materials, fitting the scope of PRB's condensed matter section."
+      }
+    },
+    "keywords": [
+      "Weyl semimetal",
+      "Layered Chern insulator",
+      "Magnetotunnel conductance",
+      "Fermi arcs",
+      "Topological charge pumping"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-30T10:06:09",
+    "input_scope": "full_pdf_text"
+  }
+}

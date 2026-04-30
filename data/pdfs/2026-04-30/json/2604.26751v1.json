@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2604.26751v1",
+    "title": "Sub-50 Picosecond exceptionally Bright Perovskite Scintillation by Unlocking Giant Oscillator Strength",
+    "authors": [
+      "Chuanwei Dai",
+      "Yunbiao Zhao",
+      "Xiao Ouyang",
+      "Huaqing Huang",
+      "Yulan Liang",
+      "Jiaqi Bai",
+      "Yingjie Song",
+      "Jianhan Sun",
+      "Yiqun Duan",
+      "Wenjun Ma",
+      "Senlin Huang",
+      "Shufeng Wang",
+      "Jianming Xue",
+      "Xiaoping Ouyang"
+    ],
+    "abstract": "Ultrafast scintillators are indispensable for precise timing in high-energy physics and medical diagnostics. Fundamentally constrained by the trade-off between emission rate and light yield, conventional scintillators remain kinetically trapped in the sub-nanosecond regime, failing to break 50-picosecond limit. Here, we demonstrate a strategy to bypass this limitation by harnessing the coherent radiative acceleration in weakly confined CsPbCl3 perovskite nanocrystals to generate an ultrafast photon burst. This effect originates from the giant oscillator strength, which we unlock by suppressing exciton-phonon scattering at mild cryogenic temperatures. Consequently, our scintillator achieves an unprecedented dominant lifetime of 13.11 ps alongside a high light yield of 21,851 ph/MeV. The resulting prompt photon emission rate more than 100 times higher than that of state-of-the-art ultrafast scintillators. We validate this breakthrough in realistic detection scenarios, achieving a coincidence time resolution of 30.8 ps and accurately resolving 13.5 ps electron bunches and 16.6 ps single-shot gamma-ray pulses. Our findings establish a robust coherent framework for next-generation ultrafast scintillators, pushing extreme radiation diagnostics into the picosecond frontier.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-29T14:48:59Z",
+    "updated": "2026-04-29T14:48:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": true,
+      "rule_score": 8,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26751v1",
+      "pdf_path": "data/pdfs/2026-04-30/8_Sub-50 Picosecond exceptionally Bright Perovskite Scintillation by Unlocking Giant Oscillator Strength__2604.26751v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.018020",
+    "updated_at": "2026-04-30T01:57:33.018010Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/8_Sub-50 Picosecond exceptionally Bright Perovskite Scintillation by Unlocking Giant Oscillator Strength__2604.26751v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26751v1",
+    "pdf_filename": "8_Sub-50 Picosecond exceptionally Bright Perovskite Scintillation by Unlocking Giant Oscillator Strength__2604.26751v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过在低温下利用 CsPbCl3 钙钛矿纳米晶的巨振子强度，实现了亚 50 皮秒超快且高亮度的闪烁体性能。",
+      "en": "Achieving sub-50 ps ultrafast and exceptionally bright scintillation by unlocking giant oscillator strength in CsPbCl3 perovskite nanocrystals at cryogenic temperatures."
+    },
+    "problem": {
+      "zh": "传统闪烁体受限于发光速率与光产额之间的权衡，难以突破 50 皮秒的时间分辨率瓶颈，无法满足下一代高能物理和医学影像的需求。",
+      "en": "Conventional scintillators are constrained by the trade-off between emission rate and light yield, failing to break the 50-picosecond timing limit required for next-generation high-energy physics and medical imaging."
+    },
+    "approach": {
+      "zh": "在弱约束的 CsPbCl3 纳米晶中，通过 80 K 的低温环境抑制激子-声子散射，从而释放巨振子强度（GOS）驱动的相干辐射加速效应。",
+      "en": "In weakly confined CsPbCl3 nanocrystals, exciton-phonon scattering is suppressed at 80 K to unlock the coherent radiative acceleration driven by giant oscillator strength (GOS)."
+    },
+    "main_takeaway": {
+      "zh": "该闪烁体实现了 13.11 ps 的主导寿命和 21,851 photons/MeV 的高光产额，其瞬发光子亮度比现有最先进技术高出 100 倍以上。",
+      "en": "The scintillator achieves a dominant lifetime of 13.11 ps and a high light yield of 21,851 photons/MeV, with a prompt photon brilliance over 100 times higher than state-of-the-art technologies."
+    },
+    "why_it_matters": {
+      "zh": "它将超快辐射探测的瓶颈从材料物理极限转移到了电子读出系统的带宽上限，为皮秒级极端辐射诊断奠定了基础。",
+      "en": "It shifts the fundamental bottleneck in ultrafast radiation detection from material physical limits to the bandwidth ceiling of readout electronics, paving the way for picosecond-frontier radiation diagnostics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功打破了闪烁体领域长期存在的速度与亮度权衡，并在实际加速器和伽马射线脉冲诊断中验证了卓越性能。",
+        "en": "Successfully broke the long-standing speed-brightness trade-off in scintillators and validated superior performance in real accelerator and gamma-ray pulse diagnostics."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文展示了创纪录的性能指标，具有深厚的物理机制解释，并包含高水平的实际应用验证。",
+        "en": "The paper demonstrates record-breaking performance, provides deep physical insights, and includes high-level practical application validations."
+      }
+    },
+    "keywords": [
+      "超快闪烁体",
+      "钙钛矿纳米晶",
+      "巨振子强度",
+      "皮秒探测",
+      "辐射硬度"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-30T10:10:16",
+    "input_scope": "full_pdf_text"
+  }
+}

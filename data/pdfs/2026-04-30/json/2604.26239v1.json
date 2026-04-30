@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2604.26239v1",
+    "title": "Coexistence of d-Wave Altermagnetism and Topological States in Janus FeSeX (X = S, Te) Monolayers",
+    "authors": [
+      "Alvaro Gonzalez-Garcia",
+      "William Lopez-Perez",
+      "Paola Pacheco",
+      "Luz Ramirez-Montes",
+      "Rafael Gonzalez-Hernandez"
+    ],
+    "abstract": "The interplay between unconventional magnetism and band topology in two-dimensional materials has emerged as an important theme in condensed matter physics. Here, we present first-principles calculations that reveal the coexistence of d-wave altermagnetism and topological behavior in Janus FeSeX (X = S, Te) monolayers. The chemical asymmetry of the Janus structure breaks both out-of-plane mirror and inversion symmetries, leading to anisotropic exchange interactions and momentum-dependent spin splittings even in the absence of spin-orbit coupling, the defining signature of altermagnetism. Phonon dispersion analyses confirm the dynamical stability of both compounds, while strain-dependent calculations demonstrate that the magnitude of the altermagnetic exchange splitting ($Δ_s$) can be efficiently tuned by biaxial strain. When spin-orbit coupling is included, a finite topological band gap emerges at the Fermi level, accompanied by quantized spin Hall conductivity plateaus and nontrivial topological invariants (spin Chern number = 1, Z2=1). These findings establish FeSeS and FeSeTe as promising two-dimensional platforms for realizing topological altermagnetism and spin--orbit--driven charge--spin conversion, thus opening new avenues for low-dissipation spintronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-29T02:41:02Z",
+    "updated": "2026-04-29T02:41:02Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26239v1",
+      "pdf_path": "data/pdfs/2026-04-30/3_Coexistence of d-Wave Altermagnetism and Topological States in Janus FeSeX (X = S, Te) Monolayers__2604.26239v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.019816",
+    "updated_at": "2026-04-30T01:57:33.019806Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/3_Coexistence of d-Wave Altermagnetism and Topological States in Janus FeSeX (X = S, Te) Monolayers__2604.26239v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26239v1",
+    "pdf_filename": "3_Coexistence of d-Wave Altermagnetism and Topological States in Janus FeSeX (X = S, Te) Monolayers__2604.26239v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现 Janus FeSeX (X=S, Te) 单层中存在 d 波交错磁性与拓扑量子自旋霍尔态的共存。",
+      "en": "The study reveals the coexistence of d-wave altermagnetism and topological quantum spin Hall states in Janus FeSeX (X=S, Te) monolayers."
+    },
+    "problem": {
+      "zh": "在二维材料中寻找能够同时具备无净磁化、高自旋极化以及拓扑保护边缘态的“拓扑交错磁体”候选材料。",
+      "en": "Searching for 2D 'topological altermagnet' candidates that simultaneously possess zero net magnetization, high spin polarization, and topologically protected edge states."
+    },
+    "approach": {
+      "zh": "采用第一性原理计算研究 Janus 结构的动力学稳定性，分析对称性破缺诱导的自旋分裂，并计算自旋霍尔电导率与拓扑不变量。",
+      "en": "Using first-principles calculations to investigate the dynamical stability of Janus structures, analyze symmetry-breaking induced spin splitting, and compute spin Hall conductivity and topological invariants."
+    },
+    "main_takeaway": {
+      "zh": "Janus FeSeX 单层通过化学非对称性打破反演对称性，实现了应变可调的 d 波交错磁性自旋分裂，并在自旋轨道耦合作用下展现出量子自旋霍尔效应。",
+      "en": "Janus FeSeX monolayers achieve strain-tunable d-wave altermagnetic spin splitting via chemical asymmetry and exhibit the quantum spin Hall effect under spin-orbit coupling."
+    },
+    "why_it_matters": {
+      "zh": "该发现为低功耗自旋电子学器件提供了一个理想的二维平台，结合了反铁磁体的高动力学特性与拓扑绝缘体的无耗散传输优势。",
+      "en": "This discovery provides an ideal 2D platform for low-power spintronic devices, combining the high-speed dynamics of antiferromagnets with the dissipationless transport of topological insulators."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在具体的 Janus 铁基硫属化合物中预测了交错磁性与拓扑态的共存，并展示了应变对自旋极化的有效调控。",
+        "en": "First prediction of the coexistence of altermagnetism and topological states in specific Janus iron chalcogenides, demonstrating effective strain control of spin polarization."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及深入的对称性分析、电子结构计算及拓扑物性表征，非常符合 PRB 的风格。",
+        "en": "The study involves in-depth symmetry analysis, electronic structure calculations, and topological characterization, aligning well with PRB's scope."
+      }
+    },
+    "keywords": [
+      "交错磁性",
+      "Janus 单层",
+      "拓扑绝缘体",
+      "量子自旋霍尔效应",
+      "铁基硫属化合物"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-30T09:58:29",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "paper_record": {
+    "id": "2604.26665v1",
+    "title": "Third-order intrinsic anomalous Hall effect as a transport fingerprint of altermagnets",
+    "authors": [
+      "Longjun Xiang",
+      "Hao Jin",
+      "Jian Wang"
+    ],
+    "abstract": "The intrinsic anomalous Hall effect (IAHE) provides a powerful transport fingerprint of quantum magnets, with its linear and second-order responses distinguishing ferromagnets and $\\mathcal{P}\\mathcal{T}$-symmetric antiferromagnets, respectively. Altermagnets, as an emergent class of quantum magnets, have recently been shown to host a third-order extrinsic anomalous Hall effect, raising a question of whether an \\textit{intrinsic} counterpart can serve as a diagnostic of altermagnetic order. Based on spin-group symmetry analysis, we demonstrate that the third-order IAHE is generically allowed in the ten spin Laue groups relevant to altermagnets when spin-orbit coupling (SOC) is taken into account. By combining these symmetry constraints with the anomalous velocity induced by the second-order Berry curvature, we uncover a resonant third-order IAHE arising near the altermagnetic band crossings at generic momenta in both the Lieb-lattice altermagnet and the experimentally realized altermagnet V$_2$Se$_2$O. Notably, we identify the Berry curvature quadrupole, encoded in the second-order Berry curvature and activated by finite SOC, as the microscopic quantum geometric origin of this resonance. Our results establish the third-order IAHE as an intrinsic quantum geometric transport fingerprint of altermagnets and extend the hierarchy of IAHE across collinear quantum magnets.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-29T13:29:17Z",
+    "updated": "2026-04-29T13:29:17Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26665v1",
+      "pdf_path": "data/pdfs/2026-04-30/6_Third-order intrinsic anomalous Hall effect as a transport fingerprint of altermagnets__2604.26665v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.018539",
+    "updated_at": "2026-04-30T01:57:33.018532Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/6_Third-order intrinsic anomalous Hall effect as a transport fingerprint of altermagnets__2604.26665v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26665v1",
+    "pdf_filename": "6_Third-order intrinsic anomalous Hall effect as a transport fingerprint of altermagnets__2604.26665v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "",
+      "en": ""
+    },
+    "problem": {
+      "zh": "",
+      "en": ""
+    },
+    "approach": {
+      "zh": "",
+      "en": ""
+    },
+    "main_takeaway": {
+      "zh": "",
+      "en": ""
+    },
+    "why_it_matters": {
+      "zh": "",
+      "en": ""
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "",
+        "en": ""
+      },
+      "reason": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    "paper_type": {
+      "zh": "",
+      "en": ""
+    },
+    "likely_venue": {
+      "journal": "",
+      "confidence": "low",
+      "reason": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    "keywords": []
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": null,
+    "summarized_at": null,
+    "input_scope": null
+  }
+}

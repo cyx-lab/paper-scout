@@ -1,0 +1,124 @@
+{
+  "paper_record": {
+    "id": "2604.26643v1",
+    "title": "Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphene/hBN moiré superlattices",
+    "authors": [
+      "Chuanqi Zheng",
+      "Chushan Li",
+      "Ke Huang",
+      "Chenyu Zhang",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Hao Yang",
+      "Dandan Guan",
+      "Liang Liu",
+      "Shiyong Wang",
+      "Yaoyi Li",
+      "Hao Zheng",
+      "Canhua Liu",
+      "Jinfeng Jia",
+      "Xueyang Song",
+      "Zhiwen Shi",
+      "Guorui Chen",
+      "Xiao Li",
+      "Tingxin Li",
+      "Xiaoxue Liu"
+    ],
+    "abstract": "Moiré superlattices based on rhombohedral multilayer graphene have emerged as a highly tunable platform for engineering correlated topological phases. Here, we systematically investigate the transport properties of the hole-doped side in rhombohedral tetralayer graphene/ hexagonal boron nitride (hBN) moiré superlattices across a range of twist angles and alignment orientations. Notably, we observed multiple high-Chern-number Chern insulators, including the previously reported integer Chern insulator with Chern number C = -4 at moiré filling factor v = -1 and newly discovered symmetry-broken Chern insulating states with C = +3, $\\pm$2, $\\pm$1 at fractional moiré fillings of v = -2.5 or -2.6. These Chern insulating states emerge in both hBN alignment, but exhibit a sensitive moiré wavelength dependence. Our findings demonstrate the exceptional tunability of these high-Chern-number states via moiré wavelength, displacement electric field and external magnetic field, underscoring the distinct topological landscape realized in hole-doped RTG/hBN moiré superlattices.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-04-29T13:09:59Z",
+    "updated": "2026-04-29T13:09:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26643v1",
+      "pdf_path": "data/pdfs/2026-04-30/3_Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphenehBN moiré superlattices__2604.26643v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.018635",
+    "updated_at": "2026-04-30T01:57:33.018627Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/3_Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphenehBN moiré superlattices__2604.26643v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26643v1",
+    "pdf_filename": "3_Tunable high-Chern-number Chern insulators in rhombohedral tetralayer graphenehBN moiré superlattices__2604.26643v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了菱方堆叠四层石墨烯/氮化硼莫尔超晶格中空穴掺杂侧的高陈数陈绝缘体态。",
+      "en": "Investigates high-Chern-number Chern insulators on the hole-doped side of rhombohedral tetralayer graphene/hBN moiré superlattices."
+    },
+    "problem": {
+      "zh": "探索菱方多层石墨烯莫尔系统中空穴掺杂侧的相关拓扑物态，特别是高陈数陈绝缘体的存在及其调控机制。",
+      "en": "Exploring correlated topological phases on the hole-doped side of rhombohedral multilayer graphene moiré systems, specifically the existence and tunability of high-Chern-number states."
+    },
+    "approach": {
+      "zh": "通过低温输运测量，研究了具有不同莫尔波长、扭角和对齐方向的四层菱方石墨烯/氮化硼器件，并结合哈特里-福克计算进行理论分析。",
+      "en": "Utilized low-temperature transport measurements on RTG/hBN devices with varying moiré wavelengths, twist angles, and alignments, complemented by Hartree-Fock theoretical calculations."
+    },
+    "main_takeaway": {
+      "zh": "在空穴掺杂侧观测到填充数 -1 处的 C = -4 整数陈绝缘体，以及在分数填充（-2.5 或 -2.6）处具有 C = +3, +/-2, +/-1 的多种对称性破缺陈绝缘体。",
+      "en": "Observed a C = -4 integer Chern insulator at filling -1 and multiple symmetry-broken Chern insulators with C = +3, +/-2, and +/-1 at fractional fillings around -2.5 and -2.6."
+    },
+    "why_it_matters": {
+      "zh": "该研究展示了高陈数莫尔平带中极其丰富的拓扑物态，证明了莫尔波长和位移电场对这些态的强力调控，为开发多通道无耗散拓扑器件提供了平台。",
+      "en": "The study reveals a rich landscape of topological states in high-Chern-number moiré flat bands and demonstrates strong tunability via moiré wavelength and electric fields, providing a platform for multi-channel dissipationless devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "系统性地发现了多种前所未见的高陈数对称性破缺陈绝缘体，并揭示了其对莫尔波长的敏感依赖性。",
+        "en": "Systematically discovered multiple unprecedented high-Chern-number symmetry-broken Chern insulators and revealed their sensitive dependence on moiré wavelength."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究报道了新型拓扑量子物态，实验数据详实且具有高度的物理原创性，符合顶级期刊要求。",
+        "en": "The study reports novel topological quantum states with comprehensive experimental data and high physical originality, fitting the criteria for top-tier journals."
+      }
+    },
+    "keywords": [
+      "Rhombohedral tetralayer graphene",
+      "Moiré superlattices",
+      "High-Chern-number",
+      "Chern insulators",
+      "Symmetry-broken states"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-30T10:09:27",
+    "input_scope": "full_pdf_text"
+  }
+}

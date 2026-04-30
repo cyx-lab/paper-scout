@@ -1,0 +1,126 @@
+{
+  "paper_record": {
+    "id": "2604.26636v1",
+    "title": "Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD",
+    "authors": [
+      "C. Lim",
+      "F. Ballester",
+      "A. Kar",
+      "M. Alkorta",
+      "D. Subires",
+      "J. Dai",
+      "M. Tallarida",
+      "E. Vescovo",
+      "T. K. Kim",
+      "C. Cacho",
+      "C. Yi",
+      "S. Roychowdhury",
+      "A. Kumar Sharma",
+      "Y. Choi",
+      "G. Fabbris",
+      "J. Strempfer",
+      "P. Gargiani",
+      "C. Shekhar",
+      "C. Felser",
+      "I. Errea",
+      "M. G. Vergniory",
+      "S. Blanco-Canosa"
+    ],
+    "abstract": "Kagome materials are known for hosting emergent quantum phenomena driven by the interaction between different lattice, charge and spin orders. Here, we present a detailed angle resolved photoemission (ARPES), density functional theory (DFT) and x-ray magnetic circular dichroism (XMCD) study of the electronic and magnetic structure of $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd). ARPES and DFT demonstrate that the bulk electronic band structure is dominated by the hybridization of the Ti bands, and the weak electron-like pocket at $Γ$ is identified as a surface state. The isotropic XAS profile of the $M_{4,5}$-edge of the rare earth is consistent with the presence of $R^{3+}$ oxidation state. Using the XMCD sum rules, backed by the atomic multiplet theory calculations, we obtain the spin and orbital magnetic moments. The Ti $L_{2,3}$-edge XMCD reveals the presence of a small magnetic moment in GdTi$_3$Bi$_4$, presumably driven by the proximity of the {Ti} kagome layers to the $zigzag$ chains of Gd, while the total magnetic moment of Gd is shared by the $f$ and $d$ electrons. Our combined XMCD, ARPES and DFT study brings an important piece of information to understand the spin flip transitions and anomalous Hall effect observed in the $R$Ti$_3$Bi$_4$ kagome metals.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-29T13:03:35Z",
+    "updated": "2026-04-29T13:03:35Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26636v1",
+      "pdf_path": "data/pdfs/2026-04-30/3_Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD__2604.26636v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.018698",
+    "updated_at": "2026-04-30T01:57:33.018688Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/3_Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD__2604.26636v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26636v1",
+    "pdf_filename": "3_Revealing magnetism in the distorted kagome $R$Ti$_3$Bi$_4$ ($R$ = Nd, Sm, Gd) via ARPES and XMCD__2604.26636v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过ARPES和XMCD揭示了畸变钛基kagome金属RTi3Bi4的电子结构与磁性起源。",
+      "en": "Reveals the electronic structure and magnetic origin of distorted Ti-based kagome metals RTi3Bi4 using ARPES and XMCD."
+    },
+    "problem": {
+      "zh": "厘清RTi3Bi4系列中稀土元素与Ti-kagome晶格之间的磁性相互作用及其对电子结构的影响。",
+      "en": "Clarifying the magnetic interaction between rare-earth elements and the Ti-kagome lattice and its impact on the electronic structure in RTi3Bi4."
+    },
+    "approach": {
+      "zh": "结合角分辨光电子能谱、X射线磁圆二色性实验与密度泛函理论计算，对比研究Nd、Sm、Gd三种体系。",
+      "en": "Combining ARPES, XMCD experiments, and DFT calculations to comparatively study Nd, Sm, and Gd-based systems."
+    },
+    "main_takeaway": {
+      "zh": "发现GdTi3Bi4中的Ti位点存在由稀土元素感应产生的微小磁矩，证实了非磁性kagome平面会被邻近的稀土磁性链极化。",
+      "en": "Discovered a small induced magnetic moment on Ti sites in GdTi3Bi4, confirming that the non-magnetic kagome plane is polarized by the proximity of rare-earth magnetic chains."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解此类材料中观察到的反常霍尔效应、自旋翻转转变以及潜在的电荷密度波不稳定性提供了关键的微观证据。",
+      "en": "Provides key microscopic evidence for understanding the anomalous Hall effect, spin-flip transitions, and potential charge density wave instabilities in these materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了Ti晶格的磁极化机制，并区分了体态与表面态对能带结构的贡献。",
+        "en": "Clarified the magnetic polarization mechanism of the Ti lattice and distinguished bulk vs. surface state contributions to the band structure."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究包含详尽的能谱分析与磁性表征，符合该期刊对凝聚态物理深入机制研究的要求。",
+        "en": "The study contains detailed spectroscopic analysis and magnetic characterization, fitting the journal's requirements for in-depth condensed matter physics research."
+      }
+    },
+    "keywords": [
+      "Kagome lattice",
+      "RTi3Bi4",
+      "XMCD",
+      "ARPES",
+      "Anomalous Hall Effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-04-30T10:08:10",
+    "input_scope": "full_pdf_text"
+  }
+}

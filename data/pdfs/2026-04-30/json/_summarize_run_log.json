@@ -1,0 +1,188 @@
+{
+  "run_date": "2026-04-30",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2604.26239v1.json": 1,
+    "2604.26257v1.json": 4,
+    "2604.26358v1.json": 3,
+    "2604.26610v1.json": 1,
+    "2604.26636v1.json": 2,
+    "2604.26643v1.json": 3,
+    "2604.26665v1.json": 4,
+    "2604.26739v1.json": 1,
+    "2604.26751v1.json": 3
+  },
+  "results": [
+    {
+      "file": "2604.26239v1.json",
+      "status": "ok",
+      "secs": 35.62,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26257v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300158323442825888268d9d6rFocXLUu)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 2.99,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26358v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 *** 分组  (request id: 2026043009583642312014491969952)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 4.08,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26610v1.json",
+      "status": "ok",
+      "secs": 15.23,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26636v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300200349691476978268d9d6vjXKSFEs)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 103.24,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26643v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300205182516270078268d9d6J0U9Ism4)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 283.34,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26665v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 *** 分组  (request id: 2026043010054433792149201264235)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 26.11,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26739v1.json",
+      "status": "ok",
+      "secs": 25.12,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26751v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300206201881275618268d9d6Uy5tLVUT)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 10.65,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2604.26257v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 *** 分组  (request id: 2026043010062329312461049541925)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 3.22,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2604.26358v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 *** 分组  (request id: 2026043010062733096873660586704)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 4.0,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2604.26636v1.json",
+      "status": "ok",
+      "secs": 102.6,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2604.26643v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300208125590008998268d9d6GhfKVvAQ)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 2.55,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2604.26665v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300208412973002148268d9d6yPuFSLPu)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 28.74,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2604.26751v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300208521928685018268d9d6z3mNACO1)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 10.88,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2604.26257v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 *** 分组  (request id: 2026043010085523830597679055963)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 3.13,
+      "round": 3,
+      "attempt": 3
+    },
+    {
+      "file": "2604.26358v1.json",
+      "status": "ok",
+      "secs": 17.42,
+      "round": 3,
+      "attempt": 3
+    },
+    {
+      "file": "2604.26643v1.json",
+      "status": "ok",
+      "secs": 15.15,
+      "round": 3,
+      "attempt": 3
+    },
+    {
+      "file": "2604.26665v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202604300209544683209958268d9d607qHXanG)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 26.62,
+      "round": 3,
+      "attempt": 3
+    },
+    {
+      "file": "2604.26751v1.json",
+      "status": "ok",
+      "secs": 21.55,
+      "round": 3,
+      "attempt": 3
+    },
+    {
+      "file": "2604.26257v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 *** 分组  (request id: 2026043010102994485624621593336)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 14.33,
+      "round": 4,
+      "attempt": 4
+    },
+    {
+      "file": "2604.26665v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 *** 分组  (request id: 202604301010566550725270044275)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 25.96,
+      "round": 4,
+      "attempt": 4
+    }
+  ]
+}

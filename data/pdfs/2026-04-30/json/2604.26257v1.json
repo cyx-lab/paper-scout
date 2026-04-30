@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2604.26257v1",
+    "title": "Influence of strain on the anomalous Hall and Nernst effects in Fe thin films",
+    "authors": [
+      "Ao Nakagawa",
+      "Ryo Toyama",
+      "Keisuke Masuda",
+      "Weinan Zhou",
+      "Hirofumi Suto",
+      "Kodchakorn Simalaotao",
+      "Yoshio Miura",
+      "Yuya Sakuraba",
+      "Tetsunori Koda"
+    ],
+    "abstract": "The anomalous Hall effect (AHE) and anomalous Nernst effect (ANE) are the transverse transport phenomena in magnetic materials, which reflect the Berry curvature arising from the electronic structure near the Fermi level. Lattice strain provides a direct means to tune these effects by modifying the electronic structure; however, disentangling the strain-induced effect through the Berry curvature modulations in multicomponent materials is challenging due to complexities arising from extrinsic contributions by impurities and disorder, as well as difficulties in simple direct comparison with first-principles calculations. In this study, we focus on Fe, a prototypical single element ferromagnet with a well-established electronic structure, and tune the sign and magnitude of the strain in epitaxial thin films of by varying the substrates and deposition conditions to investigate the strain effect on the AHE and ANE. Scaling law analysis revealed that the intrinsic anomalous Hall conductivity (AHC) exhibits a clear tetragonal distortion (c/a) dependence, in good agreement with theoretical calculations based on Berry curvature modification. In contrast, the anomalous Nernst conductivity (ANC) shows a pronounced deviation from the theoretical values and markedly different c/a dependence. These results demonstrate a crucial difference in the physical origin between the AHC and the ANC in the Fe films; the AHC is predominantly governed by intrinsic mechanisms, whereas the ANC is strongly influenced by the extrinsic contribution.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-04-29T03:35:49Z",
+    "updated": "2026-04-29T03:35:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2604.26257v1",
+      "pdf_path": "data/pdfs/2026-04-30/3_Influence of strain on the anomalous Hall and Nernst effects in Fe thin films__2604.26257v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-04-30T01:57:33.019772",
+    "updated_at": "2026-04-30T01:57:33.019765Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-04-30/3_Influence of strain on the anomalous Hall and Nernst effects in Fe thin films__2604.26257v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2604.26257v1",
+    "pdf_filename": "3_Influence of strain on the anomalous Hall and Nernst effects in Fe thin films__2604.26257v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "",
+      "en": ""
+    },
+    "problem": {
+      "zh": "",
+      "en": ""
+    },
+    "approach": {
+      "zh": "",
+      "en": ""
+    },
+    "main_takeaway": {
+      "zh": "",
+      "en": ""
+    },
+    "why_it_matters": {
+      "zh": "",
+      "en": ""
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "",
+        "en": ""
+      },
+      "reason": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    "paper_type": {
+      "zh": "",
+      "en": ""
+    },
+    "likely_venue": {
+      "journal": "",
+      "confidence": "low",
+      "reason": {
+        "zh": "",
+        "en": ""
+      }
+    },
+    "keywords": []
+  },
+  "provenance": {
+    "run_date": "2026-04-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": null,
+    "summarized_at": null,
+    "input_scope": null
+  }
+}
