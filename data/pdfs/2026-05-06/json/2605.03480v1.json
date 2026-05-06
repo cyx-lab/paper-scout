@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2605.03480v1",
+    "title": "Influence of twist angle on ultrafast charge separation in WS2-graphene heterostructures",
+    "authors": [
+      "Niklas Hofmann",
+      "Leonard Weigl",
+      "Johannes Gradl",
+      "Stiven Forti",
+      "Domenica Convertino",
+      "Camilla Coletti",
+      "Isabella Gierz"
+    ],
+    "abstract": "Van der Waals (vdW) heterostructures, formed by stacking two-dimensional materials, offer highly tunable electronic and optical properties, with the twist angle between layers acting as a critical tuning parameter. While its impact on moiré patterns, band structure, and correlated states is well-established, the influence of twist angle on ultrafast charge transfer remains controversial. Here, we employ time- and angle-resolved photoemission spectroscopy (trARPES) to directly probe ultrafast charge transfer in epitaxially grown WS\\textsubscript{2}-graphene heterostructures with twist angles of 0$^{\\circ}$ and 30$^{\\circ}$. Upon photoexcitation at $\\hbarω= 3.1\\,\\mathrm{eV}$, we observe efficient charge separation at 0$^{\\circ}$, while at 30$^{\\circ}$, electron and hole transfer occur at similar rates. Our results highlight the crucial role of the twist angle in controlling charge separation efficiency, offering valuable insights for designing vdW heterostructures for applications in photovoltaics and optoelectronics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-05-05T08:13:58Z",
+    "updated": "2026-05-05T08:13:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2605.03480v1",
+      "pdf_path": "data/pdfs/2026-05-06/3_Influence of twist angle on ultrafast charge separation in WS2-graphene heterostructures__2605.03480v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-05-06T01:51:52.996096",
+    "updated_at": "2026-05-06T01:51:52.996089Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-05-06/3_Influence of twist angle on ultrafast charge separation in WS2-graphene heterostructures__2605.03480v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.03480v1",
+    "pdf_filename": "3_Influence of twist angle on ultrafast charge separation in WS2-graphene heterostructures__2605.03480v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了扭转角对WS2-石墨烯异质结中超快电荷分离效率的决定性影响。",
+      "en": "The study reveals the decisive impact of twist angle on the efficiency of ultrafast charge separation in WS2-graphene heterostructures."
+    },
+    "problem": {
+      "zh": "扭转角如何影响范德华异质结界面间的超快电荷转移过程仍存在争议，缺乏直接的微观实验证据。",
+      "en": "How the twist angle influences ultrafast charge transfer across van der Waals interfaces remains controversial and lacks direct microscopic experimental evidence."
+    },
+    "approach": {
+      "zh": "利用时间分辨角分辨光电子能谱（trARPES）直接探测具有0°和30°扭转角的WS2-石墨烯异质结在光激发后的能带演化与载流子动力学。",
+      "en": "Using time- and angle-resolved photoemission spectroscopy (trARPES) to directly probe band evolution and carrier dynamics in WS2-graphene heterostructures with 0° and 30° twist angles after photoexcitation."
+    },
+    "main_takeaway": {
+      "zh": "在0°扭转角下，空穴转移显著快于电子转移，产生高效电荷分离；而在30°下，电子与空穴转移速率相当，不发生电荷分离。",
+      "en": "At a 0° twist angle, hole transfer is significantly faster than electron transfer, leading to efficient charge separation; at 30°, electron and hole transfer occur at comparable rates, resulting in no charge separation."
+    },
+    "why_it_matters": {
+      "zh": "该发现证明了扭转角是调控界面电荷动力学的关键参数，为优化二维材料光伏和光电器件性能提供了设计准则。",
+      "en": "The findings demonstrate that the twist angle is a key parameter for tuning interfacial charge dynamics, providing design rules for optimizing 2D material-based photovoltaic and optoelectronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "通过直接观测能带移动提供了扭转角调控电荷分离的明确证据，澄清了该领域长期存在的争议。",
+        "en": "Provides clear evidence of twist-angle-controlled charge separation through direct observation of band shifts, clarifying long-standing controversies in the field."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及凝聚态物理中热门的扭转电子学，且使用了高规格的trARPES实验手段。",
+        "en": "The study addresses the hot topic of twistronics in condensed matter physics using high-end trARPES experimental techniques."
+      }
+    },
+    "keywords": [
+      "WS2",
+      "Graphene",
+      "Twist angle",
+      "Charge separation",
+      "trARPES",
+      "vdW heterostructures"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-05-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-05-06T09:52:44",
+    "input_scope": "full_pdf_text"
+  }
+}

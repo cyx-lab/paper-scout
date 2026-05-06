@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2605.03901v1",
+    "title": "Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories",
+    "authors": [
+      "Ali Rayat",
+      "Gia-Wei Chern"
+    ],
+    "abstract": "Local gauge structures play a central role in a wide range of condensed matter systems and synthetic quantum platforms, where they emerge as effective descriptions of strongly correlated phases and engineered dynamics. We introduce a gauge-invariant graph neural network (GNN) architecture for Abelian lattice gauge models, in which symmetry is enforced explicitly through local gauge-invariant inputs, such as Wilson loops, and preserved throughout message passing, eliminating redundant gauge degrees of freedom while retaining expressive power. We benchmark the approach on both $\\mathbb{Z}_2$ and $\\mathrm{U}(1)$ lattice gauge models, achieving accurate predictions of global observables and spatially resolved quantities despite the nonlocal correlations induced by gauge-matter coupling. We further demonstrate that the learned model serves as an efficient surrogate for semiclassical dynamics in $\\mathrm{U}(1)$ quantum link models, enabling stable and scalable time evolution without repeated fermionic diagonalization, while faithfully reproducing both local dynamics and statistical correlations. These results establish gauge-invariant message passing as a compact and physically grounded framework for learning and simulating Abelian lattice gauge systems.",
+    "categories": [
+      "cond-mat.str-el",
+      "cs.LG",
+      "hep-lat",
+      "quant-ph"
+    ],
+    "published": "2026-05-05T15:55:21Z",
+    "updated": "2026-05-05T15:55:21Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:wilson loop"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2605.03901v1",
+      "pdf_path": "data/pdfs/2026-05-06/3_Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories__2605.03901v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-05-06T01:51:52.994893",
+    "updated_at": "2026-05-06T01:51:52.994885Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-05-06/3_Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories__2605.03901v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.03901v1",
+    "pdf_filename": "3_Graph Neural Networks in the Wilson Loop Representation of Abelian Lattice Gauge Theories__2605.03901v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出一种基于 Wilson 圈表示的图神经网络架构，用于高效模拟阿贝尔格点规范理论及其动力学。",
+      "en": "Introduces a gauge-invariant GNN architecture based on Wilson loop representations for efficient simulation of Abelian lattice gauge theories and their dynamics."
+    },
+    "problem": {
+      "zh": "解决格点规范理论中局部规范对称性导致的描述冗余，以及规范-物质耦合带来的非定域关联计算难题。",
+      "en": "Addressing the redundancy caused by local gauge symmetry and the challenge of capturing nonlocal correlations induced by gauge-matter coupling."
+    },
+    "approach": {
+      "zh": "将局部 Wilson 圈作为图神经网络的输入特征，通过消息传递机制在保持规范不变性的同时捕捉格点空间对称性。",
+      "en": "Using local Wilson loops as input features for a GNN to enforce gauge invariance explicitly while capturing spatial symmetries through message passing."
+    },
+    "main_takeaway": {
+      "zh": "直接在规范不变量空间（Wilson 圈）构建模型，比传统的等变架构更简洁高效，且能作为半经典动力学的可靠代理模型。",
+      "en": "Operating directly in the gauge-invariant space (Wilson loops) is more efficient than equivariant architectures and serves as a robust surrogate for semiclassical dynamics."
+    },
+    "why_it_matters": {
+      "zh": "该方法能显著加速量子链路模型和强关联系统的数值模拟，避免了动力学演化中昂贵的费米子对角化计算。",
+      "en": "This framework significantly accelerates numerical simulations of quantum link models and strongly correlated systems by bypassing expensive fermionic diagonalizations during dynamics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "为阿贝尔规范理论提供了一个紧凑且物理动机明确的学习框架，成功应用于复杂的动力学模拟。",
+        "en": "Provides a compact and physically grounded learning framework for Abelian gauge theories, successfully applied to complex dynamical simulations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文结合了凝聚态物理中的规范场论与先进的机器学习方法，符合该刊的兴趣方向。",
+        "en": "The paper combines gauge field theory in condensed matter with advanced ML methods, aligning well with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Lattice Gauge Theory",
+      "Graph Neural Networks",
+      "Wilson Loops",
+      "Quantum Link Models",
+      "Gauge-Matter Coupling"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-05-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-05-06T09:53:57",
+    "input_scope": "full_pdf_text"
+  }
+}

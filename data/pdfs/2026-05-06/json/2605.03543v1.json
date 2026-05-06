@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2605.03543v1",
+    "title": "Pseudovorticity of 2+1D optical solitons",
+    "authors": [
+      "Ludovica Falsi",
+      "Giuseppe Agostino",
+      "Alberto Villois",
+      "Francesco Coppini",
+      "Paolo M. Santini",
+      "Miguel Onorato",
+      "Aharon J. Agranat",
+      "Stefano Trillo",
+      "Eugenio DelRe"
+    ],
+    "abstract": "In the hydrodynamic representation of a quantum fluid or optical field, vorticity vanishes wherever the phase is well defined, and is instead localized at phase singularities, or quantum vortices. Pseudovorticity, by contrast, characterizes local rotational structures, even in regions without singularities or net orbital angular momentum. We study both experimentally and numerically pseudovorticity in photorefractive solitons and show that a detailed phase and amplitude analysis unveils a complex rotational flow dynamic: bright 2+1D solitons are found to carry a pseudovorticity dipole, while quadrupoles emerge in soliton fusion. The phenomenon, also explained using geometrical considerations, suggests a general picture according to which stable high-dimensional solitons naturally carry a hierarchy of pseudovorticity multipoles, encoded in the local perturbed phase and amplitude.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-05-05T09:15:03Z",
+    "updated": "2026-05-05T09:15:03Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2605.03543v1",
+      "pdf_path": "data/pdfs/2026-05-06/2_Pseudovorticity of 2+1D optical solitons__2605.03543v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-05-06T01:51:52.995849",
+    "updated_at": "2026-05-06T01:51:52.995842Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-05-06/2_Pseudovorticity of 2+1D optical solitons__2605.03543v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.03543v1",
+    "pdf_filename": "2_Pseudovorticity of 2+1D optical solitons__2605.03543v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了2+1D光孤子及其融合过程中存在由相位-振幅耦合产生的伪涡旋偶极子与四极子结构。",
+      "en": "The study reveals that 2+1D optical solitons and their fusion processes naturally carry pseudovorticity dipole and quadrupole structures arising from phase-amplitude coupling."
+    },
+    "problem": {
+      "zh": "探讨在无相位奇异点或净轨道角动量的情况下，非线性光孤子内部是否存在局域旋转结构（伪涡旋）。",
+      "en": "Investigating whether local rotational structures (pseudovorticity) exist within nonlinear optical solitons in the absence of phase singularities or net orbital angular momentum."
+    },
+    "approach": {
+      "zh": "结合光折变晶体实验、离轴干涉相位检索技术以及基于饱和非线性薛定谔方程的数值模拟。",
+      "en": "Combining experiments in photorefractive crystals, off-axis interferometric phase retrieval, and numerical simulations based on the saturable nonlinear Schrödinger equation."
+    },
+    "main_takeaway": {
+      "zh": "稳定孤子携带伪涡旋偶极子，而孤子融合或偏离稳定态时会产生四极子，这反映了非线性波中内在的相位-振幅失配。",
+      "en": "Stable solitons carry pseudovorticity dipoles, while quadrupoles emerge during soliton fusion or deviations from stability, reflecting intrinsic phase-amplitude mismatch in nonlinear waves."
+    },
+    "why_it_matters": {
+      "zh": "为无奇异点光场的微粒操控提供了新机制，并为理解非线性波的演化（如融合与分裂）提供了统一框架。",
+      "en": "It provides a new mechanism for particle manipulation using singularity-free light fields and offers a unified framework for understanding nonlinear wave evolution like fusion and fission."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "首次在实验上观测并解释了光孤子内部的伪涡旋多极子分布，揭示了隐藏的动力学结构。",
+        "en": "First experimental observation and explanation of pseudovorticity multipole distributions within optical solitons, revealing hidden dynamical structures."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论+数值",
+      "en": "Experimental + Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了新颖的物理概念与高水平的非线性光学实验验证，符合该刊对物理深度和广度的要求。",
+        "en": "The study combines a novel physical concept with high-level experimental validation in nonlinear optics, meeting the journal's standards for physical depth and breadth."
+      }
+    },
+    "keywords": [
+      "Pseudovorticity",
+      "Optical Solitons",
+      "Photorefractive Effect",
+      "Phase-Amplitude Coupling",
+      "Soliton Fusion"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-05-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-05-06T09:53:05",
+    "input_scope": "full_pdf_text"
+  }
+}

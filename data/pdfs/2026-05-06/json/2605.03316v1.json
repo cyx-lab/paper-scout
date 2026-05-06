@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2605.03316v1",
+    "title": "Quantitative cavity-enhanced photothermal dynamics in TMDC-integrated ultrahigh-Q microcavities",
+    "authors": [
+      "Hidetoshi Kanzawa",
+      "Ryo Sugano",
+      "Hajime Kumazaki",
+      "Yuta Takahashi",
+      "Shinichi Watanabe",
+      "Shun Fujii"
+    ],
+    "abstract": "We investigate photothermal effects in monolayer transition metal dichalcogenides (TMDCs) integrated with an ultrahigh-Q silica microcavity. Launching a continuous-wave laser into a cavity resonance enables controlled intracavity heating, allowing direct observation of excitonic photoluminescence (PL) modulation. A distinct redshift of the PL peak energy is observed as the pump wavelength is tuned across resonance. This behavior is quantitatively reproduced by a temperature-dependent bandgap model that combines the Varshni relation with the thermo-optic response of the microcavity, from which the local temperature rise can be estimated. We further find that PL collected through a fiber waveguide exhibits spectral and temporal characteristics markedly different from free-space emission, indicating selective coupling of the microcavity to specific excitonic channels. These results provide a quantitative framework for understanding photothermal effects in TMDC-microcavity hybrid systems and offer a versatile approach for all-optical control and probing of thermal states in integrated nanophotonic devices.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-05-05T03:05:30Z",
+    "updated": "2026-05-05T03:05:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2605.03316v1",
+      "pdf_path": "data/pdfs/2026-05-06/3_Quantitative cavity-enhanced photothermal dynamics in TMDC-integrated ultrahigh-Q microcavities__2605.03316v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-05-06T01:51:52.996467",
+    "updated_at": "2026-05-06T01:51:52.996458Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-05-06/3_Quantitative cavity-enhanced photothermal dynamics in TMDC-integrated ultrahigh-Q microcavities__2605.03316v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.03316v1",
+    "pdf_filename": "3_Quantitative cavity-enhanced photothermal dynamics in TMDC-integrated ultrahigh-Q microcavities__2605.03316v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了集成在超高Q值微腔上的单层TMDC的定量光热动力学及激子发光调制。",
+      "en": "Quantitative study of photothermal-induced bandgap tuning in TMDC-integrated silica microcavities."
+    },
+    "problem": {
+      "zh": "解决TMDC-微腔混合系统中局部光热效应的定量表征与全光调控问题。",
+      "en": "Characterizing and controlling local heating in 2D material-integrated high-Q microcavities."
+    },
+    "approach": {
+      "zh": "将单层WSe2或WS2转移至二氧化硅微球腔，利用1550nm泵浦光的自稳定性诱导局部加热，并结合Varshni公式与热光响应模型分析PL红移。",
+      "en": "Integrating monolayer WSe2/WS2 on silica microspheres, using 1550nm pump laser to induce thermal self-stabilization, and analyzing PL redshift with a temperature-dependent bandgap model."
+    },
+    "main_takeaway": {
+      "zh": "实验观测到的激子发光红移与基于微腔热光效应估算的温度变化高度吻合，证明了TMDC发光可作为微腔局部温度的灵敏探针。",
+      "en": "The observed PL redshift quantitatively matches the cavity's temperature rise, demonstrating that TMDC emission can serve as a sensitive local thermal probe."
+    },
+    "why_it_matters": {
+      "zh": "为集成纳米光子器件的热态探测和全光控制提供了定量框架，并揭示了微腔对特定激子发射通道的选择性增强。",
+      "en": "It provides a quantitative framework for thermal sensing and all-optical control in nanophotonic platforms, revealing cavity-selective enhancement of specific emission channels."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "定量建立了微腔热动力学与二维材料能带演化之间的联系，并验证了其一致性。",
+        "en": "Quantitatively links cavity thermal dynamics with the bandgap evolution of 2D materials and validates the consistency."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nanophotonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及混合纳米光子系统及光热效应，符合该期刊的关注方向且引用了多篇该刊论文。",
+        "en": "The study on hybrid nanophotonic systems and photothermal effects fits the journal scope and cites several papers from it."
+      }
+    },
+    "keywords": [
+      "TMDC",
+      "Microcavity",
+      "Photothermal effect",
+      "Bandgap tuning",
+      "Exciton"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-05-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-05-06T09:54:36",
+    "input_scope": "full_pdf_text"
+  }
+}

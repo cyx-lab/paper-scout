@@ -1,0 +1,90 @@
+{
+  "run_date": "2026-05-06",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2605.03316v1.json": 4,
+    "2605.03480v1.json": 1,
+    "2605.03543v1.json": 1,
+    "2605.03766v1.json": 1,
+    "2605.03891v1.json": 1,
+    "2605.03901v1.json": 1,
+    "2605.03958v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2605.03316v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202605060152242356539818268d9d6toa3dhZP)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 19.43,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2605.03480v1.json",
+      "status": "ok",
+      "secs": 20.62,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2605.03543v1.json",
+      "status": "ok",
+      "secs": 20.81,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2605.03766v1.json",
+      "status": "ok",
+      "secs": 21.74,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2605.03891v1.json",
+      "status": "ok",
+      "secs": 19.26,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2605.03901v1.json",
+      "status": "ok",
+      "secs": 10.94,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2605.03958v1.json",
+      "status": "ok",
+      "secs": 12.52,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2605.03316v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 202605060154143283859888268d9d6wNxLlMNp)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 4.33,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2605.03316v1.json",
+      "status": "fail",
+      "error": "Error code: 403 - {'error': {'message': '无权访问 gemini 分组 (request id: 20260506015418288747248268d9d6MzO9Mt7A)', 'type': 'new_api_error', 'param': '', 'code': ''}}",
+      "secs": 3.59,
+      "round": 3,
+      "attempt": 3
+    },
+    {
+      "file": "2605.03316v1.json",
+      "status": "ok",
+      "secs": 18.19,
+      "round": 4,
+      "attempt": 4
+    }
+  ]
+}

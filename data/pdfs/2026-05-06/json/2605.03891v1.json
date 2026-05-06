@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2605.03891v1",
+    "title": "Parameterized Families of Toric Code Phase: $em$-duality family and higher-order anyon pumping",
+    "authors": [
+      "Shuhei Ohyama",
+      "Takamasa Ando",
+      "Ryan Thorngren"
+    ],
+    "abstract": "Within the toric-code phase, we study parameterized families of topologically ordered states. We construct $1$- and $2$-parameter families of local Hamiltonians and confirm their non-triviality via topological pumping. For the $1$-parameter family, we show that the $em$-exchange defect is pumped into the bond Hilbert space of a tensor-network representation. For the $2$-parameter case, we construct a ``pump of a pump'' that transports an $S^1$-family of a system in one lower spatial dimension. Using similar methods, we also present a $1$-parameter family with a higher-order anyon pump that produces corner-localized anyon modes. These constructions provide explicit lattice realizations and concrete diagnostics of family-level topology. We use recently developed boundary algebra methods to study the non-triviality of these families.",
+    "categories": [
+      "cond-mat.str-el",
+      "hep-th",
+      "math-ph",
+      "quant-ph"
+    ],
+    "published": "2026-05-05T15:48:37Z",
+    "updated": "2026-05-05T15:48:37Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "thouless_pump:topological pump"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2605.03891v1",
+      "pdf_path": "data/pdfs/2026-05-06/3_Parameterized Families of Toric Code Phase $em$-duality family and higher-order anyon pumping__2605.03891v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-05-06T01:51:52.994970",
+    "updated_at": "2026-05-06T01:51:52.994961Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-05-06/3_Parameterized Families of Toric Code Phase $em$-duality family and higher-order anyon pumping__2605.03891v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.03891v1",
+    "pdf_filename": "3_Parameterized Families of Toric Code Phase $em$-duality family and higher-order anyon pumping__2605.03891v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文构造并分析了拓扑序（如 Toric Code）中非平凡的一参数和两参数哈密顿量族，展示了对称性缺陷和任意子的拓扑泵浦现象。",
+      "en": "The paper constructs and analyzes non-trivial 1- and 2-parameter families of toric code Hamiltonians, demonstrating topological pumping of symmetry defects and anyons."
+    },
+    "problem": {
+      "zh": "如何在晶格模型中构造拓扑序的非平凡参数族，并证明这些族在绝热循环下具有不可收缩的拓扑特性。",
+      "en": "How to construct non-trivial parameterized families of topologically ordered states on a lattice and prove their non-contractibility under adiabatic cycles."
+    },
+    "approach": {
+      "zh": "利用有限深度量子线路对对称性（如 e-m 对偶、对称性分数化）进行插值构造参数族，并结合边界代数方法计算拓扑指标。",
+      "en": "Using symmetry interpolation of finite-depth quantum circuits (e.g., e-m duality, symmetry fractionalization) to define families and employing boundary algebra methods to diagnose non-triviality."
+    },
+    "main_takeaway": {
+      "zh": "拓扑序的参数族可以实现对称性缺陷或任意子的泵浦，其非平凡性体现在边界代数的自同构及其诱导的 DHR 双模变换中。",
+      "en": "Parameterized families of topological orders can pump symmetry defects or anyons, with their non-triviality reflected in boundary algebra automorphisms and the permutation of DHR bimodules."
+    },
+    "why_it_matters": {
+      "zh": "该研究为拓扑序的“族拓扑”提供了显式的晶格实现和诊断工具，将 Thouless 泵浦概念扩展到了具有任意子统计的系统中。",
+      "en": "This work provides explicit lattice realizations and diagnostics for 'family-level topology' in topological orders, extending Thouless pumping to systems with anyonic statistics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "为拓扑序模空间的拓扑特性提供了具体的晶格模型和边界代数证明框架。",
+        "en": "Provides concrete lattice models and a boundary algebra framework for proving the topological properties of the moduli space of topological orders."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章包含详尽的晶格模型构造和严谨的理论推导，符合 PRB 的风格。",
+        "en": "The paper contains detailed lattice model constructions and rigorous theoretical derivations, fitting the style of PRB."
+      }
+    },
+    "keywords": [
+      "Toric code",
+      "Topological order",
+      "Anyon pumping",
+      "Boundary algebra",
+      "Symmetry fractionalization"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-05-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-05-06T09:53:46",
+    "input_scope": "full_pdf_text"
+  }
+}

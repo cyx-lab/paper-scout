@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2605.03766v1",
+    "title": "Gossamer Superconductivity in Moiré WSe$_2$ Bilayer",
+    "authors": [
+      "Hui-Ke Jin",
+      "Guangyue Ji",
+      "Zhan Wang",
+      "Jie Wang",
+      "Fu-Chun Zhang"
+    ],
+    "abstract": "Moiré transition metal dichalcogenides have served as a versatile platform for simulating Hubbard physics. Recent experiments have identified robust superconductivity in moiré bilayer WSe$_2$ for certain twist angles. Here, we propose the gossamer nature of the superconductivity recently discovered at half-filling and zero displacement field in twisted WSe$_2$. By mapping the moiré continuum system to an effective extended single-orbital Hubbard model on the triangular lattice, we employ renormalized mean-field theory to investigate the strong-coupling phase diagram. We find that a moderate Coulomb repulsion partially suppresses charge fluctuations while preserving a finite density of mobile doublons and holes. In this regime, the interplay between extended kinetic hoppings and antiferromagnetic superexchange stabilizes a chiral $d+id$ superconducting phase. Our results naturally account for the twist-angle-dependent evolution from a Mott insulator to a superconductor and eventually to a correlated metal. Furthermore, the model demonstrates that this half-filled pairing state vanishes rapidly upon density doping, consistent with experimental observations.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-05-05T13:54:31Z",
+    "updated": "2026-05-05T13:54:31Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "moire:twist-angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2605.03766v1",
+      "pdf_path": "data/pdfs/2026-05-06/3_Gossamer Superconductivity in Moiré WSe$_2$ Bilayer__2605.03766v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-05-06T01:51:52.995328",
+    "updated_at": "2026-05-06T01:51:52.995318Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-05-06/3_Gossamer Superconductivity in Moiré WSe$_2$ Bilayer__2605.03766v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2605.03766v1",
+    "pdf_filename": "3_Gossamer Superconductivity in Moiré WSe$_2$ Bilayer__2605.03766v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "揭示了扭曲双层WSe2在半填充处的“薄纱”超导机制及其随扭曲角演化的相图。",
+      "en": "Proposes a gossamer superconductivity mechanism to explain the half-filled superconducting state and its twist-angle dependence in moire WSe2."
+    },
+    "problem": {
+      "zh": "解释扭曲双层WSe2在零位移场和半填充（每个莫尔单元一个空穴）时出现超导态的物理起源。",
+      "en": "Explaining the physical origin of the superconducting state observed in twisted bilayer WSe2 at half-filling and zero displacement field."
+    },
+    "approach": {
+      "zh": "将莫尔连续模型映射到三角晶格扩展单轨道Hubbard模型，并利用重整化平均场理论研究强耦合相图。",
+      "en": "Mapping the moire continuum system to an extended single-orbital Hubbard model on a triangular lattice and employing renormalized mean-field theory."
+    },
+    "main_takeaway": {
+      "zh": "扩展跳跃项与超交换作用共同稳定了手性d+id波超导态，这种超导在半填充时保留了有限的电荷涨落，即“薄纱”超导。",
+      "en": "Extended kinetic hoppings and superexchange stabilize a chiral d+id superconducting phase that maintains finite charge fluctuations at half-filling, known as gossamer superconductivity."
+    },
+    "why_it_matters": {
+      "zh": "统一解释了实验中观察到的随扭曲角变化的相变序列，并阐明了为什么该超导态对掺杂极其敏感，建立了莫尔TMD作为Hubbard模拟器的地位。",
+      "en": "It provides a unified explanation for the twist-angle-dependent phase sequence and accounts for the extreme sensitivity of the SC state to doping, establishing moire TMDs as Hubbard simulators."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "为莫尔TMD材料中新发现的半填充超导提供了一个自洽的理论框架，并成功解释了实验观测到的相图演化。",
+        "en": "Provides a self-consistent theoretical framework for the newly discovered half-filled superconductivity in moire TMDs and successfully explains experimental phase evolution."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "针对近期Nature发表的重要实验结果提出了关键的理论解释，且模型具有普适性。",
+        "en": "Provides a key theoretical explanation for recent high-profile experimental results in Nature with a generalized model."
+      }
+    },
+    "keywords": [
+      "twisted WSe2",
+      "gossamer superconductivity",
+      "Hubbard model",
+      "triangular lattice",
+      "chiral d+id pairing"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-05-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-05-06T09:53:27",
+    "input_scope": "full_pdf_text"
+  }
+}
