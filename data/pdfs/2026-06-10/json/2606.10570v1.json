@@ -1,0 +1,121 @@
+{
+  "paper_record": {
+    "id": "2606.10570v1",
+    "title": "Extending Field Limits in Nanoscale Magnetic Imaging with Metamaterial-inspired Magnetic Flux Concentrators",
+    "authors": [
+      "A. Barrera",
+      "E. Fourneau",
+      "T. Pirottin",
+      "L. Marcano",
+      "R. Abrudan",
+      "R. Huang",
+      "Ll. Balcells",
+      "I. Orue",
+      "M. L. Fdez-Gubieda",
+      "D. Villanueva",
+      "A. G. Gubieda",
+      "L. Chang",
+      "B. Vanderheyden",
+      "R. J. Harrison",
+      "A. V. Silhanek",
+      "A. Palau",
+      "S. Valencia"
+    ],
+    "abstract": "Many nanoscale magnetic imaging techniques are constrained by the maximum magnetic field that can be applied during measurements, due to geometrical limitations or interactions with the probe or the detected signal (e.g., electrons). Here, it is demonstrated that sample-integrated metamaterial-inspired magnetic flux concentrators (MFCs) locally amplify magnetic fields, allowing observation of magnetization processes beyond instrumental limits. Micrometer-sized MFCs fabricated directly on the samples are tested in photoemission electron microscopy experiments employing X-ray magnetic circular dichroism as magnetic contrast mechanism. At low applied fields, substantial amplification factors enable observation of magnetization reversal in a chain of magnetite nanoparticles synthesized by magnetotactic bacteria at an applied field of 8 mT, substantially smaller than the 50 mT predicted by simulations in absence of MFCs. At higher fields, the field enhancement extends the accessible field range by a factor of five, enabling for the first time, imaging of the field-dependent magnetic domain structure evolution of an isolated giant magnetofossil. Finally, we show how MFC geometry and material parameters can be tuned to optimize performance considering sample and experimental constraints, providing a tunable and broadly applicable strategy for extending the accessible field range in a wide variety of nanoscale magnetic imaging techniques.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-09T08:32:15Z",
+    "updated": "2026-06-09T08:32:15Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.10570v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Extending Field Limits in Nanoscale Magnetic Imaging with Metamaterial-inspired Magnetic Flux Concentrators__2606.10570v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.409037",
+    "updated_at": "2026-06-10T02:15:00.409028Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Extending Field Limits in Nanoscale Magnetic Imaging with Metamaterial-inspired Magnetic Flux Concentrators__2606.10570v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.10570v1",
+    "pdf_filename": "3_Extending Field Limits in Nanoscale Magnetic Imaging with Metamaterial-inspired Magnetic Flux Concentrators__2606.10570v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过在样品上集成超材料磁通量集中器（MFC），成功突破了纳米磁成像技术中外加磁场的强度限制。",
+      "en": "Integration of metamaterial-inspired magnetic flux concentrators (MFCs) onto samples enables nanoscale magnetic imaging beyond conventional instrumental magnetic field limits."
+    },
+    "problem": {
+      "zh": "许多纳米磁成像技术（如XMCD-PEEM）受限于仪器几何结构或电子束偏转，无法施加足够强的磁场来研究高矫顽力或饱和场较大的磁性系统。",
+      "en": "Many nanoscale magnetic imaging techniques are constrained by limited maximum applied magnetic fields due to instrumental geometry or electron beam deflection, hindering the study of high-coercivity magnetic systems."
+    },
+    "approach": {
+      "zh": "设计并制造了花瓣状的钴基磁通量集中器（MFC），将其直接集成在样品表面，利用其各向异性磁导率特性在局部放大外加磁场。",
+      "en": "Fabricated flower-shaped, cobalt-based magnetic flux concentrators (MFCs) directly on samples to locally amplify externally applied magnetic fields via engineered anisotropic permeability."
+    },
+    "main_takeaway": {
+      "zh": "集成式MFC可将有效磁场提升至外加磁场的数倍（本研究中达5倍），使原本无法直接成像的磁性系统（如巨型磁化石）能够进行原位磁场依赖性研究。",
+      "en": "Sample-integrated MFCs can amplify effective magnetic fields by a factor of five, enabling in-situ field-dependent imaging of magnetic systems previously inaccessible due to high saturation fields."
+    },
+    "why_it_matters": {
+      "zh": "该方法提供了一种通用且可调的策略，能够扩展多种磁成像技术的应用范围，且由于磁场高度局域化，还可减少样品加热和电子束畸变。",
+      "en": "This strategy provides a tunable and broadly applicable framework to extend the field range of various magnetic imaging techniques while minimizing sample heating and electron trajectory distortion."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作通过巧妙的微纳加工手段解决了磁成像领域长期的技术瓶颈，并成功应用于生物磁性材料的表征。",
+        "en": "This work effectively addresses a long-standing technical bottleneck in magnetic imaging through clever micro-fabrication and demonstrates its utility on challenging biological magnetic systems."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 数值模拟",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了先进的微纳加工、同步辐射成像技术及生物磁学应用，符合该期刊的跨学科影响力要求。",
+        "en": "The combination of advanced nanofabrication, synchrotron-based imaging, and biological magnetism applications fits the interdisciplinary scope and impact of this journal."
+      }
+    },
+    "keywords": [
+      "Metamaterials",
+      "Magnetic imaging",
+      "XMCD-PEEM",
+      "Magnetic flux concentrators",
+      "Magnetotactic bacteria"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:17:27",
+    "input_scope": "full_pdf_text"
+  }
+}

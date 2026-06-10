@@ -1,0 +1,126 @@
+{
+  "paper_record": {
+    "id": "2606.10422v1",
+    "title": "Supermoiré Chern mosaic in helical trilayer WSe2",
+    "authors": [
+      "Zhenyu Wang",
+      "Mingjie Zhang",
+      "Hai Meng",
+      "Xiuzhen Li",
+      "Subi Du",
+      "Yaotian Liu",
+      "Siyu Fan",
+      "Xiaofan Shi",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Wei Yang",
+      "Guangyu Zhang",
+      "Bingbing Tong",
+      "Guangtong Liu",
+      "Li Lu",
+      "Jie Shen",
+      "Gang Li",
+      "Jing Song",
+      "Enke Liu",
+      "Song Liu",
+      "Fengcheng Wu",
+      "Yang Xu"
+    ],
+    "abstract": "Helically twisted multilayers offer access to moiré physics beyond the single-superlattice paradigm, yet their correlated and topological transport properties remain largely unexplored in semiconductor moiré materials. Here we report magnetotransport measurements of helical trilayer WSe2, in which two coupled moiré patterns relax into a supermoiré landscape composed of inequivalent local topological domains with distinct electronic structures and unequal spatial areas. By electrostatic tuning, we identify a trilayer-hybridized regime where interactions and real-space reconstruction combine to generate a plethora of magnetic and topological states absent in the twisted bilayers. At moiré filling factor $ν$ = -1, we observe a ferromagnetic insulating state that is robust against magnetic field and accompanied by a non-quantized anomalous Hall response ~-4 kOhms. This behaviour is consistent with a time-reversal-symmetry-breaking supermoiré Chern mosaic, in which the Hall response arises from the non-cancelling contributions of local domains with opposite Chern character arranged by the relaxed structure. Under strong magnetic fields, a symmetry-broken Chern insulating state (C = 1) emerges near $ν$ = -2/3, displaying a much larger positive Hall response together with strongly enhanced longitudinal resistance, suggestive of field-reconstructed topological minibands and domain-boundary scattering. These results establish relaxed supermoiré semiconductor trilayers as a platform for spatially organized magnetism and topology beyond the bilayer limit.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-09T04:53:17Z",
+    "updated": "2026-06-09T04:53:17Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.10422v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Supermoiré Chern mosaic in helical trilayer WSe2__2606.10422v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.409541",
+    "updated_at": "2026-06-10T02:15:00.409533Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Supermoiré Chern mosaic in helical trilayer WSe2__2606.10422v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.10422v1",
+    "pdf_filename": "3_Supermoiré Chern mosaic in helical trilayer WSe2__2606.10422v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文报道了在螺旋堆叠三层WSe2中发现的超摩尔Chern镶嵌态，揭示了其在零场下的铁磁绝缘行为及高场下的对称性破缺Chern绝缘态。",
+      "en": "This paper reports the discovery of a supermoiré Chern mosaic in helically twisted trilayer WSe2, revealing a ferromagnetic insulating state at zero field and a symmetry-broken Chern insulating state at high fields."
+    },
+    "problem": {
+      "zh": "探索多层摩尔超晶格（超越双层限制）中的关联电子态与拓扑输运性质，特别是超摩尔重构如何重组实空间拓扑结构。",
+      "en": "Exploring correlated electronic phases and topological transport in multilayer moiré superlattices beyond the bilayer limit, specifically how supermoiré reconstruction reorganizes real-space topology."
+    },
+    "approach": {
+      "zh": "制备螺旋堆叠三层WSe2器件，通过双栅极静电调控载流子密度和位移场，结合磁输运测量与连续模型计算进行分析。",
+      "en": "Fabricating helically twisted trilayer WSe2 devices, using dual-gate electrostatic control of carrier density and displacement field, combined with magnetotransport measurements and continuum model calculations."
+    },
+    "main_takeaway": {
+      "zh": "在螺旋三层WSe2中，晶格弛豫形成的超摩尔结构导致了具有不同Chern数的局部畴镶嵌，在填充因子ν=-1处表现出铁磁绝缘性，并伴随非量子化的反常霍尔响应。",
+      "en": "In helical trilayer WSe2, lattice relaxation creates a supermoiré landscape with local domains of distinct Chern numbers, manifesting as a ferromagnetic insulator at ν = -1 with a non-quantized anomalous Hall response."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了弛豫超摩尔半导体三层结构作为研究实空间组织磁性和拓扑的新平台，为理解复杂摩尔系统中的拓扑网络提供了实验依据。",
+      "en": "This work establishes relaxed supermoiré semiconductor trilayers as a platform for spatially organized magnetism and topology, providing experimental insight into topological networks in complex moiré systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次在半导体三层摩尔体系中观测到超摩尔Chern镶嵌态，拓展了摩尔量子物质的研究范畴。",
+        "en": "This work reports the first observation of a supermoiré Chern mosaic in semiconductor trilayer moiré systems, expanding the scope of moiré quantum matter research."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及多层摩尔体系中的前沿拓扑物理，具有显著的创新性和系统性，符合顶级期刊的发表标准。",
+        "en": "The study addresses frontier topological physics in multilayer moiré systems with significant innovation and systematic depth, consistent with top-tier journal standards."
+      }
+    },
+    "keywords": [
+      "WSe2",
+      "超摩尔",
+      "Chern镶嵌",
+      "铁磁绝缘体",
+      "拓扑输运"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:15:27",
+    "input_scope": "full_pdf_text"
+  }
+}

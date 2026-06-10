@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2606.11128v1",
+    "title": "Roughness-robust surface altermagnetism in $PT$ antiferromagnets",
+    "authors": [
+      "K. D. Belashchenko"
+    ],
+    "abstract": "Surface altermagnetism extends spin splitting beyond bulk altermagnets through symmetry reduction at surfaces and interfaces. An existing classification applies to the local symmetry of atomically flat surface terraces. The present paper addresses the symmetry of macroscopic spin-momentum correlations that survive averaging over compensated rough surfaces. These correlations are governed by the surface antisymmetry Laue point group. Rough-surface altermagnetism is forbidden at any surface of a magnet whose antisymmetry space group contains antitranslations, and the classification therefore reduces to $PT$-symmetric antiferromagnets. By restoring all symmetries leaving the surface normal invariant, roughness can generate compensated surface altermagnets from uncompensated flat terminations, increase the surface symmetry, or suppress spin splitting. By combining bulk switchability with altermagnetic surface transport properties, roughness-robust surface altermagnetism in $PT$-symmetric antiferromagnets provides a route toward spintronic functionality.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-09T17:24:35Z",
+    "updated": "2026-06-09T17:24:35Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.11128v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Roughness-robust surface altermagnetism in $PT$ antiferromagnets__2606.11128v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.407673",
+    "updated_at": "2026-06-10T02:15:00.407662Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Roughness-robust surface altermagnetism in $PT$ antiferromagnets__2606.11128v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.11128v1",
+    "pdf_filename": "3_Roughness-robust surface altermagnetism in $PT$ antiferromagnets__2606.11128v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文对PT对称反铁磁体中对表面粗糙度具有鲁棒性的宏观表面交错磁性进行了对称性分类。",
+      "en": "This paper provides a symmetry classification of macroscopic surface altermagnetism robust against surface roughness in PT-symmetric antiferromagnets."
+    },
+    "problem": {
+      "zh": "传统的表面交错磁性分类仅适用于原子级平整的平台，而实际实验测量通常在粗糙表面上进行，需要确定在宏观粗糙度平均后仍能存活的自旋-动量关联。",
+      "en": "Traditional classification of surface altermagnetism applies only to atomically flat terraces, whereas realistic experimental measurements average over rough surfaces, requiring the determination of macroscopic spin-momentum correlations that survive roughness averaging."
+    },
+    "approach": {
+      "zh": "利用表面反对称性劳厄点群分析与宏观表面法线兼容的体相群对称操作，对PT对称反铁磁体的补偿粗糙表面进行系统分类。",
+      "en": "Using the surface antisymmetry Laue point group to analyze bulk symmetry operations compatible with the macroscopic surface normal, systematically classifying compensated rough surfaces of PT-symmetric antiferromagnets."
+    },
+    "main_takeaway": {
+      "zh": "表面粗糙度平均消除了含有体相反平移对称性磁体中的表面交错磁性，使其仅存在于PT对称反铁磁体中，且粗糙度可以使未补偿的平整终止面转化为宏观补偿的交错磁性表面。",
+      "en": "Roughness averaging eliminates surface altermagnetism in magnets with bulk antitranslations, restricting it to PT-symmetric antiferromagnets, and roughness can generate compensated altermagnetic surfaces from uncompensated flat terminations."
+    },
+    "why_it_matters": {
+      "zh": "它为理解真实粗糙表面上的实验观测（如输运和角分辨光电子能谱）提供了理论基础，并为结合体相翻转与表面交错磁性输运的自旋电子学器件设计开辟了道路。",
+      "en": "It provides a theoretical foundation for understanding experimental observations (such as transport and ARPES) on realistic rough surfaces and opens a route for spintronic devices combining bulk switching with surface altermagnetic transport."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究阐明了表面粗糙度对交错磁性自旋分裂的宏观平均效应，并给出了PT对称反铁磁体的完整分类。",
+        "en": "The study clarifies the macroscopic averaging effect of surface roughness on altermagnetic spin splitting and provides a complete classification for PT-symmetric antiferromagnets."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文关注凝聚态物理中磁性材料的对称性分析与理论分类，非常符合该期刊的发表范围。",
+        "en": "The paper focuses on symmetry analysis and theoretical classification of magnetic materials in condensed matter physics, which fits well within the scope of the journal."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "surface roughness",
+      "antiferromagnets",
+      "symmetry classification",
+      "spin-momentum correlation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:18:07",
+    "input_scope": "full_pdf_text"
+  }
+}

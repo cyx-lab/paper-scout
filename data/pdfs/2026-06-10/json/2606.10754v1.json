@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.10754v1",
+    "title": "Spin polarisation signatures of Fractionally Charged Skyrmions in Fractional Quantum Hall states",
+    "authors": [
+      "Odysseas Williams",
+      "Stefan Faelt",
+      "Christian Reichl",
+      "Werner Wegscheider"
+    ],
+    "abstract": "We investigate spin polarisation and low-energy excitations in fractional quantum Hall (FQH) states using cavity-polariton spectroscopy of high-mobility GaAs quantum wells. By measuring the optical coupling strength of interband Landau-level excitations over the range $1/3 \\le ν\\le 1$, we extract the spin polarisation of the electron system as a function of filling factor. Complete suppression of the oscillator strength of the lowest energy excitation, characteristic of singlet trion formation in fully polarised systems, is reported for the first time in this regime. At large magnetic fields, fully polarised FQH states exhibit symmetric depolarisation away from their quantised fillings, analogous to Skyrmionic behaviour near $ν=1$. The depolarisation follows an empirical law $S=ν^*$, where $S$ is the number of spin flips per added magnetic flux quantum and $ν^*$ the effective Composite Fermion filling factor. We interpret this behaviour as evidence for Minimal Fractionally Charged Skyrmions (MFCS) formed from bound spin-flip and quasiparticle excitations.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-09T12:05:54Z",
+    "updated": "2026-06-09T12:05:54Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:trion",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.10754v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Spin polarisation signatures of Fractionally Charged Skyrmions in Fractional Quantum Hall states__2606.10754v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.408730",
+    "updated_at": "2026-06-10T02:15:00.408723Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Spin polarisation signatures of Fractionally Charged Skyrmions in Fractional Quantum Hall states__2606.10754v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.10754v1",
+    "pdf_filename": "3_Spin polarisation signatures of Fractionally Charged Skyrmions in Fractional Quantum Hall states__2606.10754v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文利用微腔极化激元光谱测量了分数量子霍尔态的自旋极化，发现了分数电荷斯格明子的自旋翻转特征。",
+      "en": "This work measures the spin polarization of fractional quantum Hall states using cavity-polariton spectroscopy and identifies signatures of minimal fractionally charged skyrmions."
+    },
+    "problem": {
+      "zh": "在分数量子霍尔效应区，关于自旋极化的连续演化以及准粒子激发的本质（是否形成集体自旋结构）仍存在争议和冲突的实验报道。",
+      "en": "In the fractional quantum Hall regime, the continuous evolution of spin polarization and the nature of quasiparticle excitations (whether they form collective spin textures) remain debated with conflicting experimental reports."
+    },
+    "approach": {
+      "zh": "利用高迁移率GaAs量子阱中的微腔极化激元光谱，通过测量圆偏振光下带间兰道能级激发的强光-物质耦合强度（拉比分裂）来提取自旋极化率。",
+      "en": "Using cavity-polariton spectroscopy of high-mobility GaAs quantum wells to extract spin polarization by measuring the optical coupling strength (Rabi splitting) of interband Landau-level excitations under circularly polarized light."
+    },
+    "main_takeaway": {
+      "zh": "完全自旋极化的分数量子霍尔态在偏离其量子化填充时表现出对称的去极化行为，遵循自旋翻转数等于有效复合费米子填充数的经验规律，这为分数电荷斯格明子的形成提供了证据。",
+      "en": "Fully polarized fractional quantum Hall states exhibit symmetric depolarization away from their quantized fillings following an empirical law where the number of spin flips equals the effective composite fermion filling factor, providing evidence for the formation of fractionally charged skyrmions."
+    },
+    "why_it_matters": {
+      "zh": "该研究展示了极化激元光谱作为探测分数量子霍尔自旋物理的强大工具，并为超越单粒子图像的集体自旋激发提供了新的实验证据。",
+      "en": "This study establishes polariton spectroscopy as a powerful probe of fractional quantum Hall spin physics and provides new experimental evidence for collective spin-reversal excitations beyond the single-quasiparticle picture."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在分数量子霍尔区观测到最低能量光学耦合的完全抑制，并为分数电荷斯格明子的存在提供了系统的自旋极化证据。",
+        "en": "Reports the first observation of complete suppression of the lowest-energy optical coupling in the fractional quantum Hall regime and provides systematic spin polarization evidence for fractionally charged skyrmions."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究利用先进的光学手段研究了拓扑物态中的基础物理问题，且样品质量极高，非常符合该期刊的定位。",
+        "en": "The study addresses fundamental physics in topological states using advanced optical techniques on ultra-high-quality samples, which fits the journal's scope perfectly."
+      }
+    },
+    "keywords": [
+      "Fractional quantum Hall effect",
+      "Skyrmions",
+      "Cavity polaritons",
+      "Spin polarization",
+      "Composite fermions"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:17:46",
+    "input_scope": "full_pdf_text"
+  }
+}

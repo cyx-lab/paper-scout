@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2606.11060v1",
+    "title": "Interplay between photon condensation and electron-electron interactions in molecular systems",
+    "authors": [
+      "Matteo Parisi",
+      "Elisabetta Paladino",
+      "Giuseppe A. Falci",
+      "Gian Marcello Andolina",
+      "Salvatore Savasta",
+      "Marco Polini",
+      "Francesco M. D. Pellegrino"
+    ],
+    "abstract": "We investigate a minimal molecular model consisting of square planar plaquettes hosting multiple electrons, whose dynamics is governed by a tight-binding Hamiltonian supplemented by on-site Hubbard repulsion. By coupling this system to a spatially nonuniform cavity mode, we analyze the emergence of a magnetostatic instability, namely photon condensation, originating from the paramagnetic Van Vleck mechanism. The global behavior of the system is analyzed for different electronic filling factors, and we find that, except for the special cases of half-filling and single electron, where the transition, if it occurs, is necessarily a second order phase transition, the global system may also undergo a first order transition because of the action of the electron-electron interaction. The polaritonic excitation energies are analyzed, providing clear spectroscopic signatures of the magnetostatic instability and of its order.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "quant-ph"
+    ],
+    "published": "2026-06-09T16:21:43Z",
+    "updated": "2026-06-09T16:21:43Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.11060v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Interplay between photon condensation and electron-electron interactions in molecular systems__2606.11060v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.407899",
+    "updated_at": "2026-06-10T02:15:00.407891Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Interplay between photon condensation and electron-electron interactions in molecular systems__2606.11060v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.11060v1",
+    "pdf_filename": "3_Interplay between photon condensation and electron-electron interactions in molecular systems__2606.11060v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了分子体系中电子-电子相互作用对腔光子凝聚相变性质的影响，发现电子排斥可将相变由二级转变为一级。",
+      "en": "This paper investigates the impact of electron-electron interactions on photon condensation in molecular systems, revealing that Hubbard repulsion can change the phase transition from second-order to first-order."
+    },
+    "problem": {
+      "zh": "研究在多电子分子体系中，电子间的库仑排斥（Hubbard排斥）如何影响由范弗莱克顺磁机制驱动的平衡态光子凝聚相变。",
+      "en": "To understand how electron-electron interactions (Hubbard repulsion) affect the equilibrium photon condensation phase transition driven by the Van Vleck paramagnetic mechanism in multi-electron molecular systems."
+    },
+    "approach": {
+      "zh": "采用紧束缚模型结合位置表象Hubbard排斥描述正方形分子斑块，通过Peierls替换引入非均匀腔模耦合，利用平均场近似和精确对角化求解，并计算高斯涨落下的极化激元激发谱。",
+      "en": "Using a tight-binding model with on-site Hubbard repulsion for square molecular plaquettes, coupling them to a non-uniform cavity mode via Peierls substitution, solving the system using mean-field theory and exact diagonalization, and calculating polaritonic excitations under Gaussian fluctuations."
+    },
+    "main_takeaway": {
+      "zh": "电子-电子相互作用会改变光子凝聚的相变特征，除单电子和半满情况外，相互作用可诱导一级相变，并在极化激元光谱中表现为跃变而非软化。",
+      "en": "Electron-electron interactions can alter the nature of photon condensation; except for the single-electron and half-filling cases, the interaction can induce a first-order phase transition, which is signaled by a step-like jump rather than softening in the polaritonic spectrum."
+    },
+    "why_it_matters": {
+      "zh": "为利用光学腔控制强关联材料和极化激元化学提供了理论基础，展示了电子关联作为调控光-物质相变新维度的潜力。",
+      "en": "It provides a theoretical foundation for controlling strongly correlated materials and polaritonic chemistry using optical cavities, demonstrating the potential of electronic correlations as a new tuning knob for light-matter phase transitions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了电子排斥如何通过改变分子基态的自旋结构和磁响应，进而调控光子凝聚相变的临界行为和阶数。",
+        "en": "It clarifies how electron repulsion alters the spin structure and magnetic response of the molecular ground state, thereby tuning the critical behavior and order of the photon condensation phase transition."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究关注强关联电子系统与腔量子电动力学的交叉领域，非常符合Physical Review B的收录范围。",
+        "en": "The study focuses on the intersection of strongly correlated electron systems and cavity quantum electrodynamics, which fits well within the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "photon condensation",
+      "Hubbard model",
+      "light-matter interaction",
+      "polaritons",
+      "Van Vleck paramagnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:17:59",
+    "input_scope": "full_pdf_text"
+  }
+}

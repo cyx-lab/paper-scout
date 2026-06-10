@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2606.10482v1",
+    "title": "Strain-programmable exciton diffusion in moiré heterostructures",
+    "authors": [
+      "Chiho Song",
+      "Chiranjit Mondal",
+      "Jaebin Lee",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Bohm-Jung Yang",
+      "Jieun Lee"
+    ],
+    "abstract": "Moiré superlattices in van der Waals heterostructures have recently gained significant attention as an intriguing platform for studying correlated electronic systems and exotic excitonic properties. Previous reports, however, focused on creating and modulating moiré heterostructures through interlayer twisting or lattice constant mismatches, limiting controls on symmetry of heterostructures. In this work, we show that strain significantly alters the geometry of moiré superlattices by breaking the C3 rotational symmetry. We realize strain-induced moiré superlattices by intentionally regulating interlayer strain in WSe2-MoSe2 heterostructures, which is manifested by linearly polarized interlayer exciton emission coupled to the strain direction. Furthermore, interlayer exciton diffusion was preferentially guided along the stretched moiré superlattice orientations over a wide spatial range, reflecting the strain-modified moiré potentials. Our work highlights strain tuning as a versatile tool for designing moiré superlattices and programming excitonic transport, which opens pathways for van der Waals logic and information processing devices.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-09T06:51:26Z",
+    "updated": "2026-06-09T06:51:26Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:interlayer exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.10482v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Strain-programmable exciton diffusion in moiré heterostructures__2606.10482v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.409445",
+    "updated_at": "2026-06-10T02:15:00.409438Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Strain-programmable exciton diffusion in moiré heterostructures__2606.10482v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.10482v1",
+    "pdf_filename": "3_Strain-programmable exciton diffusion in moiré heterostructures__2606.10482v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过应变工程调控范德华异质结中的莫尔超晶格，实现了激子扩散方向的可编程控制。",
+      "en": "Strain engineering of moiré superlattices in van der Waals heterostructures enables programmable control over exciton diffusion directionality."
+    },
+    "problem": {
+      "zh": "传统的莫尔超晶格主要通过扭转角或晶格失配来调控，缺乏对应变诱导的对称性破缺及长程激子输运的有效实验手段。",
+      "en": "Traditional moiré superlattices are limited by twist angle or lattice mismatch control, lacking experimental methods to manipulate symmetry breaking and long-range exciton transport via strain."
+    },
+    "approach": {
+      "zh": "在WSe2-MoSe2异质结中引入层间应变，结合光学测量、扫描探针显微镜及Fokker-Planck方程数值模拟进行研究。",
+      "en": "Introduced interlayer strain in WSe2-MoSe2 heterostructures, combined with optical measurements, scanning probe microscopy, and numerical simulations of the Fokker-Planck equation."
+    },
+    "main_takeaway": {
+      "zh": "应变能有效改变莫尔势能面，使层间激子沿应变方向优先扩散，从而实现激子输运的各向异性编程。",
+      "en": "Strain effectively modifies the moiré potential landscape, guiding interlayer exciton diffusion preferentially along the strain direction and enabling programmable anisotropic transport."
+    },
+    "why_it_matters": {
+      "zh": "该研究为范德华材料的逻辑器件和信息处理提供了新的自由度，展示了应变作为设计量子材料和调控多体相互作用的强大工具。",
+      "en": "This work provides a new degree of freedom for van der Waals logic and information processing, demonstrating strain as a versatile tool for designing quantum materials and tuning many-body interactions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次实验实现了应变诱导的长程莫尔超晶格，并成功展示了激子输运的可编程性。",
+        "en": "It provides the first experimental realization of strain-induced long-range moiré superlattices and successfully demonstrates the programmability of exciton transport."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 数值模拟",
+      "en": "Experimental + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及范德华异质结的前沿调控，符合该期刊对纳米尺度物理和器件应用的研究兴趣。",
+        "en": "The research involves cutting-edge control of van der Waals heterostructures, aligning with the journal's interest in nanoscale physics and device applications."
+      }
+    },
+    "keywords": [
+      "莫尔超晶格",
+      "范德华异质结",
+      "应变工程",
+      "激子扩散",
+      "各向异性输运"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:15:32",
+    "input_scope": "full_pdf_text"
+  }
+}

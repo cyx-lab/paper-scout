@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.10604v1",
+    "title": "Propagation and localization of spin excitations at altermagnetic domain walls",
+    "authors": [
+      "Oksana Peschanska",
+      "Jeroen van den Brink",
+      "Volodymyr P. Kravchuk"
+    ],
+    "abstract": "Altermagnets (A$\\ell$Ms) are spin-compensated materials in which opposite-spin sublattices are connected by a symmetry that causes a spin splitting in their elementary excitations. As there is a strong effect of altermagnetism on domain wall properties, it is quite natural to also expect an enrichment of the physics of magnetic excitations at A$\\ell$M domain walls. Here, we consider the propagation of spin eigen-excitations along domain walls in easy-axial $d$-wave A$\\ell$Ms. Investigating the presence of bound states localized on a domain wall, we find that the effect of the A$\\ell$M on the bound states strongly depends on the orientation of the domain wall relative to the crystallographic directions. If the domain wall is oriented along a nodal direction [100] or [010], A$\\ell$M does not change the number of bound states; however, it leads to a nonlinear dispersion and a tilt of the wavefront. The effect of A$\\ell$M is strongest when the domain wall is oriented along the directions [110] or [$\\bar{1}$10], i.e., along the directions of the strongest A$\\ell$M splitting in the magnon spectrum. In this case, (i) the additional gapped bound states appear, (ii) degeneracy of the eigenstates with respect to their polarization (right-handed or left-handed precession of the N{é}el vector) is removed, and (iii) the localization area of the bound states strongly depends on the eigenfrequency. The latter may lead to strong localization of the bound state at the domain wall. We further consider the influence of a static magnetic field that is applied along the easy axis, and find that the magnetic field induces an asymmetry between the localization regions on opposite sides of the domain wall and sets an upper limit on the absolute value of the propagating eigenstate's wave vector.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-09T09:05:27Z",
+    "updated": "2026-06-09T09:05:27Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.10604v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Propagation and localization of spin excitations at altermagnetic domain walls__2606.10604v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.408973",
+    "updated_at": "2026-06-10T02:15:00.408960Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Propagation and localization of spin excitations at altermagnetic domain walls__2606.10604v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.10604v1",
+    "pdf_filename": "3_Propagation and localization of spin excitations at altermagnetic domain walls__2606.10604v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文理论分析了交错磁体（Altermagnet）中畴壁上的自旋激发传播与局域化特性。",
+      "en": "This paper provides a theoretical analysis of the propagation and localization of spin excitations along domain walls in altermagnets."
+    },
+    "problem": {
+      "zh": "交错磁体中畴壁的对称性与自旋分裂如何影响其内部自旋激发的动力学及局域化行为。",
+      "en": "How the symmetry and spin splitting in altermagnets affect the dynamics and localization of spin excitations at domain walls."
+    },
+    "approach": {
+      "zh": "基于连续介质模型和非线性σ模型，利用Holstein-Primakoff变换分析畴壁上的线性自旋激发，并求解相应的薛定谔方程。",
+      "en": "Using a continuum model and the non-linear sigma model, the authors analyze linear spin excitations at domain walls via the Holstein-Primakoff transformation and solve the resulting Schrödinger-like equations."
+    },
+    "main_takeaway": {
+      "zh": "交错磁体畴壁不仅支持平移模式，还能根据畴壁取向产生额外的局域化能隙态，且其波前斜率和局域化区域受交错磁效应的显著调制。",
+      "en": "Altermagnetic domain walls support not only translational modes but also additional gapped bound states depending on orientation, with wavefront tilting and localization areas significantly modulated by altermagnetic effects."
+    },
+    "why_it_matters": {
+      "zh": "揭示了交错磁体畴壁作为新型磁子波导的潜力，其激发的聚焦效应和非线性色散为低功耗磁子器件提供了设计思路。",
+      "en": "It reveals the potential of altermagnetic domain walls as novel magnonic waveguides, where excitation focusing and nonlinear dispersion offer new design principles for energy-efficient magnonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "系统阐述了交错磁性对畴壁自旋波动力学的调制机制，为理解该类材料中的磁子输运提供了理论基础。",
+        "en": "It systematically elucidates the modulation mechanism of altermagnetism on domain wall spin-wave dynamics, providing a theoretical foundation for understanding magnon transport in these materials."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域关于磁性畴壁动力学的理论研究通常发表在PRB上。",
+        "en": "Theoretical studies on magnetic domain wall dynamics in this field are typically published in PRB."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Domain wall",
+      "Magnons",
+      "Spin excitations",
+      "Spintronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:17:37",
+    "input_scope": "full_pdf_text"
+  }
+}

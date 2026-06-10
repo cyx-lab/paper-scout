@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.10498v1",
+    "title": "Microscopic evidence for a Zhang-Rice triplet state in the van der Waals antiferromagnet, NiPS$_3$",
+    "authors": [
+      "Beom Hyun Kim",
+      "Youjin Lee",
+      "Junik Hwang",
+      "Junghyun Kim",
+      "Je-Geun Park",
+      "Seung-Ho Baek"
+    ],
+    "abstract": "Quantum-entangled states underpin many emergent phenomena in quantum materials, yet their direct experimental identification remains a challenge. NiPS$_3$, a van der Waals antiferromagnet exhibiting a resolution-limited magnetic exciton in its ordered phase, has been proposed to host a many-body entangled Zhang-Rice triplet state. Here, using $^{33}$S nuclear magnetic resonance (NMR) on $^{33}$S-enriched NiPS$_3$ single crystals, we provide microscopic evidence for this charge-transfer state. The $^{33}$S and $^{31}$P Knight shifts as a function of temperature reveal a unified spin-triplet configuration arising from strong hybridization between a self-doped hole in the S $3p$ orbitals and a hole in Ni $3d$ orbitals. Furthermore, the $^{33}$S nuclear spin-lattice relaxation rate exhibits a power-law divergence as it approaches the Néel temperature $T_N=155$ K, indicating critical slowing down of collective charge fluctuations consistent with spin-nematic correlations. These results reveal a spin-charge-intertwined ground state and establish the microscopic foundation for the exceptional coherence of the magnetic exciton in NiPS$_3$.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-09T07:22:38Z",
+    "updated": "2026-06-09T07:22:38Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.10498v1",
+      "pdf_path": "data/pdfs/2026-06-10/3_Microscopic evidence for a Zhang-Rice triplet state in the van der Waals antiferromagnet, NiPS$_3$__2606.10498v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-10T02:15:00.409407",
+    "updated_at": "2026-06-10T02:15:00.409400Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-10/3_Microscopic evidence for a Zhang-Rice triplet state in the van der Waals antiferromagnet, NiPS$_3$__2606.10498v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.10498v1",
+    "pdf_filename": "3_Microscopic evidence for a Zhang-Rice triplet state in the van der Waals antiferromagnet, NiPS$_3$__2606.10498v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过对硫-33富集的NiPS3单晶进行核磁共振测量，发现了张-里斯三重态的微观证据以及临界电荷涨落。",
+      "en": "Provides microscopic evidence for a Zhang-Rice triplet state and critical charge fluctuations in NiPS3 using sulfur-33 NMR."
+    },
+    "problem": {
+      "zh": "确定范德华反铁磁体NiPS3中磁激子相干性的微观基态起源，并澄清其量子纠缠态的性质。",
+      "en": "Identifying the microscopic ground state responsible for the coherent magnetic exciton in the van der Waals antiferromagnet NiPS3."
+    },
+    "approach": {
+      "zh": "对硫-33同位素富集的NiPS3单晶进行温度和角度依赖的硫-33及磷-31核磁共振谱学与自旋-晶格弛豫率测量。",
+      "en": "Performing temperature- and angle-dependent sulfur-33 and phosphorus-31 NMR spectroscopy and spin-lattice relaxation measurements on sulfur-33 enriched NiPS3 single crystals."
+    },
+    "main_takeaway": {
+      "zh": "NiPS3的基态是强杂化的张-里斯三重态，且在奈尔温度以上存在由自旋向列关联驱动的临界电荷涨落。",
+      "en": "The ground state of NiPS3 is a strongly hybridized Zhang-Rice triplet state, accompanied by critical charge fluctuations driven by spin-nematic correlations above the Neel temperature."
+    },
+    "why_it_matters": {
+      "zh": "它为NiPS3中异常相干的磁激子提供了微观解释，并展示了范德华磁体中自旋与电荷自由度的紧密交织。",
+      "en": "It provides a microscopic foundation for the exceptionally coherent magnetic exciton in NiPS3 and demonstrates the strong coupling between spin and charge degrees of freedom in van der Waals magnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次利用硫-33核磁共振技术为NiPS3中的张-里斯三重态和向列性电荷涨落提供了直接的微观证据。",
+        "en": "Provides the first direct microscopic evidence for the Zhang-Rice triplet state and nematic charge fluctuations in NiPS3 using sulfur-33 NMR."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了二维磁性材料中磁激子起源的关键争议，且使用了高难度的同位素富集NMR技术。",
+        "en": "The study addresses a key controversy regarding the origin of magnetic excitons in 2D magnets using challenging isotope-enriched NMR."
+      }
+    },
+    "keywords": [
+      "NiPS3",
+      "Zhang-Rice triplet",
+      "NMR",
+      "van der Waals antiferromagnet",
+      "nematic fluctuations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-10T10:15:40",
+    "input_scope": "full_pdf_text"
+  }
+}
