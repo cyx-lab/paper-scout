@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.12221v1",
+    "title": "Quantum dynamic simulation of triplet formation in an effective model of Y6 (BTP-4F)",
+    "authors": [
+      "Isabel Creed",
+      "Lucy J. F. Hart",
+      "Pranay Venkatesh",
+      "Tom Ward",
+      "Jarvist Moore Frost"
+    ],
+    "abstract": "We construct a five-state model for photoexcitation in Y6 (BTP-4F) dimers, and then solve the non-adiabtic dynamics using the Hierarchical Equations of Motion (HEOM) method. We find that triplets are populated mainly via a transiently excited \\textit{intermolecular} charge-transfer singlet to triplet Frenkel exciton route; this route is not available to the monomer. Analysis of one-particle transition density matrices suggests that the charge-transfer states are spatially distinct to the Frenkel exciton states, indicating that the large spin-orbit-coupling for this transition is due to it being permitted by an associated change in orbital character. Aggregation in Y6 therefore directly enables fast and high-yield intersystem crossing. We selenise our model dimers, significantly enhancing spin-orbit-coupling, which then accelerates this charge-transfer mediated route. Looking forwards to simulations on larger aggregates, we show that, though Marcus theory gives qualitatively correct dynamics, the long-time yields are incorrect due to it missing quantum recurrences. Instead, we show that the recently developed memory-kernel projector\\cite{Gestsson2025-ez} method can produce semi-classical rates directly from the HEOM equations which lead to quantitatively correct dynamics and yields.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-10T15:32:33Z",
+    "updated": "2026-06-10T15:32:33Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.12221v1",
+      "pdf_path": "data/pdfs/2026-06-11/3_Quantum dynamic simulation of triplet formation in an effective model of Y6 (BTP-4F)__2606.12221v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.771094",
+    "updated_at": "2026-06-11T02:37:25.771087Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/3_Quantum dynamic simulation of triplet formation in an effective model of Y6 (BTP-4F)__2606.12221v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.12221v1",
+    "pdf_filename": "3_Quantum dynamic simulation of triplet formation in an effective model of Y6 (BTP-4F)__2606.12221v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过 HEOM 模拟揭示了 Y6 二聚体中通过分子间电荷转移态产生三线态的超快动力学机制。",
+      "en": "This study uses HEOM simulations to reveal the ultrafast triplet formation mechanism in Y6 dimers mediated by intermolecular charge-transfer states."
+    },
+    "problem": {
+      "zh": "探究 Y6 分子在固态聚集态下产生三线态的具体物理路径，以及为什么这种路径在单体中不存在。",
+      "en": "Investigating the specific physical pathways of triplet generation in aggregated Y6 molecules and why this route is absent in monomers."
+    },
+    "approach": {
+      "zh": "构建包含 Frenkel 激子和电荷转移态的五能级有效模型，利用分级运动方程 (HEOM) 模拟非绝热动力学，并对比了 Marcus 理论与记忆核投影方法。",
+      "en": "Constructing a five-state effective model with Frenkel excitons and CT states, using Hierarchical Equations of Motion (HEOM) for non-adiabatic dynamics, and comparing Marcus theory with memory-kernel projection methods."
+    },
+    "main_takeaway": {
+      "zh": "Y6 的聚集诱导产生了分子间电荷转移单线态，该中间态通过轨道对称性允许的自旋轨道耦合，成为了通往三线态的主要路径，硒化处理可进一步加速此过程。",
+      "en": "Aggregation in Y6 enables an intermolecular singlet CT state that acts as the primary gateway to triplets via orbital-symmetry-permitted spin-orbit coupling, a process further accelerated by selenization."
+    },
+    "why_it_matters": {
+      "zh": "该发现解释了 Y6 基光电器件中高三线态产率的物理起源，并证明了通过分子包装和重原子取代（如硒化）来调控自旋动力学的可行性。",
+      "en": "The findings explain the physical origin of high triplet yields in Y6-based optoelectronics and demonstrate the feasibility of tuning spin dynamics through molecular packing and heavy-atom substitution."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了分子间电荷转移态在 Y6 三线态生成中的核心作用，并指出了传统 Marcus 理论在预测长时产率方面的局限性。",
+        "en": "It clarifies the central role of intermolecular CT states in Y6 triplet formation and identifies the limitations of traditional Marcus theory in predicting long-time yields."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "The Journal of Chemical Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用了高阶非绝热动力学方法（HEOM）解决复杂的化学物理问题，符合该刊的学术定位。",
+        "en": "The paper employs advanced non-adiabatic dynamics methods (HEOM) to solve complex chemical physics problems, aligning with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Y6 dimers",
+      "Triplet formation",
+      "HEOM",
+      "Intersystem crossing",
+      "Charge-transfer states",
+      "Selenization"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:41:41",
+    "input_scope": "full_pdf_text"
+  }
+}

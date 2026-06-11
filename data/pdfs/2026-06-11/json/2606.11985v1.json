@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.11985v1",
+    "title": "Coupling Chirality, Polar Order, and Altermagnetic Spin Splitting in a Hybrid Manganese Chloride",
+    "authors": [
+      "Li Liang",
+      "Ding Ning",
+      "Mingqiang Gu",
+      "Shanshan Wang",
+      "Alessandro Stroppa"
+    ],
+    "abstract": "Hybrid manganese halides enable the coexistence of molecular chirality, polar order, and magnetic exchange within a single lattice. Here, we combine first-principles calculations with spin-space-group analysis to investigate the synthesized enantiomeric pair [(R)/(S)-MPA]2[MnCl4(H2O)] (MPA = beta-methylphenethylammonium). We predict that its compensated magnetic state hosts altermagnetic spin splitting in the nonrelativistic limit, and that the coupled chiral, polar, and magnetic degrees of freedom define a symmetry-related manifold. From this manifold, we derive simple sign rules for the electronic and magneto-optical response: reversing both chirality and polarity, or reversing the magnetic domain alone, inverts the spin splitting throughout the Brillouin zone, whereas reversing chirality alone or polarity alone changes the spin-splitting sign only in symmetry-selected regions. With spin-orbit coupling, reversing chirality or magnetic order flips the Kerr rotation angle, while changing the polar variant leaves it unchanged. These results reveal a chemically accessible route to translate molecular handedness into symmetry-controlled spin splitting and magneto-optical readout in hybrid manganese halides. Critically, we show that the sign and momentum pattern of the splitting are governed by the interplay of the chiral, polar, and magnetic degrees of freedom. This interplay opens the possibility to control the spin splitting through a judicious design of the organic cations, by modulating their chirality and polarity.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-10T12:08:01Z",
+    "updated": "2026-06-10T12:08:01Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.11985v1",
+      "pdf_path": "data/pdfs/2026-06-11/3_Coupling Chirality, Polar Order, and Altermagnetic Spin Splitting in a Hybrid Manganese Chloride__2606.11985v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.771994",
+    "updated_at": "2026-06-11T02:37:25.771987Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/3_Coupling Chirality, Polar Order, and Altermagnetic Spin Splitting in a Hybrid Manganese Chloride__2606.11985v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.11985v1",
+    "pdf_filename": "3_Coupling Chirality, Polar Order, and Altermagnetic Spin Splitting in a Hybrid Manganese Chloride__2606.11985v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了手性杂化氯化锰中分子手性、极性序与代磁自旋分裂的对称性耦合及调控规律。",
+      "en": "Investigates the symmetry-governed coupling and control of molecular chirality, polar order, and altermagnetic spin splitting in hybrid manganese chlorides."
+    },
+    "problem": {
+      "zh": "探索在手性杂化金属卤化物中，如何通过分子手性、极性变体和磁畴的耦合来对称性地控制代磁自旋分裂及磁光响应。",
+      "en": "Exploring how to symmetrically control altermagnetic spin splitting and magneto-optical responses through the coupling of molecular chirality, polar variants, and magnetic domains in hybrid metal halides."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算与自旋空间群对称性分析，研究实验已合成的[(R)/(S)-MPA]2[MnCl4(H2O)]对映体体系。",
+      "en": "Combining first-principles calculations with spin-space-group symmetry analysis to study the synthesized [(R)/(S)-MPA]2[MnCl4(H2O)] enantiomeric pairs."
+    },
+    "main_takeaway": {
+      "zh": "确立了自旋分裂和克尔响应的符号规则：同时反转手性和极性，或单独反转磁畴，可全局反转自旋分裂；克尔角符号随手性或磁畴反转而改变，但对极性反转不敏感。",
+      "en": "Establishes sign rules for spin splitting and Kerr response: global reversal of spin splitting occurs by reversing both chirality and polarity or the magnetic domain alone, while the Kerr angle flips with chirality or magnetic domain but remains invariant under polar reversal."
+    },
+    "why_it_matters": {
+      "zh": "该研究将分子手性这一化学自由度引入代磁性调控，为设计具有可编程自旋织构和磁光功能的手性杂化材料提供了理论指导。",
+      "en": "It introduces molecular handedness as a chemical degree of freedom to control altermagnetism, providing theoretical guidance for designing chiral hybrid materials with programmable spin textures and magneto-optical functionalities."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在手性杂化材料中建立了分子手性、电极化与代磁自旋分裂之间的明确对称性关联和调控机制。",
+        "en": "Establishes explicit symmetry correlations and control mechanisms between molecular chirality, electric polarization, and altermagnetic spin splitting in hybrid materials for the first time."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文深入探讨了代磁性这一凝聚态物理前沿热点，并结合了手性对称性分析，符合该期刊对物理深度和创新性的要求。",
+        "en": "The paper explores altermagnetism, a frontier topic in condensed matter physics, combined with rigorous symmetry analysis, fitting the journal's standards for physical depth and innovation."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Chiral hybrid halides",
+      "Spin splitting",
+      "Magneto-optical Kerr effect",
+      "Symmetry analysis"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:41:09",
+    "input_scope": "full_pdf_text"
+  }
+}

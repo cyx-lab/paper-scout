@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.12311v1",
+    "title": "Effect of polar distortions on the anomalous Hall conductivity of altermagnetic $α$-MnTe",
+    "authors": [
+      "Mathews Benny",
+      "Sahar Izadi Vishkayi",
+      "Amar Fakhredine",
+      "Chanchal K. Barman",
+      "Carmine Autieri"
+    ],
+    "abstract": "Altermagnetic $α$-MnTe with Néel vector along the $y$-axis exhibits a finite anomalous Hall conductivity (AHC) and weak ferromagnetism along the $z$-axis. As already demonstrated in the bulk, there is the breaking of the C$_6$ symmetry by the in-plane Néel vector, leaving a C$_2$-type magnetic symmetry. The surface of $α$-MnTe breaks the C$_2$, leaving only a time-reversed mirror symmetry with respect to the $x=0$ plane. Therefore, we demonstrate that on the surface, the interplay between breaking of the crystal symmetry and Néel vector orientation produces a reduction of the space group from hexagonal P6$_3$/mmc to orthorhombic Amm2. As a result, the surface exhibits not only a polar distortion along the $z$-axis, but also a polar distortion and a weak ferrimagnetism along the $y$-axis. To describe the surface of MnTe in an accessible way, we simplify the problem and examine the effect of the in-plane electric field in bulk MnTe. Moreover, as a doped ionic semiconductor, the properties of MnTe can be influenced by lattice polarization under an applied electric field. We investigate the interplay between the intrinsic anomalous Hall effect and lattice polarization, showing that polarization effects can substantially affect the AHC. Since the electric field breaks inversion symmetry, this contribution from the lattice polarization coexists with the non-linear anomalous Hall effect, highlighting the rich transport phenomenology of altermagnets.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.other"
+    ],
+    "published": "2026-06-10T16:45:49Z",
+    "updated": "2026-06-10T16:45:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.12311v1",
+      "pdf_path": "data/pdfs/2026-06-11/3_Effect of polar distortions on the anomalous Hall conductivity of altermagnetic $α$-MnTe__2606.12311v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.770701",
+    "updated_at": "2026-06-11T02:37:25.770693Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/3_Effect of polar distortions on the anomalous Hall conductivity of altermagnetic $α$-MnTe__2606.12311v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.12311v1",
+    "pdf_filename": "3_Effect of polar distortions on the anomalous Hall conductivity of altermagnetic $α$-MnTe__2606.12311v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了极化畸变和晶格极化对交错磁体 MnTe 异常霍尔电导率的显著调制作用。",
+      "en": "Investigates the significant modulation of anomalous Hall conductivity in altermagnetic MnTe by polar distortions and lattice polarization."
+    },
+    "problem": {
+      "zh": "解释交错磁体 MnTe 在表面或电场下对称性进一步破缺如何影响其异常霍尔效应，并阐明实验中观测到的输运各向异性来源。",
+      "en": "Explains how further symmetry breaking at the surface or under an electric field affects the anomalous Hall effect in altermagnetic MnTe and clarifies the origin of observed transport anisotropy."
+    },
+    "approach": {
+      "zh": "采用第一性原理计算结合 Wannier 函数方法，模拟表面重构以及电场诱导的离子位移（晶格极化），并计算其对 Berry 曲率和输运性质的影响。",
+      "en": "Uses first-principles calculations combined with Wannier function methods to simulate surface reconstruction and field-induced ionic displacements (lattice polarization), calculating their impact on Berry curvature and transport properties."
+    },
+    "main_takeaway": {
+      "zh": "即使是微小的晶格极化也能显著改变甚至反转异常霍尔电导率的符号，且电场诱导的对称性破缺使得线性与非线性异常霍尔效应共存。",
+      "en": "Even tiny lattice polarizations can significantly alter or even reverse the sign of anomalous Hall conductivity, and field-induced symmetry breaking leads to the coexistence of linear and non-linear anomalous Hall effects."
+    },
+    "why_it_matters": {
+      "zh": "揭示了在离子型交错磁体半导体中，晶格自由度与拓扑输运性质之间存在强耦合，为通过电场调控磁输运提供了理论依据。",
+      "en": "Reveals the strong coupling between lattice degrees of freedom and topological transport in ionic altermagnetic semiconductors, providing a theoretical basis for tuning magnetic transport via electric fields."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "成功解释了实验中异常霍尔效应随电场方向变化的非典型行为，量化了晶格畸变对输运性质的贡献。",
+        "en": "Successfully explains the atypical behavior of the anomalous Hall effect with electric field direction observed in experiments and quantifies the contribution of lattice distortions."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究对特定材料体系的对称性分析和磁输运性质进行了详尽的理论计算，非常符合 PRB 的定位。",
+        "en": "The study provides detailed theoretical calculations of symmetry and magnetic transport properties for a specific material system, fitting PRB's scope perfectly."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Anomalous Hall Effect",
+      "Lattice Polarization",
+      "MnTe",
+      "Symmetry Breaking"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:42:02",
+    "input_scope": "full_pdf_text"
+  }
+}

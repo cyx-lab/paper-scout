@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.11823v1",
+    "title": "Nonlinear Mechanics and Predictable Bifurcation of Multi-Cell Kresling Origami Chains",
+    "authors": [
+      "Songlin Yue",
+      "Leo de Waal",
+      "David Garcia Cava",
+      "Marcelo A. Dias"
+    ],
+    "abstract": "Meta-structures that display axial-twist coupling can be achieved through the emerging kinematics in Kresling origami patterns. A central challenge in these structures is understanding their nonlinear mechanical behaviour, specifically their equilibrium branches and bifurcation diagrams. This involves identifying relationships between desired responses and the geometric variables that define the design space, including the Kresling polygon count, initial twist angle, height, radius, and crease lengths. As the number of constituent units increases in an n-layer chain, we track complex equilibrium branches extending into the post-critical regime under successive instabilities, including branch-point bifurcations and limit-point instabilities. This work begins by establishing the relationship between the geometric design variables and the response curves of the assembled chain by modelling the crease lines as axial-load-carrying elements. Subsequently, equilibrium branches and instabilities are systematically investigated via continuation and bifurcation analysis, beginning with the single-layer system and progressively extending to two- and three-layer configurations. Finally, a generalisation strategy is proposed to extend these findings to an n-layer Kresling chain. This strategy enables the predictive construction of equilibrium paths and the inverse design of multi-layer meta-structures, using prescribed critical points to control post-critical behaviour. It provides a foundation for the inverse design and optimisation of architected mechanical metamaterials with programmable responses.",
+    "categories": [
+      "cond-mat.soft",
+      "cond-mat.mtrl-sci",
+      "physics.class-ph"
+    ],
+    "published": "2026-06-10T08:56:40Z",
+    "updated": "2026-06-10T08:56:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.11823v1",
+      "pdf_path": "data/pdfs/2026-06-11/3_Nonlinear Mechanics and Predictable Bifurcation of Multi-Cell Kresling Origami Chains__2606.11823v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.772676",
+    "updated_at": "2026-06-11T02:37:25.772669Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/3_Nonlinear Mechanics and Predictable Bifurcation of Multi-Cell Kresling Origami Chains__2606.11823v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.11823v1",
+    "pdf_filename": "3_Nonlinear Mechanics and Predictable Bifurcation of Multi-Cell Kresling Origami Chains__2606.11823v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了多层 Kresling 折纸链在压缩过程中的非线性力学演化规律及其可预测的分叉结构。",
+      "en": "This study reveals the nonlinear mechanical evolution and predictable bifurcation structures of multi-cell Kresling origami chains under axial compression."
+    },
+    "problem": {
+      "zh": "随着 Kresling 折纸链层数的增加，其非线性平衡路径、分叉点以及多稳态行为变得极其复杂，难以进行系统性预测和逆向设计。",
+      "en": "As the number of layers in Kresling origami chains increases, the nonlinear equilibrium paths, bifurcation points, and multistable behaviors become extremely complex, hindering systematic prediction and inverse design."
+    },
+    "approach": {
+      "zh": "将折纸折痕建模为轴向承载桁架，利用延拓与分叉分析软件系统追踪单层至多层系统的平衡分支，并提出一种将 n 层系统简化为五种离散状态组合的泛化策略。",
+      "en": "The study models creases as axial trusses and uses continuation and bifurcation analysis to track equilibrium branches from single to multi-layer systems, proposing a generalization strategy that reduces n-layer systems to combinations of five discrete states."
+    },
+    "main_takeaway": {
+      "zh": "多层 Kresling 链的分叉点和汇合点在应变空间中遵循特定的线性轨迹和均匀间距规律，这使得通过几何参数直接预测复杂的后屈曲响应成为可能。",
+      "en": "Bifurcation and coalescence points in multi-layer Kresling chains follow specific linear trajectories and uniform spacing in the strain space, enabling direct prediction of complex post-buckling responses from geometric parameters."
+    },
+    "why_it_matters": {
+      "zh": "该研究为开发具有可编程刚度、多稳态和能量吸收特性的机械超材料提供了理论框架，特别是为多层结构的逆向设计提供了高效工具。",
+      "en": "This research provides a theoretical framework for developing mechanical metamaterials with programmable stiffness, multistability, and energy absorption, offering efficient tools for the inverse design of multi-layer structures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功将复杂的多自由度折纸分叉问题转化为具有高度规律性的几何轨迹描述，极大简化了多层超材料的力学分析。",
+        "en": "It successfully transforms complex multi-degree-of-freedom origami bifurcation problems into highly regular geometric trajectories, greatly simplifying the mechanical analysis of multi-layer metamaterials."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Journal of the Mechanics and Physics of Solids",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文深入探讨了固体力学中的非线性分叉理论与折纸超材料的结合，符合该期刊的学术定位。",
+        "en": "The paper provides an in-depth exploration of nonlinear bifurcation theory combined with origami metamaterials in solid mechanics, aligning with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Kresling origami",
+      "Nonlinear mechanics",
+      "Bifurcation analysis",
+      "Multistability",
+      "Mechanical metamaterials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:38:42",
+    "input_scope": "full_pdf_text"
+  }
+}

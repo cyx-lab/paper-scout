@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.11802v1",
+    "title": "Bulk-like Compressibility of the Au-Au Metallic Bond in the Atomically Precise $\\mathrm{Au}_{25}$ Cluster",
+    "authors": [
+      "Camino Martín-Sánchez",
+      "Khadijetou Ahmed Ethmane",
+      "Nicholas Giamboni",
+      "Latévi Max Lawson Daku",
+      "Céline Besnard",
+      "Thomas Bürgi"
+    ],
+    "abstract": "We present a high-pressure single-crystal X-ray diffraction study of the atomically precise $\\mathrm{Au}_{25}(\\mathrm{PET})_{18}^{q}$ cluster ($q=-1,0$) up to 10 GPa under strictly hydrostatic conditions. Our crystallographic analysis provides direct evidence for the pressure-induced phase transitions previously suggested by spectroscopic studies. Structural refinements reveal that the cluster accommodates compression through the reorganization of the flexible ligand shell and secondary distortions of the staple motifs, while the $\\mathrm{Au}_{13}$ icosahedral core remains intact. Notably, the internal Au-Au distances exhibit a monotonic contraction that quantitatively mirrors the compressibility of bulk gold. This invariant rigidity at the sub-nanometer scale demonstrates that the fundamental stiffness of the metallic bond is preserved regardless of size. Our findings reconcile previous contradictions in the elasticity of metal nanostructures by isolating the intrinsic mechanical response of the gold kernel from extrinsic structural and experimental artifacts.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-10T08:34:53Z",
+    "updated": "2026-06-10T08:34:53Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:icosahedral"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.11802v1",
+      "pdf_path": "data/pdfs/2026-06-11/4_Bulk-like Compressibility of the Au-Au Metallic Bond in the Atomically Precise $mathrm{Au}_{25}$ Cluster__2606.11802v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.772752",
+    "updated_at": "2026-06-11T02:37:25.772743Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/4_Bulk-like Compressibility of the Au-Au Metallic Bond in the Atomically Precise $mathrm{Au}_{25}$ Cluster__2606.11802v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.11802v1",
+    "pdf_filename": "4_Bulk-like Compressibility of the Au-Au Metallic Bond in the Atomically Precise $mathrm{Au}_{25}$ Cluster__2606.11802v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "高压单晶X射线衍射研究表明，Au25团簇的13原子金核在亚纳米尺度下仍保持与块体金一致的压缩率。",
+      "en": "High-pressure SC-XRD study reveals that the 13-atom gold core of Au25 clusters maintains bulk-like compressibility at the sub-nanometer scale."
+    },
+    "problem": {
+      "zh": "探究原子级精确金属团簇在高压下的结构演变，以及金属键的刚性在亚纳米极限下是否会发生改变。",
+      "en": "Investigating the structural evolution of atomically precise metal clusters under pressure and whether metallic bond stiffness changes at the sub-nanometer limit."
+    },
+    "approach": {
+      "zh": "利用金刚石对顶砧进行高达10 GPa的高压单晶X射线衍射，结合结构精修和周期性DFT计算来追踪原子间距离的变化。",
+      "en": "Using diamond anvil cells for high-pressure single-crystal X-ray diffraction up to 10 GPa, combined with structural refinement and periodic DFT to track interatomic distances."
+    },
+    "main_takeaway": {
+      "zh": "Au25团簇通过配体壳层重组和保护基团畸变来适应压力，而其内部金核的压缩系数与块体金定量一致，证明了金属键刚性的尺寸不变性。",
+      "en": "The Au25 cluster accommodates pressure through ligand shell reorganization and staple distortion, while its internal gold kernel exhibits a contraction rate quantitatively consistent with bulk gold, proving size-invariant metallic bond stiffness."
+    },
+    "why_it_matters": {
+      "zh": "该研究通过直接的结构证据解决了关于纳米金属弹性的长期争议，为理解亚纳米尺度下的金属机械性能提供了基准。",
+      "en": "This study resolves a long-standing debate on nanoscale metal elasticity with direct structural evidence, providing a benchmark for mechanical properties at the sub-nanometer scale."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在原子尺度上直接观测到金核的块体级压缩行为，排除了以往纳米颗粒研究中常见的非静水压和结构缺陷干扰。",
+        "en": "First direct atomic-scale observation of bulk-like compression in a gold kernel, excluding common artifacts like non-hydrostatic stress and structural defects found in previous nanoparticle studies."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Journal of the American Chemical Society",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及原子级精确团簇的精密合成、高压结构表征以及对基本物理化学性质的深刻揭示。",
+        "en": "The study involves precise synthesis of atomically precise clusters, sophisticated high-pressure structural characterization, and reveals fundamental physicochemical properties."
+      }
+    },
+    "keywords": [
+      "Au25(PET)18",
+      "High Pressure",
+      "Single-Crystal XRD",
+      "Bulk Modulus",
+      "Metallic Bond",
+      "Nanoclusters"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:38:27",
+    "input_scope": "full_pdf_text"
+  }
+}

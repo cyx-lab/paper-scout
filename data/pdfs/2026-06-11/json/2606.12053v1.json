@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.12053v1",
+    "title": "Heisenberg-Langevin theory of an exciton mirror",
+    "authors": [
+      "Sergueï V. Andreev"
+    ],
+    "abstract": "We develop a Heisenberg-Langevin theory of an exciton mirror accounting for the retardation and the long-range electron-hole exchange. A particular case of a strong transverse magnetic field is analyzed in detail. The optical bistability due to repulsion between the excitons inside the light cone appears to be prone to a modulational instability towards the non-radiative surface polariton modes. Above the corresponding threshold, the pumped 2D exciton gas acts as an optical parametric generator of twin polariton beams. Conversely, below the threshold, the mirror acquires the phase-conjugating properties.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.quant-gas"
+    ],
+    "published": "2026-06-10T13:17:03Z",
+    "updated": "2026-06-10T13:17:03Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.12053v1",
+      "pdf_path": "data/pdfs/2026-06-11/3_Heisenberg-Langevin theory of an exciton mirror__2606.12053v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.771790",
+    "updated_at": "2026-06-11T02:37:25.771782Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/3_Heisenberg-Langevin theory of an exciton mirror__2606.12053v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.12053v1",
+    "pdf_filename": "3_Heisenberg-Langevin theory of an exciton mirror__2606.12053v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "建立激子反射镜的 Heisenberg-Langevin 理论，揭示了光学双稳态向非辐射表面极化激元模式的调制不稳定性。",
+      "en": "Develops a Heisenberg-Langevin theory for exciton mirrors, revealing a modulational instability of optical bistability towards non-radiative surface polariton modes."
+    },
+    "problem": {
+      "zh": "现有的激子反射镜理论在描述非线性现象时，往往忽略了延迟效应和长程电子-空穴交换，导致难以解释实验中稳态双稳态滞后环缺失的问题。",
+      "en": "Existing theories of exciton mirrors often neglect retardation and long-range electron-hole exchange, failing to explain the absence of steady-state bistable hysteresis in experiments."
+    },
+    "approach": {
+      "zh": "利用 Heisenberg-Langevin 方程结合输入-输出形式，将延迟效应、长程交换（TE-TM 分裂）以及激子间的排斥相互作用纳入统一的量子动力学框架。",
+      "en": "Uses Heisenberg-Langevin equations combined with input-output formalism to incorporate retardation, long-range exchange (TE-TM splitting), and exciton-exciton repulsion into a unified quantum dynamical framework."
+    },
+    "main_takeaway": {
+      "zh": "光锥内的激子双稳态是不稳定的，会自发衰减为非辐射表面极化激元；在阈值以上，系统可作为孪生极化激元束发生器，阈值以下则表现出相位共轭特性。",
+      "en": "Exciton bistability within the light cone is unstable and decays into non-radiative surface polaritons; above a threshold, the system acts as a twin polariton beam generator, while below it, it exhibits phase-conjugating properties."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解二维材料中的集体非线性光学现象提供了理论基础，并为开发原子级薄的量子光学器件（如参数放大器和光学存储单元）指明了方向。",
+      "en": "The study provides a theoretical foundation for understanding collective nonlinear optical phenomena in 2D materials and suggests routes for developing atomically thin quantum optical devices like parametric amplifiers and optical memory cells."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该论文澄清了激子反射镜中双稳态难以观测的物理机制，并预测了基于表面极化激元的新量子光学效应。",
+        "en": "The paper clarifies the physical mechanism behind the difficulty of observing bistability in exciton mirrors and predicts new quantum optical effects based on surface polaritons."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对当前二维半导体光学研究的热点问题提出了原创性的理论框架和新物理预测。",
+        "en": "The study proposes an original theoretical framework and new physical predictions for hot topics in 2D semiconductor optics."
+      }
+    },
+    "keywords": [
+      "Exciton mirror",
+      "Heisenberg-Langevin theory",
+      "Optical bistability",
+      "Surface polaritons",
+      "Twin beams",
+      "Phase conjugation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:41:22",
+    "input_scope": "full_pdf_text"
+  }
+}

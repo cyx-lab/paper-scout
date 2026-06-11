@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2606.11862v1",
+    "title": "Ferroelectric Altermagnetic Chern Insulator in magnetic field: electrical control of the Chern number",
+    "authors": [
+      "Meysam Bagheri Tagani",
+      "Carmine Autieri"
+    ],
+    "abstract": "The quantum anomalous Hall effect in altermagnets is difficult to realize because spin-up and spin-down states remain degenerate at the $Γ$ point in the nonrelativistic limit. We start from the Bernevig-Hughes-Zhang model to incorporate nontrivial band topology. We demonstrate that the combined effects of an external magnetic field, spin canting, and ferroelectric orbital hybridization lift the degeneracy at the $Γ$ point, enabling electric-field control of the Chern number. A minimal two-dimensional d-wave altermagnetic model with band inversion then realizes a ferroelectrically tunable Chern insulator with spontaneous spin canting. The ferroelectric polarization controls the topological phase and the orbital angular momentum, enabling a rich phase diagram with C = $\\pm 1$ and C = $\\pm 2$ through a Berry-curvature reorganization linked to the spin canting response and ferroelectricity. Our results establish a symmetry-consistent route to electrically tunable Chern insulating phases in altermagnetic materials, opening opportunities for low-power topological and orbitronic devices.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-10T09:37:11Z",
+    "updated": "2026-06-10T09:37:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.11862v1",
+      "pdf_path": "data/pdfs/2026-06-11/3_Ferroelectric Altermagnetic Chern Insulator in magnetic field electrical control of the Chern number__2606.11862v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.772603",
+    "updated_at": "2026-06-11T02:37:25.772593Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/3_Ferroelectric Altermagnetic Chern Insulator in magnetic field electrical control of the Chern number__2606.11862v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.11862v1",
+    "pdf_filename": "3_Ferroelectric Altermagnetic Chern Insulator in magnetic field electrical control of the Chern number__2606.11862v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究展示了如何通过铁电极化和自旋倾斜在交错磁体中实现陈数的电学控制。",
+      "en": "The study demonstrates the electrical control of Chern numbers in altermagnets through the interplay of ferroelectricity and spin canting."
+    },
+    "problem": {
+      "zh": "交错磁体在非相对论极限下 Γ 点存在自旋简并，这阻碍了量子反常霍尔效应所需的完整拓扑能隙的打开。",
+      "en": "Altermagnets maintain spin degeneracy at the Γ point in the nonrelativistic limit, which prevents the opening of a full topological gap required for the quantum anomalous Hall effect."
+    },
+    "approach": {
+      "zh": "基于 BHZ 模型构建二维 d 波交错磁性模型，并引入外部磁场诱导的自旋倾斜和铁电轨道杂化项进行理论分析。",
+      "en": "Constructing a 2D d-wave altermagnetic model based on the BHZ Hamiltonian, incorporating spin canting and ferroelectric orbital hybridization for theoretical analysis."
+    },
+    "main_takeaway": {
+      "zh": "铁电极化通过重新分配贝里曲率，可作为调节参数在 C=1 和 C=2 等不同拓扑相之间进行电学切换。",
+      "en": "Ferroelectric polarization acts as a tuning parameter to electrically switch between different topological phases, such as C=1 and C=2, by reorganizing Berry curvature."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在无宏观磁化的材料中实现可调拓扑物态提供了新路径，对开发低功耗拓扑电子学和轨道电子学器件具有重要价值。",
+      "en": "The study provides a new route to realize tunable topological states in materials without macroscopic magnetization, which is valuable for low-power topological and orbitronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章清晰地阐明了铁电性、自旋倾斜与交错磁性如何协同作用以打破对称性并产生可调控的拓扑能隙。",
+        "en": "The paper clearly elucidates how ferroelectricity, spin canting, and altermagnetism cooperate to break symmetries and generate a tunable topological gap."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "交错磁体是当前凝聚态物理的热点，且文章提出了具有普适意义的电控拓扑相变机制。",
+        "en": "Altermagnetism is a current hotspot in condensed matter physics, and the paper proposes a universally significant mechanism for electrically controlled topological phase transitions."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Ferroelectricity",
+      "Chern Insulator",
+      "Quantum Anomalous Hall Effect",
+      "Orbitronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:40:51",
+    "input_scope": "full_pdf_text"
+  }
+}

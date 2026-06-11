@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.11777v1",
+    "title": "Berry-phase-based Topological Charge in Quasicrystals and their Observable Features in Photonic System",
+    "authors": [
+      "Ziyi Chen",
+      "Jinyu Zou",
+      "Jinhua Gao",
+      "Gang xu"
+    ],
+    "abstract": "Topological charges based on Berry phase play the fundamental role in the topological physics. However, such topological charges remain unexplored in quasicrystals, impeding the systematic understanding of topological states in such quasiperiodic systems. In this work, by deriving all the allowed topological charges according to group representation theory and the corresponding low-energy effective Hamiltonians, we establish a universal framework for Berry-phase-based topological charges in two-dimensional quasicrystals. Taking the $C_{8v}$ quasicrystal as an example, we demonstrate and characterize a higher topological charge of $C=4$, which is inaccessible in conventional periodic systems. Applying our framework to photonic quasicrystals, we uncover that the circling of photon momentum around the charge gives a $C$ times winding of the electromagnetic field distribution pattern. Such observable feature provides a direct experimental method to probe the topological charges. Our work paves the way for exploring topological charges in quasiperiodic matter, and fundamentally bridges periodic and quasiperiodic topological band theories.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-10T08:04:57Z",
+    "updated": "2026-06-10T08:04:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasicrystal",
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.11777v1",
+      "pdf_path": "data/pdfs/2026-06-11/4_Berry-phase-based Topological Charge in Quasicrystals and their Observable Features in Photonic System__2606.11777v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-11T02:37:25.772787",
+    "updated_at": "2026-06-11T02:37:25.772778Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-11/4_Berry-phase-based Topological Charge in Quasicrystals and their Observable Features in Photonic System__2606.11777v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.11777v1",
+    "pdf_filename": "4_Berry-phase-based Topological Charge in Quasicrystals and their Observable Features in Photonic System__2606.11777v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文建立了准晶中基于贝里相位的拓扑电荷通用框架，并发现了超越晶体限制的高阶拓扑电荷。",
+      "en": "This work establishes a universal framework for Berry-phase-based topological charges in quasicrystals and identifies higher charges exceeding crystalline limits."
+    },
+    "problem": {
+      "zh": "传统晶体受旋转对称性限制，其拓扑电荷数值较低；而准晶中基于贝里相位的拓扑电荷定义及其在有效能带中的表现尚不明确。",
+      "en": "Crystalline systems are limited to low topological charges by rotational symmetry, and Berry-phase-based charges in quasicrystal effective bands remain unexplored."
+    },
+    "approach": {
+      "zh": "利用群表示论和有效能带理论，构建了二维准晶的低能有效哈密顿量，并结合光子准晶模型进行了数值模拟与特征分析。",
+      "en": "Using group representation theory and effective band theory to construct low-energy Hamiltonians for 2D quasicrystals, combined with photonic simulations."
+    },
+    "main_takeaway": {
+      "zh": "准晶可以承载比晶体更高的拓扑电荷（如C=4），且最大电荷数由旋转对称性的阶数决定；在光子系统中，动量环绕电荷一周会导致实空间场分布图案旋转C次。",
+      "en": "Quasicrystals can host higher topological charges (e.g., C=4) than crystals, determined by rotational symmetry order; in photonic systems, the real-space field pattern repeats C times as momentum circles the charge."
+    },
+    "why_it_matters": {
+      "zh": "该研究填补了准晶拓扑能带理论的空白，将贝里曲率概念推广至非周期系统，并为在人工微结构中探测高阶拓扑态提供了实验方案。",
+      "en": "It fills a gap in quasicrystal topological band theory, extends Berry curvature to non-periodic systems, and provides experimental schemes for probing high-order topological states."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "系统性地定义了准晶中的贝里相位拓扑电荷，打破了晶体对称性对电荷数值的限制，并建立了理论与实验观测的桥梁。",
+        "en": "Systematically defines Berry-phase topological charges in quasicrystals, breaks crystalline charge limits, and bridges theory with experimental observation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文涉及凝聚态拓扑物理的基础理论突破，且对光子学等人工系统具有明确的指导意义。",
+        "en": "The paper presents a fundamental theoretical breakthrough in topological physics with clear implications for artificial systems like photonics."
+      }
+    },
+    "keywords": [
+      "准晶",
+      "拓扑电荷",
+      "贝里相位",
+      "光子准晶",
+      "旋转对称性",
+      "有效能带理论"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-11T10:37:51",
+    "input_scope": "full_pdf_text"
+  }
+}
