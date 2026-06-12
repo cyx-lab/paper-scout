@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2606.13424v1",
+    "title": "Dopant-induced modifications of the optical properties of GaSe",
+    "authors": [
+      "Jakub Sójka",
+      "Katarzyna Olkowska-Pucko",
+      "Kacper Walczyk",
+      "Zakhar R. Kudrynskyi",
+      "Volodymyr Boledzjuk",
+      "Adam Babiński",
+      "Maciej R. Molas",
+      "Grzegorz Krasucki"
+    ],
+    "abstract": "Doping plays a crucial role in tailoring the electronic, optical, and magnetic properties of semiconductors, enabling control of carrier dynamics and the formation of functional states for optoelectronic applications. We investigate the influence of Fe dopants on the optical properties of GaSe crystals using photoluminescence (PL) spectroscopy under varying excitation power, temperature, and magnetic field. Fe incorporation introduces multiple sharp emission lines in addition to intrinsic excitonic transitions, including free and localised excitons. Power- and temperature-dependent measurements indicate that these emission features are associated with Fe-related dopant centres (Fe-bound excitons). Magneto-PL measurements reveal two distinct families of $g$-factors, enabling the identification of intrinsic excitonic transitions and Fe-induced defect states. These results demonstrate that Fe doping creates optically and magnetically active centres in GaSe, providing insight into defect-related excitonic processes and their potential relevance for magneto-optoelectronic and quantum photonic applications.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-11T14:53:29Z",
+    "updated": "2026-06-11T14:53:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.13424v1",
+      "pdf_path": "data/pdfs/2026-06-12/3_Dopant-induced modifications of the optical properties of GaSe__2606.13424v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-12T02:32:29.845361",
+    "updated_at": "2026-06-12T02:32:29.845354Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-12/3_Dopant-induced modifications of the optical properties of GaSe__2606.13424v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.13424v1",
+    "pdf_filename": "3_Dopant-induced modifications of the optical properties of GaSe__2606.13424v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了铁掺杂在层状半导体 GaSe 中诱导产生的束缚激子发射线及其独特的磁光响应特性。",
+      "en": "This study reveals Fe-dopant-induced bound exciton emission lines and their unique magneto-optical responses in layered GaSe semiconductors."
+    },
+    "problem": {
+      "zh": "尽管 GaSe 的本征激子性质已被广泛研究，但过渡金属掺杂（如铁）如何具体影响其缺陷态、激子动力学及磁光特性仍不清楚。",
+      "en": "While intrinsic excitons in GaSe are well-studied, the specific impact of transition metal dopants like Fe on defect states, exciton dynamics, and magneto-optical properties remains largely unexplored."
+    },
+    "approach": {
+      "zh": "利用布里奇曼法生长 Fe 掺杂 GaSe 晶体，通过变功率、变温及高达 10 T 的强磁场光致发光（PL）光谱进行系统表征。",
+      "en": "Fe-doped GaSe crystals were grown using the Bridgman method and characterized via power-, temperature-, and high-magnetic-field (up to 10 T) photoluminescence (PL) spectroscopy."
+    },
+    "main_takeaway": {
+      "zh": "铁掺杂在 GaSe 中引入了多条尖锐的缺陷相关发射线，这些发射线表现出从单激子到双激子的多种复合机制，并具有两组独特的 g 因子（约 -2.3 和 -1.1）。",
+      "en": "Fe doping introduces multiple sharp defect-related emission lines in GaSe, exhibiting various recombination mechanisms from single to bi-excitons and two distinct families of g-factors (approximately -2.3 and -1.1)."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了通过掺杂可以有效调控范德华半导体的光学和磁学活性中心，为磁光器件和量子光子学应用提供了新思路。",
+      "en": "The findings demonstrate that doping can effectively engineer optically and magnetically active centers in van der Waals semiconductors, offering new avenues for magneto-optoelectronic and quantum photonic applications."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "详细表征了 Fe 掺杂在 GaSe 中产生的复杂激子光谱，并首次发现了两组不同于本征值的 g 因子。",
+        "en": "The study provides a detailed characterization of complex exciton spectra in Fe-doped GaSe and identifies two sets of g-factors distinct from intrinsic values."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文包含系统的低温磁光实验数据和深入的激子物理分析，非常符合该期刊的风格。",
+        "en": "The paper contains systematic low-temperature magneto-optical data and in-depth exciton physics analysis, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "GaSe",
+      "Fe doping",
+      "Bound excitons",
+      "Magneto-photoluminescence",
+      "g-factor",
+      "2D materials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-12",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-12T10:34:10",
+    "input_scope": "full_pdf_text"
+  }
+}

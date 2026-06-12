@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2606.13395v1",
+    "title": "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb",
+    "authors": [
+      "Yan Zhang",
+      "Yixuan Luo",
+      "Yue Yang",
+      "Zilong Li",
+      "Weilong Qiu",
+      "Lunhui Hu",
+      "Yuanfeng Xu",
+      "Yanfeng Guo",
+      "Chao Cao",
+      "Xin Lu"
+    ],
+    "abstract": "Altermagnetic materials have recently emerged as promising candidates for next-generation spintronic applications, characterized by the k-dependent spin-splitted band structure and a simultaneous zero-net-magnetization. Among them, altermagnetic candidate CrSb has attracted considerable attention, owing to its g-wave spin splitting and high Néel temperature. In this article, we employed mechanical point-contact spectroscopy (MPCS) with superconducting Nb tips to probe the Andreev reflection on CrSb single crystals along three principal crystallographic orientations. The extracted momentum-dependent spin polarizations are approximately 73.4% for the (0001) plane, 67.9% for the (-1-120) plane, and 61.9% for the (10-10) plane, respectively, distinct from conventional antiferromagnets. Furthermore, conductance spectra from spatial line-scans on the sample surface support the existence of altermagnetic domains with a characteristic size of 250-500 nm separated by domain-walls with width about 250 nm. These results strongly support the momentum-dependent spin polarization in altermagnetic CrSb and establish Andreev reflection as a new paradigm to probe k-dependent spin textures.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-11T14:25:14Z",
+    "updated": "2026-06-11T14:25:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.13395v1",
+      "pdf_path": "data/pdfs/2026-06-12/3_Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb__2606.13395v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-12T02:32:29.845592",
+    "updated_at": "2026-06-12T02:32:29.845585Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-12/3_Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb__2606.13395v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.13395v1",
+    "pdf_filename": "3_Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb__2606.13395v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过机械点接触谱（MPCS）实验，证实了反铁磁材料 CrSb 中存在动量依赖的自旋极化及畴结构。",
+      "en": "Experimental confirmation of momentum-dependent spin polarization and domain structures in the altermagnetic candidate CrSb using mechanical point-contact spectroscopy (MPCS)."
+    },
+    "problem": {
+      "zh": "如何有效探测反铁磁材料（特别是交错磁体）中动量依赖的自旋极化，并克服传统 ARPES 测量中因大光斑导致的畴平均效应。",
+      "en": "How to effectively probe momentum-dependent spin polarization in altermagnets while overcoming domain-averaging effects inherent in large-spot ARPES measurements."
+    },
+    "approach": {
+      "zh": "利用超导 Nb 尖端对 CrSb 单晶进行机械点接触谱（MPCS）测量，结合修正的 BTK 模型提取自旋极化率，并通过空间扫描探测畴结构。",
+      "en": "Employing mechanical point-contact spectroscopy (MPCS) with superconducting Nb tips on CrSb single crystals, using a modified BTK model to extract spin polarization, and performing spatial line-scans to map domain structures."
+    },
+    "main_takeaway": {
+      "zh": "CrSb 表现出显著的动量依赖自旋极化（约 62%-73%），且 MPCS 能够有效区分不同畴区，证实了其作为交错磁体的特性。",
+      "en": "CrSb exhibits significant momentum-dependent spin polarization (approx. 62%-73%), and MPCS effectively resolves local domain structures, confirming its altermagnetic nature."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了 Andreev 反射作为探测交错磁体动量依赖自旋织构的新范式，为自旋电子学应用提供了实验依据。",
+      "en": "This work establishes Andreev reflection as a new paradigm for probing momentum-dependent spin textures in altermagnets, providing experimental support for future spintronic applications."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次通过点接触谱实验定量测量了 CrSb 的动量依赖自旋极化，并成功解析了其微观畴结构。",
+        "en": "First quantitative experimental measurement of momentum-dependent spin polarization in CrSb via point-contact spectroscopy, successfully resolving its microscopic domain structure."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及当前凝聚态物理的热点领域（交错磁体），且采用了高精度的实验手段，符合 PRL 的发表风格。",
+        "en": "The research addresses a hot topic in condensed matter physics (altermagnetism) and employs high-precision experimental techniques, fitting the profile of PRL."
+      }
+    },
+    "keywords": [
+      "CrSb",
+      "交错磁体",
+      "点接触谱",
+      "Andreev反射",
+      "自旋极化"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-12",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-12T10:33:55",
+    "input_scope": "full_pdf_text"
+  }
+}

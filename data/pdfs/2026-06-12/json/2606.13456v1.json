@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.13456v1",
+    "title": "Real-Time Visualization of the Spatiotemporal Dynamics of 3D Solitons",
+    "authors": [
+      "XinGe Liu",
+      "Chaoyang Geng",
+      "Yunhan Yu",
+      "Lixia Xi",
+      "Xiaoguang Zhang",
+      "Xiaosheng Xiao"
+    ],
+    "abstract": "Three-dimensional (3D) optical solitons bear far stronger relevance to multi-dimensional nonlinear dynamics prevalent in complex physical, chemical and biological systems than conventional 1D solitons, and they support far richer and more intricate phenomena arising from their spatiotemporal degrees of freedom. However, real-time recording of 3D soliton evolution with simultaneous spatiotemporal resolution remains a critical challenging. Here, we demonstrate long-term real-time visualization of 3D soliton dynamics with spatiotemporal resolution using high-speed photodetectors combined with joint space- and time-division multiplexing. We visually capture complex transient behaviors of 3D solitons in a multimode fiber laser and, by integrating our method with the time-stretch technique, simultaneously record pulse-resolved beam and spectral evolutions. We observe that during the birth of 3D solitons, the highly multimode beam stabilizes for a substantial interval prior to spectral broadening, indicating that a large number of transverse modes have already locked before longitudinal mode proliferation. These findings highlight the critical importance of real-time spatiotemporal visualization for advancing ultrafast multimode laser design and delivering new insights into high-dimensional nonlinear dynamics.",
+    "categories": [
+      "physics.optics",
+      "nlin.PS"
+    ],
+    "published": "2026-06-11T15:13:25Z",
+    "updated": "2026-06-11T15:13:25Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.13456v1",
+      "pdf_path": "data/pdfs/2026-06-12/2_Real-Time Visualization of the Spatiotemporal Dynamics of 3D Solitons__2606.13456v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-12T02:32:29.845181",
+    "updated_at": "2026-06-12T02:32:29.845173Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-12/2_Real-Time Visualization of the Spatiotemporal Dynamics of 3D Solitons__2606.13456v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.13456v1",
+    "pdf_filename": "2_Real-Time Visualization of the Spatiotemporal Dynamics of 3D Solitons__2606.13456v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用空间采样与时分复用技术实现了多模光纤激光器中三维孤子动力学的实时时空可视化。",
+      "en": "Real-time spatiotemporal visualization of 3D soliton dynamics in multimode fiber lasers is achieved using array-based spatial sampling and time-division multiplexing."
+    },
+    "problem": {
+      "zh": "传统探测技术难以在保持高时空分辨率的同时，长时程实时记录三维孤子在多模光纤激光器中的演化过程。",
+      "en": "Conventional detection techniques struggle to record the evolution of 3D solitons in multimode fiber lasers with simultaneous high spatiotemporal resolution over long durations."
+    },
+    "approach": {
+      "zh": "提出基于阵列的空间采样与时分复用（ASTM）技术，并结合色散傅里叶变换（DFT），通过单高速光电探测器重建逐圈的光束轮廓和光谱。",
+      "en": "Proposed array-based spatial sampling with time-division multiplexing (ASTM) combined with dispersive Fourier transformation (DFT) to reconstruct roundtrip-resolved beam profiles and spectra using high-speed photodetectors."
+    },
+    "main_takeaway": {
+      "zh": "在三维孤子产生过程中，横模在光谱展宽（纵模锁定）之前就已经完成了锁定并趋于稳定，揭示了时空锁模建立的新机制。",
+      "en": "During the birth of 3D solitons, transverse modes stabilize and lock significantly before the onset of spectral broadening (longitudinal mode locking), revealing a new mechanism in the buildup of spatiotemporal mode-locking."
+    },
+    "why_it_matters": {
+      "zh": "该研究为高维非线性动力学提供了关键探测工具，并为高性能超快多模激光器的设计提供了物理指导。",
+      "en": "This study provides a critical diagnostic tool for high-dimensional nonlinear dynamics and offers physical guidance for the design of high-performance ultrafast multimode lasers."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "开发了全新的实时时空成像方法，并首次直接观测到三维孤子形成过程中横模先于纵模锁定的物理现象。",
+        "en": "Developed a novel real-time spatiotemporal imaging method and provided the first direct observation of transverse modes locking before longitudinal modes during 3D soliton formation."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作解决了非线性光学领域长期存在的实时时空探测难题，具有极高的学术影响力和通用性。",
+        "en": "The work addresses a long-standing challenge in real-time spatiotemporal detection in nonlinear optics, offering high impact and broad applicability."
+      }
+    },
+    "keywords": [
+      "3D solitons",
+      "spatiotemporal mode-locking",
+      "multimode fiber laser",
+      "real-time visualization",
+      "nonlinear dynamics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-12",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-12T10:34:18",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.12914v1",
+    "title": "Quantum charge pumping in helical systems: A comparative study of short- and long-range hopping",
+    "authors": [
+      "Leila Eslami",
+      "Santanu K. Maiti",
+      "Fatemeh Bourbour"
+    ],
+    "abstract": "Using the Keldysh non-equilibrium Green's function approach, we investigate charge pumping through a single-stranded helical structure described by a tight-binding model that includes either short-range hopping (SRH) or long-range hopping (LRH). While quantum pumping has been studied in various low-dimensional systems, the detailed behavior of the spectral current and the pumped dc current in helical geometries in the presence of higher-order electron hopping (beyond nearest neighbors) has not yet been systematically explored. Here, we focus on the interplay between helicity and extended hopping ranges, analyzing how they jointly control the energy-resolved and dc pumped currents under time-periodic end potentials. For LRH, the pumped dc current exhibits pronounced plateau-like regions as a function of chemical potential when energy levels are sparsely spaced -- consistent with adiabatic transport -- whereas SRH yields more parameter-sensitive currents without clear plateaus. The plateau stability is controlled by the drive frequency: at higher frequencies, Floquet side-band mixing destroys the plateaus, leading to oscillatory currents. The phase dependence remains nearly sinusoidal, and the current vanishes at zero phase lag, confirming the necessity of out-of-phase potentials. Crucially, in helical systems, the decay exponent $(\\ell_c)$ acts as an effective structural parameter that can tune both the magnitude and sign of the pumped current, offering a geometric knob for controlling quantum pumping. Our findings not only fill a gap in the understanding of spectral and pumped currents in helical systems with extended hopping but also provide tools that can be applied to analyze similar phenomena in other chiral or quasi-one-dimensional systems.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.app-ph",
+      "quant-ph"
+    ],
+    "published": "2026-06-11T05:16:14Z",
+    "updated": "2026-06-11T05:16:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "thouless_pump:charge pump"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.12914v1",
+      "pdf_path": "data/pdfs/2026-06-12/3_Quantum charge pumping in helical systems A comparative study of short- and long-range hopping__2606.12914v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-12T02:32:29.846802",
+    "updated_at": "2026-06-12T02:32:29.846794Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-12/3_Quantum charge pumping in helical systems A comparative study of short- and long-range hopping__2606.12914v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.12914v1",
+    "pdf_filename": "3_Quantum charge pumping in helical systems A comparative study of short- and long-range hopping__2606.12914v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了螺旋分子中长程跳跃（LRH）与短程跳跃（SRH）对量子电荷泵浦效应的影响，发现长程跳跃能显著增强泵浦电流的鲁棒性并提供几何调控手段。",
+      "en": "This paper investigates the impact of long-range hopping (LRH) versus short-range hopping (SRH) on quantum charge pumping in helical molecules, finding that LRH enhances pumping robustness and provides geometric control over the current."
+    },
+    "problem": {
+      "zh": "螺旋结构中电子跳跃范围（短程 vs 长程）对时间周期驱动下的量子泵浦电流及其能谱特征的影响尚不明确。",
+      "en": "The influence of electron hopping range (short-range vs. long-range) on quantum charge pumping and spectral characteristics in helical structures under time-periodic driving remains systematically unexplored."
+    },
+    "approach": {
+      "zh": "采用 Keldysh 非平衡格林函数（NEGF）形式，结合紧束缚模型，对比分析了不同跳跃范围下的能谱电流和直流泵浦电流。",
+      "en": "Using the Keldysh non-equilibrium Green's function (NEGF) formalism within a tight-binding framework, the authors perform a comparative analysis of spectral and pumped DC currents under different hopping ranges."
+    },
+    "main_takeaway": {
+      "zh": "长程跳跃（LRH）在低频下能产生稳定的电流平台，且螺旋结构的衰减指数可作为调控泵浦电流大小与方向的几何旋钮。",
+      "en": "Long-range hopping (LRH) facilitates stable current plateaus at low frequencies, and the helical decay exponent acts as a geometric knob to tune both the magnitude and sign of the pumped current."
+    },
+    "why_it_matters": {
+      "zh": "该研究为利用生物分子（如 DNA）设计高效、可调控的纳米级量子泵浦器件提供了理论依据和设计参数。",
+      "en": "The study provides theoretical foundations and design parameters for engineering efficient, tunable nanoscale quantum pumping devices using biomolecules like DNA."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了跳跃范围与螺旋几何参数如何共同决定量子泵浦的输运特性，填补了该领域的理论空白。",
+        "en": "It clarifies how hopping range and helical geometry jointly determine transport characteristics in quantum pumping, filling a theoretical gap in the field."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊长期关注介观输运、量子泵浦及分子电子学领域的理论研究。",
+        "en": "The journal consistently publishes theoretical work on mesoscopic transport, quantum pumping, and molecular electronics."
+      }
+    },
+    "keywords": [
+      "量子泵浦",
+      "螺旋分子",
+      "非平衡格林函数",
+      "长程跳跃",
+      "纳米电子学"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-12",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-12T10:33:00",
+    "input_scope": "full_pdf_text"
+  }
+}

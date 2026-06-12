@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.13015v1",
+    "title": "A Geometric Design Principle for $\\mathbb{Z}_2$ Topological Phases in Twisted Triangular-Lattice Bilayers",
+    "authors": [
+      "Jiaheng Li",
+      "Jiaxuan Liu",
+      "Yan Zhang",
+      "Zhong Fang",
+      "Hongming Weng",
+      "Quansheng Wu"
+    ],
+    "abstract": "Twisted van der Waals bilayers provide a versatile platform for engineering moiré electronic states, yet a general design principle for time-reversal-invariant topological moiré bands remains elusive. Here, we establish a geometry-driven principle for triangular-lattice bilayers: symmetry-related minima of the stacking-energy landscape are promoted by twist and relaxation into the two sublattices of an emergent honeycomb moiré lattice. First-principles calculations for BiTeBr reveal robust $Γ$-valley moiré valence bands with a nontrivial $\\mathbb{Z}_2$ index over a range of twist angles. A four-band Wannier Hamiltonian in the emergent honeycomb basis quantitatively maps these bands onto an extended Kane--Mele model. An out-of-plane electric field drives a transition to a trivial phase by enhancing the Rashba coupling $λ_R$ relative to the intrinsic Kane--Mele coupling $λ_{\\rm SO}$. The same honeycomb reconstruction and Kane--Mele mechanism are verified in representative additional triangular-lattice bilayers, establishing stacking reconstruction as a general, geometry-controlled route to electrically tunable moiré quantum spin Hall materials.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-11T07:52:07Z",
+    "updated": "2026-06-11T07:52:07Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.13015v1",
+      "pdf_path": "data/pdfs/2026-06-12/3_A Geometric Design Principle for $mathbb{Z}_2$ Topological Phases in Twisted Triangular-Lattice Bilayers__2606.13015v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-12T02:32:29.846555",
+    "updated_at": "2026-06-12T02:32:29.846548Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-12/3_A Geometric Design Principle for $mathbb{Z}_2$ Topological Phases in Twisted Triangular-Lattice Bilayers__2606.13015v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.13015v1",
+    "pdf_filename": "3_A Geometric Design Principle for $mathbb{Z}_2$ Topological Phases in Twisted Triangular-Lattice Bilayers__2606.13015v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出一种基于堆叠能景观重构的几何设计原理，在扭转三角晶格双层体系中实现 Z2 拓扑莫尔能带。",
+      "en": "Establishes a geometric design principle for Z2 topological moiré bands in twisted triangular-lattice bilayers via stacking-driven honeycomb reconstruction."
+    },
+    "problem": {
+      "zh": "莫尔超晶格中的拓扑态通常对扭角和堆叠高度敏感，缺乏一种通用的设计原则来稳定实现受时间反演对称性保护的 Z2 拓扑相。",
+      "en": "Moiré topological phases are often sensitive to specific parameters, and a general design principle for time-reversal-invariant Z2 topological bands remains elusive."
+    },
+    "approach": {
+      "zh": "利用第一性原理计算研究 BiTeBr 等三角晶格双层的堆叠能景观，通过 Wannier 汉密尔顿量将其映射到扩展的 Kane-Mele 模型。",
+      "en": "Used first-principles calculations to study stacking-energy landscapes in triangular bilayers like BiTeBr, mapping the system to an extended Kane-Mele model via Wannier Hamiltonians."
+    },
+    "main_takeaway": {
+      "zh": "扭转引起的原子弛豫将对称性相关的低能堆叠区重构为新兴的蜂窝莫尔晶格，从而在 Gamma 谷产生稳健且电场可调的量子自旋霍尔相。",
+      "en": "Twist-induced relaxation reconstructs symmetry-related low-energy stacking domains into an emergent honeycomb lattice, creating a robust and electrically tunable quantum spin Hall phase at the Gamma valley."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在多种范德华材料中寻找和调控莫尔拓扑绝缘体提供了通用的几何指导准则，不局限于特定材料。",
+      "en": "Provides a universal geometric roadmap for discovering and tuning moiré topological insulators across a wide range of van der Waals materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了莫尔拓扑设计的通用几何准则，并成功解释了新兴蜂窝晶格与 Kane-Mele 物理的内在联系。",
+        "en": "Proposes a general geometric criterion for moiré topological design and links emergent honeycomb lattices with Kane-Mele physics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究具有很强的普适性，且针对当前热门的莫尔拓扑领域提供了清晰的物理图像。",
+        "en": "The study offers strong universality and a clear physical picture for the highly active field of moiré topology."
+      }
+    },
+    "keywords": [
+      "Moiré superlattices",
+      "Z2 topological insulator",
+      "Kane-Mele model",
+      "Triangular lattice",
+      "BiTeBr",
+      "Stacking reconstruction"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-12",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-12T10:33:28",
+    "input_scope": "full_pdf_text"
+  }
+}

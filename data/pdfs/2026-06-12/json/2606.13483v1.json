@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2606.13483v1",
+    "title": "Phonon polariton confinement in isotopically pure MOVPE-grown BN triangles",
+    "authors": [
+      "Maximilian Scharpey",
+      "Oskar Schröer",
+      "Daniel Wigger",
+      "Lena Miler",
+      "Jakub Iwański",
+      "Andrzej Wysmołek",
+      "Johannes Binder",
+      "Iris Niehues"
+    ],
+    "abstract": "Phonon polaritons, quasiparticles formed by the resonant hybridization of light and lattice vibrations, exhibit unique properties like the possibility of hyperbolic dispersions. In this context, exfoliated hexagonal boron nitride (hBN) has emerged as a promising material for phonon polariton-based research. However, to advance toward practical applications, it is essential to demonstrate efficient phonon-polariton propagation and confinement in large-area epitaxial BN. To address this topic, we use metalorganic vapor phase epitaxy (MOVPE)-grown BN and investigate the phonon polariton properties using scattering-type scanning near-field optical microscopy (s-SNOM) and nanoscale Fourier transform infrared spectroscopy (nano-FTIR). We report remarkably long phonon polariton propagation lengths, indicating the high crystalline quality of the BN layer. By using epitaxially grown isotopically pure triangular islands, we further demonstrate efficient phonon-polariton confinement with mode patterns tunable by the incident light wavelength. Our results pave the way for implementing all-epitaxial, microscale, high-quality polariton resonators for nanophotonics and quantum optics.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "published": "2026-06-11T15:32:50Z",
+    "updated": "2026-06-11T15:32:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.13483v1",
+      "pdf_path": "data/pdfs/2026-06-12/3_Phonon polariton confinement in isotopically pure MOVPE-grown BN triangles__2606.13483v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-12T02:32:29.845142",
+    "updated_at": "2026-06-12T02:32:29.845132Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-12/3_Phonon polariton confinement in isotopically pure MOVPE-grown BN triangles__2606.13483v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.13483v1",
+    "pdf_filename": "3_Phonon polariton confinement in isotopically pure MOVPE-grown BN triangles__2606.13483v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了 MOVPE 生长的同位素纯氮化硼三角形岛中的声子极化激元局域化特性。",
+      "en": "Investigates phonon polariton confinement in isotopically pure BN triangular islands grown by MOVPE."
+    },
+    "problem": {
+      "zh": "验证大面积外延生长氮化硼的晶体质量，并探索其在微纳尺度下对声子极化激元的调控能力。",
+      "en": "Validating the quality of large-area epitaxial BN and exploring its ability to control phonon polaritons at the nanoscale."
+    },
+    "approach": {
+      "zh": "利用金属有机气相外延生长天然及同位素纯氮化硼，通过近场光学显微镜和纳米红外光谱进行成像与色散分析。",
+      "en": "Using MOVPE to grow natural and isotopically pure BN, combined with s-SNOM and nano-FTIR for imaging and dispersion analysis."
+    },
+    "main_takeaway": {
+      "zh": "证明了外延生长的同位素纯 10BN 三角形岛具有高效的极化激元局域化效应，且其模式分布可通过入射波长精确调节。",
+      "en": "Demonstrated efficient polariton confinement in epitaxial 10BN triangles with mode patterns precisely tunable by incident wavelength."
+    },
+    "why_it_matters": {
+      "zh": "该研究展示了全外延生长的高质量极化激元谐振器，为可扩展的纳米光子学和量子光学应用奠定了基础。",
+      "en": "Showcases high-quality, all-epitaxial polariton resonators, paving the way for scalable nanophotonic and quantum optical applications."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在工业级外延生长材料中实现了与剥离单晶相媲美的高质量极化激元局域化。",
+        "en": "First demonstration of high-quality polariton confinement in industrial-scale epitaxial materials comparable to exfoliated crystals."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文包含高质量的近场光学成像数据和新颖的材料生长表征，符合该刊关注重点。",
+        "en": "Contains high-quality near-field imaging data and novel material growth characterization, fitting the journal's focus."
+      }
+    },
+    "keywords": [
+      "Hexagonal boron nitride",
+      "Phonon polaritons",
+      "MOVPE",
+      "s-SNOM",
+      "Isotopically pure",
+      "Nanophotonics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-12",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-12T10:34:56",
+    "input_scope": "full_pdf_text"
+  }
+}
