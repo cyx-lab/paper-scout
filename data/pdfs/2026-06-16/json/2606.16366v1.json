@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.16366v1",
+    "title": "Optomechanical parametric control of mid-infrared photons via molecular vibrational polariton",
+    "authors": [
+      "Ryoko Sakuma",
+      "Koji Sakai",
+      "Hajime Okamoto",
+      "Motoki Asano",
+      "Hiroshi Yamaguchi"
+    ],
+    "abstract": "Controlling mid-infrared (MIR) photons using well-developed telecom photonic platforms would enable new functionalities in molecular and quantum photonics. However, establishing efficient interactions between MIR and telecom photons remains challenging due to their large spectral separation and weak nonlinear coupling. Here, we demonstrate optomechanical control of MIR photons mediated by vibrational polaritons, enabling photon-photon interaction between MIR and telecom fields across distant spectral regions. Using a Fabry-Pérot cavity incorporating a vibrationally active polymer, we observe telecom-driven dissipation enhancement of MIR photons at 9.5 $μ$m with a modulation depth of 1% under a 4 mW pump. The linear power dependence, mixing-ratio dependence, and detuning response consistently indicate a MIR and telecom photon-photon conversion enabled by strong light-matter coupling. This approach establishes a polaritonic optomechanical platform for bridging disparate spectral regimes and provides a dissipation-engineered route toward hybrid MIR photonics and quantum transduction.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-06-15T08:00:23Z",
+    "updated": "2026-06-15T08:00:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16366v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Optomechanical parametric control of mid-infrared photons via molecular vibrational polariton__2606.16366v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.693985",
+    "updated_at": "2026-06-16T02:45:04.693978Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Optomechanical parametric control of mid-infrared photons via molecular vibrational polariton__2606.16366v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16366v1",
+    "pdf_filename": "3_Optomechanical parametric control of mid-infrared photons via molecular vibrational polariton__2606.16366v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文展示了一种利用分子振动极化子作为媒介，实现电信波段光对中红外光进行光力学调控的平台。",
+      "en": "The authors demonstrate an optomechanical platform that enables the control of mid-infrared (MIR) photons using telecom photons, mediated by molecular vibrational polaritons."
+    },
+    "problem": {
+      "zh": "由于中红外光与电信波段光之间巨大的频谱差异及微弱的非线性耦合，实现两者之间的高效相互作用具有挑战性。",
+      "en": "Establishing efficient interactions between mid-infrared (MIR) and telecom photons is challenging due to their large spectral separation and weak nonlinear coupling."
+    },
+    "approach": {
+      "zh": "利用嵌入振动活性聚合物的法布里-珀罗腔，通过强光-物质耦合形成的振动极化子，实现电信波段泵浦光对中红外光子的耗散工程化调控。",
+      "en": "Using a Fabry-Pérot cavity incorporating a vibrationally active polymer, the authors employ vibrational polaritons to mediate optomechanical interaction, enabling telecom-driven dissipation engineering of MIR photons."
+    },
+    "main_takeaway": {
+      "zh": "通过电信波段泵浦光可以实现对中红外极化子态的参数化冷却，从而在不同频谱区域间建立起可控的相互作用。",
+      "en": "Telecom pump light can parametrically cool vibrational polariton states, providing a coherent interface for controlling MIR photons across disparate spectral regimes."
+    },
+    "why_it_matters": {
+      "zh": "该方法为中红外光子学与成熟的电信平台之间架起了桥梁，并为室温下的量子换能及相干声子工程提供了新途径。",
+      "en": "This approach bridges MIR photonics with mature telecom platforms and offers a pathway for room-temperature quantum transduction and coherent phonon engineering."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究首次在室温下利用分子振动极化子实现了跨越宽频谱范围的光力学调控，为混合光子学提供了新思路。",
+        "en": "This work provides a novel platform for cross-spectral optomechanical control using molecular polaritons, demonstrating a significant step toward hybrid photonic interfaces."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及光力学、极化子物理及光子学交叉领域，符合该期刊对前沿物理实验的关注。",
+        "en": "The study sits at the intersection of optomechanics, polariton physics, and photonics, fitting the scope of high-impact physics journals."
+      }
+    },
+    "keywords": [
+      "Vibrational polaritons",
+      "Cavity optomechanics",
+      "MIR photonics",
+      "Telecom-MIR interface",
+      "Dissipation engineering"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:46:16",
+    "input_scope": "full_pdf_text"
+  }
+}

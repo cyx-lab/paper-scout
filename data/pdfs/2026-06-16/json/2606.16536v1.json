@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.16536v1",
+    "title": "Vortex-core size and quantum geometry in flat-band superconductors",
+    "authors": [
+      "M. Özkurt",
+      "M. Iskin"
+    ],
+    "abstract": "We investigate the real-space vortex structure of a flat-band superconductor described by the attractive Hubbard model on the Mielke checkerboard lattice. Using a momentum-space mean-field analysis, we derive a closed-form expression for the coherence length in terms of the quantum metric of the Bloch states and a particle-hole-symmetric pair density. Self-consistent Bogoliubov-de Gennes calculations on a finite disk confirm this prediction across a wide range of fillings and interaction strengths. The coherence length is minimized at half filling, diverges toward both band edges as the pair density vanishes, and depends only logarithmically on the interaction strength. These features differ qualitatively from the conventional BCS picture, which relies on a well-defined Fermi surface and a kinetic mechanism for pair transport. Instead, the vortex-core size is governed by a geometric pair mass arising from virtual interband processes encoded in the quantum metric. Our results establish the vortex core as a direct real-space manifestation of flat-band quantum geometry.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.quant-gas",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-15T10:38:58Z",
+    "updated": "2026-06-15T10:38:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16536v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Vortex-core size and quantum geometry in flat-band superconductors__2606.16536v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.693423",
+    "updated_at": "2026-06-16T02:45:04.693416Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Vortex-core size and quantum geometry in flat-band superconductors__2606.16536v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16536v1",
+    "pdf_filename": "3_Vortex-core size and quantum geometry in flat-band superconductors__2606.16536v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了Mielke棋盘格平带超导体中量子几何如何决定涡旋芯尺寸。",
+      "en": "This paper investigates how quantum geometry determines the vortex-core size in a flat-band superconductor on the Mielke checkerboard lattice."
+    },
+    "problem": {
+      "zh": "在缺乏费米面和常规动能的平带超导体中，决定涡旋芯尺寸（相干长度）的物理机制尚不明确。",
+      "en": "The physical mechanism determining the vortex-core size (coherence length) in flat-band superconductors, which lack a well-defined Fermi surface and conventional kinetic energy, remains unclear."
+    },
+    "approach": {
+      "zh": "通过动量空间平均场理论推导相干长度公式，并结合实空间Bogoliubov-de Gennes (BdG) 自洽计算进行验证。",
+      "en": "The authors derive a closed-form expression for the coherence length using momentum-space mean-field theory and validate it with self-consistent Bogoliubov-de Gennes (BdG) calculations in real space."
+    },
+    "main_takeaway": {
+      "zh": "平带超导体中的涡旋芯尺寸由量子几何诱导的“几何对质量”决定，而非传统的能带色散。",
+      "en": "The vortex-core size in flat-band superconductors is governed by a quantum-geometry-induced 'geometric pair mass' rather than conventional band dispersion."
+    },
+    "why_it_matters": {
+      "zh": "该研究建立了平带量子几何与宏观超导涡旋结构之间的直接联系，为理解平带系统中的输运性质提供了新视角。",
+      "en": "This work establishes a direct link between flat-band quantum geometry and macroscopic superconducting vortex structures, providing new insights into transport properties in flat-band systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了平带超导体中涡旋芯尺寸的几何起源，并提供了参数无关的理论预测。",
+        "en": "It clarifies the geometric origin of the vortex-core size in flat-band superconductors and provides a parameter-free theoretical prediction."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域研究通常发表在PRB等凝聚态物理核心期刊上。",
+        "en": "Research in this field is typically published in core condensed matter physics journals like PRB."
+      }
+    },
+    "keywords": [
+      "平带超导",
+      "量子几何",
+      "涡旋芯",
+      "Bogoliubov-de Gennes",
+      "Mielke棋盘格"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:47:21",
+    "input_scope": "full_pdf_text"
+  }
+}

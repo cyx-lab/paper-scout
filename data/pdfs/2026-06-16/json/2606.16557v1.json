@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.16557v1",
+    "title": "Moiré trapping of quadrupolar excitons in van der Waals trilayers",
+    "authors": [
+      "Indrajit Maity",
+      "Arash A. Mostofi",
+      "Ángel Rubio",
+      "Johannes Lischner"
+    ],
+    "abstract": "Quadrupolar excitons in van der Waals heterostructures - quantum superpositions of anti-aligned dipolar excitons - offer a novel platform to explore exotic many-body physics, with applications to quantum sensing and photonic devices. Yet their internal structure, symmetry, and real-space localisation remain largely unknown. Here, we reveal the atomic-scale structure of quadrupolar excitons in twisted WSe2/WS2/WSe2 trilayers by solving the Bethe-Salpeter equation within a large-scale atomistic framework. We discover that large atomic relaxations at small twist angles give rise to two distinct quadrupolar excitons trapped at moiré lattice sites, differing in the in-plane symmetry of the electron density about the hole: one azimuthally symmetric, with the density maximal at the hole, and one threefold symmetric, with a node at the hole. Moiré trapping, neglected in commonly used models of quadrupolar exciton formation, is critical to their many-exciton phases. Without moiré trapping, quadrupolar excitons transition into anti-parallel dipolar excitons on a bipartite square lattice, while with trapping, the same dipoles are confined to a triangular lattice and experience geometric frustration. Our study uncovers the highly non-trivial nature of quadrupolar excitons, with direct implications for simulating frustrated quantum magnetism in a fully tunable excitonic platform.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-15T10:57:36Z",
+    "updated": "2026-06-15T10:57:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16557v1",
+      "pdf_path": "data/pdfs/2026-06-16/6_Moiré trapping of quadrupolar excitons in van der Waals trilayers__2606.16557v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.693308",
+    "updated_at": "2026-06-16T02:45:04.693302Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/6_Moiré trapping of quadrupolar excitons in van der Waals trilayers__2606.16557v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16557v1",
+    "pdf_filename": "6_Moiré trapping of quadrupolar excitons in van der Waals trilayers__2606.16557v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过大规模原子尺度计算，揭示了扭转WSe2/WS2/WSe2三层异质结中莫尔势对四极子激子的捕获机制及其对多激子相图的影响。",
+      "en": "This paper reveals the moiré trapping mechanism of quadrupolar excitons in twisted WSe2/WS2/WSe2 trilayers and its impact on many-exciton phase diagrams using large-scale atomistic calculations."
+    },
+    "problem": {
+      "zh": "四极子激子在范德华异质结中的实空间结构、对称性及莫尔势对其捕获机制尚不明确，且现有模型忽略了原子弛豫，导致无法解释实验中观察到的激子相变异常。",
+      "en": "The real-space structure, symmetry, and moiré trapping of quadrupolar excitons in van der Waals heterostructures remain elusive, and existing models neglecting atomic relaxation fail to explain observed excitonic phase anomalies."
+    },
+    "approach": {
+      "zh": "开发了适用于任意扭转多层体系的转移矩阵形式主义，并结合大规模原子尺度Bethe-Salpeter方程（BSE）计算，系统分析了原子弛豫和莫尔势对激子能谱及波函数的影响。",
+      "en": "Developed a transfer-matrix formalism for arbitrarily twisted multilayers combined with large-scale atomistic Bethe-Salpeter equation (BSE) calculations to analyze the effects of atomic relaxation and moiré potentials on exciton spectra and wavefunctions."
+    },
+    "main_takeaway": {
+      "zh": "莫尔势将四极子激子捕获在特定的堆叠区域，诱导产生两种对称性不同的激子态，并引发几何受挫，从而稳定了四极子激子相。",
+      "en": "Moiré potentials trap quadrupolar excitons at specific stacking sites, inducing two distinct symmetry-broken states and geometric frustration that stabilizes the quadrupolar phase."
+    },
+    "why_it_matters": {
+      "zh": "该研究解决了四极子激子实验观测中的理论异常，为在可调控激子平台中模拟受挫量子磁性及探索奇异多体物理提供了关键理论支撑。",
+      "en": "This study resolves experimental anomalies in quadrupolar exciton observations and provides a critical theoretical foundation for simulating frustrated quantum magnetism and exploring exotic many-body physics in tunable excitonic platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "通过原子尺度建模成功解释了长期存在的实验异常，并为理解莫尔超晶格中的多体激子行为提供了新视角。",
+        "en": "Successfully explains long-standing experimental anomalies through atomistic modeling and provides new insights into many-body exciton behavior in moiré superlattices."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了高质量的原子尺度计算与前沿的激子物理研究，符合该期刊对凝聚态物理领域重大进展的关注。",
+        "en": "The paper combines high-quality atomistic calculations with frontier exciton physics, aligning with the journal's focus on major advances in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "四极子激子",
+      "莫尔超晶格",
+      "范德华异质结",
+      "Bethe-Salpeter方程",
+      "激子相变"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:47:29",
+    "input_scope": "full_pdf_text"
+  }
+}

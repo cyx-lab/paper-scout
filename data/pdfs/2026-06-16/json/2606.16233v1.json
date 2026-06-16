@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.16233v1",
+    "title": "Hidden chirality and half-vortex formation in exciton-polariton condensates",
+    "authors": [
+      "A. N. Osipov",
+      "I. Y. Chestnov",
+      "P. G. Lagoudakis",
+      "A. V. Yulin"
+    ],
+    "abstract": "We show that a radially symmetric, nonresonantly pumped spinor exciton-polariton condensate can acquire chirality without a rotating drive, chiral geometry, or pump orbital angular momentum. Spin relaxation in a two-reservoir system shifts the reservoir-induced blueshift relative to the gain profile, creating an effective non-Hermitian chiral potential. A reduced angular-mode theory reveals tunable exceptional points and non-reciprocal coupling between counter-rotating modes. Full driven-dissipative Gross-Pitaevskii simulations show that this hidden chirality enables all-optical formation of spin-selective half-vortices.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "published": "2026-06-15T05:31:16Z",
+    "updated": "2026-06-15T05:31:16Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16233v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Hidden chirality and half-vortex formation in exciton-polariton condensates__2606.16233v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.694564",
+    "updated_at": "2026-06-16T02:45:04.694555Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Hidden chirality and half-vortex formation in exciton-polariton condensates__2606.16233v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16233v1",
+    "pdf_filename": "3_Hidden chirality and half-vortex formation in exciton-polariton condensates__2606.16233v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，双激子储层中的自旋弛豫可产生非厄米手性势，使径向对称泵浦的极化子凝聚体自发产生手性并形成自旋选择性半涡旋。",
+      "en": "The study shows that spin relaxation in a two-reservoir system generates a non-Hermitian chiral potential, allowing a radially symmetric pumped polariton condensate to acquire chirality and form spin-selective half-vortices."
+    },
+    "problem": {
+      "zh": "如何在没有旋转驱动、手性几何结构或泵浦轨道角动量的情况下，在激子极化子凝聚体中产生手性并选择性地形成半涡旋。",
+      "en": "How to generate chirality and selectively form half-vortices in exciton-polariton condensates without using a rotating drive, chiral geometry, or pump orbital angular momentum."
+    },
+    "approach": {
+      "zh": "利用双储层系统中的自旋弛豫使能量蓝移与增益分布产生角位移，构建非厄米手性势，并通过简化角模式理论与二维驱动-耗散Gross-Pitaevskii方程进行理论分析与数值模拟。",
+      "en": "Using spin relaxation in a two-reservoir system to shift the blueshift relative to the gain profile to create a non-Hermitian chiral potential, analyzed via a reduced angular-mode theory and 2D driven-dissipative Gross-Pitaevskii simulations."
+    },
+    "main_takeaway": {
+      "zh": "静态且径向对称的环形泵浦可通过储层介导的自旋弛豫产生“隐性手性”，并在例外点附近实现自旋选择性半涡旋的稳健全光学调控。",
+      "en": "A static and radially symmetric annular pump can generate 'hidden chirality' through reservoir-mediated spin relaxation, enabling robust all-optical formation of spin-selective half-vortices near exceptional points."
+    },
+    "why_it_matters": {
+      "zh": "它提供了一种无需复杂外部几何或动态驱动即可控制极化子凝聚体拓扑荷与自旋态的新途径，为非厄米拓扑光子学器件设计奠定了基础。",
+      "en": "It provides a new route to control the topological charge and spin states of polariton condensates without complex external geometries or dynamic driving, laying a foundation for non-Hermitian topological photonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了非平衡凝聚体中通过储层动力学产生手性的新机制，并展示了在例外点附近对半涡旋的精确全光控制。",
+        "en": "It reveals a new mechanism for generating chirality via reservoir dynamics in non-equilibrium condensates and demonstrates precise all-optical control of half-vortices near exceptional points."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了关于非厄米拓扑和极化子凝聚体物理的创新概念，且其物理深度和格式非常符合PRL的定位。",
+        "en": "The study proposes innovative concepts regarding non-Hermitian topology and polariton condensate physics, and its physical depth and format align well with PRL."
+      }
+    },
+    "keywords": [
+      "exciton-polariton condensates",
+      "hidden chirality",
+      "half-vortices",
+      "non-Hermitian potential",
+      "exceptional points"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:46:10",
+    "input_scope": "full_pdf_text"
+  }
+}

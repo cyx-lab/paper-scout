@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2606.16942v1",
+    "title": "Adiabatic realization of anomalous Floquet topological systems",
+    "authors": [
+      "Luca Asteria",
+      "Marcel N. Kosch",
+      "Henrik P. Zahn",
+      "Jonathan Bracker",
+      "André Eckardt",
+      "Klaus Sengstock",
+      "Christof Weitenberg"
+    ],
+    "abstract": "Topology has emerged as a central concept for classifying phases of matter. The situation is especially rich in periodically driven systems, where anomalous Floquet topological phases break the usual bulk-boundary correspondence between Chern number and edges modes of two-dimensional systems. These phases were so far realized by periodic modulation of the tunneling elements at frequencies near-resonant with respect to the system's bandwidth, a regime where Floquet heating plays a significant role in interacting systems. Here we show that such anomalous Floquet topological phases can also be realized by means of an adiabatic protocol, where the system is always in the instantaneous ground state of the cyclic path in parameter space, like in a Thouless charge pump. We experimentally realize such a state using ultracold atoms in a hexagonal lattice where we adiabatically modulate the lattice geometry, including the sublattice offset. To infer the topology, we use the micromotion area in real-space, which was recently identified as a proxy for the winding number. This way of realizing anomalous phases avoids resonant Floquet heating and imperfect loading into the target state. We demonstrate the robustness of the adiabatic construction by observing the anomalous phase even in the presence of mean-field interactions of magnitude comparable to all other energy scales. These findings are promising for engineering novel topological states in a more robust way.",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-15T16:43:41Z",
+    "updated": "2026-06-15T16:43:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "thouless_pump:charge pump"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16942v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Adiabatic realization of anomalous Floquet topological systems__2606.16942v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.692246",
+    "updated_at": "2026-06-16T02:45:04.692235Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Adiabatic realization of anomalous Floquet topological systems__2606.16942v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16942v1",
+    "pdf_filename": "3_Adiabatic realization of anomalous Floquet topological systems__2606.16942v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出并实验验证了一种通过绝热协议实现反常 Floquet 拓扑相的方法，该方法比传统的近共振驱动更具鲁棒性。",
+      "en": "The authors propose and experimentally demonstrate an adiabatic protocol to realize anomalous Floquet topological phases, offering enhanced robustness compared to conventional near-resonant driving."
+    },
+    "problem": {
+      "zh": "传统的反常 Floquet 拓扑相通常依赖近共振驱动，这在相互作用系统中会导致严重的 Floquet 加热，限制了其应用。",
+      "en": "Conventional realizations of anomalous Floquet topological phases rely on near-resonant driving, which induces significant Floquet heating in interacting systems, limiting their practical utility."
+    },
+    "approach": {
+      "zh": "利用超冷原子在六角晶格中的绝热几何调制（类似于 Thouless 电荷泵），通过微运动面积作为绕数代理来探测拓扑性质。",
+      "en": "The study employs an adiabatic protocol in a hexagonal optical lattice with ultracold atoms (analogous to a Thouless charge pump) and uses the micromotion area as a proxy for the winding number to detect the topology."
+    },
+    "main_takeaway": {
+      "zh": "绝热协议能够成功实现反常 Floquet 拓扑相，且在存在强相互作用和无序的情况下表现出比近共振驱动更高的鲁棒性。",
+      "en": "Adiabatic protocols can successfully realize anomalous Floquet topological phases and exhibit significantly higher robustness against strong interactions and disorder compared to near-resonant driving schemes."
+    },
+    "why_it_matters": {
+      "zh": "该方法为在强关联系统中工程化拓扑态提供了一种更稳定、更具扩展性的途径，克服了 Floquet 加热的瓶颈。",
+      "en": "This approach provides a more stable and scalable pathway for engineering topological states in strongly correlated systems, overcoming the bottleneck of Floquet heating."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作通过实验证明了一种全新的拓扑相实现范式，并显著提升了系统对相互作用和无序的容忍度。",
+        "en": "The work experimentally demonstrates a novel paradigm for realizing topological phases and significantly improves the system's tolerance to interactions and disorder."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论 + 数值",
+      "en": "Experimental + Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了前沿的冷原子实验技术与拓扑物理理论，符合该期刊的发表偏好。",
+        "en": "The research combines cutting-edge cold atom experimental techniques with topological physics theory, aligning well with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Floquet拓扑相",
+      "绝热协议",
+      "Thouless泵",
+      "超冷原子",
+      "微运动面积"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:48:53",
+    "input_scope": "full_pdf_text"
+  }
+}

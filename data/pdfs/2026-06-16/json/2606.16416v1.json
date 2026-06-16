@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.16416v1",
+    "title": "Twistronic control of shift current in multilayer moiré system",
+    "authors": [
+      "Michele Bagaglini",
+      "Cesare Tresca",
+      "Federico Bisti",
+      "Gianni Profeta"
+    ],
+    "abstract": "The bulk photovoltaic effect in non-centrosymmetric materials provides an alternative mechanism for the conversion of light into a current response compared to p-n junctions. Among its various contributions, the shift current is particularly attractive because it is governed by the geometric properties of electronic wavefunctions and can generate large photocurrents in low-dimensional materials. Here, we investigate the evolution of the shift current response in mono-, bi-, and trilayer H-MoS2, as well as in twisted moiré bilayers and trilayers. To describe large moiré supercells we develop a Slater-Koster tight-binding model parametrized from first-principles calculations. The resulting electronic structures and shift-current responses are compared with density functional theory calculations and Wannier-interpolated results to verify the accuracy of the approach. The model accurately reproduces the electronic structure near the band edges and captures the main spectral features of the shift current conductivity. We show that twisting breaks the crystal symmetry and activates additional conductivity tensor components that are forbidden in untwisted structures, leading to new tunable in-plane photocurrent components. Analysis of the shift distance reveals a direct connection between the twist-induced modification of the electronic wavefunctions and the increase of the nonlinear response. Our results establish the twist angle as an effective parameter for engineering shift current generation in multilayer transition-metal dichalcogenide base systems and demonstrate that tight-binding approaches provide a practical route for exploring nonlinear optical phenomena in large-scale moiré materials beyond the limits of conventional first-principles calculations.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-15T08:54:22Z",
+    "updated": "2026-06-15T08:54:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16416v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Twistronic control of shift current in multilayer moiré system__2606.16416v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.693767",
+    "updated_at": "2026-06-16T02:45:04.693761Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Twistronic control of shift current in multilayer moiré system__2606.16416v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16416v1",
+    "pdf_filename": "3_Twistronic control of shift current in multilayer moiré system__2606.16416v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文开发了一种基于紧束缚模型的计算框架，用于研究多层及扭转MoS2莫尔超晶格中的位移电流响应。",
+      "en": "This paper develops a tight-binding framework to investigate the shift current response in multilayer and twisted MoS2 moiré superlattices."
+    },
+    "problem": {
+      "zh": "第一性原理计算在处理大尺度莫尔超晶格时计算成本过高，限制了对扭转二维材料非线性光学响应的系统研究。",
+      "en": "First-principles calculations are computationally prohibitive for large-scale moiré supercells, limiting the systematic study of nonlinear optical responses in twisted 2D materials."
+    },
+    "approach": {
+      "zh": "开发并参数化了基于Slater-Koster方案的紧束缚模型，通过与DFT结果对比验证，并将其应用于分析不同扭转角下的位移电流张量。",
+      "en": "Developed and parameterized a Slater-Koster tight-binding model, validated against DFT results, and applied it to analyze shift current tensor components under various twist angles."
+    },
+    "main_takeaway": {
+      "zh": "扭转角是调控MoS2莫尔体系位移电流的有效参数，扭转打破了晶体对称性，从而激活了新的面内光电流分量。",
+      "en": "The twist angle is an effective parameter for engineering shift current in MoS2 moiré systems; twisting breaks crystal symmetry and activates new in-plane photocurrent components."
+    },
+    "why_it_matters": {
+      "zh": "该方法为研究大尺度莫尔材料的非线性光学现象提供了一种高效的计算途径，并展示了通过堆叠工程调控光伏响应的潜力。",
+      "en": "The approach provides a practical computational route for exploring nonlinear optical phenomena in large-scale moiré materials and demonstrates the potential for tuning photovoltaic responses via stacking engineering."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "作者提出了一种高效的紧束缚参数化方案，解决了大尺度莫尔体系非线性光学计算的瓶颈。",
+        "en": "The authors propose an efficient tight-binding parameterization scheme that overcomes the bottleneck of calculating nonlinear optical responses in large-scale moiré systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中的计算方法开发及其在二维材料非线性光学性质中的应用，符合PRB的范畴。",
+        "en": "The paper focuses on computational method development in condensed matter physics and its application to nonlinear optical properties of 2D materials, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "MoS2",
+      "moiré superlattices",
+      "shift current",
+      "tight-binding model",
+      "twistronics",
+      "nonlinear optics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:46:49",
+    "input_scope": "full_pdf_text"
+  }
+}

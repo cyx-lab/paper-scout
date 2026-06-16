@@ -1,0 +1,123 @@
+{
+  "paper_record": {
+    "id": "2606.16181v1",
+    "title": "Evaluating the Structural Basis for Polar Altermagnet Candidate Ca$_{3}$(Ru,Ti)$_{2}$O$_{7}$",
+    "authors": [
+      "Akash Saha",
+      "Yihuang Xiong",
+      "Vladimir A. Stoica",
+      "Subin Mali",
+      "Aaron Pearre",
+      "Saugata Sarker",
+      "Huaiyu Wang",
+      "Yufei Zhao",
+      "Evguenia Karapetrova",
+      "Yu Wang",
+      "Jadupati Nag",
+      "Zachary W. Hazenstab",
+      "Seng Huat Lee",
+      "Long-Qing Chen",
+      "Geoffroy Hautier",
+      "Binghai Yan",
+      "Zhiqiang Mao",
+      "Venkatraman Gopalan"
+    ],
+    "abstract": "The interplay between polar and altermagnetic orders remains largely unexplored in the broader landscape of correlated electron systems. Ca$_{3}$Ru$_{2}$O$_{7}$ has been proposed by density functional theory (DFT) as a polar altermagnet, reliant on the transformation of experimentally reported $Bb2_{1}m$ phase to a lower symmetry $Pn2_{1}a$ structure. Here, we perform a targeted search for the $Pn2_{1}a$ phase using synchrotron X-ray diffraction on single crystals of Ca$_{3}$Ru$_{2}$O$_{7}$ and Ca$_{3}$(Ru$_{0.99}$Ti$_{0.01}$)$_{2}$O$_{7}$. No diffraction signature of the $Pn2_{1}a$ structure is detected down to 20 K within experimental limits of $\\sim$60-200 fm atomic displacements, significantly smaller than the DFT prediction of $\\sim$1 pm. Combined with recent nonlinear transport measurements, our structural study suggests Ca$_{3}$Ru$_{2}$O$_{7}$ as a unique system where strong electron correlations drive an electronic phase transition without any measurable lattice symmetry change. With Ti substitution exceeding $\\sim$3%, a chemically tunable altermagnetic phase with $Bb2_{1}m$ structure emerges. The study highlights the importance of sub-picometer metrology towards de-convolving structural versus electronic origins of altermagnets.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-15T03:52:13Z",
+    "updated": "2026-06-15T03:52:13Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16181v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Evaluating the Structural Basis for Polar Altermagnet Candidate Ca$_{3}$(Ru,Ti)$_{2}$O$_{7}$__2606.16181v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.694644",
+    "updated_at": "2026-06-16T02:45:04.694637Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Evaluating the Structural Basis for Polar Altermagnet Candidate Ca$_{3}$(Ru,Ti)$_{2}$O$_{7}$__2606.16181v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16181v1",
+    "pdf_filename": "3_Evaluating the Structural Basis for Polar Altermagnet Candidate Ca$_{3}$(Ru,Ti)$_{2}$O$_{7}$__2606.16181v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过同步辐射X射线衍射研究，发现Ca3Ru2O7及其Ti掺杂样品中不存在DFT预言的Pn21a结构，表明其对称性破缺主要源于电子系统而非晶格畸变。",
+      "en": "Synchrotron X-ray diffraction reveals the absence of the DFT-predicted Pn21a structure in Ca3Ru2O7 and its Ti-doped variants, suggesting the symmetry breaking is primarily electronic in origin."
+    },
+    "problem": {
+      "zh": "理论预言Ca3Ru2O7在低温下会发生从Bb21m到Pn21a的结构相变，从而成为极性反铁磁体（altermagnet），但此前实验一直未能观测到该结构相变。",
+      "en": "DFT predicts a structural phase transition from Bb21m to Pn21a in Ca3Ru2O7, rendering it a polar altermagnet, but this transition has remained elusive in experimental studies."
+    },
+    "approach": {
+      "zh": "利用高通量同步辐射X射线衍射技术，在低温下对Ca3Ru2O7及Ti掺杂样品进行三维倒易空间映射，并结合DFT计算设定结构畸变的实验上限。",
+      "en": "High-flux synchrotron X-ray diffraction was used to map the 3D reciprocal space of Ca3Ru2O7 and Ti-doped samples at low temperatures, combined with DFT calculations to establish experimental upper bounds on structural distortions."
+    },
+    "main_takeaway": {
+      "zh": "Ca3Ru2O7的对称性破缺几乎完全由电子关联驱动，晶格几乎保持不变，这使其成为研究“晶格盲”电子相变的独特平台。",
+      "en": "The symmetry breaking in Ca3Ru2O7 is driven almost entirely by electron correlations with negligible lattice response, making it a unique platform for studying 'lattice-blind' electronic phase transitions."
+    },
+    "why_it_matters": {
+      "zh": "该研究通过亚皮米精度的结构测量，澄清了该材料中电子与晶格自由度的相互作用，对理解反铁磁体中的对称性破缺机制具有重要意义。",
+      "en": "This study clarifies the interplay between electronic and lattice degrees of freedom using sub-picometer structural metrology, providing critical insights into the symmetry-breaking mechanisms in altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过高精度实验排除了理论预言的结构相变，明确了该体系中电子驱动相变的本质。",
+        "en": "The study uses high-precision experiments to rule out the theoretically predicted structural transition, clarifying the electron-driven nature of the phase transition."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文涉及凝聚态物理中关于结构与磁性对称性的基础研究，符合PRB的发表范畴。",
+        "en": "The paper addresses fundamental condensed matter physics regarding structural and magnetic symmetry, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Ca3Ru2O7",
+      "altermagnetism",
+      "synchrotron X-ray diffraction",
+      "symmetry breaking",
+      "electron correlations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:45:40",
+    "input_scope": "full_pdf_text"
+  }
+}

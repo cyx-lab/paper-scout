@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2606.16674v1",
+    "title": "Possible high temperature superconductivity induced by coupling to proximate hyperbolic photon modes",
+    "authors": [
+      "Zhiyu Dong",
+      "Patrick A. Lee"
+    ],
+    "abstract": "The hyperbolic mode (HM) refers to a polariton mode in a polar insulator where the dielectric function is negative in some direction of propagation. Within a frequency window the light occupies a greatly expanded region in momentum space. The HM in hexagonal Boron Nitride (hBN) has been under intense study and we consider placing a metal directly on top hBN and ask whether its physical properties can be strongly affected. While the problem resembles superficially the electron phonon coupling problem, there are important differences. Due to the longitudinal nature of the HM mode the coupling is driven by time dependent charge fluctuations which results in a coupling that strongly increases with the energy difference of the initial and final states. We find a significant modification of the wavefunction and velocity renormalization and we identify the dimensionless coupling constant $λ_0$ that controls this effect. The virtual exchange of HM leads to a repulsive interaction. However, due to its strong energy dependence, pairing is possible by a process analogous to the Anderson-Morel mechanism, but in energy space instead of frequency space. We estimate the effective pairing interaction and find that very high $T_c$ is possible, even for small $λ_0$ where the theory is controlled. We provide estimates using realistic parameters.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-15T13:08:11Z",
+    "updated": "2026-06-15T13:08:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16674v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Possible high temperature superconductivity induced by coupling to proximate hyperbolic photon modes__2606.16674v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.693096",
+    "updated_at": "2026-06-16T02:45:04.693090Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Possible high temperature superconductivity induced by coupling to proximate hyperbolic photon modes__2606.16674v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16674v1",
+    "pdf_filename": "3_Possible high temperature superconductivity induced by coupling to proximate hyperbolic photon modes__2606.16674v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了金属与邻近双曲极化激元模式耦合产生的自能效应，并提出了一种基于能量空间Anderson-Morel机制的高温超导方案。",
+      "en": "Investigates the self-energy effects of a metal coupled to proximate hyperbolic polariton modes and proposes a high-temperature superconductivity mechanism based on an energy-space Anderson-Morel mechanism."
+    },
+    "problem": {
+      "zh": "探讨邻近极性绝缘体（如六方氮化硼 hBN）中的双曲极化激元模式能否以及如何通过排斥性相互作用诱导金属产生超导电性。",
+      "en": "Explores whether and how hyperbolic polariton modes in a proximate polar insulator (such as hBN) can induce superconductivity in a metal despite the mediated interaction being repulsive."
+    },
+    "approach": {
+      "zh": "理论分析了由电荷涨落驱动的纵向极化激元-电子耦合，计算了电子自能和有效库珀对相互作用，并通过允许能隙函数在能量空间变号来求解线性化能隙方程。",
+      "en": "Theoretically analyzes the longitudinal polariton-electron coupling driven by charge fluctuations, calculates the electron self-energy and effective Cooper-channel interaction, and solves the linearized gap equation by allowing the gap function to change sign in energy space."
+    },
+    "main_takeaway": {
+      "zh": "尽管极化激元介导的相互作用是排斥性的，但由于其强烈的能量依赖性，可以通过能量空间的Anderson-Morel机制（能隙函数随能量变号）实现高温s波超导。",
+      "en": "Although the polariton-mediated interaction is repulsive, its strong energy dependence enables high-temperature s-wave pairing via an energy-space Anderson-Morel mechanism where the gap function changes sign."
+    },
+    "why_it_matters": {
+      "zh": "该研究为利用近场极化激元调控和增强超导电性提供了一种全新机制，摆脱了对传统吸引相互作用的依赖，对极化激元调控量子物态具有重要指导意义。",
+      "en": "It provides a brand-new mechanism for controlling and enhancing superconductivity using near-field polaritons without relying on traditional attractive interactions, which is highly relevant for polaritonic control of quantum materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了双曲极化激元诱导超导的新机制，并展示了排斥相互作用在能量空间变号实现高温超导的可行性。",
+        "en": "Proposes a new mechanism for hyperbolic polariton-induced superconductivity and demonstrates the feasibility of achieving high-Tc via a sign-changing gap in energy space despite repulsive interactions."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文由凝聚态物理领域资深学者撰写，提出了新颖的高温超导机制，非常适合发表在PRL上。",
+        "en": "Written by senior condensed matter theorists and proposing a novel high-Tc mechanism, this work is highly suitable for PRL."
+      }
+    },
+    "keywords": [
+      "hyperbolic polaritons",
+      "hexagonal boron nitride",
+      "superconductivity",
+      "Anderson-Morel mechanism",
+      "light-matter coupling"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:47:37",
+    "input_scope": "full_pdf_text"
+  }
+}

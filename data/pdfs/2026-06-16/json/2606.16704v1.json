@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.16704v1",
+    "title": "Field-selected seven-site topological magnons in a classical frustrated triangular-lattice K-$Γ$-$Γ'$ magnet",
+    "authors": [
+      "Bin Xi",
+      "Jie Lu",
+      "Shun-Li Yu",
+      "Yafang Xu"
+    ],
+    "abstract": "Defining magnon topology in strongly frustrated magnets is often hindered by the absence of a simple harmonic magnon vacuum at zero field. Within a classical-spin ground-state search followed by linear spin-wave theory (LSWT), we demonstrate that a representative triangular-lattice K-Gamma-Gamma' model in a dominant-Gamma exchange regime has an in-plane-field-selected compact, noncoplanar seven-site order. This field-selected state provides a controlled classical reference state and hosts magnon bands with field-tunable Chern numbers. Increasing the field drives a Dirac-like band touching that transfers Berry curvature between the fifth and sixth bands, altering the Chern vector from (0, 1, 0, -2, 1, 0, 0) to (0, 1, 0, -2, -1, 2, 0). This topological transition reorganizes the band-resolved thermal Hall conductivity, driving the total $κ_{xy}(T)$ through a near-zero crossing once the upper bands are thermally populated. The dynamical structure factor places roughly half of the coherent spectral weight on the Chern-active branches, offering a spectroscopic route to identify the topological branches. These results define a controlled semiclassical benchmark for magnon topology in this pure nearest-neighbor exchange model.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-15T13:37:57Z",
+    "updated": "2026-06-15T13:37:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16704v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Field-selected seven-site topological magnons in a classical frustrated triangular-lattice K-$Γ$-$Γ'$ magnet__2606.16704v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.692967",
+    "updated_at": "2026-06-16T02:45:04.692960Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Field-selected seven-site topological magnons in a classical frustrated triangular-lattice K-$Γ$-$Γ'$ magnet__2606.16704v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16704v1",
+    "pdf_filename": "3_Field-selected seven-site topological magnons in a classical frustrated triangular-lattice K-$Γ$-$Γ'$ magnet__2606.16704v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明面内磁场可以在三角晶格K-Γ-Γ′受挫磁体中选择出一种紧凑的七位非共面磁结构，从而实现场调控的拓扑自旋波和热霍尔效应。",
+      "en": "The study demonstrates that an in-plane magnetic field selects a compact seven-site noncoplanar order in a frustrated triangular-lattice K-Γ-Γ′ magnet, hosting field-tunable topological magnons and thermal Hall responses."
+    },
+    "problem": {
+      "zh": "强受挫磁体在零磁场下通常缺乏稳定的简谐自旋波真空（磁胞大小随模拟尺寸漂移），导致无法在确定的布里渊区中定义和计算体相拓扑自旋波性质。",
+      "en": "Strongly frustrated magnets often lack a stable harmonic magnon vacuum at zero field due to size-dependent magnetic cells, hindering the definition of bulk magnon topology in a well-defined Brillouin zone."
+    },
+    "approach": {
+      "zh": "结合经典自旋基态搜索（平行回火退火与零温淬火）与线性自旋波理论，研究Γ相互作用主导的三角晶格K-Γ-Γ′模型在面内磁场下的磁结构、自旋波拓扑性质及热输运。",
+      "en": "Combined classical ground-state search (parallel-tempering annealing and zero-temperature quenching) with linear spin-wave theory to study the magnetic structure, magnon topology, and thermal transport of a Γ-dominant triangular-lattice K-Γ-Γ′ model under an in-plane field."
+    },
+    "main_takeaway": {
+      "zh": "沿着a轴的面内磁场能稳定一个七位的非共面磁结构，该结构具有场可调的自旋波Chern数，并在临界磁场下发生狄拉克点闭合的拓扑相变，导致热霍尔电导在高温下出现接近零的穿过行为。",
+      "en": "An in-plane field along the a-axis stabilizes a seven-site noncoplanar order with field-tunable magnon Chern numbers, undergoing a Dirac-like topological transition that drives a near-zero crossing in the thermal Hall conductivity at elevated temperatures."
+    },
+    "why_it_matters": {
+      "zh": "为受挫磁体中因无序或不共度调制而难以定义自旋波拓扑的问题提供了一种通过磁场选择稳定参考态的解决思路，并给出了热输运和动力学结构因子的实验可观测特征。",
+      "en": "It provides a field-selection strategy to overcome the zero-field incommensurability obstruction in frustrated magnets, offering concrete predictions for thermal transport and dynamical structure factor measurements."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功解决了受挫K-Γ-Γ′模型中零场磁胞不确定导致无法计算拓扑自旋波的难题，并揭示了新颖的七位非共面磁结构及其拓扑相变。",
+        "en": "It successfully resolves the zero-field magnetic cell ambiguity in frustrated K-Γ-Γ′ models to compute topological magnons, revealing a novel seven-site noncoplanar phase and its topological transition."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文聚焦于受挫磁体中的自旋波拓扑与热输运计算，采用经典的线性自旋波理论与蒙特卡洛方法，非常符合PRB的发表范畴。",
+        "en": "The paper focuses on spin-wave topology and thermal transport in frustrated magnets using LSWT and Monte Carlo methods, which fits perfectly within the scope of PRB."
+      }
+    },
+    "keywords": [
+      "三角晶格",
+      "拓扑自旋波",
+      "热霍尔效应",
+      "受挫磁体",
+      "线性自旋波理论"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:47:57",
+    "input_scope": "full_pdf_text"
+  }
+}

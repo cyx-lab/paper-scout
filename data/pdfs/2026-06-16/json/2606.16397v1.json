@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.16397v1",
+    "title": "Quantum oscillations in proximity to high-angular-momentum band inversion",
+    "authors": [
+      "Jiahao Yang",
+      "Gang v. Chen"
+    ],
+    "abstract": "Quantum oscillations provide a fundamental probe of electronic structure in magnetic fields, revealing the Fermi surface topology in metals, and/or the quasiparticle properties even in the insulating regimes. Here we study quantum oscillations in minimal models of high-angular-momentum (HAM) band inversion for both a chiral two-band model and a time-reversal-invariant four-band model. In the former case, finite oscillations can appear at the hybridized Chern-insulating regime due to thermal-activated excitations. In the latter case, interference between the two time-reversal-related blocks drives a strong deviation from the Lifshitz-Kosevich form, producing a non-monotonic temperature dependence of the oscillation amplitude and characteristic suppression temperatures whose number follows the angular momentum $l$. These results identify experimentally accessible signatures of HAM band inversion and provide a framework for other discrete-symmetry-related hybridizations and excitonic pairings.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-15T08:36:11Z",
+    "updated": "2026-06-15T08:36:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16397v1",
+      "pdf_path": "data/pdfs/2026-06-16/3_Quantum oscillations in proximity to high-angular-momentum band inversion__2606.16397v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.693900",
+    "updated_at": "2026-06-16T02:45:04.693876Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/3_Quantum oscillations in proximity to high-angular-momentum band inversion__2606.16397v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16397v1",
+    "pdf_filename": "3_Quantum oscillations in proximity to high-angular-momentum band inversion__2606.16397v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了高角动量能带反转体系中的量子振荡行为，发现时间反演对称的四能带模型中由于干涉效应会导致偏离传统LK公式的非单调温度依赖性。",
+      "en": "This paper studies quantum oscillations near high-angular-momentum band inversion, revealing a non-monotonic temperature dependence that deviates from Lifshitz-Kosevich theory due to interference in time-reversal-invariant systems."
+    },
+    "problem": {
+      "zh": "探究高角动量能带反转对电子结构量子振荡（特别是低能态密度振荡）的影响，并寻找其独特的实验可观测特征。",
+      "en": "To investigate the effects of high-angular-momentum band inversion on quantum oscillations (specifically LEDOS oscillations) and identify their unique experimentally accessible signatures."
+    },
+    "approach": {
+      "zh": "构建手性双能带模型和时间反演对称的四能带模型，计算磁场下的朗道能级谱和低能态密度（LEDOS），分析其随温度和磁场的变化。",
+      "en": "Construct minimal chiral two-band and time-reversal-invariant four-band models, calculate the Landau level spectra and low-energy density-of-states (LEDOS) under a magnetic field, and analyze their temperature and magnetic field dependence."
+    },
+    "main_takeaway": {
+      "zh": "在时间反演对称的四能带模型中，两个手性相反的嵌段之间的干涉会导致量子振荡振幅呈现非单调的温度依赖性，且振幅抑制特征温度的数量与角动量 l 一致。",
+      "en": "In the time-reversal-invariant four-band model, interference between the two blocks with opposite chiralities leads to a non-monotonic temperature dependence of the oscillation amplitude, with the number of characteristic suppression temperatures tracking the angular momentum l."
+    },
+    "why_it_matters": {
+      "zh": "为识别莫尔超晶格、多层菱方石墨烯等材料中的高角动量能带反转提供了直接的实验判据，并为研究其他离散对称性相关的杂化和激子配对提供了理论框架。",
+      "en": "It provides direct experimental signatures for identifying high-angular-momentum band inversion in platforms like moire systems and multilayer rhombohedral graphene, and establishes a framework for studying other discrete-symmetry-related hybridizations and excitonic pairings."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了高角动量能带反转中独特的非 Lifshitz-Kosevich 量子振荡行为，并建立了抑制温度数量与角动量之间的直接联系。",
+        "en": "It reveals unique non-Lifshitz-Kosevich quantum oscillation behaviors in high-angular-momentum band inversion and establishes a direct link between the number of suppression temperatures and the angular momentum."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作提出了关于拓扑能带结构中量子振荡的普适物理机制，具有较强的物理启发性，非常符合该期刊的定位。",
+        "en": "The work proposes a general physical mechanism for quantum oscillations in topological band structures with strong physical insights, which fits the scope of the journal well."
+      }
+    },
+    "keywords": [
+      "Quantum oscillations",
+      "Band inversion",
+      "High angular momentum",
+      "Lifshitz-Kosevich theory",
+      "Topological insulators"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:46:43",
+    "input_scope": "full_pdf_text"
+  }
+}

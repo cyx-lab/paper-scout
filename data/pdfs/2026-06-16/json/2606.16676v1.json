@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.16676v1",
+    "title": "Optical vortex probe of loop-current chirality in moiré materials",
+    "authors": [
+      "Nobuhiko Yokoshi",
+      "Akihito Kato"
+    ],
+    "abstract": "We propose a symmetry-resolved optical probe of intrinsic loop-current chirality in moiré materials, with twisted bilayer graphene as a representative realization. Interlayer interference generates chiral electronic circulation on triangular plaquettes, giving rise to an intrinsic geometric chirality that enters the second-order response through a $C_3$-selected angular harmonic of the Berry curvature and can be isolated by the orbital-angular-momentum difference $Δ\\ell$ of interfering optical vortex beams. When moiré $C_3$ symmetry is preserved, the intrinsic contribution appears in the $Δ\\ell=3$ channel of the helicity-dependent dc photocurrent, whereas $C_3$-breaking perturbations activate additional channels. These results establish angular-momentum-resolved nonlinear optics as a route to probing geometric chirality in moiré and other symmetry-engineered quantum materials.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "published": "2026-06-15T13:10:31Z",
+    "updated": "2026-06-15T13:10:31Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.16676v1",
+      "pdf_path": "data/pdfs/2026-06-16/6_Optical vortex probe of loop-current chirality in moiré materials__2606.16676v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-16T02:45:04.693051",
+    "updated_at": "2026-06-16T02:45:04.693044Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-16/6_Optical vortex probe of loop-current chirality in moiré materials__2606.16676v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.16676v1",
+    "pdf_filename": "6_Optical vortex probe of loop-current chirality in moiré materials__2606.16676v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出利用携带轨道角动量的光涡旋干涉来探测莫尔材料中内在的环流手性。",
+      "en": "This paper proposes using the interference of optical vortex beams carrying orbital angular momentum to probe the intrinsic loop-current chirality in moiré materials."
+    },
+    "problem": {
+      "zh": "传统的输运和光学手段会抹平响应的角向结构，难以直接观测莫尔材料中由层间干涉引起的内在环流手性。",
+      "en": "Conventional transport and optical probes average over the angular structure of the electronic response, making it difficult to directly observe the intrinsic loop-current chirality in moiré materials."
+    },
+    "approach": {
+      "zh": "利用具有不同轨道角动量的光涡旋光束的相干叠加，通过选择特定的角向谐波来过滤并提取非线性光电流响应。",
+      "en": "Using coherent superpositions of optical vortex beams with different orbital angular momenta to filter and extract nonlinear photocurrent responses via specific angular harmonics."
+    },
+    "main_takeaway": {
+      "zh": "在保留C3对称性时，内在手性贡献仅出现在角动量差为3的通道中，而对称性破缺（如应变）会激活其他通道，从而实现内在手性与外在各向异性的分离。",
+      "en": "When C3 symmetry is preserved, the intrinsic chiral contribution appears exclusively in the delta_l = 3 channel of the dc photocurrent, while symmetry-breaking perturbations like strain activate other channels, allowing their separation."
+    },
+    "why_it_matters": {
+      "zh": "它为探测莫尔及其他拓扑量子材料中的几何手性和对称性破缺提供了一种非接触、空间分辨的非线性光学新途径。",
+      "en": "It establishes a non-contact, spatially resolved nonlinear optical route to probe geometric chirality and symmetry-breaking effects in moiré and other topological quantum materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一种利用结构光轨道角动量选择性探测莫尔超晶格内在几何手性的新颖光学方法。",
+        "en": "Proposes a novel optical method to selectively probe the intrinsic geometric chirality of moiré superlattices using the orbital angular momentum of structured light."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对莫尔材料的拓扑与几何性质提出了极具创新性的光学探测方案，非常适合发表在物理学顶级期刊上。",
+        "en": "The study proposes a highly innovative optical detection scheme for the topological and geometric properties of moiré materials, making it well-suited for top-tier physics journals."
+      }
+    },
+    "keywords": [
+      "moiré materials",
+      "optical vortex",
+      "loop-current chirality",
+      "nonlinear optics",
+      "twisted bilayer graphene"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-16T10:47:49",
+    "input_scope": "full_pdf_text"
+  }
+}
