@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2606.18939v1",
+    "title": "Thermodynamic-Kinetic Decoupling Enables Stable Excitonic Emission in Defect-Tolerant Cu-Based Quantum Dots",
+    "authors": [
+      "Haoran Chen",
+      "Zhipeng Xu",
+      "Chunjian Li",
+      "Lei Hou",
+      "Dechao Yu",
+      "Xiaobin Xie",
+      "Yue Liu",
+      "Bohua Dong",
+      "Lixin Cao",
+      "Chenghui Xia"
+    ],
+    "abstract": "Colloidal quantum dots that simultaneously offer room-temperature single-photon purity and high photoluminescence quantum yield are sought for quantum optics, but remain elusive in environmentally benign materials. We introduce a thermodynamic-kinetic decoupling strategy that transforms defect-tolerant CuInS2 quantum dots into bright, narrowband, and photostable single-photon emitters. Zn2+ alloying strains the lattice, thermodynamically suppressing native copper vacancies and narrowing the emission from a broad defect band of approximately 300 meV to an excitonic line of approximately 120 meV. Ga3+ incorporation then kinetically pins the cation sublattice against Cu+ migration, preventing defect regeneration during ZnS shell growth. The resulting Cd-free core/shell dots achieve near-unity quantum yield of approximately 98% while retaining narrow excitonic emission. Critically, room-temperature single-dot spectroscopy reveals homogeneous linewidths as low as approximately 58 meV, strongly suppressed blinking, and high-purity single-photon emission with g2(0) = 0.06. This stabilized excitonic emission directly reduces reabsorption losses in luminescent solar concentrators, yielding an external optical efficiency of 12.68%. Our work establishes a generalizable framework to unlock intrinsic excitonic photophysics in ion-mobile, defect-prone semiconductors, opening a viable path toward high-performance heavy-metal-free emitters for quantum light sources.",
+    "categories": [
+      "physics.optics",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-17T11:21:45Z",
+    "updated": "2026-06-17T11:21:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.18939v1",
+      "pdf_path": "data/pdfs/2026-06-18/3_Thermodynamic-Kinetic Decoupling Enables Stable Excitonic Emission in Defect-Tolerant Cu-Based Quantum Dots__2606.18939v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-18T02:37:54.356957",
+    "updated_at": "2026-06-18T02:37:54.356944Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-18/3_Thermodynamic-Kinetic Decoupling Enables Stable Excitonic Emission in Defect-Tolerant Cu-Based Quantum Dots__2606.18939v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.18939v1",
+    "pdf_filename": "3_Thermodynamic-Kinetic Decoupling Enables Stable Excitonic Emission in Defect-Tolerant Cu-Based Quantum Dots__2606.18939v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过热力学-动力学解耦策略，实现了无镉铜基量子点的窄带激子发射和高稳定性。",
+      "en": "Achieved stable narrowband excitonic emission in Cd-free Cu-based quantum dots via a thermodynamic–kinetic decoupling strategy."
+    },
+    "problem": {
+      "zh": "铜基三元量子点（如CuInS2）因缺陷形成能低和离子迁移率高，通常表现为宽带缺陷发射，且在壳层生长等加工过程中光谱极易劣化。",
+      "en": "Cu-based multinary quantum dots typically exhibit broad defect-mediated emission and spectral degradation during processing due to low defect formation energy and high ion mobility."
+    },
+    "approach": {
+      "zh": "提出“应变与锚定”策略：利用Zn合金化产生的晶格应变热力学抑制缺陷形成，并引入Ga离子动力学锁定阳离子亚晶格，防止加工过程中的缺陷再生。",
+      "en": "Proposed a \"strain-and-pin\" strategy: using Zn alloying to induce lattice strain for thermodynamic suppression of defects, and Ga incorporation to kinetically pin the cation sublattice against defect regeneration."
+    },
+    "main_takeaway": {
+      "zh": "将CuInS2的发射从宽缺陷带（~300 meV）缩窄至激子线（~120 meV），实现了98%的荧光产率、室温单光子发射（g2(0)=0.06）及高效太阳能聚光器应用。",
+      "en": "Narrowed CuInS2 emission from a broad defect band (~300 meV) to an excitonic line (~120 meV), achieving 98% PLQY, room-temperature single-photon emission (g2(0)=0.06), and efficient luminescent solar concentrators."
+    },
+    "why_it_matters": {
+      "zh": "该工作打破了无重金属量子点在效率、色纯度与稳定性之间的权衡限制，为开发环保型量子光源和光电器件提供了新路径。",
+      "en": "This work breaks the efficiency–purity–stability trade-off in heavy-metal-free quantum dots, opening a viable path for eco-friendly quantum light sources and optoelectronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "通过创新的热力学与动力学协同调控，解决了铜基量子点长期存在的缺陷发射难题，并展示了优异的单颗粒光学性能。",
+        "en": "Resolved the long-standing defect emission issue in Cu-based QDs through innovative synergistic thermodynamic and kinetic control, demonstrating superior single-particle optical performance."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论计算",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文涵盖了基础物理机制创新、单颗粒光谱表征以及高性能器件应用，符合该期刊对纳米材料深度与广度的要求。",
+        "en": "The paper covers fundamental physical mechanism innovation, single-dot spectroscopy, and high-performance device applications, meeting the journal's requirements for depth and breadth in nanomaterials."
+      }
+    },
+    "keywords": [
+      "Copper indium sulfide",
+      "Exciton emission",
+      "Defect thermodynamics",
+      "Single-photon source",
+      "Luminescent solar concentrators"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-18T10:39:34",
+    "input_scope": "full_pdf_text"
+  }
+}

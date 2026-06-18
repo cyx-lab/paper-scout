@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2606.18647v1",
+    "title": "Trion Hall effect in electron-hole double layers",
+    "authors": [
+      "Raghav Chaturvedi",
+      "Phuong X. Nguyen",
+      "Patrick Knüppel",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Kin Fai Mak",
+      "Jie Shan"
+    ],
+    "abstract": "The realization of Coulomb coupled electron-hole double layers in 2D semiconductor heterostructures has enabled the thermodynamic and transport studies of equilibrium exciton fluids without a magnetic field. By doping the exciton fluid with additional electrons/holes, an equilibrium fluid of trions - three particle bound states of electrons and holes - further emerge, providing the platform to explore new transport phenomena associated with such composite particles. Here we report the observation of a Hall effect for trions in MoSe2/WSe2 heterobilayers, which support Coulomb-coupled electron and hole fluids with tunable densities. The Hall effect arises from a Lorentz force on trions under a perpendicular magnetic field. It is manifested in both Hall drag measurements and standard Hall effect measurements on just one of the semiconductor layers. For negatively charged trions, an electron Hall effect is observed even in a hole doped WSe2 monolayer due to the presence of trion drags. The trion Hall effect also disappears when the trions are ionized at elevated temperatures and/or high trion densities. Our work opens the door for realizing quantum oscillations and the quantum Hall effect for trions.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.other",
+      "cond-mat.str-el",
+      "quant-ph"
+    ],
+    "published": "2026-06-17T03:31:58Z",
+    "updated": "2026-06-17T03:31:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:trion"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.18647v1",
+      "pdf_path": "data/pdfs/2026-06-18/3_Trion Hall effect in electron-hole double layers__2606.18647v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-18T02:37:54.357781",
+    "updated_at": "2026-06-18T02:37:54.357774Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-18/3_Trion Hall effect in electron-hole double layers__2606.18647v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.18647v1",
+    "pdf_filename": "3_Trion Hall effect in electron-hole double layers__2606.18647v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在 MoSe2/WSe2 异质双层中首次观测到由平衡态三子流产生的霍尔效应。",
+      "en": "First observation of the Hall effect for equilibrium trions in MoSe2/WSe2 heterobilayers."
+    },
+    "problem": {
+      "zh": "虽然平衡态激子流已在二维系统中实现，但由其掺杂产生的带电复合粒子（三子）在磁场下的输运特性（如霍尔效应）尚未被实验证实。",
+      "en": "While equilibrium exciton fluids have been realized, the transport properties of charged composite particles (trions) formed by doping these fluids, specifically their Hall effect under a magnetic field, remained unobserved."
+    },
+    "approach": {
+      "zh": "利用 MoSe2/WSe2 异质双层构建电子-空穴双层系统，通过双栅极独立调节层间载流子密度，结合霍尔拖拽测量和光学反射光谱表征三子的输运行为。",
+      "en": "Used MoSe2/WSe2 heterobilayers to create electron-hole double layers with tunable densities, employing Hall drag measurements and optical reflection spectroscopy to characterize trion transport."
+    },
+    "main_takeaway": {
+      "zh": "实验证实了带电三子在垂直磁场下受洛伦兹力产生霍尔效应，甚至在空穴层中观测到了由负三子拖拽引起的“电子型”霍尔信号，且该效应随三子热电离而消失。",
+      "en": "Confirmed the trion Hall effect driven by Lorentz forces, notably observing an \"electron-like\" Hall signal in a hole-doped layer due to negative trion drag, which disappears upon thermal ionization."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了三子可以作为独立的带电实体进行输运，为未来实现三子的量子振荡和量子霍尔效应开辟了道路。",
+      "en": "It demonstrates that trions act as independent charged transport entities, paving the way for realizing trion quantum oscillations and the trion quantum Hall effect."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在实验上直接观测到平衡态三子的霍尔效应，填补了复合粒子输运研究的空白。",
+        "en": "First experimental observation of the equilibrium trion Hall effect, filling a gap in the study of composite particle transport."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究由领域顶尖团队完成，涉及二维材料中新型量子流体的输运发现，符合顶级期刊标准。",
+        "en": "Conducted by a leading group in the field, this discovery of new quantum fluid transport in 2D materials meets the criteria for top-tier journals."
+      }
+    },
+    "keywords": [
+      "Trions",
+      "Hall effect",
+      "Heterobilayers",
+      "Coulomb drag",
+      "Exciton fluid"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-18T10:38:35",
+    "input_scope": "full_pdf_text"
+  }
+}

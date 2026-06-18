@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2606.18964v1",
+    "title": "Projected altermagnetism by symmetry reduction at surfaces and in thin films",
+    "authors": [
+      "Sopheak Sorn",
+      "Charanpreet Singh",
+      "Lukasz Plucinski",
+      "Gustav Bihlmayer",
+      "Yuriy Mokrousov",
+      "Wulf Wulfhekel"
+    ],
+    "abstract": "Altermagnets are a newly identified class of magnetic materials that combine vanishing net magnetization within the unit cell with spin-split electronic states. Their theoretical description relies on symmetry properties of the bulk band structure. Surfaces and thin films, however, inherently break these symmetries. Here, we investigate the consequences of such symmetry reduction for the electronic structure of bulk altermagnets near the surface and of thin films. When the surface coincides with a symmetry plane of the bulk altermagnetic order, the resulting two-dimensional Brillouin zone exhibits spin-degenerate bands, corresponding to conventional antiferromagnetic behavior. In all other cases, the symmetry of the altermagnetic order is reduced, leading to modified spin splitting. Remarkably, we discover a thin-film geometry of a $g$-wave altermagnet with a particular surface orientation that enables a $d$-wave spin splitting, which is commonly accompanied by the spin-splitter effect, suggesting the functionalization of non-$d$-wave altermagnets by surfaces. Our findings demonstrate that symmetry breaking at surfaces and in thin films fundamentally reshapes altermagnetic spin textures, providing a tunable platform for controlling spin-dependent electronic phenomena.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-17T11:43:45Z",
+    "updated": "2026-06-17T11:43:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.18964v1",
+      "pdf_path": "data/pdfs/2026-06-18/3_Projected altermagnetism by symmetry reduction at surfaces and in thin films__2606.18964v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-18T02:37:54.356881",
+    "updated_at": "2026-06-18T02:37:54.356871Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-18/3_Projected altermagnetism by symmetry reduction at surfaces and in thin films__2606.18964v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.18964v1",
+    "pdf_filename": "3_Projected altermagnetism by symmetry reduction at surfaces and in thin films__2606.18964v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了表面和薄膜的对称性破缺如何重塑交错磁体的自旋分裂特性，并发现特定取向可诱导d波自旋分裂。",
+      "en": "The study reveals how symmetry reduction at surfaces and in thin films reshapes altermagnetic spin splitting, discovering that specific orientations can induce d-wave spin textures."
+    },
+    "problem": {
+      "zh": "交错磁体的定义依赖于体相晶格对称性，但实际应用中的表面和薄膜会破坏这些对称性，研究旨在明确这种对称性降低对电子结构和自旋分裂的影响。",
+      "en": "Altermagnetism is defined by bulk symmetries which are inherently broken at surfaces and in thin films; this work investigates how such symmetry reduction modifies electronic states and spin splitting."
+    },
+    "approach": {
+      "zh": "结合群论分析、密度泛函理论（DFT）计算和紧束缚模型，以g波交错磁体CrSb为代表，研究了不同表面取向（001、010、210）下的自旋极化能带结构。",
+      "en": "Combining group-theoretical analysis, DFT calculations, and tight-binding models, the study examines spin-polarized band structures of the g-wave altermagnet CrSb across different surface orientations (001, 010, 210)."
+    },
+    "main_takeaway": {
+      "zh": "通过表面工程可以调控交错磁性的对称性：在体相为g波的CrSb中，(210)表面能激发出极具应用价值的d波自旋分裂，而(001)表面则表现出类似铁磁的自旋分裂。",
+      "en": "Surface engineering can tune altermagnetic symmetry: in bulk g-wave CrSb, the (210) surface enables highly desirable d-wave spin splitting, while the (001) surface exhibits ferromagnetic-like splitting."
+    },
+    "why_it_matters": {
+      "zh": "它证明了维度降低不仅不会破坏交错磁性，反而可以作为一种工具来定制自旋电子学功能（如自旋分裂效应），同时提醒实验学家在解释表面敏感测量结果时需谨慎。",
+      "en": "It demonstrates that dimensionality reduction can be a tool to tailor spintronic functionalities (like the spin-splitter effect) rather than just a perturbation, and cautions experimentalists in interpreting surface-sensitive measurements."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "系统地阐明了表面对称性对交错磁体自旋织构的重塑作用，并提出了通过表面取向实现d波分裂的新方案。",
+        "en": "Systematically elucidates the reshaping of altermagnetic spin textures by surface symmetry and proposes a new route to achieve d-wave splitting via surface orientation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了关于新型磁性材料（交错磁体）的普适性对称性原理，并具有明确的实验指导意义。",
+        "en": "The study presents universal symmetry principles for a novel class of magnetic materials (altermagnets) with clear experimental implications."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Surface Symmetry",
+      "Spin Splitting",
+      "CrSb",
+      "d-wave symmetry",
+      "Thin Films"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-18T10:39:47",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.19339v1",
+    "title": "Quantum solitons and their quantum walks in transmon arrays",
+    "authors": [
+      "Ben Blain",
+      "Giampiero Marchegiani",
+      "Luigi Amico",
+      "Gianluigi Catelani"
+    ],
+    "abstract": "Superconducting qubits are artificial atoms whose spectra and interactions can be engineered through appropriate circuit design, a versatility that can be exploited for quantum simulation. We theoretically investigate a linear array of capacitively coupled transmons, effectively described by a Bose-Hubbard Hamiltonian with attractive interaction. We revisit the discrete-soliton nature of the lowest-energy band of the spectrum, and identify spatially localized quantum solitons. The solitonic character of these states is revealed through their time evolution, which displays a quantum interference pattern, or quantum walk, highlighting their composite nature. We discuss protocols for preparing spatially localized quantum solitons that are compatible with current state-of-the-art tunable-transmon circuits. Our results demonstrate that superconducting circuits provide a promising and experimentally accessible platform for the investigation of quantum soliton physics.",
+    "categories": [
+      "quant-ph",
+      "cond-mat.mes-hall",
+      "cond-mat.quant-gas",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-06-17T17:59:45Z",
+    "updated": "2026-06-17T17:59:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.19339v1",
+      "pdf_path": "data/pdfs/2026-06-18/2_Quantum solitons and their quantum walks in transmon arrays__2606.19339v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-18T02:37:54.355905",
+    "updated_at": "2026-06-18T02:37:54.355857Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-18/2_Quantum solitons and their quantum walks in transmon arrays__2606.19339v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.19339v1",
+    "pdf_filename": "2_Quantum solitons and their quantum walks in transmon arrays__2606.19339v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了超导跨子阵列中的空间定域量子孤子及其量子行走特性，并提出了一种高保真度的快速制备方案。",
+      "en": "This work investigates spatially localized quantum solitons and their quantum walks in transmon arrays, proposing a high-fidelity fast preparation protocol."
+    },
+    "problem": {
+      "zh": "如何在具有吸引相互作用的超导量子比特阵列中定义、高效制备并区分空间定域的量子孤子与普通的玻色子堆叠态。",
+      "en": "How to define, efficiently prepare, and distinguish spatially localized quantum solitons from simple boson stacks in superconducting qubit arrays with attractive interactions."
+    },
+    "approach": {
+      "zh": "利用吸引玻色-哈伯德模型进行理论分析和数值模拟，提出了一种基于恒定钉扎势和快速淬火的非绝热制备协议，并通过海林格距离分析量子行走演化模式。",
+      "en": "Using theoretical analysis and numerical simulations of the attractive Bose-Hubbard model, the authors propose a non-adiabatic preparation protocol based on constant pinning and fast quenching, and analyze quantum walk evolution patterns using Hellinger distance."
+    },
+    "main_takeaway": {
+      "zh": "量子孤子在跨子阵列中表现为复合粒子，其量子行走干涉图样显著不同于单粒子或简单的玻色子堆叠，且可以通过短时间（远小于弛豫时间）的非绝热过程以超过99%的保真度制备。",
+      "en": "Quantum solitons behave as composite particles in transmon arrays, with quantum walk interference patterns distinct from single particles or boson stacks, and can be prepared with >99% fidelity via a short-time non-adiabatic process."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在现有超导硬件上进行非线性量子物理模拟提供了切实可行的方案，展示了利用跨子高能级模拟复杂多体物理的潜力。",
+      "en": "This study provides a practical scheme for simulating non-linear quantum physics on current superconducting hardware, demonstrating the potential of using higher transmon levels for complex many-body simulations."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种针对超导电路优化的量子孤子制备协议，并定量给出了区分孤子态的实验观测特征。",
+        "en": "Proposed a preparation protocol optimized for superconducting circuits and provided quantitative experimental signatures to distinguish soliton states."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Research",
+      "confidence": "high",
+      "reason": {
+        "zh": "文中明确引用了该论文已发表在 Physical Review Research 5, 033130 (2023)。",
+        "en": "The text explicitly cites the published version in Physical Review Research 5, 033130 (2023)."
+      }
+    },
+    "keywords": [
+      "Quantum solitons",
+      "Transmon arrays",
+      "Bose-Hubbard model",
+      "Quantum walks",
+      "State preparation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-18T10:40:21",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.19219v1",
+    "title": "Spontaneous parametric down-conversion pumped by spatiotemporal structured light",
+    "authors": [
+      "Lukas Montenegro",
+      "Rafael F. Barros"
+    ],
+    "abstract": "Here we investigate the all-optical control of spectral correlations in spontaneous parametric down-conversion. We show that when photon pairs are projected onto high-order spatial modes, the spatial structure of the pump field defines the phase-matching function of the nonlinear interaction. Thus, by structuring the pump field in both space and spectrum, the biphoton spectral correlations are fully controlled.Considering a standard periodically-poled crystal as the nonlinear medium, we show that the Gouy phase matching method proposed here can generate both spectrally uncorrelated and high-dimensional spectrally entangled photon pairs, similarly to what is achieved with aperiodically-poled crystals. Furthermore, we show that our method can generate a wider class of quantum states if the pump field is a spatiotemporal wavepacket, that is, if its spatial and spectral structures are correlated.",
+    "categories": [
+      "quant-ph",
+      "physics.optics"
+    ],
+    "published": "2026-06-17T15:57:40Z",
+    "updated": "2026-06-17T15:57:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:aperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.19219v1",
+      "pdf_path": "data/pdfs/2026-06-18/4_Spontaneous parametric down-conversion pumped by spatiotemporal structured light__2606.19219v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-18T02:37:54.356164",
+    "updated_at": "2026-06-18T02:37:54.356156Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-18/4_Spontaneous parametric down-conversion pumped by spatiotemporal structured light__2606.19219v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.19219v1",
+    "pdf_filename": "4_Spontaneous parametric down-conversion pumped by spatiotemporal structured light__2606.19219v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出一种利用泵浦光的时空结构（古伊相位匹配）全光控制自发参量下转换光子对频谱相关性的方法。",
+      "en": "Proposes an all-optical method to control biphoton spectral correlations in SPDC by structuring the pump field's spatial and temporal degrees of freedom via Gouy phase matching."
+    },
+    "problem": {
+      "zh": "传统的双光子频谱相关性控制依赖于复杂的非线性晶体工程（如非周期极化晶体），缺乏可编程性且每种量子态都需要定制晶体。",
+      "en": "Conventional control of biphoton spectral correlations relies on complex nonlinear crystal engineering (e.g., aperiodically-poled crystals), which lacks programmability and requires custom crystals for each state."
+    },
+    "approach": {
+      "zh": "利用结构光场固有的古伊相位产生模式相关的相位匹配函数，通过在标准非线性晶体中叠加泵浦光的空间模式和频谱形状来调控双光子联合频谱振幅。",
+      "en": "Exploits the intrinsic Gouy phase of structured light to create mode-dependent phase-matching functions, controlling the joint spectral amplitude by superposing pump spatial modes and spectral shapes in standard crystals."
+    },
+    "main_takeaway": {
+      "zh": "仅使用标准非线性晶体，通过调制泵浦光的时空波包即可实现对双光子频谱的二维全光控制，生成包括高阶厄米-高斯模在内的多种高维纠缠态。",
+      "en": "Two-dimensional all-optical control of biphoton spectra can be achieved using standard crystals by modulating spatiotemporal pump wavepackets, enabling the generation of high-dimensional entangled states including high-order Hermite-Gaussian modes."
+    },
+    "why_it_matters": {
+      "zh": "该方法实现了量子态产生过程的场可编程性，为高维量子通信和信息处理提供了一种灵活、无需定制晶体且兼容现有光纤架构的新途径。",
+      "en": "This method enables field-programmability in quantum state generation, providing a flexible alternative for high-dimensional quantum communication that is compatible with fiber architectures without custom crystals."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种无需复杂晶体加工即可实现双光子频谱精确控制的新物理机制，具有高度的灵活性。",
+        "en": "Introduces a new physical mechanism for precise biphoton spectral control without complex crystal processing, offering high flexibility."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究提出了新颖的量子光学控制方案，对高维量子信息领域具有显著的潜在影响。",
+        "en": "The study proposes a novel quantum optical control scheme with significant potential impact on high-dimensional quantum information."
+      }
+    },
+    "keywords": [
+      "Spontaneous Parametric Down-Conversion",
+      "Structured Light",
+      "Gouy Phase",
+      "Quantum Communication",
+      "Spectral Correlation",
+      "Spatiotemporal Wavepackets"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-18T10:40:00",
+    "input_scope": "full_pdf_text"
+  }
+}

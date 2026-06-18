@@ -1,0 +1,126 @@
+{
+  "paper_record": {
+    "id": "2606.18731v1",
+    "title": "$d$-wave altermagnetism revealed by resonant inelastic X-ray scattering",
+    "authors": [
+      "Guangkai Zhang",
+      "Yuehong Li",
+      "Xubin Ye",
+      "Vincent C. Morano",
+      "Sze Tung Li",
+      "Jaewon Choi",
+      "Rebecca Scatena",
+      "Shuai Tang",
+      "Maocai Pi",
+      "Mengqi Ye",
+      "Mirian Garcia-Fernandez",
+      "Alessandro Bombardi",
+      "Xiaomei Qin",
+      "Zhao Pan",
+      "Daniel G. Mazzone",
+      "Qisi Wang",
+      "Yi Lu",
+      "Yao Shen",
+      "Youwen Long"
+    ],
+    "abstract": "Altermagnetism defines a third fundamental class of collinear magnetic order, featuring compensated magnetic moments with antiparallel spin alignment, yet lifted Kramers degeneracy without the need for relativistic spin-orbit coupling. Its ability to host spin-polarized electronic bands and unconventional chiral magnons makes it a promising platform for functional materials. However, experimental verification has proven challenging; while circular dichroism in resonant inelastic X-ray scattering (RIXS) has been suggested as a signature of chiral magnons, it remains controversial whether this effect is an intrinsic property of altermagnetism or an artifact of experimental geometry. In this work, we resolve this debate and provide unambiguous experimental evidence of $d$-wave altermagnetism in the strongly correlated Lieb-lattice magnet La$_2$O$_3$Mn$_2$Se$_2$. The RIXS spectra exhibit a $d$-wave-symmetry circular dichroism in the magnetic excitations that vanishes in the paramagnetic phase. Through RIXS-operator symmetry analysis and exact-diagonalization calculations, we prove that the observed dichroism is a direct consequence of altermagnetic symmetry constraints, independent of magnon branch splitting. Our results provide definitive evidence for the experimental realization of $d$-wave altermagnetism in La$_2$O$_3$Mn$_2$Se$_2$ and establish circularly polarized RIXS as a highly symmetry-sensitive spectroscopic framework for detecting magnetic phases that evade conventional probes.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-17T06:20:28Z",
+    "updated": "2026-06-17T06:20:28Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism",
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.18731v1",
+      "pdf_path": "data/pdfs/2026-06-18/6_$d$-wave altermagnetism revealed by resonant inelastic X-ray scattering__2606.18731v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-18T02:37:54.357628",
+    "updated_at": "2026-06-18T02:37:54.357621Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-18/6_$d$-wave altermagnetism revealed by resonant inelastic X-ray scattering__2606.18731v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.18731v1",
+    "pdf_filename": "6_$d$-wave altermagnetism revealed by resonant inelastic X-ray scattering__2606.18731v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过共振非弹性X射线散射（RIXS）在Lieb晶格材料中观测到d波交错磁性的确凿证据。",
+      "en": "Unambiguous evidence of d-wave altermagnetism is revealed in a Lieb-lattice magnet using resonant inelastic X-ray scattering (RIXS)."
+    },
+    "problem": {
+      "zh": "交错磁性的实验验证具有挑战性，且关于RIXS圆二色性是否能作为探测该磁相的内在可靠手段存在争议。",
+      "en": "Experimental verification of altermagnetism is difficult, and the reliability of RIXS circular dichroism as an intrinsic probe for this phase is under debate."
+    },
+    "approach": {
+      "zh": "利用圆偏振RIXS测量强关联材料的磁激发，并结合RIXS算符对称性分析与精确对角化数值计算进行验证。",
+      "en": "Utilized circularly polarized RIXS to measure magnetic excitations in a strongly correlated material, combined with RIXS operator symmetry analysis and exact diagonalization calculations."
+    },
+    "main_takeaway": {
+      "zh": "磁振子激发的圆二色性具有明显的d波对称性，且这种信号直接源于交错磁性的对称性约束，不依赖于磁振子能带的分裂。",
+      "en": "The circular dichroism of magnon excitations exhibits d-wave symmetry, arising directly from altermagnetic symmetry constraints independent of magnon branch splitting."
+    },
+    "why_it_matters": {
+      "zh": "该研究证实了首个d波交错磁体候选材料，并确立了圆偏振RIXS作为探测常规手段难以发现的新型磁相的高灵敏度光谱框架。",
+      "en": "It confirms a candidate for d-wave altermagnetism and establishes circularly polarized RIXS as a sensitive spectroscopic framework for detecting magnetic phases that evade conventional probes."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提供了交错磁性的明确实验证据，并从理论上澄清了RIXS探测该物态的微观机制。",
+        "en": "Provides definitive experimental evidence for altermagnetism and theoretically clarifies the microscopic mechanism of RIXS as a probe for this state."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论数值",
+      "en": "Experimental + Theoretical/Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对凝聚态物理当前的热点领域（交错磁性），结合了高质量的同步辐射实验与深入的理论分析。",
+        "en": "The study addresses a highly active field (altermagnetism) with high-quality synchrotron data and in-depth theoretical analysis."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "RIXS",
+      "Circular Dichroism",
+      "Magnons",
+      "Lieb Lattice"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-18T10:39:01",
+    "input_scope": "full_pdf_text"
+  }
+}

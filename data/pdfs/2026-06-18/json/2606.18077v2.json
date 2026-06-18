@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2606.18077v2",
+    "title": "Highly nonlinear Moiré exciton and trion polaritons",
+    "authors": [
+      "Arnab Barman Ray",
+      "Trevor Ollis",
+      "Fei Cheng",
+      "Adam L. Freidman",
+      "Aubrey T. Hanbicki",
+      "Anthony Nickolas Vamivakas"
+    ],
+    "abstract": "Moiré multi-layers of transition metal dichalcogenides have been shown to exhibit optical responses that are endowed with a richness that is absent in single monolayers. Much of this can be attributed to the Moiré superlattice that modulates the electronic landscape of these heterostructures. Strongly coupled layer-hybridized excitons in $\\text{MoSe}_2 / \\text{WS}_2$ heterobilayers have been shown to exhibit enhanced optical nonlinearities. In this work we strongly couple layer hybridized excitons and trions in n-doped $\\text{MoSe}_2 / \\text{WS}_2$ heterobilayers inside an optical microcavity. We find that the additional Lindhard screening from dopant electrons and the formation of trions result in a strikingly non-monotonic nonlinear response. The absence of electron capture in the Moiré superlattice plays a crucial role, promising very large second-order nonlinearities. In this work, trion polaritons manifest as high velocity hot polaritons, reaching nominal diffusion lengths approaching 100 microns.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-16T15:45:01Z",
+    "updated": "2026-06-17T11:26:02Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:trion",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.18077v2",
+      "pdf_path": "data/pdfs/2026-06-18/3_Highly nonlinear Moiré exciton and trion polaritons__2606.18077v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-18T02:37:54.358470",
+    "updated_at": "2026-06-18T02:37:54.358457Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-18/3_Highly nonlinear Moiré exciton and trion polaritons__2606.18077v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.18077v2",
+    "pdf_filename": "3_Highly nonlinear Moiré exciton and trion polaritons__2606.18077v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了n掺杂MoSe2/WS2莫尔异质结中激子与三子极化激元的强耦合及其高度非线性的非单调响应。",
+      "en": "Investigation of strongly coupled Moiré exciton and trion polaritons in n-doped MoSe2/WS2 heterobilayers, revealing highly nonlinear and non-monotonic optical responses."
+    },
+    "problem": {
+      "zh": "探索莫尔超晶格中的掺杂载流子如何通过屏蔽效应和三子形成，影响激子-极化激元的非线性相互作用。",
+      "en": "Exploring how dopant carriers in Moiré superlattices influence the nonlinear interactions of exciton-polaritons through screening and trion formation."
+    },
+    "approach": {
+      "zh": "将n掺杂MoSe2/WS2异质双层置于光学微腔中，利用变功率和变温光致发光光谱，结合Lindhard屏蔽模型分析极化激元的能级移动和振子强度变化。",
+      "en": "Placing n-doped MoSe2/WS2 heterobilayers in an optical microcavity and using power- and temperature-dependent photoluminescence combined with a Lindhard screening model to analyze polariton energy shifts and oscillator strength variations."
+    },
+    "main_takeaway": {
+      "zh": "极化激元的振子强度随密度呈现独特的非单调变化，这源于莫尔超晶格中缺乏电子捕获，导致光激发产生的三子耗尽了背景掺杂电子，从而减弱了静电屏蔽。",
+      "en": "The polariton oscillator strength exhibits a unique non-monotonic density dependence, resulting from the absence of electron capture in the Moiré lattice, where trion formation depletes dopant electrons and reduces electrostatic screening."
+    },
+    "why_it_matters": {
+      "zh": "该研究实现了比未掺杂系统高出数倍的非线性系数，且三子极化激元展现出接近100微米的超长扩散距离，为实现单光子水平的非线性调控奠定了基础。",
+      "en": "The study achieves nonlinear coefficients several times larger than undoped systems and demonstrates trion-polariton diffusion lengths near 100 microns, paving the way for nonlinear control at the single-photon level."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次揭示了莫尔系统中掺杂电子对极化激元非线性的非单调贡献，并展示了极高的非线性相互作用强度。",
+        "en": "First to reveal the non-monotonic contribution of dopant electrons to polariton nonlinearity in Moiré systems, demonstrating exceptionally strong nonlinear interactions."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论模型",
+      "en": "Experimental + Theoretical modeling"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了莫尔超晶格与极化激元两个热门领域，且在非线性光学性能上有显著突破。",
+        "en": "The study combines Moiré superlattices and polaritonics, two high-interest fields, with significant breakthroughs in nonlinear optical performance."
+      }
+    },
+    "keywords": [
+      "Moiré superlattice",
+      "Exciton-polariton",
+      "Trion",
+      "Nonlinear optics",
+      "TMDC heterostructures"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-18T10:38:19",
+    "input_scope": "full_pdf_text"
+  }
+}
