@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.25660v1",
+    "title": "Lattice non-invertible symmetry from non-commuting transfer matrices",
+    "authors": [
+      "Eric Vernier",
+      "Yuan Miao",
+      "Masahito Yamazaki"
+    ],
+    "abstract": "We establish a direct connection between Onsager symmetry, duality defects, and quantum integrability in the XXZ spin chain at roots of unity, $Δ=(q+q^{-1})/2$ with $q^N=\\pm1$. Using a non-Abelian algebra of transfer matrices governed by an unbalanced version of the Yang--Baxter/RLL relation, we construct an explicit lattice realization of the Onsager algebra and its duality automorphism. The duality is represented by a matrix product operator related to the transfer matrices of the $τ_2$ model. We show that this operator obeys $\\mathbb{Z}_N$ Tambara--Yamagami fusion rules and therefore realizes on the lattice the topological defect lines of the free compactified boson conformal field theory. Our results identify non-Abelian integrability as a natural framework for the emergence of the Onsager symmetry and categorical dualities in lattice models.",
+    "categories": [
+      "cond-mat.stat-mech",
+      "cond-mat.str-el",
+      "hep-th",
+      "math-ph"
+    ],
+    "published": "2026-06-24T10:12:44Z",
+    "updated": "2026-06-24T10:12:44Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.25660v1",
+      "pdf_path": "data/pdfs/2026-06-25/2_Lattice non-invertible symmetry from non-commuting transfer matrices__2606.25660v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.743761",
+    "updated_at": "2026-06-25T02:13:52.743753Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/2_Lattice non-invertible symmetry from non-commuting transfer matrices__2606.25660v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.25660v1",
+    "pdf_filename": "2_Lattice non-invertible symmetry from non-commuting transfer matrices__2606.25660v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过非对易转移矩阵在单位根 XXZ 自旋链中构造了 Onsager 代数的格点实现及其非可逆对偶对称性。",
+      "en": "This paper establishes a lattice realization of the Onsager algebra and its non-invertible duality symmetry in the XXZ spin chain at roots of unity using non-commuting transfer matrices."
+    },
+    "problem": {
+      "zh": "在单位根 XXZ 模型中，尽管长期怀疑存在 Onsager 对称性，但其生成元的显式格点构造以及与非可逆对称性的联系一直不明确。",
+      "en": "While Onsager-type symmetry has been suspected in the XXZ chain at roots of unity, an explicit lattice construction of its generators and its connection to non-invertible symmetries remained elusive."
+    },
+    "approach": {
+      "zh": "利用基于非对易转移矩阵的“不平衡” Yang-Baxter/RLL 关系构造 Onsager 代数生成元，并使用矩阵乘积算符实现对偶变换。",
+      "en": "Utilizing unbalanced Yang-Baxter/RLL relations based on non-commuting transfer matrices to construct Onsager algebra generators and implementing duality via Matrix Product Operators."
+    },
+    "main_takeaway": {
+      "zh": "单位根 XXZ 模型的非阿贝尔可积性为 Onsager 对称性和 Tambara-Yamagami 型非可逆对称性的涌现提供了统一框架。",
+      "en": "The non-Abelian integrability of the XXZ model at roots of unity provides a unified framework for the emergence of Onsager symmetry and Tambara-Yamagami-type non-invertible symmetries."
+    },
+    "why_it_matters": {
+      "zh": "它揭示了量子可积性与范畴对称性之间的深层联系，为在格点模型中研究非可逆对称性提供了具体的解析工具。",
+      "en": "It reveals a deep connection between quantum integrability and categorical symmetries, providing concrete analytical tools to study non-invertible symmetries in lattice models."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "显式构造了长期缺失的格点 Onsager 生成元，并将可积性与现代非可逆对称性理论联系起来。",
+        "en": "Explicitly constructs the long-sought lattice Onsager generators and links integrability with modern non-invertible symmetry theory."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了统计力学和凝聚态物理中的一个基础理论问题，具有广泛的影响力。",
+        "en": "The study addresses a fundamental theoretical problem in statistical mechanics and condensed matter physics with broad impact."
+      }
+    },
+    "keywords": [
+      "XXZ spin chain",
+      "Onsager algebra",
+      "Non-invertible symmetry",
+      "Quantum integrability",
+      "Tambara-Yamagami category"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:14:38",
+    "input_scope": "full_pdf_text"
+  }
+}

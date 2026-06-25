@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2606.26096v1",
+    "title": "Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators",
+    "authors": [
+      "Niclas Heinsdorf",
+      "Ken Shiozaki"
+    ],
+    "abstract": "We rewrite a lattice model of the four-dimensional Chern insulator as a family of translationally-invariant infinite chains over the three-dimensional Brillouin zone and compute its higher three-form Berry curvature using infinite matrix product states (iMPS). We calculate the topological phase diagram of the associated Dixmier--Douady--Kapustin--Spodyneiko (DDKS) number as a function of the model's mass term, and show that it is exactly congruent to the phase diagram in terms of the second Chern number, the analytic expression of which is known for this particular model. This agreement demonstrates that higher Berry curvature can be used to compute second Chern numbers in a manifestly quantized manner. Motivated by the connection between the second Chern form and the Chern--Simons axion coupling, we study magnetoelectric coupling in three dimensions and its relation to higher Berry phases.",
+    "categories": [
+      "cond-mat.str-el",
+      "quant-ph"
+    ],
+    "published": "2026-06-24T17:59:57Z",
+    "updated": "2026-06-24T17:59:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26096v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators__2606.26096v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.741963",
+    "updated_at": "2026-06-25T02:13:52.741924Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators__2606.26096v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26096v1",
+    "pdf_filename": "3_Higher Berry curvature, second Chern numbers and magnetoelectric coupling in crystalline insulators__2606.26096v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文利用无限矩阵乘积态（iMPS）计算高阶 Berry 曲率，实现了四维陈绝缘体第二陈数的显式量子化数值计算。",
+      "en": "This paper uses infinite matrix product states (iMPS) to compute higher Berry curvature, enabling manifestly quantized numerical calculation of second Chern numbers for four-dimensional Chern insulators."
+    },
+    "problem": {
+      "zh": "如何在离散参数空间中利用一维系统的张量网络方法，稳健且显式量子化地计算高阶拓扑不变量（如第二陈数）。",
+      "en": "How to robustly and manifestly calculate higher-dimensional topological invariants, such as the second Chern number, using tensor network methods for one-dimensional systems over a discrete parameter space."
+    },
+    "approach": {
+      "zh": "将四维陈绝缘体映射为三维参数空间上的一维链族，利用 iMPS 及其混合转移矩阵构造离散高阶 Berry 曲率，并计算 DDKS 数。",
+      "en": "Mapping a 4D Chern insulator to a family of 1D chains over a 3D parameter space, constructing discrete higher Berry curvature using iMPS and mixed transfer matrices to compute the DDKS number."
+    },
+    "main_takeaway": {
+      "zh": "高阶 Berry 曲率产生的 DDKS 数与第二陈数的相图完全一致，且在极粗糙的网格下也能保持严格的整数量子化。",
+      "en": "The DDKS number derived from higher Berry curvature perfectly matches the second Chern number phase diagram and maintains strict integer quantization even on very coarse grids."
+    },
+    "why_it_matters": {
+      "zh": "该方法为研究强相互作用系统中的高阶拓扑物态提供了强有力的数值工具，并探讨了高阶 Berry 相与轨道磁电耦合之间的潜在联系。",
+      "en": "This method provides a powerful numerical tool for studying higher-dimensional topological phases in strongly interacting systems and explores the potential links between higher Berry phases and orbital magnetoelectric coupling."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功将张量网络算法扩展到高阶拓扑不变量的计算，并证明了其在处理离散格点数据时的优越量子化特性。",
+        "en": "Successfully extended tensor network algorithms to higher topological invariants and demonstrated superior quantization properties when handling discrete grid data."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文深入探讨了凝聚态物理中的拓扑不变量、Berry 曲率和张量网络算法，非常符合 PRB 的核心范畴。",
+        "en": "The paper provides an in-depth study of topological invariants, Berry curvature, and tensor network algorithms in condensed matter physics, fitting perfectly within PRB's core scope."
+      }
+    },
+    "keywords": [
+      "Higher Berry curvature",
+      "Second Chern number",
+      "Matrix product states (MPS)",
+      "Topological insulators",
+      "Magnetoelectric coupling"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:17:42",
+    "input_scope": "full_pdf_text"
+  }
+}

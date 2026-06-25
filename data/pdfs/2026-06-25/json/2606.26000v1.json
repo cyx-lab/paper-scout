@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2606.26000v1",
+    "title": "Strong coupling regimes of an organic exciton mirror in a microcavity",
+    "authors": [
+      "Christoph Bennenhei",
+      "Lukas Lackner",
+      "Moritz Gittinger",
+      "Falk Eilenberger",
+      "Marvin F. Schumacher",
+      "Arne Lützen",
+      "Ivan Shelykh",
+      "Christoph Lienau",
+      "Martin Esmann",
+      "Christian Schneider"
+    ],
+    "abstract": "The coherent, periodic energy transfer between light- and matter excitations characterizes the strong coupling regime of cavity exciton-polaritons, resulting, in the simplest case, in a Rabi-doublet in the spectral domain. We demonstrate a peculiar regime of strong light-matter coupling, which arises when photonic cavity modes couple to an ultra-thin excitonic mirror. We embed a 12 nm J-aggregated thin film in an open microcavity and tune the coupling strength from weak to the onset of ultrastrong coupling. At resonance, the excitonic mirror selectively changes dielectric to metallic field boundary conditions adding a 2π phase, which links optical cavity modes of different order. Our work gives an exciting perspective to ultra-fast cavity switches and photonic devices based on excitonic optical elements.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "published": "2026-06-24T16:17:16Z",
+    "updated": "2026-06-24T16:17:16Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26000v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Strong coupling regimes of an organic exciton mirror in a microcavity__2606.26000v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.742530",
+    "updated_at": "2026-06-25T02:13:52.742510Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Strong coupling regimes of an organic exciton mirror in a microcavity__2606.26000v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26000v1",
+    "pdf_filename": "3_Strong coupling regimes of an organic exciton mirror in a microcavity__2606.26000v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究展示了微腔中超薄有机激子镜在强耦合到弱耦合过渡中的异常反射相位行为。",
+      "en": "This study demonstrates an anomalous reflection phase behavior in the transition from strong to weak coupling of an ultra-thin organic exciton mirror in a microcavity."
+    },
+    "problem": {
+      "zh": "在强耦合激子-极化激元系统中，当激子层具有极高振子强度且表现出镜面反射特性时，传统的强到弱耦合过渡图像不再适用，需要阐明其独特的边界条件和相位变化机制。",
+      "en": "In strong-coupling exciton-polariton systems, when the exciton layer possesses extremely high oscillator strength and acts as a mirror, the conventional strong-to-weak coupling transition picture breaks down, requiring clarification of its unique boundary conditions and phase shifts."
+    },
+    "approach": {
+      "zh": "将12纳米厚的J-聚集方酸染料薄膜置于可调谐开放式微腔中，利用动量解析白光反射光谱测量其色散，并结合传输矩阵方法进行数值模拟。",
+      "en": "Embed a 12 nm J-aggregated squaraine thin film in a tunable open microcavity, measure its dispersion using momentum-resolved white-light reflectivity, and perform numerical simulations using the transfer-matrix method."
+    },
+    "main_takeaway": {
+      "zh": "在激子镜机制下，激子在共振处将腔边界条件从介质型转变为金属型，引入了2π的反射相位变化，导致不同阶数的腔模式在长腔极限下发生异常连接（模式指数改变）。",
+      "en": "In the excitonic mirror regime, the exciton selectively switches the cavity boundary condition from dielectric to metallic at resonance, introducing a 2π reflection phase shift that links cavity modes of different orders in the long-cavity limit."
+    },
+    "why_it_matters": {
+      "zh": "该研究展示了如何利用超薄激子材料作为主动光子元件来调控腔模式，为开发室温超快光控开关和新型极化激元器件提供了新思路。",
+      "en": "It demonstrates how ultra-thin excitonic materials can act as active photonic elements to control cavity modes, opening new avenues for room-temperature ultrafast optical switches and polaritonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在实验和理论上展示了激子镜引起的2π相位跳变以及由此导致的腔模式指数改变，拓展了对微腔强耦合物理的理解。",
+        "en": "It experimentally and theoretically demonstrates the 2π phase jump induced by an excitonic mirror and the resulting change in cavity mode index, expanding the understanding of microcavity strong coupling physics."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作揭示了光与物质强耦合领域的新物理机制，且使用了高精度的可调谐微腔实验，非常符合PRL的定位。",
+        "en": "The work reveals a new physical mechanism in strong light-matter coupling using high-precision tunable microcavity experiments, which is highly suitable for PRL."
+      }
+    },
+    "keywords": [
+      "exciton-polaritons",
+      "strong coupling",
+      "excitonic mirror",
+      "open microcavity",
+      "J-aggregates",
+      "reflection phase"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:15:41",
+    "input_scope": "full_pdf_text"
+  }
+}

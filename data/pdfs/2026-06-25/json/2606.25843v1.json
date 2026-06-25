@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.25843v1",
+    "title": "Spontaneous spin splitting and tunable valley polarization in a two-dimensional fully compensated ferrimagnet",
+    "authors": [
+      "Hongyan Lv",
+      "Yueli Li",
+      "Yunfan Zhang",
+      "Jiayu Dai",
+      "Zhongjun Li",
+      "Ding-Fu Shao"
+    ],
+    "abstract": "Materials with controllable valley polarization and anomalous valley Hall (AVH) effect are highly desired in valleytronic applications. While current AVH studies primarily focus on ferromagnetic materials, two-dimensional (2D) antiferromagnets are more attractive for valleytronics since they possess zero net magnetization, negligible stray fields, and ultrafast spin dynamics. Nevertheless, the joint space-inversion and time-reversal ($PT$) symmetry in conventional collinear antiferromagnets prohibits the occurrence of AVH response. The recently proposed fully compensated ferrimagnets break $PT$ symmetry, and the spin-opposite sublattices are not related by crystal symmetry, providing a natural platform for the coexistence of spontaneous spin splitting, valley polarization, and anomalous-Hall compatible symmetry. Herein, we demonstrate that such compensated ferrimagnetism can be realized in a Janus Mn$_{2}$BrI monolayer, with a Néel temperature above room temperature. Spontaneous spin splitting is observed due to the built-in layer-dependent electrostatic potential. When SOC is considered, valley polarization emerges for an out-of-plane Néel vector. Moreover, proper hole doping stabilizes the perpendicular magnetic anisotropy and the two valleys exhibit markedly different Berry curvatures, thereby making AHE responses allowed. Furthermore, the valence band extrema of Mn$_{2}$BrI monolayer can be effectively tuned by external biaxial strain and giant piezomagnetism can be achieved. Our results identify Janus Mn$_{2}$BrI monolayer as a promising fully compensated ferrimagnetic platform for 2D valleytronics and spintronics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-24T13:56:55Z",
+    "updated": "2026-06-24T13:56:55Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.25843v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Spontaneous spin splitting and tunable valley polarization in a two-dimensional fully compensated ferrimagnet__2606.25843v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.743180",
+    "updated_at": "2026-06-25T02:13:52.743173Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Spontaneous spin splitting and tunable valley polarization in a two-dimensional fully compensated ferrimagnet__2606.25843v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.25843v1",
+    "pdf_filename": "3_Spontaneous spin splitting and tunable valley polarization in a two-dimensional fully compensated ferrimagnet__2606.25843v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过第一性原理计算预测了二维完全补偿亚铁磁体 Janus Mn2BrI 单层中的自发自旋分裂和可调谷极化。",
+      "en": "This study predicts spontaneous spin splitting and tunable valley polarization in a 2D fully compensated ferrimagnet Janus Mn2BrI monolayer using first-principles calculations."
+    },
+    "problem": {
+      "zh": "传统共线反铁磁体由于具有联合空间反演和时间反演（PT）对称性，无法产生反常谷霍尔（AVH）效应，限制了其在谷电子学中的应用。",
+      "en": "Conventional collinear antiferromagnets cannot exhibit anomalous valley Hall (AVH) effects due to the preserved joint space-inversion and time-reversal (PT) symmetry, limiting their applications in valleytronics."
+    },
+    "approach": {
+      "zh": "通过将 A 型反铁磁单层 Janus 化构建 Mn2BrI 单层，利用内置的层相关静电势打破 PT 对称性，并结合密度泛函理论（DFT+U）、自旋轨道耦合（SOC）、空穴掺杂和双轴应变进行系统研究。",
+      "en": "By janusizing an A-type antiferromagnetic monolayer to construct a Mn2BrI monolayer, the built-in layer-dependent electrostatic potential breaks the PT symmetry, which is systematically studied using density functional theory (DFT+U), spin-orbit coupling (SOC), hole doping, and biaxial strain."
+    },
+    "main_takeaway": {
+      "zh": "Janus Mn2BrI 单层在无 SOC 时即表现出自发自旋分裂，引入 SOC 后在面外磁化下产生谷极化，且通过空穴掺杂可稳定面外磁各向异性并实现反常谷霍尔效应与巨压磁效应。",
+      "en": "The Janus Mn2BrI monolayer exhibits spontaneous spin splitting without SOC, develops valley polarization under out-of-plane magnetization with SOC, and enables the anomalous valley Hall effect and giant piezomagnetism when stabilized by hole doping."
+    },
+    "why_it_matters": {
+      "zh": "它提供了一个室温以上（Néel 温度达 500 K）的完全补偿亚铁磁平台，克服了铁磁材料的杂散场限制，为实现电写电读的非易失性谷电子器件开辟了新途径。",
+      "en": "It provides a fully compensated ferrimagnetic platform with a Néel temperature above room temperature (500 K), overcoming the stray field limitations of ferromagnets and opening a new path for electrically writable and readable non-volatile valleytronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究首次在具体的二维 Janus 材料中实现了完全补偿亚铁磁性、自发自旋分裂、谷极化以及反常谷霍尔效应的共存，且 Néel 温度高于室温。",
+        "en": "This study for the first time demonstrates the coexistence of fully compensated ferrimagnetism, spontaneous spin splitting, valley polarization, and the anomalous valley Hall effect in a specific 2D Janus material with a Néel temperature above room temperature."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提出了新型二维完全补偿亚铁磁谷电子学材料设计，物理图像清晰，且涉及室温磁性与新型输运效应，非常符合 PRL 的定位。",
+        "en": "The paper proposes a novel design for 2D fully compensated ferrimagnetic valleytronic materials with clear physical insights, room-temperature magnetism, and novel transport effects, which fits PRL very well."
+      }
+    },
+    "keywords": [
+      "Janus monolayer",
+      "fully compensated ferrimagnet",
+      "spin splitting",
+      "valley polarization",
+      "anomalous valley Hall effect",
+      "piezomagnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:15:01",
+    "input_scope": "full_pdf_text"
+  }
+}

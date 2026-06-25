@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.25991v1",
+    "title": "Capturing Nuclear Quantum Effects in Hydrogen Diffusion through MoS2 via Machine-Learning-Enhanced Path-Integral Simulations",
+    "authors": [
+      "Ismail Eren",
+      "Ege Yigit Erbil",
+      "Maria-Judith Caisachana-Lozada",
+      "Hossein Mirhosseini",
+      "Thomas D. Kühne",
+      "Agnieszka B. Kuc"
+    ],
+    "abstract": "Hydrogen transport through layered two-dimensional (2D) materials is central to technologies such as hydrogen storage, fuel cells, and isotope separation. Among these materials, MoS2 exhibits tunable interlayer diffusion properties, whose accurate theoretical description requires accounting for nuclear quantum effects (NQEs), including zero-point motion and tunneling. Here, we present a machine-learning-enhanced atomistic study of hydrogen and deuterium diffusion in layered MoS2 based on interatomic potentials trained on r2SCAN+rVV10 density-functional-theory data. Combining well-tempered metadynamics with path-integral molecular dynamics, we investigate diffusion across multiple MoS2 polytypes and twisted bilayer structures while explicitly incorporating NQEs. Our simulations show that NQEs substantially lower free-energy barriers for hydrogen diffusion at 300 K, significantly increasing the hydrogen self-diffusion coefficient compared to classical nuclei simulations. We further identify a pronounced kinetic isotope effect, with a 35 meV difference between hydrogen and deuterium quantum free-energy barriers. In twisted bilayer MoS2, hydrogen transport exhibits strong spatial variations governed by the local stacking environments within the moiré superlattices. These results highlight the critical role of NQEs in hydrogen transport through layered materials and provide atomistic insight intoisotope-selective diffusion in structurally complex 2D systems.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-24T16:04:47Z",
+    "updated": "2026-06-24T16:04:47Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.25991v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Capturing Nuclear Quantum Effects in Hydrogen Diffusion through MoS2 via Machine-Learning-Enhanced Path-Integral Simulat__2606.25991v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.742627",
+    "updated_at": "2026-06-25T02:13:52.742619Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Capturing Nuclear Quantum Effects in Hydrogen Diffusion through MoS2 via Machine-Learning-Enhanced Path-Integral Simulat__2606.25991v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.25991v1",
+    "pdf_filename": "3_Capturing Nuclear Quantum Effects in Hydrogen Diffusion through MoS2 via Machine-Learning-Enhanced Path-Integral Simulat__2606.25991v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究利用机器学习势函数和路径积分分子动力学，揭示了核量子效应对 MoS2 中氢扩散的显著增强作用及同位素效应。",
+      "en": "This study employs machine-learning potentials and path-integral molecular dynamics to reveal the significant enhancement of hydrogen diffusion and isotope effects in MoS2 by nuclear quantum effects."
+    },
+    "problem": {
+      "zh": "传统的经典核近似忽略了轻原子在二维材料扩散中的量子效应（如零点能和隧穿），导致无法准确描述氢及其同位素在 MoS2 及其扭曲结构中的输运特性。",
+      "en": "Traditional classical nuclei approximations neglect quantum effects of light atoms in 2D material diffusion, failing to accurately describe hydrogen and isotope transport in MoS2 and its twisted structures."
+    },
+    "approach": {
+      "zh": "开发了基于 r2SCAN+rVV10 密度泛函数据的 MACE 机器学习势，并结合路径积分分子动力学（PIMD）与元动力学（Metadynamics）模拟了多种 MoS2 多型体及扭曲双层结构。",
+      "en": "Developed a MACE machine-learning potential based on r2SCAN+rVV10 DFT data, combined with path-integral molecular dynamics (PIMD) and metadynamics to simulate various MoS2 polytypes and twisted bilayers."
+    },
+    "main_takeaway": {
+      "zh": "核量子效应显著降低了氢扩散的自由能势垒（最高达 60 meV），并导致明显的动力学同位素效应（氢与氘的量子势垒相差约 35 meV），同时扭曲结构中的莫尔超晶格对扩散路径有强烈的空间调制作用。",
+      "en": "Nuclear quantum effects significantly lower free-energy barriers for hydrogen diffusion (up to 60 meV) and cause a pronounced kinetic isotope effect (35 meV difference between H and D), while moiré superlattices in twisted structures strongly modulate diffusion pathways."
+    },
+    "why_it_matters": {
+      "zh": "该研究为氢存储、燃料电池和同位素分离技术提供了精确的原子级理论基础，并证明了通过扭曲工程调控二维材料离子输运的可行性。",
+      "en": "The study provides a precise atomistic theoretical foundation for hydrogen storage, fuel cells, and isotope separation, demonstrating the feasibility of controlling ion transport in 2D materials via twist engineering."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "在复杂的扭曲二维体系中定量评估了核量子效应对氢扩散的影响，并结合了高精度的机器学习势函数。",
+        "en": "Quantifies the impact of nuclear quantum effects on hydrogen diffusion in complex twisted 2D systems using high-fidelity machine-learning potentials."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究结合了先进的机器学习方法、量子动力学模拟以及热门的扭曲电子学话题，符合该期刊的跨学科兴趣。",
+        "en": "The study combines advanced ML methods, quantum dynamics simulations, and the hot topic of twistronics, fitting the journal's interdisciplinary scope."
+      }
+    },
+    "keywords": [
+      "MoS2",
+      "Hydrogen diffusion",
+      "Nuclear Quantum Effects",
+      "Machine Learning",
+      "Kinetic Isotope Effect",
+      "Moiré superlattice"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:15:33",
+    "input_scope": "full_pdf_text"
+  }
+}

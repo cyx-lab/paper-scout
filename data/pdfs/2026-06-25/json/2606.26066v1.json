@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.26066v1",
+    "title": "All-electrical dephasing-protected spin qubits in altermagnets",
+    "authors": [
+      "José Carlos Abadillo-Uriel",
+      "Andrea Maiani",
+      "Alberto Cortijo",
+      "Ramón Aguado",
+      "Rubén Seoane Souto"
+    ],
+    "abstract": "We introduce altermagnetic semiconductors as a materials platform for scalable, all-electrical controllable spin qubits that operate without magnetic fields in gate-defined quantum dots. The altermagnet intrinsic finite-momentum spin polarization provides a field-free qubit splitting that is fully and continuously tunable through the dot ellipticity with electrostatic gates, delivering individually addressable qubit frequencies. Furthermore, the altermagnetic spin splitting is first-order insensitive to electric field fluctuations by construction and quantization-axis fluctuations produce only transverse coupling, yielding relaxation without pure dephasing, a distinct dephasing-protection yielding an advantage over conventional spin qubits. The net-zero magnetization eliminates stray-fields and renders the platform compatible with superconducting resonators thus enabling high-fidelity, non-demolition circuit-QED readout by dispersive coupling of the qubit spin-dependent electric dipole couples to a resonator. Starting from an effective quantum-dot description, supported by a microscopic lattice-model, we derive the qubit Hamiltonian and establish that it naturally supports a complete gate set: electric-dipole spin resonance controls single qubits, while tunable exchange combined with per-qubit frequency addressing directly implements the fermionic simulation (fSim) family of two-qubit gates. Crucially, within the same platform it is possible to implement a singlet-triplet qubit with fully electrical control over both exchange and splitting differences, removing the need for micromagnets or nuclear polarization gradients, while enabling baseband operation. Our results establish altermagnetic quantum dots as a novel, all-electrical route to spin qubits with enhanced protection.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-24T17:44:02Z",
+    "updated": "2026-06-24T17:44:02Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26066v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_All-electrical dephasing-protected spin qubits in altermagnets__2606.26066v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.742214",
+    "updated_at": "2026-06-25T02:13:52.742206Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_All-electrical dephasing-protected spin qubits in altermagnets__2606.26066v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26066v1",
+    "pdf_filename": "3_All-electrical dephasing-protected spin qubits in altermagnets__2606.26066v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出利用交错磁体半导体在无外加磁场下实现全电控、去相位保护的自旋量子比特。",
+      "en": "This paper proposes altermagnetic semiconductors as a platform for all-electrical, field-free spin qubits with intrinsic dephasing protection."
+    },
+    "problem": {
+      "zh": "传统自旋量子比特依赖外加磁场提供塞曼分裂，导致无法局部独立调谐、产生杂散磁场且难以与超导谐振腔集成。",
+      "en": "Conventional spin qubits rely on external magnetic fields for Zeeman splitting, which limits local tunability, introduces stray fields, and hinders integration with superconducting resonators."
+    },
+    "approach": {
+      "zh": "利用交错磁体特有的动量相关自旋分裂，通过静电栅极调节量子点形状（椭圆度）来控制自旋分裂，并结合拉什巴自旋轨道耦合实现电偶极自旋共振（EDSR）控制。",
+      "en": "Utilizing the momentum-dependent spin splitting of altermagnets to control the qubit splitting via electrostatic gate-defined dot ellipticity, combined with Rashba spin-orbit coupling for electric-dipole spin resonance (EDSR) control."
+    },
+    "main_takeaway": {
+      "zh": "交错磁体量子点自旋分裂对电场涨落具有一阶不敏感性，且磁性涨落仅产生横向耦合，从而在无外场下实现了天然的去相位保护和全电学单/双比特门控制。",
+      "en": "Altermagnetic quantum dots offer first-order insensitivity to electric field fluctuations and transverse-only coupling to magnetic noise, enabling field-free dephasing protection and all-electrical single- and two-qubit gate control."
+    },
+    "why_it_matters": {
+      "zh": "该方案消除了微磁体或核自旋梯度的硬件开销，实现了零净磁化强度，与超导电路完全兼容，为可扩展半导体量子计算开辟了新路径。",
+      "en": "It eliminates the hardware overhead of micromagnets or nuclear spin gradients and features zero net magnetization, making it fully compatible with superconducting circuits for scalable semiconductor quantum computing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次将交错磁体概念引入自旋量子比特设计，解决了无磁场下全电控与去相位保护的共存难题。",
+        "en": "It introduces the concept of altermagnets to spin qubits for the first time, solving the coexistence of all-electrical control and dephasing protection without magnetic fields."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作提出了凝聚态物理新热点（交错磁体）在量子信息领域的重要应用，物理图像清晰且具有强概念创新性。",
+        "en": "The work proposes a significant application of a hot topic in condensed matter (altermagnetism) to quantum information, with clear physics and strong conceptual novelty."
+      }
+    },
+    "keywords": [
+      "altermagnet",
+      "spin qubit",
+      "quantum dot",
+      "all-electrical control",
+      "dephasing protection"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:16:31",
+    "input_scope": "full_pdf_text"
+  }
+}

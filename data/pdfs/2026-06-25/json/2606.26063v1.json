@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2606.26063v1",
+    "title": "Quantum Back-Action Expands the Excitonic Hilbert Space in a Soft Polar Semiconductor",
+    "authors": [
+      "Arnab Ghosh",
+      "Patrick Brosseau",
+      "Priya Nagpal",
+      "Dmitry N. Dirin",
+      "Rui Tao",
+      "Maksym V. Kovalenko",
+      "Patanjali Kambhampati"
+    ],
+    "abstract": "Electronic excitations in solids are commonly described within a hierarchy in which the excitonic Hamiltonian is defined first and the lattice acts later through renormalization, relaxation, and dephasing. This picture assumes that the optically accessible excitonic manifold is already present at the moment of photoexcitation. Here we show that this assumption fails in a soft polar semiconductor. Using femtosecond coherent multidimensional spectroscopy on lead-halide perovskite nanocrystals, we observe quantum back-action between an electronic excitation and a collective lattice-polarization field that expands the excitonic Hilbert space in real time. The optical pulse first prepares an excitonic polarization, X1. A second configuration, X2, emerges only after the polaron field develops, while coherent X1-X2 coupling appears at later times. State formation and coherence formation are therefore resolved as distinct stages of quasiparticle formation. In contrast, CdSe quantum dots exhibit the conventional limit in which excitonic states and couplings are present at time zero and are only weakly perturbed by phonons. The observed diagonal and anti-diagonal splittings increase with nanocrystal size and correlate with radiative oscillator strength, opposite to expectations from simple quantum confinement. A dynamical polaron-field model describes the lattice polarization as an order parameter that expands the optically accessible manifold and generates time-dependent coherent coupling. These results show that strong system-bath coupling can actively create excitonic states and the coherent manifold in which they evolve.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "physics.chem-ph"
+    ],
+    "published": "2026-06-24T17:40:38Z",
+    "updated": "2026-06-24T17:40:38Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26063v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Quantum Back-Action Expands the Excitonic Hilbert Space in a Soft Polar Semiconductor__2606.26063v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.742262",
+    "updated_at": "2026-06-25T02:13:52.742254Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Quantum Back-Action Expands the Excitonic Hilbert Space in a Soft Polar Semiconductor__2606.26063v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26063v1",
+    "pdf_filename": "3_Quantum Back-Action Expands the Excitonic Hilbert Space in a Soft Polar Semiconductor__2606.26063v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现软极性半导体中的量子反作用能在实时尺度下扩张激子希尔伯特空间，而非仅仅修饰现有能级。",
+      "en": "The study demonstrates that quantum back-action in soft polar semiconductors expands the excitonic Hilbert space in real-time rather than merely dressing existing states."
+    },
+    "problem": {
+      "zh": "传统理论假设固体的激子能级结构在光激发瞬间是固定的，但在软极性晶格中，晶格极化场的动态重组可能实时改变可用的量子态空间。",
+      "en": "Traditional theory assumes a fixed excitonic manifold at the moment of excitation, but in soft polar lattices, the dynamic reorganization of the lattice polarization field may expand the available quantum state space in real-time."
+    },
+    "approach": {
+      "zh": "利用飞秒相干多维光谱对比研究了铅卤钙钛矿纳米晶（软极性晶格）与CdSe量子点（硬共价晶格）的激子动力学演化。",
+      "en": "Used femtosecond coherent multidimensional spectroscopy to compare the excitonic evolution in lead-halide perovskite nanocrystals (soft polar lattice) and CdSe quantum dots (rigid covalent lattice)."
+    },
+    "main_takeaway": {
+      "zh": "在钙钛矿中，激子哈密顿量是动态构建的：光脉冲先准备一个激发态，随后晶格极化场诱导产生第二个状态并最终建立相干耦合，实现了准粒子诞生的分阶段观测。",
+      "en": "In perovskites, the excitonic Hamiltonian is dynamically assembled: the optical pulse prepares an initial state, followed by the lattice-polarization field inducing a second state and eventually establishing coherent coupling, resolving quasiparticle birth in distinct stages."
+    },
+    "why_it_matters": {
+      "zh": "它确立了强系统-环境耦合在凝聚态物质中的建设性作用，证明环境不仅会导致退相干，还能主动创造量子态演化的流形。",
+      "en": "It establishes a constructive role for strong system-bath coupling in condensed matter, proving that the environment does not just cause dephasing but can actively create the manifold for quantum state evolution."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "实验上首次清晰区分了态形成与相干性建立的物理过程，挑战了静态能级结构的传统认知。",
+        "en": "Experimentally distinguishes the physical processes of state formation and coherence onset for the first time, challenging the conventional view of static energy structures."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论模型",
+      "en": "Experimental + Theoretical Model"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了高难度的超快光谱技术与深刻的凝聚态物理机制创新，符合该刊对物理深度的要求。",
+        "en": "The study combines sophisticated ultrafast spectroscopy with profound conceptual innovation in condensed matter physics, fitting the journal's standards for physical depth."
+      }
+    },
+    "keywords": [
+      "Lead-halide perovskites",
+      "Exciton-polaron",
+      "Quantum back-action",
+      "Coherent multidimensional spectroscopy",
+      "Hilbert space expansion"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:16:08",
+    "input_scope": "full_pdf_text"
+  }
+}

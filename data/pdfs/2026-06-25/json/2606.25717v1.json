@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.25717v1",
+    "title": "Effect of Two-Body Interactions on Floquet topological phases",
+    "authors": [
+      "Arijit Dutta",
+      "Souradeep Roy Choudhury",
+      "Tao Qin",
+      "Walter Hofstetter"
+    ],
+    "abstract": "We study the circularly driven Falicov-Kimball model on a honeycomb lattice within real space Floquet dynamical mean field theory (DMFT). The noninteracting version of this model has been realized experimentally. The noninteracting system hosts an effective Haldane phase at large driving frequencies, while at intermediate frequencies it hosts an anomalous topological phase. We study the effect of two-body interactions $U$ on the stability of these phases. We find that charge pumping does not remain quantized upon increasing $U$, despite the presence of edge modes in the spectrum. This can be attributed to the broadening of the edge modes due to interaction. We also calculate the rate of energy dissipation into the bath and find remarkably different behaviour in the two regimes.",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-06-24T11:31:30Z",
+    "updated": "2026-06-24T11:31:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "thouless_pump:charge pump"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.25717v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Effect of Two-Body Interactions on Floquet topological phases__2606.25717v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.743598",
+    "updated_at": "2026-06-25T02:13:52.743591Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Effect of Two-Body Interactions on Floquet topological phases__2606.25717v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.25717v1",
+    "pdf_filename": "3_Effect of Two-Body Interactions on Floquet topological phases__2606.25717v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了相互作用对蜂窝晶格上 Floquet 拓扑相（包括 Haldane 相和反常拓扑相）稳定性的影响。",
+      "en": "This paper investigates the impact of two-body interactions on the stability of Floquet topological phases, including Haldane and anomalous phases, on a honeycomb lattice."
+    },
+    "problem": {
+      "zh": "探讨在周期性驱动的 Falicov-Kimball 模型中，电子间相互作用如何影响拓扑边缘态、电荷泵浦的量子化以及系统的能量耗散。",
+      "en": "To explore how electron-electron interactions affect topological edge modes, quantization of charge pumping, and energy dissipation in a periodically driven Falicov-Kimball model."
+    },
+    "approach": {
+      "zh": "采用实空间 Floquet 动力学平均场理论 (RFDMFT)，结合 Floquet-Keldysh 形式模拟耦合热库的驱动系统，并使用 Broyden 求解器加速收敛。",
+      "en": "Using Real-space Floquet Dynamical Mean Field Theory (RFDMFT) combined with the Floquet-Keldysh formalism to simulate a driven system coupled to a heat bath, utilizing a Broyden solver for convergence."
+    },
+    "main_takeaway": {
+      "zh": "相互作用会导致拓扑边缘态展宽，使得电荷泵浦不再保持量子化，并最终诱导系统向拓扑平庸的 Mott 绝缘体转变；反常拓扑相相较于 Haldane 相表现出更显著的能量耗散。",
+      "en": "Interactions cause broadening of topological edge modes, leading to non-quantized charge pumping and an eventual transition to a trivial Mott insulator; the anomalous phase exhibits more significant energy dissipation compared to the Haldane phase."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解强关联效应对非平衡拓扑物态的影响提供了非微扰视角，对在冷原子实验平台中实现和维持相互作用的 Floquet 相具有重要参考价值。",
+      "en": "This study provides a non-perturbative perspective on how strong correlations affect non-equilibrium topological states, offering valuable insights for realizing and maintaining interacting Floquet phases in cold atom platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章详细阐明了相互作用如何通过边缘态展宽破坏电荷泵浦的量子化，并对比了不同驱动频率下的加热机制。",
+        "en": "The paper clarifies how interactions break charge pumping quantization via edge mode broadening and compares heating mechanisms across different driving frequencies."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及具体的强关联模型和复杂的数值模拟方法，非常符合 PRB 的收录范围。",
+        "en": "The study involves specific strong correlation models and complex numerical simulations, which fits well within the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Floquet topological phases",
+      "Falicov-Kimball model",
+      "Dynamical Mean-Field Theory",
+      "Charge pumping",
+      "Mott transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:14:57",
+    "input_scope": "full_pdf_text"
+  }
+}

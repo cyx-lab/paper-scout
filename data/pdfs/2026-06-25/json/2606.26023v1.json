@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2606.26023v1",
+    "title": "Epitaxial Strain Activates Altermagnetic Spin-Splitting Torques in RuO2(100)",
+    "authors": [
+      "Qi Jia",
+      "Seung Gyo Jeong",
+      "Seungjun Lee",
+      "Denis Tonini",
+      "Anand Santhosh",
+      "Yifei Yang",
+      "Xiangrui Li",
+      "Brahmdutta Dixit",
+      "Shuang Liang",
+      "Yu-Chia Chen",
+      "Tony Low",
+      "Bharat Jalan",
+      "Jian-Ping Wang"
+    ],
+    "abstract": "The altermagnetic nature of rutile RuO2 remains under active debate: bulk measurements indicate a nearly nonmagnetic ground state, whereas thin-film studies have reported symmetry-dependent transport signatures consistent with altermagnetism. Here, we provide experimental evidence that altermagnetic spin splitting in RuO2 is a strain-stabilized emergent state rather than an intrinsic bulk property. Angular-resolved spin-torque measurements reveal a symmetry-selected spin Hall response characteristic of altermagnetic spin splitting, which is strongest in the strained regime but progressively suppressed as the lattice relaxes toward the bulk limit. Complementary magnetic measurements further reveal enhanced coercivity and exchange-bias behavior exclusively in strained films, indicating the emergence of a strain-stabilized magnetic state. First-principles calculations reproduce the strain-dependent evolution of the Neel order and spin-split electronic structure, supporting the experimental observations. Together, these results establish altermagnetic spin splitting in RuO2 as a strain-stabilized emergent state and provide a unified explanation for the long-standing discrepancy between bulk and thin-film observations.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.app-ph"
+    ],
+    "published": "2026-06-24T16:46:02Z",
+    "updated": "2026-06-24T16:46:02Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26023v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Epitaxial Strain Activates Altermagnetic Spin-Splitting Torques in RuO2(100)__2606.26023v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.742358",
+    "updated_at": "2026-06-25T02:13:52.742350Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Epitaxial Strain Activates Altermagnetic Spin-Splitting Torques in RuO2(100)__2606.26023v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26023v1",
+    "pdf_filename": "3_Epitaxial Strain Activates Altermagnetic Spin-Splitting Torques in RuO2(100)__2606.26023v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明RuO2中的交错磁性自旋分裂并非其本征体相性质，而是由外延应变稳定的一种涌现态。",
+      "en": "The study demonstrates that altermagnetic spin splitting in RuO2 is a strain-stabilized emergent state rather than an intrinsic bulk property."
+    },
+    "problem": {
+      "zh": "解决关于RuO2是否存在本征交错磁性的长期争议，即体相测量显示非磁性而薄膜测量显示交错磁性特征的矛盾。",
+      "en": "Resolving the long-standing debate on whether altermagnetic spin splitting in RuO2 is intrinsic, addressing the discrepancy between nonmagnetic bulk and altermagnetic thin-film observations."
+    },
+    "approach": {
+      "zh": "利用混合分子束外延在TiO2(100)上生长不同厚度的RuO2薄膜以调控各向异性应变，并结合自旋力矩铁磁共振（ST-FMR）、一阶反转曲线（FORC）磁测量以及第一性原理计算进行系统研究。",
+      "en": "Grew RuO2 thin films on TiO2(100) with varying thicknesses using hybrid MBE to tune anisotropic strain, and combined ST-FMR, FORC magnetic measurements, and DFT calculations to track the strain evolution."
+    },
+    "main_takeaway": {
+      "zh": "交错磁性自旋分裂引起的对称性选择自旋输运和界面磁性特征仅在应变薄膜中显著，并随着晶格向体相极限弛豫而逐渐消失。",
+      "en": "The symmetry-selective spin transport and interfacial magnetic signatures associated with altermagnetic spin splitting are prominent only in the strained regime and vanish as the lattice relaxes toward the bulk limit."
+    },
+    "why_it_matters": {
+      "zh": "它为RuO2中体相与薄膜观测的不一致性提供了统一的解释，并展示了利用外延应变调控交错磁性材料中自旋输运的可行性。",
+      "en": "It provides a unified explanation for the discrepancy between bulk and thin-film studies of RuO2 and demonstrates epitaxial strain as an effective tool to engineer spin transport in altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作通过实验和理论明确了应变在稳定RuO2交错磁性中的关键作用，解决了该领域的核心争议。",
+        "en": "This work clarifies the critical role of strain in stabilizing altermagnetism in RuO2 through both experiment and theory, resolving a key controversy in the field."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Nature Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了当前凝聚态物理和自旋电子学热点材料（交错磁体）的关键争议，实验与理论结合紧密，具有很高的学术影响力。",
+        "en": "The study resolves a key controversy in a highly active field (altermagnetism) with a strong combination of experimental and theoretical results, making it suitable for high-impact journals."
+      }
+    },
+    "keywords": [
+      "RuO2",
+      "Altermagnetism",
+      "Epitaxial strain",
+      "Spin-orbit torque",
+      "ST-FMR"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:15:52",
+    "input_scope": "full_pdf_text"
+  }
+}

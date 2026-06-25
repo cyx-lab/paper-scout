@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.26081v1",
+    "title": "Folds of one curve: the superradiant phase diagram of Dicke modes with interacting matter",
+    "authors": [
+      "Max Hörmann"
+    ],
+    "abstract": "We give a thermodynamic-limit account of Dicke models with one cavity mode coupled collectively to interacting matter. Integrating out the cavity yields an exact self-consistent functional of the magnetisation $m$, $\\tilde e(m) = λm^2/2 + e_{\\rm mat}(λm)$: a classical penalty on the bare-matter energy $e_{\\rm mat}$ in the self-consistent field $h = λm$, with $λ= g^2/(2ω_c)$ the collective coupling. Supplying only that scalar field, the photon creates no phase the matter does not already possess. States holding a minimum form one connected curve, $λ(m) = μ_{\\rm mat}^{-1}(m)/m$, so superradiant first-order transitions are folds of one equation of state not crossings of disjoint sheets, and a fold can straighten into a continuous line. The remaining rules are local, each with a spectral counterpart: onset by the leading singularity of $e_{\\rm mat}$ (a softening polariton), order by one bare response -- the Landau quartic, or a divergent susceptibility forcing a Larkin-Pikin (LP) fold. For the Dicke-Ising model the Landau coefficients are exact, giving in closed form the second-order boundary and both zero-quartic fields, one tricritical; a $1/d$ expansion maps all four phases, with the AS-PS transition first order for $d\\le d_{uc}=3=4-z$ (LP) and tricritical points in the $(d,ε)$ plane above. At the degenerate quadruple point the matter is a Rydberg-blockade chain, solved by strict-blockade iDMRG: the antiferromagnetic superradiant (AS) phase persists as a finite 1D wedge, first order into the corner. Other magnets: the triangular antiferromagnet keeps a continuous superradiant-superradiant line (3D-XY, no fold forced); the compass chain a BKT-functional onset; the Heisenberg and XX chains, via a conserved operator, a spectrally silent first-order onset; and the Dicke-Heisenberg diagram an exact tricritical point at the saturation corner.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.stat-mech",
+      "quant-ph"
+    ],
+    "published": "2026-06-24T17:55:04Z",
+    "updated": "2026-06-24T17:55:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26081v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Folds of one curve the superradiant phase diagram of Dicke modes with interacting matter__2606.26081v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.742040",
+    "updated_at": "2026-06-25T02:13:52.742028Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Folds of one curve the superradiant phase diagram of Dicke modes with interacting matter__2606.26081v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26081v1",
+    "pdf_filename": "3_Folds of one curve the superradiant phase diagram of Dicke modes with interacting matter__2606.26081v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种基于单条“平稳曲线”折叠的统一解析框架，用于描述与腔模耦合的相互作用物质系统的超辐射相图。",
+      "en": "This paper provides a unified analytic account of the superradiant phase diagram for cavity-coupled interacting matter by treating transitions as folds of a single stationarity curve."
+    },
+    "problem": {
+      "zh": "如何准确预言相互作用物质在腔耦合下超辐射相变的阶数、相边界位置以及物质关联对量子光学相图的影响。",
+      "en": "How to accurately predict the order of transitions, phase boundaries, and the impact of matter correlations on the quantum optical phase diagram in cavity-coupled systems."
+    },
+    "approach": {
+      "zh": "通过积掉光子场构建自洽物质泛函，将超辐射相变简化为物质响应曲线的几何折叠分析，并辅以1/d展开和无限系统DMRG数值验证。",
+      "en": "Constructing a self-consistent matter functional by integrating out the cavity, reducing transitions to geometric folds of the response curve, supported by 1/d expansion and infinite-system DMRG."
+    },
+    "main_takeaway": {
+      "zh": "超辐射相变的阶数由物质的磁化率决定：发散的磁化率会通过Larkin-Pikin机制强制产生一阶相变折叠，而有限的磁化率则允许连续相变。",
+      "en": "The order of superradiant transitions is determined by the matter susceptibility: a divergent susceptibility forces a first-order fold via the Larkin-Pikin mechanism, whereas a finite susceptibility allows for continuous transitions."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解光与强关联物质耦合提供了一个通用的解析判据，能够解释从伊辛模型到受挫磁体等多种系统的超辐射行为。",
+      "en": "This study provides a universal analytic criterion for light-coupled strongly correlated matter, explaining superradiant behavior across models from Ising systems to frustrated magnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "统一了多种相互作用物质在腔耦合下的相图描述，并从几何角度澄清了一阶超辐射相变的物理起源。",
+        "en": "Unified the phase diagram description of various interacting matter in cavities and clarified the physical origin of first-order superradiant transitions geometrically."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文对相互作用磁性模型在腔环境下的相图进行了详尽的理论分析和数值验证，非常符合PRB的读者群。",
+        "en": "The paper provides detailed theoretical analysis and numerical validation of magnetic models in cavities, aligning well with the PRB audience."
+      }
+    },
+    "keywords": [
+      "Dicke model",
+      "Superradiance",
+      "Larkin-Pikin mechanism",
+      "Phase diagram",
+      "Cavity QED",
+      "Interacting matter"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:17:13",
+    "input_scope": "full_pdf_text"
+  }
+}

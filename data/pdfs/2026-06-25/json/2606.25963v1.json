@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2606.25963v1",
+    "title": "Fractional phase slips across the charge-density-wave domain walls in 1-T TiSe2",
+    "authors": [
+      "Haotian Zhang",
+      "Zihao Song",
+      "Zhongchen Xu",
+      "Jun Shu",
+      "Zhongxu Wei",
+      "Zunming Lu",
+      "Jun Liu",
+      "Zengyi Du",
+      "Jinxing Zhang",
+      "Youguo Shi",
+      "Ge He",
+      "Jun Shen"
+    ],
+    "abstract": "The microscopic origin of the charge density wave (CDW) in 1\\textit{T}-TiSe$_2$ remains controversial, with competing scenarios based on phonon-driven lattice instability and electronically driven excitonic correlations. Here, we combine low-temperature scanning tunneling microscopy with two-dimensional lock-in phase analysis to directly resolve the local CDW phase in real space and track its evolution across individual domain walls. In homogeneous regions, the CDW phase remains uniform; by contrast, across domain walls we uncover a robust and reproducible $2π/3$ phase shift that occurs collectively in all three symmetry-related CDW components. This nontrivial and correlated phase-slip configuration places stringent constraints on the order-parameter manifold and challenges the simplest purely phonon-driven commensurate lock-in picture, which would instead predict a $π$ phase shift. A minimal free-energy model incorporating both electron-phonon and electron-hole interactions reproduces the observed phase behavior and indicates that electronic interactions play an important role in shaping the local phase structure of the CDW order. These results establish domain walls as direct real-space probes of the microscopic interactions underlying multicomponent order and provide a general phase-resolved framework for constraining competing ordering mechanisms in correlated materials.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-06-24T15:35:09Z",
+    "updated": "2026-06-24T15:35:09Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.25963v1",
+      "pdf_path": "data/pdfs/2026-06-25/3_Fractional phase slips across the charge-density-wave domain walls in 1-T TiSe2__2606.25963v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-25T02:13:52.742733",
+    "updated_at": "2026-06-25T02:13:52.742725Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-25/3_Fractional phase slips across the charge-density-wave domain walls in 1-T TiSe2__2606.25963v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.25963v1",
+    "pdf_filename": "3_Fractional phase slips across the charge-density-wave domain walls in 1-T TiSe2__2606.25963v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现 1T-TiSe2 电荷密度波畴壁处存在 2π/3 分数相位滑移，揭示了电子激子相互作用在其中的关键作用。",
+      "en": "The study reveals a 2π/3 fractional phase slip across CDW domain walls in 1T-TiSe2, highlighting the essential role of electronic excitonic interactions."
+    },
+    "problem": {
+      "zh": "长期以来关于 1T-TiSe2 中电荷密度波（CDW）的起源存在争议，即究竟是声子驱动的晶格不稳定性还是电子驱动的激子关联占主导。",
+      "en": "The microscopic origin of CDW in 1T-TiSe2 remains controversial, specifically whether it is driven by phonon-mediated lattice instability or electron-driven excitonic correlations."
+    },
+    "approach": {
+      "zh": "结合低温扫描隧道显微镜（STM）与二维锁相相位分析技术，在实空间直接观测 CDW 相位在畴壁处的演化，并结合自由能模型进行理论模拟。",
+      "en": "Combining low-temperature STM with 2D lock-in phase analysis to directly resolve the local CDW phase in real space across domain walls, supported by free-energy model simulations."
+    },
+    "main_takeaway": {
+      "zh": "在 CDW 畴壁处观测到稳健且可重复的 2π/3 相位滑移，而非纯声子驱动模型预测的 π 位移，这表明电子相互作用在塑造 CDW 序结构中起重要作用。",
+      "en": "A robust 2π/3 phase shift was observed across CDW domain walls instead of the π shift predicted by purely phonon-driven models, indicating that electronic interactions significantly shape the CDW order."
+    },
+    "why_it_matters": {
+      "zh": "该研究建立了一种利用畴壁作为实空间探针来约束多组分序参量微观相互作用的方法，为区分关联材料中竞争序机制提供了新框架。",
+      "en": "This work establishes domain walls as real-space probes to constrain microscopic interactions of multicomponent orders, providing a new framework to distinguish competing mechanisms in correlated materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "通过高精度相位解析实验解决了长期存在的 CDW 驱动机制争议，并提供了明确的实验判据。",
+        "en": "It resolves the long-standing debate on CDW driving mechanisms through high-precision phase-resolved experiments and provides a clear experimental criterion."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了先进的 STM 相位分析技术与深刻的物理机制讨论，符合该期刊对凝聚态物理高质量工作的要求。",
+        "en": "The study combines advanced STM phase analysis with deep physical insights, fitting the high standards for condensed matter physics in this journal."
+      }
+    },
+    "keywords": [
+      "1T-TiSe2",
+      "Charge Density Wave",
+      "Domain Walls",
+      "Phase Slip",
+      "STM",
+      "Excitonic Insulator"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-25T10:15:16",
+    "input_scope": "full_pdf_text"
+  }
+}
