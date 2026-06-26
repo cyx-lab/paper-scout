@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.27013v1",
+    "title": "Spin-orbit coupling driven topological superconductivity in twisted bilayer graphene-WSe$_2$ heterostructures",
+    "authors": [
+      "Kamalesh Bera",
+      "Arijit Saha",
+      "Tanay Nag"
+    ],
+    "abstract": "Commencing from the low-energy Bistritzer-MacDonald continuum model of twisted bi-layer graphene (tBLG) with proximity-induced Ising, Rashba, and intrinsic spin-orbit couplings (SOCs), we construct the corresponding Bogoliubov-de Gennes Hamiltonian with conventional $s$-wave pairing and theoretically investigate the emergence of topological superconductivity in it. The latter can possibly be experimentally demonstrated in tBLG, Niobium and tungsten diselenide heterostructures. The topological superconducting phases, bearing an effective $p$-wave pairing profile and exhibiting inverted band dispersion, are protected by a bulk gap and are topologically characterized by Chern numbers. In the absence of intrinsic SOC, variation of the twist angle and other SOC strengths yield extended gapless, trivial, and topological phases, with phase boundaries exactly matching the closing of direct band gaps. The topological regime exhibits clear band inversion in the combined particle-hole and spin space, along with distinct Bloch localization profiles compared to the trivial phase. Including intrinsic SOC generates additional topological phases and eliminates the gapless phase, indicating the enhanced stability of the gapped topological superconducting regime in tBLG.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-06-25T13:29:04Z",
+    "updated": "2026-06-25T13:29:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.27013v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Spin-orbit coupling driven topological superconductivity in twisted bilayer graphene-WSe$_2$ heterostructures__2606.27013v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.458121",
+    "updated_at": "2026-06-26T02:13:11.458109Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Spin-orbit coupling driven topological superconductivity in twisted bilayer graphene-WSe$_2$ heterostructures__2606.27013v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.27013v1",
+    "pdf_filename": "3_Spin-orbit coupling driven topological superconductivity in twisted bilayer graphene-WSe$_2$ heterostructures__2606.27013v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了在WSe2诱导的自旋轨道耦合作用下，转角双层石墨烯中拓扑超导性的产生与调控。",
+      "en": "Investigates the emergence and tuning of topological superconductivity in twisted bilayer graphene via proximity-induced spin-orbit coupling from WSe2."
+    },
+    "problem": {
+      "zh": "如何利用邻近效应诱导的自旋轨道耦合在转角双层石墨烯中实现并稳定拓扑超导态。",
+      "en": "How to realize and stabilize topological superconducting states in twisted bilayer graphene using proximity-induced spin-orbit coupling."
+    },
+    "approach": {
+      "zh": "基于连续模型和BdG哈密顿量，理论计算了不同转角和自旋轨道耦合强度下的能带结构、陈数以及Bloch态分布。",
+      "en": "Theoretical calculation of band structures, Chern numbers, and Bloch state distributions using the continuum model and BdG Hamiltonian under varying twist angles and SOC strengths."
+    },
+    "main_takeaway": {
+      "zh": "WSe2诱导的Ising和Rashba自旋轨道耦合能将s波配对转化为有效的p波拓扑超导态，且内禀自旋轨道耦合能显著增强该拓扑相的稳定性并消除无能隙相。",
+      "en": "Ising and Rashba SOC induced by WSe2 can transform s-wave pairing into effective p-wave topological superconductivity, with intrinsic SOC significantly enhancing phase stability and eliminating gapless regions."
+    },
+    "why_it_matters": {
+      "zh": "为在莫尔超晶格体系中寻找马约拉纳费米子和实现拓扑量子计算提供了一个高度可调的实验平台方案。",
+      "en": "Provides a highly tunable experimental platform for seeking Majorana fermions and realizing topological quantum computing in moiré superlattices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了多种自旋轨道耦合项在莫尔能带中诱导拓扑超导的具体机制及其对稳定性的影响。",
+        "en": "Clarifies the specific mechanisms by which multiple SOC terms induce topological superconductivity and affect stability in moiré bands."
+      }
+    },
+    "paper_type": {
+      "zh": "理论研究",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文具有典型的凝聚态理论计算风格，深入探讨了莫尔体系中的拓扑相变。",
+        "en": "The paper follows a typical condensed matter theory format, providing in-depth analysis of topological phase transitions in moiré systems."
+      }
+    },
+    "keywords": [
+      "Twisted bilayer graphene",
+      "Topological superconductivity",
+      "Spin-orbit coupling",
+      "WSe2 heterostructure",
+      "Chern number",
+      "Majorana fermions"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:16:06",
+    "input_scope": "full_pdf_text"
+  }
+}

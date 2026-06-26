@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2606.26622v1",
+    "title": "Photon-Assisted Tunneling in Double Quantum Dot: Application of Scattering Theory",
+    "authors": [
+      "Miyu Umebayashi",
+      "Mikio Eto"
+    ],
+    "abstract": "We theoretically examine the photon-assisted tunneling (PAT) in a double quantum dot (DQD) in parallel when one of the quantum dots (QDs) is irradiated by an AC field. First, we formulate the PAT in a single QD by solving the time-dependent Schrödinger equation using the scattering theory. The QD has an oscillating energy level, $\\varepsilon(t)=\\varepsilon_0+eV_{\\mathrm{AC}}\\cosωt$, and is connected to two leads by the tunnel coupling $Γ$. We show that the resonant tunneling takes place through energy levels of the polariton, $\\varepsilon_0+N\\hbarω$ ($N=0,\\pm 1, \\pm 2, \\cdots$), when $Γ\\ll \\hbarω$ (PAT) and through the energy level $\\varepsilon(t)$ when $Γ\\gg \\hbarω$ (adiabatic transport). Then, the scattering theory is applied to the PAT in the DQD in the presence of magnetic flux penetrating between the QDs. We observe the Aharonov--Bohm effect not only in the main peak ($N=0$) but also in subpeaks ($N \\ne 0$), indicating coherent transport through the polariton states. Our theory is also applicable to the DQD in the three-terminal geometry. We demonstrate the phase measurement through the irradiated QD and show that the measured phase shift changes continuously from 0 to $π$ around both the main peak and subpeaks.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-25T05:36:40Z",
+    "updated": "2026-06-25T05:36:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26622v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Photon-Assisted Tunneling in Double Quantum Dot Application of Scattering Theory__2606.26622v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.459295",
+    "updated_at": "2026-06-26T02:13:11.459288Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Photon-Assisted Tunneling in Double Quantum Dot Application of Scattering Theory__2606.26622v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26622v1",
+    "pdf_filename": "3_Photon-Assisted Tunneling in Double Quantum Dot Application of Scattering Theory__2606.26622v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究利用散射理论探讨了单量子点和双量子点在交流电场照射下的光子辅助隧穿效应。",
+      "en": "This study theoretically investigates photon-assisted tunneling in single and double quantum dots under an AC field using scattering theory."
+    },
+    "problem": {
+      "zh": "如何在考虑相干输运和磁通（阿哈罗诺夫-玻姆效应）的情况下，描述交流电场驱动下双量子点系统中的光子辅助隧穿及透射相位演化。",
+      "en": "How to describe photon-assisted tunneling and transmission phase evolution in AC-driven double quantum dot systems while accounting for coherent transport and magnetic flux (Aharonov-Bohm effect)."
+    },
+    "approach": {
+      "zh": "通过求解含时薛定谔方程并结合散射理论，推导了弱耦合（光子辅助隧穿）和强耦合（ adiabatic 输运）极限下的电流表达式，并将其推广至包含阿哈罗诺夫-玻姆相位的双量子点两端及三端输运模型。",
+      "en": "By solving the time-dependent Schrödinger equation using scattering theory, the authors derive current expressions in both weak-coupling (PAT) and strong-coupling (adiabatic) limits, extending the formalism to two- and three-terminal double quantum dot configurations with an Aharonov-Bohm phase."
+    },
+    "main_takeaway": {
+      "zh": "在交流电场作用下，双量子点的主峰和子峰均表现出阿哈罗诺夫-玻姆振荡，且在三端测量中，主峰和子峰周围的测量相位移动均连续从 0 变化到 π，期间未观察到相位突变（phase lapse）。",
+      "en": "Under an AC field, both the main peak and sidebands of the double quantum dot exhibit Aharonov-Bohm oscillations, and the measured phase shift in a three-terminal setup changes continuously from 0 to π around all peaks without exhibiting a phase lapse."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解交流驱动纳米结构中的相干电子输运提供了直观的物理图像，并为利用光子辅助隧穿进行量子相干器件的相位测量提供了理论指导。",
+      "en": "This work provides an intuitive physical picture for coherent electron transport in AC-driven nanostructures and offers theoretical guidance for phase measurements in quantum coherent devices using photon-assisted tunneling."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究成功将散射理论应用于含时驱动的双量子点系统，并首次详细阐明了光子辅助隧穿子峰中的阿哈罗诺夫-玻姆干涉与相位演化特征。",
+        "en": "The study successfully applies scattering theory to time-dependent driven double quantum dots, clarifying for the first time the Aharonov-Bohm interference and phase evolution in photon-assisted tunneling sidebands."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Journal of the Physical Society of Japan",
+      "confidence": "high",
+      "reason": {
+        "zh": "该文本直接来源于 Journal of the Physical Society of Japan 的排版格式。",
+        "en": "The text is directly formatted for the Journal of the Physical Society of Japan."
+      }
+    },
+    "keywords": [
+      "photon-assisted tunneling",
+      "double quantum dot",
+      "scattering theory",
+      "Aharonov-Bohm effect",
+      "phase measurement"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:13:49",
+    "input_scope": "full_pdf_text"
+  }
+}

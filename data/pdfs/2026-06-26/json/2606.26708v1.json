@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2606.26708v1",
+    "title": "Perfect Absorption in the Strong Coupling Regime via Degenerate Critical Coupling",
+    "authors": [
+      "Eleonora P. Kraus",
+      "Jamie M. Fitzgerald",
+      "Carlos Maciel-Escudero",
+      "Ermin Malic"
+    ],
+    "abstract": "Perfect absorption (PA) represents a fundamental limit of light-matter interaction and a means to maximize nanoscale energy conversion. While PA is now a well-established phenomenon, both the theoretical feasibility and a practical mechanism for achieving it under single-beam excitation within the strong coupling regime is unknown. Through rigorous solution of Maxwells equations for a compact photonic crystal (PhC) architecture incorporating a two-dimensional semiconductor, we present a general method based on degenerate critical coupling for single-port PA of exciton-polaritons. At the crossing of two polariton branches, we achieve near-unity absorption exceeding 99.8 \\% in a structure thinner than $100\\,$nm. This effect is robust under realistic Gaussian beam excitation, and can be realized across different temperatures and excitonic materials by tailoring the PhC geometry. Our results establish a strategy for enabling efficient light-matter coupling, with direct implications for the development of metal-free, ultra-compact polaritonic logic devices, sensors, and energy-harvesting platforms.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "published": "2026-06-25T07:37:59Z",
+    "updated": "2026-06-25T07:37:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26708v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Perfect Absorption in the Strong Coupling Regime via Degenerate Critical Coupling__2606.26708v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.458912",
+    "updated_at": "2026-06-26T02:13:11.458902Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Perfect Absorption in the Strong Coupling Regime via Degenerate Critical Coupling__2606.26708v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26708v1",
+    "pdf_filename": "3_Perfect Absorption in the Strong Coupling Regime via Degenerate Critical Coupling__2606.26708v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究通过退化临界耦合机制，在光子晶体与二维半导体的强耦合体系中实现了单端激子极化激元的完美吸收。",
+      "en": "This study demonstrates perfect absorption of exciton-polaritons in a photonic crystal-2D semiconductor system via degenerate critical coupling under single-port excitation."
+    },
+    "problem": {
+      "zh": "在强耦合体系中，如何通过单光束激发在超薄结构中实现激子极化激元的完美吸收仍是一个未解决的挑战。",
+      "en": "Achieving perfect absorption of exciton-polaritons under single-beam excitation within the strong coupling regime in ultra-compact structures remains an unresolved challenge."
+    },
+    "approach": {
+      "zh": "利用严格耦合波分析和时域耦合模理论，研究了集成在硅光子晶体平板上的单层WS2，通过调节几何参数使两个相反宇称的极化激元分支发生能量简并并满足临界耦合条件。",
+      "en": "Using Rigorous Coupled-Wave Analysis and Temporal Coupled-Mode Theory, the authors studied a WS2 monolayer on a silicon photonic crystal slab, tuning geometry to achieve energy degeneracy and critical coupling of two opposite-parity polariton branches."
+    },
+    "main_takeaway": {
+      "zh": "首次在全电介质结构中实现了强耦合体系下的单端完美吸收（效率超过99.8%），且该效应在实际高斯光束激发和不同温度下具有鲁棒性。",
+      "en": "The study provides the first demonstration of single-port perfect absorption (>99.8%) for exciton-polaritons in a metal-free structure, showing robustness under realistic Gaussian beam excitation and varying temperatures."
+    },
+    "why_it_matters": {
+      "zh": "该成果为开发超紧凑极化激元逻辑器件、高灵敏度传感器和高效能量收集平台提供了新的设计策略。",
+      "en": "The results establish a strategy for developing ultra-compact polaritonic logic devices, sensors, and efficient energy-harvesting platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "填补了强耦合体系中单端完美吸收的理论空白，并提出了具有普适性的材料集成方案。",
+        "en": "Fills the theoretical gap in single-port perfect absorption within the strong coupling regime and proposes a universal material integration scheme."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文解决了光子学中的基础限制问题，在纳米光子学和量子材料领域具有高度的创新性和广泛影响。",
+        "en": "The paper addresses a fundamental limit in photonics with high innovation and broad impact in nanophotonics and quantum materials."
+      }
+    },
+    "keywords": [
+      "完美吸收",
+      "强耦合",
+      "激子极化激元",
+      "光子晶体",
+      "二维半导体"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:14:30",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2606.26632v1",
+    "title": "Floquet-Engineered Chern Insulator in two-dimensional $d_{x^2-y^2}$-Wave Altermagnets",
+    "authors": [
+      "Hosein Cheraghchi"
+    ],
+    "abstract": "We investigate Floquet-engineered topological phases in two-dimensional $d_{x^2-y^2}$-wave altermagnets irradiated by circularly polarized light in the off-resonant regime. These materials exhibit large momentum-dependent spin-splitting governed by distinctive magnetic symmetries. Using a lattice model combined with Floquet theory, we demonstrate that irradiation induces the light-tunable quantum anomalous Hall phases with the Chern numbers up to $\\pm 3$. The resultant phase diagram is verified by calculating the anomalous Hall conductivity and also the edge modes inside the band gap of a nanoribbon version of the altermagnet. Our findings establish d-wave altermagnets as promising platforms for realizing nonequilibrium topological states of matter. The low-energy continuum limit of the lattice-based Floquet Hamiltonian results in a linear and higher-order-in-momentum spin-orbit couplings, and also a Zeeman-like magnetization, all arising from light-induced virtual photon processes. The resulting higher-order spin-orbit coupling generates the additional gapless Dirac points which, together with the high-symmetry gap-closings, yield enhanced Berry curvature and high Chern numbers. The light irradiation effectively breaks the static $d_{x^2-y^2}$-wave magnetic symmetry mixing in an isotropic photo-induced $s$-wave correction.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-25T05:49:46Z",
+    "updated": "2026-06-25T05:49:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26632v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Floquet-Engineered Chern Insulator in two-dimensional $d_{x^2-y^2}$-Wave Altermagnets__2606.26632v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.459211",
+    "updated_at": "2026-06-26T02:13:11.459204Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Floquet-Engineered Chern Insulator in two-dimensional $d_{x^2-y^2}$-Wave Altermagnets__2606.26632v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26632v1",
+    "pdf_filename": "3_Floquet-Engineered Chern Insulator in two-dimensional $d_{x^2-y^2}$-Wave Altermagnets__2606.26632v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了圆偏振光照射下二维d波交错磁体中的Floquet拓扑相工程，实现了高陈数拓扑物态。",
+      "en": "This work investigates Floquet-engineered topological phases in two-dimensional d-wave altermagnets irradiated by circularly polarized light, realizing high-Chern-number topological states."
+    },
+    "problem": {
+      "zh": "如何在无净磁矩的交错磁体中克服对称性限制，实现非平衡态的量子反常霍尔效应及高陈数拓扑相。",
+      "en": "How to overcome symmetry constraints in altermagnets with zero net magnetization to realize non-equilibrium quantum anomalous Hall effects and high-Chern-number topological phases."
+    },
+    "approach": {
+      "zh": "结合紧束缚晶格模型与Floquet理论，在非共振高频极限下推导有效Floquet哈密顿量，并计算其能带结构、陈数、反常霍尔电导及纳米带边缘态。",
+      "en": "Combining a tight-binding lattice model with Floquet theory, the author derives the effective Floquet Hamiltonian in the off-resonant high-frequency limit, and calculates the band structure, Chern numbers, anomalous Hall conductivity, and nanoribbon edge states."
+    },
+    "main_takeaway": {
+      "zh": "圆偏振光打破了交错磁体的静态d波磁对称性，引入了各向异性的拉什巴自旋轨道耦合、高阶动量自旋轨道耦合以及有效塞曼磁化，从而在布里渊区诱导出新的狄拉克点，实现了陈数高达±3的量子反常霍尔相。",
+      "en": "Circularly polarized light breaks the static d-wave magnetic symmetry of altermagnets, introducing anisotropic Rashba spin-orbit coupling, higher-order momentum-dependent spin-orbit coupling, and an effective Zeeman magnetization, which induces new Dirac points in the Brillouin zone and yields quantum anomalous Hall phases with Chern numbers up to ±3."
+    },
+    "why_it_matters": {
+      "zh": "该研究将交错磁体这一新兴磁性材料与Floquet工程相结合，为在无净磁化材料中动态调控高陈数拓扑物态提供了理论方案。",
+      "en": "This study connects the emerging field of altermagnetism with Floquet engineering, providing a theoretical scheme to dynamically control high-Chern-number topological states in materials with zero net magnetization."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在格点模型框架下系统展示了光照交错磁体中高陈数（C=±3）的产生机制，超越了传统k.p模型的局限。",
+        "en": "It systematically demonstrates the generation mechanism of high Chern numbers (C=±3) in irradiated altermagnets within a lattice model framework, going beyond the limitations of conventional k.p models."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作关注凝聚态物理中的拓扑物态与交错磁体，计算详实，非常符合PRB的定位。",
+        "en": "This work focuses on topological states and altermagnetism in condensed matter physics with detailed calculations, which fits PRB very well."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Floquet engineering",
+      "Quantum anomalous Hall effect",
+      "Chern insulator",
+      "Spin-orbit coupling"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:13:56",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2606.26548v1",
+    "title": "Topological phase transition driven by in-plane spin rotation",
+    "authors": [
+      "Xinyue Zhu",
+      "Yu Xie",
+      "Yifei Hao",
+      "Fei Gao",
+      "Yue Li",
+      "Junting Zhang"
+    ],
+    "abstract": "The intrinsic coupling between magnetism and nontrivial band topology in magnetic topological insulators makes external magnetic fields a powerful tool for manipulating topological states. However, conventional magnetic control mechanisms, such as driving magnetic phase transitions or fully reversing magnetization, typically demand large magnetic fields and lack continuous tunability. Here, we establish a symmetry framework for the reversible switching of topological states via continuous in-plane spin rotation, governed by magnetic point group constraints on the Berry curvature distribution. Using a two-dimensional kagome ferromagnetic Chern insulator as a prototype, we demonstrate that a 60°in-plane magnetization rotation reverses the sign of the Chern number, transitioning through a topologically trivial state. Crucially, micromagnetic simulations confirm that this spin-reorientation-driven switching operates under exceptionally small magnetic fields and on ultrafast timescales. This work provides a highly efficient, low-energy paradigm for the manipulation of topological states.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.comp-ph"
+    ],
+    "published": "2026-06-25T02:47:42Z",
+    "updated": "2026-06-25T02:47:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26548v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Topological phase transition driven by in-plane spin rotation__2606.26548v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.459381",
+    "updated_at": "2026-06-26T02:13:11.459374Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Topological phase transition driven by in-plane spin rotation__2606.26548v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26548v1",
+    "pdf_filename": "3_Topological phase transition driven by in-plane spin rotation__2606.26548v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了通过面内自旋旋转实现二维磁性拓扑绝缘体拓扑态的可逆切换机制。",
+      "en": "This study establishes a symmetry framework for reversible switching of topological states via continuous in-plane spin rotation in 2D magnetic insulators."
+    },
+    "problem": {
+      "zh": "传统的磁场调控拓扑态手段（如驱动磁相变或180度磁化翻转）通常需要大磁场，且缺乏连续可调性。",
+      "en": "Conventional magnetic control of topological states, such as driving magnetic phase transitions or 180-degree magnetization reversal, typically requires large magnetic fields and lacks continuous tunability."
+    },
+    "approach": {
+      "zh": "结合对称性分析、紧束缚模型、第一性原理计算和微磁模拟，以二维kagome铁磁体Ni3Sb2O8为原型进行研究。",
+      "en": "Combining symmetry analysis, tight-binding models, first-principles calculations, and micromagnetic simulations using the 2D kagome magnet Ni3Sb2O8 as a prototype."
+    },
+    "main_takeaway": {
+      "zh": "仅需60度的面内自旋旋转即可实现陈数的符号反转（从1到-1），且该过程比180度翻转速度更快、所需磁场更小。",
+      "en": "A mere 60-degree in-plane spin rotation is sufficient to reverse the sign of the Chern number (from 1 to -1), operating at faster speeds and lower magnetic fields than a full 180-degree reversal."
+    },
+    "why_it_matters": {
+      "zh": "为开发超低功耗自旋电子器件和拓扑量子计算提供了一种高效、低能耗的拓扑态操控新范式。",
+      "en": "It provides a highly efficient, low-energy paradigm for manipulating topological states, promising for next-generation ultralow-power spintronics and topological quantum computing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了基于磁点群对称性约束的通用框架，并证明了非180度旋转在拓扑开关中的优越性。",
+        "en": "Proposes a universal framework based on magnetic point group constraints and demonstrates the superiority of non-180-degree rotation for topological switching."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文格式符合ACS风格，且研究内容属于该期刊关注的纳米尺度拓扑材料与器件领域。",
+        "en": "The format matches ACS style, and the topic fits the journal's focus on nanoscale topological materials and devices."
+      }
+    },
+    "keywords": [
+      "Topological phase transition",
+      "Chern insulator",
+      "Spin reorientation",
+      "Kagome magnet",
+      "Berry curvature"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:13:42",
+    "input_scope": "full_pdf_text"
+  }
+}

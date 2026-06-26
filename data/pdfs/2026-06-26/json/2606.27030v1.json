@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2606.27030v1",
+    "title": "In-plane vector-field imaging of propagating surface phonon polaritons",
+    "authors": [
+      "Richarda Niemann",
+      "Dorothée S. Mader",
+      "Gonzalo Alvarez-Pérez",
+      "Ana I. F. Tresguerres-Mata",
+      "Aitana Tarazaga Martín-Luengo",
+      "Stefan Partel",
+      "Joshua D. Caldwell",
+      "Niclas S. Mueller",
+      "Martin Wolf",
+      "Javier Martín-Sánchez",
+      "Pablo Alonso-González",
+      "Alexander Paarmann"
+    ],
+    "abstract": "Polariton interferometry through optical near-field microscopy has become a powerful tool in nanophotonics, enabling direct spatial access to the propagation characteristics of strongly confined, evanescent polariton modes. Scattering-type near-field optical microscopy has matured as the prime tool for such studies, yet mostly the out-of-plane components of the optical near fields are probed, owing to the elongated geometry of the nanotip. Here, we demonstrate a complementary far-field nonlinear microscopy approach which allows to selectively probe in-plane polariton field components. Accessing the full vector field is interesting when studying complex mode patterns such as hyperbolic polaritons or skyrmions, where the in-plane field components are typically only inferred from the out-of-plane component but not measured directly. To this end, we use nonlinear infrared-visible wide-field sum-frequency generation microscopy, where the short visible wavelength of the nonlinear signal provides the high spatial resolution to access evanescent modes in the infrared. The symmetry selection rules of the nonlinear process further enable polarization-selective imaging of both in-plane polariton field components through spatial interferometry. The concept is demonstrated experimentally using surface phonon polaritons at the AlN-air interface launched by a gold antenna. A simple, semi-analytical model reproduces the peculiar propagation patterns. Hyperspectral imaging with a tunable narrowband laser further gives access to the polariton dispersion. The wide-field methodology holds high promise for in-depth and high-throughput studies of infrared nanophotonic structures.",
+    "categories": [
+      "physics.optics",
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-25T13:39:00Z",
+    "updated": "2026-06-25T13:39:00Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.27030v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_In-plane vector-field imaging of propagating surface phonon polaritons__2606.27030v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.458043",
+    "updated_at": "2026-06-26T02:13:11.458036Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_In-plane vector-field imaging of propagating surface phonon polaritons__2606.27030v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.27030v1",
+    "pdf_filename": "3_In-plane vector-field imaging of propagating surface phonon polaritons__2606.27030v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用和频共振（SFG）显微技术实现了氮化铝表面声子极化激元的面内矢量场直接成像。",
+      "en": "Demonstrated direct in-plane vector-field imaging of surface phonon polaritons on AlN using wide-field sum-frequency generation microscopy."
+    },
+    "problem": {
+      "zh": "传统的散射式近场光学显微镜主要探测垂直于表面的电场分量，难以直接观测和区分面内的矢量场分量。",
+      "en": "Traditional s-SNOM primarily probes out-of-plane field components, making it difficult to directly measure and distinguish in-plane vector field components."
+    },
+    "approach": {
+      "zh": "结合宽场红外-可见和频产生显微镜与m面氮化铝的晶体对称性选择定则，通过极化选择性成像提取面内电场分量。",
+      "en": "Combined wide-field IR-VIS sum-frequency generation microscopy with symmetry selection rules of m-cut AlN for polarization-selective imaging of in-plane fields."
+    },
+    "main_takeaway": {
+      "zh": "成功直接观测到声子极化激元的x和y面内分量，并通过空间干涉模式定量提取了极化激元的色散关系，验证了其全矢量场成像能力。",
+      "en": "Successfully observed x and y in-plane SPhP components directly and quantitatively extracted dispersion relations via spatial interference, validating full vector-field imaging."
+    },
+    "why_it_matters": {
+      "zh": "该方法为研究双曲极化激元和斯格明子等复杂模式提供了关键的面内场信息，且成像速度比扫描探针技术快几个数量级。",
+      "en": "Provides critical in-plane field information for studying complex modes like hyperbolic polaritons or skyrmions, with acquisition speeds orders of magnitude faster than scanning probe techniques."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "填补了声子极化激元面内矢量场直接成像的空白，展示了非线性光学在纳米光子学表征中的独特优势。",
+        "en": "Fills the gap in direct in-plane vector-field imaging of SPhPs, showcasing the unique advantages of nonlinear optics in nanophotonic characterization."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值模拟",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文展示了具有高度创新性的纳米光子学成像技术，且实验结果详实，符合该刊对表征技术突破的要求。",
+        "en": "Demonstrates highly innovative nanophotonic imaging technology with robust experimental results, meeting the journal's criteria for characterization breakthroughs."
+      }
+    },
+    "keywords": [
+      "Surface phonon polaritons",
+      "Sum-frequency generation microscopy",
+      "Vector-field imaging",
+      "Aluminum Nitride",
+      "Nanophotonics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:16:32",
+    "input_scope": "full_pdf_text"
+  }
+}

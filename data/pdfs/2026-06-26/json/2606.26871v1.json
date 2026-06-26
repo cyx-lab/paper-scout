@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.26871v1",
+    "title": "Rashba and Electrostatic Control of Charge-Visible Spin Demons in Two-Dimensional d-Wave Altermagnets",
+    "authors": [
+      "Muhammad Irfan Sarwar",
+      "Mohsin Raza",
+      "Kashif Sabeeh"
+    ],
+    "abstract": "Spin demons in d-wave altermagnets are acoustic collective modes formed by nearly out-of-phase oscillations of spin-split quasiparticle populations. Their weak net charge fluctuation makes them long lived, but also makes them difficult to access with charge-sensitive probes. We propose a route to tune and brighten these modes in a two-dimensional d-wave altermagnet by combining Rashba spin-orbit coupling with electrostatic gate screening. Rashba coupling converts the spin-conserving problem into a generalized charge-spin response problem, in which mixed susceptibilities between density and spin channels become finite. As a result, the originally charge-dark longitudinal spin demon acquires finite charge spectral weight while remaining predominantly spin-like. Electrostatic gate screening provides an independent control of the Coulomb feedback and tunes the collectivemode dispersion and quality factor. Within a Rashba-altermagnetic continuum model and randomphase approximation, we show that the spin-demon ridge survives moderate spin-orbit mixing, develops a finite charge-visibility ratio, and retains dominant Sz character over the relevant control range. Parameter scans in Rashba strength and gate distance reveal a trade-off between charge visibility and mode quality, identifying regimes where the excitation remains underdamped while becoming more accessible to charge probes. These results establish Rashba spin-orbit coupling and electrostatic screening as control mechanisms for tunable, charge-visible spin demons in twodimensional altermagnetic platforms.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.other"
+    ],
+    "published": "2026-06-25T10:58:00Z",
+    "updated": "2026-06-25T10:58:00Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26871v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Rashba and Electrostatic Control of Charge-Visible Spin Demons in Two-Dimensional d-Wave Altermagnets__2606.26871v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.458453",
+    "updated_at": "2026-06-26T02:13:11.458441Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Rashba and Electrostatic Control of Charge-Visible Spin Demons in Two-Dimensional d-Wave Altermagnets__2606.26871v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26871v1",
+    "pdf_filename": "3_Rashba and Electrostatic Control of Charge-Visible Spin Demons in Two-Dimensional d-Wave Altermagnets__2606.26871v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出通过 Rashba 自旋轨道耦合与静电门控筛选，增强 d 波交错磁体中自旋魔鬼模的电荷可见度并实现其频率可调。",
+      "en": "This paper proposes using Rashba spin-orbit coupling and electrostatic gate screening to brighten the charge-dark spin demon modes in d-wave altermagnets and enable their tunability."
+    },
+    "problem": {
+      "zh": "交错磁体中的自旋魔鬼模是长寿命的声学集体激发，但由于其电荷波动极弱，处于“电荷暗”状态，难以通过常规电荷敏感探针观测。",
+      "en": "Spin demon modes in altermagnets are long-lived acoustic collective excitations, but their extremely weak net charge fluctuation makes them \"charge-dark\" and difficult to detect with conventional charge-sensitive probes."
+    },
+    "approach": {
+      "zh": "采用 Rashba-交错磁性连续体模型和随机相位近似方法，分析自旋轨道耦合导致的自旋-电荷混合效应，并引入金属门电极模拟库仑相互作用的筛选。",
+      "en": "Using a Rashba-altermagnetic continuum model and Random Phase Approximation (RPA), the study analyzes spin-charge mixing induced by spin-orbit coupling and incorporates a metallic gate to simulate Coulomb interaction screening."
+    },
+    "main_takeaway": {
+      "zh": "Rashba 耦合通过诱导自旋-电荷混合使该模式获得有限的电荷谱权重，而静电门控则能独立调节其色散斜率和品质因子，从而在保持自旋主导特性的同时提高可观测性。",
+      "en": "Rashba coupling grants the mode finite charge spectral weight via spin-charge mixing, while electrostatic screening independently tunes its dispersion slope and quality factor, enhancing observability while maintaining its spin-dominant character."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在二维交错磁体平台中实验观测和调控新型集体激发提供了理论指导，展示了结合自旋轨道电子学与纳米器件技术探测磁性材料激发的潜力。",
+      "en": "This study provides theoretical guidance for experimentally observing and controlling novel collective excitations in 2D altermagnetic platforms, demonstrating the potential of combining spintronics with nanodevice technology to probe magnetic excitations."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "解决了交错磁体中新预测的集体模难以探测的瓶颈问题，并提出了切实可行的实验调控方案。",
+        "en": "It addresses the detection bottleneck of newly predicted collective modes in altermagnets and proposes feasible experimental control schemes."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究属于凝聚态物理前沿热点（交错磁体），且是对近期 PRL 发表的自旋魔鬼模理论的直接扩展。",
+        "en": "The research is in a frontier area of condensed matter physics (altermagnetism) and is a direct extension of the spin demon theory recently published in PRL."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Spin Demon",
+      "Rashba Coupling",
+      "Collective Modes",
+      "Electrostatic Screening"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:15:47",
+    "input_scope": "full_pdf_text"
+  }
+}

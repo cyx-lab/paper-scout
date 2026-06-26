@@ -1,0 +1,123 @@
+{
+  "paper_record": {
+    "id": "2606.26810v1",
+    "title": "Giant and Broadband Circular Dichroism from Particle-Hole Symmetry Breaking in Weyl Semimetals",
+    "authors": [
+      "Xiangyu Jiang",
+      "Zeping Shi",
+      "Yuhan Du",
+      "Haonan Chen",
+      "Jiayu Wang",
+      "Wenbin Wu",
+      "Guangyi Wang",
+      "Congming Hao",
+      "Mingfan Yao",
+      "Mingsen Zhou",
+      "Xin Chen",
+      "Chenyao Xu",
+      "Zhongbo Yan",
+      "Cheng Zhang",
+      "Hai-Zhou Lu",
+      "Junhao Chu",
+      "Xiang Yuan"
+    ],
+    "abstract": "Circular dichroism originates from symmetry breaking of material structure, leading to differential absorption of left- and right-circularly polarized light. However, circular dichroism in most materials is inherently weak and spectrally narrow, especially in the mid-to-far infrared. Here, we uncover giant infrared circular dichroism in the magnetic-field-forced Weyl semimetal Mn(Bi,Sb)2Te4, driven by extreme particle-hole symmetry breaking. Helicity-resolved magneto-infrared spectroscopy reveals circular dichroism exceeding 3000 mdeg (~130 mdeg/nm) with above-degree response extending over the 6-13 μm spectral range. The optical resonances are enhanced by a strong band nesting effect intrinsic to the Landau levels of type-II Weyl dispersion. A symmetry-based kp model reproduces these magneto-infrared responses and demonstrates that magnetization-induced asymmetric spin-orbit coupling generates particle-hole symmetry breaking, suppressing spin-up, parity-even wavefunction components in the valence Landau band and thereby producing pronounced optical helicity selectivity. Our findings establish particle-hole symmetry breaking as an effective route toward helicity-resolved optical control in quantum materials.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall",
+      "physics.optics"
+    ],
+    "published": "2026-06-25T09:51:40Z",
+    "updated": "2026-06-25T09:51:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26810v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Giant and Broadband Circular Dichroism from Particle-Hole Symmetry Breaking in Weyl Semimetals__2606.26810v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.458700",
+    "updated_at": "2026-06-26T02:13:11.458693Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Giant and Broadband Circular Dichroism from Particle-Hole Symmetry Breaking in Weyl Semimetals__2606.26810v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26810v1",
+    "pdf_filename": "3_Giant and Broadband Circular Dichroism from Particle-Hole Symmetry Breaking in Weyl Semimetals__2606.26810v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在磁场诱导的 Weyl 半金属 Mn(BiSb)2Te4 中发现了由极度粒空对称性破缺驱动的巨型宽带红外圆二色性。",
+      "en": "Discovery of giant and broadband infrared circular dichroism in magnetic-field-forced Weyl semimetal Mn(BiSb)2Te4 driven by extreme particle-hole symmetry breaking."
+    },
+    "problem": {
+      "zh": "传统材料的圆二色性（CD）通常很弱且光谱范围窄，且 Weyl 半金属中单个 Weyl 锥的 CD 响应往往因对称性抵消而消失。",
+      "en": "Circular dichroism in most materials is inherently weak and narrow, and the net CD of a single Weyl cone is theoretically cancelled by opposite responses from different momenta."
+    },
+    "approach": {
+      "zh": "利用螺旋性分辨的磁红外光谱观测 Landau 能级跃迁，并结合基于对称性的 k·p 模型分析粒空对称性破缺对波函数分量的影响。",
+      "en": "Used helicity-resolved magneto-infrared spectroscopy to observe Landau level transitions and developed a symmetry-based k·p model to analyze the effect of symmetry breaking on wavefunction components."
+    },
+    "main_takeaway": {
+      "zh": "粒空对称性破缺导致导带与价带费米速度差异巨大（达16倍），抑制了价带中特定的自旋-宇称波函数分量，从而实现了极高的旋向选择性吸光。",
+      "en": "Particle-hole symmetry breaking creates a massive Fermi velocity asymmetry (up to 16x), suppressing specific spin-parity wavefunction components in the valence band and leading to near-exclusive optical helicity selectivity."
+    },
+    "why_it_matters": {
+      "zh": "该研究确定了粒空对称性破缺是工程化量子材料手性光学响应的关键机制，实现了红外波段创纪录的圆二色性强度。",
+      "en": "It establishes particle-hole symmetry breaking as a key route for engineering chiral optical responses, achieving record-breaking circular dichroism in the infrared regime."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "发现了全新的圆二色性产生机制，并在实验上实现了超过 3000 mdeg 的巨型红外手性响应。",
+        "en": "Uncovered a novel mechanism for circular dichroism and experimentally demonstrated giant infrared chiral response exceeding 3000 mdeg."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了基础物理机制的突破（粒空对称性破缺）与创纪录的实验性能指标，符合顶级期刊品味。",
+        "en": "The study combines a fundamental physics breakthrough (particle-hole symmetry breaking) with record-breaking experimental metrics, fitting the profile of top-tier journals."
+      }
+    },
+    "keywords": [
+      "Weyl semimetal",
+      "Circular dichroism",
+      "Particle-hole symmetry",
+      "Magneto-infrared spectroscopy",
+      "Landau levels"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:14:45",
+    "input_scope": "full_pdf_text"
+  }
+}

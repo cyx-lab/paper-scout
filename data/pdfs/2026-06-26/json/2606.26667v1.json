@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2606.26667v1",
+    "title": "Floquet Topological Phases and Anomalous Hall Signatures in Irradiated Two-dimensional $d_{xy}$-Wave Altermagnets",
+    "authors": [
+      "Hosein Cheraghchi"
+    ],
+    "abstract": "We study Floquet topological phases in two-dimensional $d_{xy}$-wave altermagnets driven by off-resonant circularly polarized light and subject to an out-of-plane magnetization induced via extrinsic exchange coupling from a proximate ferromagnet. Using a lattice Floquet formulation, we show that the system is governed by a driving parameter $β$ that controls the emergence of distinct gap-closing points and associated topological phases. For $|β|>1$, topology is dominated by anisotropic Dirac points at high symmetry points, leading to Chern phases with $|\\mathcal{C}|=2$. For $|β|<1$, light-induced off-symmetry $G$ points appear in four families in the Brillouine zone, enabling higher Chern phases up to $|\\mathcal{C}|=4$. Low-energy analysis reveals that high symmetry points host anisotropic massive Dirac fermions, while $G$ points realize generalized two-dimensional anisotropic Dirac points with fully momentum-dependent pseudospin structure, leading to distinct Berry curvature distributions. In the metallic regime, the anomalous Hall conductivity provides an experimental signature of these Floquet topological phases, exhibiting sharp features associated with Berry curvature accumulation near local gap-closing regions.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-25T06:58:26Z",
+    "updated": "2026-06-25T06:58:26Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.26667v1",
+      "pdf_path": "data/pdfs/2026-06-26/3_Floquet Topological Phases and Anomalous Hall Signatures in Irradiated Two-dimensional $d_{xy}$-Wave Altermagnets__2606.26667v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-26T02:13:11.459091",
+    "updated_at": "2026-06-26T02:13:11.459082Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-26/3_Floquet Topological Phases and Anomalous Hall Signatures in Irradiated Two-dimensional $d_{xy}$-Wave Altermagnets__2606.26667v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.26667v1",
+    "pdf_filename": "3_Floquet Topological Phases and Anomalous Hall Signatures in Irradiated Two-dimensional $d_{xy}$-Wave Altermagnets__2606.26667v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了圆偏振光驱动下二维交错磁体的 Floquet 拓扑相，发现光诱导的非对称点可实现高陈数相。",
+      "en": "This study explores Floquet topological phases in 2D d-wave altermagnets under light, revealing that light-induced off-symmetry points enable high Chern number phases."
+    },
+    "problem": {
+      "zh": "探索交错磁体在周期性驱动下的全局拓扑性质，特别是光诱导的非对称能带接触点对拓扑相变和反常霍尔效应的影响。",
+      "en": "To explore the global topological properties of altermagnets under periodic driving, specifically how light-induced off-symmetry band-touching points affect topological transitions and anomalous Hall responses."
+    },
+    "approach": {
+      "zh": "采用晶格 Floquet 理论和高频有效哈密顿量方法，分析布里渊区内高对称点与光诱导非对称点的能隙关闭条件及 Berry 曲率分布。",
+      "en": "Using lattice Floquet formulation and high-frequency effective Hamiltonians to analyze gap-closing conditions and Berry curvature distributions at both high-symmetry and light-induced off-symmetry points."
+    },
+    "main_takeaway": {
+      "zh": "驱动参数控制拓扑相变：当光诱导项占优时，系统会出现四组非对称 G 点，使陈数从 2 增加到 4。",
+      "en": "A driving parameter controls the topological phases: when light-induced terms dominate, four families of off-symmetry G-points emerge, increasing the Chern number from 2 to 4."
+    },
+    "why_it_matters": {
+      "zh": "揭示了利用光场调控交错磁体拓扑性质的新机制，展示了如何通过非对称 Dirac 点实现高陈数态，并为实验观测提供了反常霍尔效应特征。",
+      "en": "It reveals a new mechanism for tuning altermagnet topology via light, demonstrates high-Chern-number states through off-symmetry Dirac points, and provides experimental signatures via anomalous Hall conductivity."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "详细阐明了交错磁体中光诱导非对称 Dirac 点的形成及其对高陈数拓扑相的贡献。",
+        "en": "It details the formation of light-induced off-symmetry Dirac points and their contribution to high-Chern-number topological phases in altermagnets."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及凝聚态物理中的拓扑相和磁性材料，符合 PRB 的核心关注领域。",
+        "en": "The study focuses on topological phases and magnetic materials in condensed matter physics, aligning with PRB's core scope."
+      }
+    },
+    "keywords": [
+      "Altermagnets",
+      "Floquet engineering",
+      "Chern insulator",
+      "Anomalous Hall effect",
+      "Dirac points"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-26",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-26T10:14:13",
+    "input_scope": "full_pdf_text"
+  }
+}
