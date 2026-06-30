@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2606.30051v1",
+    "title": "Hall viscosity from metric-sensitive dichroic probes",
+    "authors": [
+      "Alberto Nardin",
+      "Bruno Mera",
+      "Anaïs Defossez",
+      "Baptiste Bermond",
+      "Tomoki Ozawa",
+      "Nathan Goldman"
+    ],
+    "abstract": "Hall viscosity characterizes the geometric response of a quantum Hall droplet to deformations of the underlying metric, yet it has remained difficult to measure directly. We propose a spectroscopic probe based on circular dichroism, using chiral metric-sensitive drives -- implemented as rotating quadrupolar (\"saddle\") perturbations -- that effectively modulate the metric and couple to the generators of area-preserving deformations. The resulting dichroic signal directly measures the Hall viscosity, while frequency-resolved spectroscopy disentangles it from other excitations. A local formulation further enables spatially resolved markers of Hall viscosity applicable to both continuum and lattice systems. Our results open a direct route to measuring Hall viscosity in quantum-engineered platforms such as cold atoms in optical lattices.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.quant-gas",
+      "cond-mat.str-el",
+      "quant-ph"
+    ],
+    "published": "2026-06-29T09:44:24Z",
+    "updated": "2026-06-29T09:44:24Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.30051v1",
+      "pdf_path": "data/pdfs/2026-06-30/3_Hall viscosity from metric-sensitive dichroic probes__2606.30051v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-30T02:13:51.341688",
+    "updated_at": "2026-06-30T02:13:51.341681Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-30/3_Hall viscosity from metric-sensitive dichroic probes__2606.30051v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.30051v1",
+    "pdf_filename": "3_Hall viscosity from metric-sensitive dichroic probes__2606.30051v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种利用旋转四极矩扰动引起的圆二色性来直接测量量子霍尔系统霍尔粘滞系数的光谱学方案。",
+      "en": "Proposes a spectroscopic scheme to directly measure Hall viscosity in quantum Hall systems using circular dichroism induced by rotating quadrupolar perturbations."
+    },
+    "problem": {
+      "zh": "霍尔粘滞系数是表征量子霍尔态几何响应的关键物理量，但由于其对度规变形的敏感性，在实验中极难直接观测。",
+      "en": "Hall viscosity is a key geometric property of quantum Hall states, but it remains notoriously difficult to measure directly due to its coupling to metric deformations."
+    },
+    "approach": {
+      "zh": "利用旋转鞍点势作为手性度规驱动，通过测量系统在不同手性驱动下的吸收率差异（圆二色性信号）来提取霍尔粘滞系数，并结合频率分辨光谱排除干扰。",
+      "en": "Uses rotating saddle potentials as chiral metric-sensitive drives to extract Hall viscosity from the differential absorption (circular dichroism) and employs frequency-resolved spectroscopy to isolate the signal."
+    },
+    "main_takeaway": {
+      "zh": "积分圆二色性信号与霍尔粘滞系数成正比，且该方法通过局部标记物定义，同样适用于存在晶格效应和边界的有限系统。",
+      "en": "The integrated dichroic signal is directly proportional to the Hall viscosity, and the method remains robust in lattice systems and finite geometries via a local marker formulation."
+    },
+    "why_it_matters": {
+      "zh": "该方案为在冷原子和量子模拟平台中探测拓扑相的内禀轨道自旋和量子几何特性提供了一种切实可行的光谱学手段。",
+      "en": "It provides a practical spectroscopic route to probe intrinsic orbital spin and quantum geometry of topological phases in cold-atom and quantum simulation platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "为长期难以测量的霍尔粘滞系数提供了具体的实验测量协议，且具有良好的平台通用性。",
+        "en": "Provides a concrete experimental protocol for measuring the elusive Hall viscosity with broad applicability across different platforms."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了凝聚态物理中的一个基本测量难题，且对量子模拟实验具有直接指导意义。",
+        "en": "The study addresses a fundamental measurement challenge in condensed matter physics with direct implications for quantum simulation experiments."
+      }
+    },
+    "keywords": [
+      "Hall viscosity",
+      "Circular dichroism",
+      "Quantum Hall effect",
+      "Cold atoms",
+      "Quantum geometry"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-30T10:14:42",
+    "input_scope": "full_pdf_text"
+  }
+}

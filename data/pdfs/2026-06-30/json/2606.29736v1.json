@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.29736v1",
+    "title": "All-optical Synchronization of Breather Solitons in a Kerr Microresonator",
+    "authors": [
+      "Wang Liao",
+      "Stuart G. Murdoch",
+      "Stephane Coen",
+      "Gregory Moille",
+      "Kartik Srinivasan",
+      "Miro Erkintalo"
+    ],
+    "abstract": "Microresonator Kerr solitons are promising candidates for the realization of miniaturized on-chip optical frequency combs. For specific system parameters, these solitons are associated with oscillatory instabilities, leading to breathing dynamics characterized by periodically modulated temporal and spectral profiles. In this regime, the solitons form a frequency comb comprised of primary comb lines surrounded by sidebands separated by the breathing frequency. Here, we numerically and experimentally demonstrate that the breathing sidebands can be all-optically synchronized to a weak monochromatic laser injected into the cavity, thus providing direct control of the soliton oscillation frequency. We judiciously characterize the synchronization process, and show that it is accompanied by a strong reduction of noise in the soliton's breathing. Our results provide fundamental insights on oscillatory dissipative structures, and could enable new forms of composite optical frequency combs.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-06-29T03:20:20Z",
+    "updated": "2026-06-29T03:20:20Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.29736v1",
+      "pdf_path": "data/pdfs/2026-06-30/2_All-optical Synchronization of Breather Solitons in a Kerr Microresonator__2606.29736v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-30T02:13:51.342235",
+    "updated_at": "2026-06-30T02:13:51.342229Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-30/2_All-optical Synchronization of Breather Solitons in a Kerr Microresonator__2606.29736v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.29736v1",
+    "pdf_filename": "2_All-optical Synchronization of Breather Solitons in a Kerr Microresonator__2606.29736v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文首次在实验和数值上实现了克尔微腔中呼吸子孤子的全光同步，并实现了呼吸噪声的显著降低。",
+      "en": "This work demonstrates the first experimental and numerical all-optical synchronization of breather solitons in a Kerr microresonator, achieving significant reduction in breathing noise."
+    },
+    "problem": {
+      "zh": "如何通过全光方法实现对克尔微腔中呼吸子孤子振荡频率的被动同步与控制。",
+      "en": "How to achieve passive synchronization and control of the oscillation frequency of breather solitons in Kerr microresonators using an all-optical approach."
+    },
+    "approach": {
+      "zh": "在氮化硅微腔中引入微弱的辅助连续波激光，使其频率接近呼吸边带，并通过实验测量和Lugiato-Lefever方程数值模拟研究其锁定行为。",
+      "en": "Injecting a weak auxiliary continuous-wave laser close to the breathing sidebands in a silicon nitride microresonator, and analyzing the locking behavior via experiments and Lugiato-Lefever equation simulations."
+    },
+    "main_takeaway": {
+      "zh": "呼吸子孤子的呼吸边带可以被全光锁定到注入的弱激光上，从而降低呼吸噪声并引起频梳谱线的协同移动。",
+      "en": "The breathing sidebands of breather solitons can be all-optically locked to an injected weak laser, reducing breathing noise and inducing sympathetic shifts in the comb lines."
+    },
+    "why_it_matters": {
+      "zh": "为稳定和控制呼吸子孤子提供了新途径，有助于其在计量学和光学计算中的应用，并深化了对非平衡态振荡耗散结构的理解。",
+      "en": "It provides a new route to stabilize and control breather solitons, enabling applications in metrology and optical computing, and deepening the understanding of oscillating dissipative structures far from equilibrium."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次实验证实了呼吸子孤子的全光注入锁定，并发现了高低频边带锁定非对称性等新物理效应。",
+        "en": "First experimental demonstration of all-optical injection locking of breather solitons, revealing new physical effects such as locking asymmetry between high- and low-frequency sidebands."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文格式为Letter，且研究内容属于非线性光学与孤子物理的基础突破，非常符合该期刊的定位。",
+        "en": "The paper is formatted as a Letter and presents a fundamental breakthrough in nonlinear optics and soliton physics, which aligns well with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Kerr microresonators",
+      "Breather solitons",
+      "All-optical synchronization",
+      "Optical frequency combs",
+      "Injection locking"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-30T10:14:17",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2606.29921v1",
+    "title": "Bifurcation structure of soliton self-injection locking in microresonators",
+    "authors": [
+      "S. Deshmukh",
+      "T. M. Schneider",
+      "A. Tikan"
+    ],
+    "abstract": "Self-injection locking (SIL) of a diode laser to a high quality-factor microresonator has recently become increasingly important in hybrid integrated photonics, providing access to compact sub-Hz linewidth lasers. It was also shown to facilitate the access to dissipative Kerr solitons - the key to a low-noise coherent frequency comb on a photonic chip. However, the existence and stability ranges of SIL soliton states in experimentally controlled parameters are still not fully understood. Here we study the bifurcation structure of solutions in a model of soliton SIL in the weak-backscattering limit. We show that SIL produces soliton-number-dependent existence ranges of multi-soliton solutions in free-laser detuning and feedback phase parameters. We identify exclusive single-soliton existence regions and demonstrate dynamical access to single solitons in this region by direct numerical simulations using prescribed parameter sweeps.",
+    "categories": [
+      "physics.optics",
+      "nlin.PS"
+    ],
+    "published": "2026-06-29T07:58:13Z",
+    "updated": "2026-06-29T07:58:13Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.29921v1",
+      "pdf_path": "data/pdfs/2026-06-30/2_Bifurcation structure of soliton self-injection locking in microresonators__2606.29921v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-30T02:13:51.341880",
+    "updated_at": "2026-06-30T02:13:51.341872Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-30/2_Bifurcation structure of soliton self-injection locking in microresonators__2606.29921v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.29921v1",
+    "pdf_filename": "2_Bifurcation structure of soliton self-injection locking in microresonators__2606.29921v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了微腔自注入锁定孤子的分岔结构，揭示了通过调节反馈参数确定性产生单孤子的机制。",
+      "en": "This work studies the bifurcation structure of soliton self-injection locking in microresonators, revealing the mechanism for deterministic single-soliton generation via feedback parameters."
+    },
+    "problem": {
+      "zh": "实验控制参数下自注入锁定孤子态的生存与稳定范围尚不清楚，导致难以可靠地获得单孤子态。",
+      "en": "The existence and stability ranges of self-injection locked soliton states under experimental control parameters are not fully understood, making reliable single-soliton generation difficult."
+    },
+    "approach": {
+      "zh": "在弱反向散射极限下，对耦合的Lugiato-Lefever方程与激光器模型进行分岔分析和数值延续，并进行直接数值模拟验证。",
+      "en": "Perform bifurcation analysis and numerical continuation on a coupled Lugiato-Lefever equation and laser model in the weak-backscattering limit, validated by direct numerical simulations."
+    },
+    "main_takeaway": {
+      "zh": "自注入锁定引入了依赖于孤子数的分岔结构，存在仅有单孤子稳定的参数区间，可通过依次扫描失谐和反馈相位来动态触发。",
+      "en": "Self-injection locking introduces soliton-number-dependent bifurcation structures, yielding parameter regions where only the single soliton is stable, which can be dynamically accessed by sweeping detuning and feedback phase."
+    },
+    "why_it_matters": {
+      "zh": "为混合集成孤子微腔光梳的设计提供了理论指导，有助于实现低噪声相干光梳的确定性单孤子制备。",
+      "en": "It provides theoretical guidance for designing hybrid integrated soliton microcombs, facilitating deterministic single-soliton generation for low-noise coherent combs."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了自注入锁定系统中孤子数与反馈相位、失谐之间的分岔关系及稳定性边界。",
+        "en": "Clarified the bifurcation relationship and stability boundaries between soliton number, feedback phase, and detuning in self-injection locked systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Optics Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文格式为典型的光学类快报，且研究主题高度契合该期刊在微腔光梳领域的传统方向。",
+        "en": "The paper is formatted as a typical optics letter, and the topic fits well with the journal's focus on microresonator frequency combs."
+      }
+    },
+    "keywords": [
+      "self-injection locking",
+      "dissipative Kerr solitons",
+      "microresonators",
+      "bifurcation analysis",
+      "optical frequency combs"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-30T10:14:26",
+    "input_scope": "full_pdf_text"
+  }
+}

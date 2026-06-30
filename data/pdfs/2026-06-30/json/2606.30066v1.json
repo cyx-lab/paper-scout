@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2606.30066v1",
+    "title": "A parsimonious structure model for the icosahedral quasicrystal Cd5.7Yb",
+    "authors": [
+      "Michael Feuerbacher"
+    ],
+    "abstract": "A compact structure model for the icosahedral phase Cd5.7Yb is presented. The model is based on a higher-dimensional description and a cut-and-projection procedure to generate the atom distribution in three-dimensional physical space. It strictly employs only spherical or elliptical occupation domains, ensuring a low number of parameters and low calculation cost. In the presented form the model has seven adjustable parameters. Despite its minimalistic setting, the model reproduces available experimental data, such as chemical composition, mass density and electron density distribution, as well as the cluster structure in physical space very well. Nevertheless, the approximation of the occupation domains by spheres and ellipses evidently implies limitations in accuracy and universality. The model can be adapted for the description of other Tsai-type icosahedral phases.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-29T09:58:12Z",
+    "updated": "2026-06-29T09:58:12Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasicrystal",
+        "quasicrystal:icosahedral"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.30066v1",
+      "pdf_path": "data/pdfs/2026-06-30/4_A parsimonious structure model for the icosahedral quasicrystal Cd5.7Yb__2606.30066v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-06-30T02:13:51.341621",
+    "updated_at": "2026-06-30T02:13:51.341613Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-06-30/4_A parsimonious structure model for the icosahedral quasicrystal Cd5.7Yb__2606.30066v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.30066v1",
+    "pdf_filename": "4_A parsimonious structure model for the icosahedral quasicrystal Cd5.7Yb__2606.30066v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文为二十面体Cd-Yb准晶提出了一种仅使用球形和椭圆形占有区的简化结构模型，显著降低了计算成本。",
+      "en": "This paper presents a parsimonious structure model for the icosahedral Cd-Yb quasicrystal using only spherical and elliptical occupation domains to significantly reduce computational cost."
+    },
+    "problem": {
+      "zh": "现有的二十面体准晶高维结构模型使用复杂的面体占有区，导致计算成本高、参数多且难以在自主代码中复现。",
+      "en": "Existing higher-dimensional structure models for icosahedral quasicrystals employ complex faceted occupation domains, leading to high computational costs, numerous parameters, and difficulties in reproduction."
+    },
+    "approach": {
+      "zh": "基于高维空间描述和截断投影法，仅采用球形和椭圆形占有区构建三维物理空间中的原子分布，并提供开源Python代码。",
+      "en": "Based on a higher-dimensional description and cut-and-projection method, the model strictly employs only spherical and elliptical occupation domains to generate the 3D atomic structure, accompanied by open-source Python code."
+    },
+    "main_takeaway": {
+      "zh": "尽管该模型高度简化，但它能以极低的计算成本较好地重现Cd-Yb准晶的化学成分、质量密度、电子密度分布以及蔡氏团簇等核心结构特征。",
+      "en": "Despite its minimalistic setup, the model successfully reproduces key structural features of the Cd-Yb quasicrystal, including chemical composition, mass density, electron density, and Tsai-type clusters, with very low computational cost."
+    },
+    "why_it_matters": {
+      "zh": "它为需要频繁操作高维空间或快速计算物理性质的场景（如位错模拟和衍射计算）提供了一个易用、高效且易于修改的替代结构模型。",
+      "en": "It provides an easy-to-use, efficient, and adaptable alternative structure model for scenarios requiring frequent hyperspace manipulations or fast physical property calculations, such as dislocation modeling and diffraction calculations."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一种简化的准晶高维结构建模方法，在计算效率和结构精度之间取得了良好的平衡。",
+        "en": "Proposes a simplified higher-dimensional structural modeling approach for quasicrystals, achieving a good balance between computational efficiency and structural accuracy."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory+Numerical"
+    },
+    "likely_venue": {
+      "journal": "Acta Crystallographica Section B",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该论文聚焦于准晶的晶体学结构建模与计算方法简化，非常符合该期刊的定位。",
+        "en": "The paper focuses on crystallographic structural modeling and simplification of calculation methods for quasicrystals, which aligns well with the scope of this journal."
+      }
+    },
+    "keywords": [
+      "Quasicrystal",
+      "Structure model",
+      "Tsai phase",
+      "Cut-and-projection method",
+      "Cd-Yb"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-06-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-06-30T10:14:52",
+    "input_scope": "full_pdf_text"
+  }
+}

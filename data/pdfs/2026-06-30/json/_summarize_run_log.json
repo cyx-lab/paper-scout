@@ -1,0 +1,42 @@
+{
+  "run_date": "2026-06-30",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2606.29736v1.json": 1,
+    "2606.29921v1.json": 1,
+    "2606.30051v1.json": 1,
+    "2606.30066v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2606.29736v1.json",
+      "status": "ok",
+      "secs": 14.46,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.29921v1.json",
+      "status": "ok",
+      "secs": 8.77,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.30051v1.json",
+      "status": "ok",
+      "secs": 15.87,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.30066v1.json",
+      "status": "ok",
+      "secs": 10.26,
+      "round": 1,
+      "attempt": 1
+    }
+  ]
+}
