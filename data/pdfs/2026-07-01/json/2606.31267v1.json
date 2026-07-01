@@ -1,0 +1,117 @@
+{
+  "paper_record": {
+    "id": "2606.31267v1",
+    "title": "Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2",
+    "authors": [
+      "Jiao Xie",
+      "Yongqin Xie",
+      "Fanqiang Chen",
+      "Jiliang Yang",
+      "Sicheng Chen",
+      "Moyu Chen",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Shi-Jun Liang",
+      "Kemi Xu",
+      "Bin Cheng",
+      "Feng Miao"
+    ],
+    "abstract": "Moire flat bands in graphene systems proximitized by transition-metal dichalcogenides (TMDCs) provide a setting where spin-orbit coupling (SOC) can reshape band topology. The crystallographic alignment angle twist angle between TMDC and graphene layers is predicted to tune the balance of Ising and Rashba SOC, but a combined theoretical and experimental understanding of how twist angle governs the topological character of correlated states has not been systematically established. Here we show that in chiral-stacked twisted double bilayer graphene in proximity to WSe2, twist angle between graphene and WSe2 determines the topological character of correlated Chern insulators. Continuum model calculations reveal that Ising spin-orbit coupling dominates at zero twist angle, giving rise to flat bands with finite valley Chern numbers, whereas Rashba coupling dominates at larger twist angle, resulting in topologically trivial bands. Transport measurements at quarter filling confirm this picture: twist angle = 0 deg devices exhibit C = +1 Chern insulators, consistent with spontaneous isospin polarization, whereas twist angle = 15 degree devices show C = 0 despite exhibiting similar correlated insulating behavior. The sharp contrast establishes crystallographic alignment as a new tuning knob, complementary to twist angle, displacement field, and carrier density, for engineering correlated topological states in van der Waals heterostructures.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-30T07:42:44Z",
+    "updated": "2026-06-30T07:42:44Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:moire",
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31267v1",
+      "pdf_path": "data/pdfs/2026-07-01/3_Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2__2606.31267v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.053182",
+    "updated_at": "2026-07-01T02:30:56.053176Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/3_Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2__2606.31267v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31267v1",
+    "pdf_filename": "3_Orientation-tunable correlated Chern insulating states in chiral twisted double bilayer graphene proximitized by WSe2__2606.31267v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文证实了WSe2与手性双层-双层转角石墨烯之间的晶格对齐角度可以调控关联陈绝缘态的拓扑性质。",
+      "en": "This work demonstrates that the crystallographic alignment angle between WSe2 and chiral twisted double bilayer graphene controls the topological character of correlated Chern insulating states."
+    },
+    "problem": {
+      "zh": "探究过渡金属硫族化合物与石墨烯之间的晶格对齐角度如何调控自旋轨道耦合，进而决定关联态的拓扑特征。",
+      "en": "Investigating how the crystallographic alignment angle between a transition-metal dichalcogenide and graphene tunes spin-orbit coupling to determine the topological character of correlated states."
+    },
+    "approach": {
+      "zh": "结合考虑角度依赖自旋轨道耦合的连续介质模型计算，以及对不同对齐角度（约0度和15度）器件的低温输运测量。",
+      "en": "Combining continuum model calculations with angle-dependent spin-orbit coupling and low-temperature transport measurements on devices with different alignment angles (approx. 0 and 15 degrees)."
+    },
+    "main_takeaway": {
+      "zh": "在四分之一填充处，对齐角度约0度的器件表现为C = +1的陈绝缘体（由Ising自旋轨道耦合主导），而约15度的器件表现为C = 0的平凡关联绝缘体（由Rashba耦合主导）。",
+      "en": "At quarter filling, the device with alignment angle approx. 0 degrees exhibits a C = +1 Chern insulator (dominated by Ising SOC), whereas the approx. 15 degrees device shows a topologically trivial C = 0 state (dominated by Rashba SOC)."
+    },
+    "why_it_matters": {
+      "zh": "确立了晶格对齐角度作为调控范德华异质结中关联拓扑态的新维度，与转角、位移场和载流子浓度互补。",
+      "en": "It establishes crystallographic alignment as an independent tuning knob, complementary to twist angle, displacement field, and carrier density, for engineering correlated topological states in van der Waals heterostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在实验上通过精确控制二维材料间的对齐角度，实现了关联绝缘态拓扑数（从1到0）的按需调控。",
+        "en": "It experimentally achieves deterministic tuning of the Chern number (from 1 to 0) of a correlated insulating state by controlling the alignment angle between 2D layers."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "首次展示了利用对齐角度调控莫尔超晶格拓扑物性的实验突破，属于凝聚态物理前沿的高影响力工作。",
+        "en": "It presents a breakthrough in tuning the topology of moiré superlattices via alignment angle, which is a high-impact topic in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "twisted double bilayer graphene",
+      "WSe2",
+      "spin-orbit coupling",
+      "Chern insulator",
+      "moiré superlattice"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:31:27",
+    "input_scope": "full_pdf_text"
+  }
+}

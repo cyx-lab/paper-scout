@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2606.31573v1",
+    "title": "High-harmonic spin-current signatures of altermagnetic spin-group symmetry",
+    "authors": [
+      "Koki Mizuno"
+    ],
+    "abstract": "Spin point groups classify magnetic phases in the weak spin-orbit coupling regime and characterize the static properties of altermagnetic phases, but their dynamical consequences remain largely unexplored. Here, we derive selection rules for high-harmonic generation of charge and spin currents by extending dynamical symmetry to include spin point group operations. Since spin currents transform under both real and spin space operations, whereas charge currents transform only under real space operations, spin current selection rules can reveal magnetic information that is inaccessible to charge current harmonics. In a minimal altermagnetic model, an axis-aligned linearly polarized drive is non-diagnostic for distinguishing ferromagnetic and altermagnetic phases, although the antiferromagnetic phase is distinguished by the absence of the corresponding spin-current harmonics. A diagonal linearly polarized drive distinguishes the three SPG phases within the weak-SOC spin-group description, whereas a single-helicity circularly polarized drive provides a sharper spin-current-harmonic criterion for distinguishing them from magnetic-point-group mimics. These results establish spin current harmonics as a dynamical probe of spin group symmetry.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.other"
+    ],
+    "published": "2026-06-30T12:31:28Z",
+    "updated": "2026-06-30T12:31:28Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31573v1",
+      "pdf_path": "data/pdfs/2026-07-01/3_High-harmonic spin-current signatures of altermagnetic spin-group symmetry__2606.31573v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.052253",
+    "updated_at": "2026-07-01T02:30:56.052244Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/3_High-harmonic spin-current signatures of altermagnetic spin-group symmetry__2606.31573v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31573v1",
+    "pdf_filename": "3_High-harmonic spin-current signatures of altermagnetic spin-group symmetry__2606.31573v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过将动力学对称性推广至自旋点群，推导了交错磁体中电荷和自旋电流高次谐波产生的选择定则，提出自旋电流谐波可作为探测交错磁性的动力学手段。",
+      "en": "This work extends dynamical symmetry to spin point groups to derive selection rules for charge and spin current high-harmonic generation, establishing spin current harmonics as a dynamical probe of altermagnetism."
+    },
+    "problem": {
+      "zh": "如何利用非线性动力学响应来探测和区分弱自旋轨道耦合机制下的交错磁体、铁磁体和反铁磁体。",
+      "en": "How to use nonlinear dynamical responses to detect and distinguish altermagnets from ferromagnets and antiferromagnets in the weak spin-orbit coupling regime."
+    },
+    "approach": {
+      "zh": "将动力学对称性推广到包含自旋空间旋转的自旋点群操作，推导选择定则，并在二维紧束缚模型中进行电荷和自旋电流高次谐波的数值模拟。",
+      "en": "Extending dynamical symmetry to spin point group operations that include spin-space rotations, deriving selection rules, and performing numerical simulations of charge and spin current HHG in a two-sublattice tight-binding model."
+    },
+    "main_takeaway": {
+      "zh": "自旋电流高次谐波能够敏感地反映自旋空间对称性，利用特定偏振的驱动光（如对角线线偏振或单手性圆偏振）可以清晰地将交错磁体与铁磁体、反铁磁体以及具有相对论自旋轨道耦合的模拟系统区分开。",
+      "en": "Spin current high-harmonics are sensitive to spin-space symmetries, and using specific drive polarizations (diagonal linear or single-helicity circular) can unambiguously distinguish altermagnets from ferromagnets, antiferromagnets, and relativistic spin-orbit coupled mimics."
+    },
+    "why_it_matters": {
+      "zh": "它将自旋点群对称性从静态分类推广到了非线性动力学预测，为实验上利用超快光学和自旋电子学手段探测交错磁性提供了理论基础。",
+      "en": "It elevates spin point group symmetry from a static classification tool to a predictive principle for nonlinear dynamics, providing a theoretical foundation for experimentally probing altermagnetism via ultrafast optics and spintronics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次将自旋点群引入动力学选择定则的推导，并指出了自旋电流高次谐波在区分交错磁体与其它磁相及相对论效应中的独特优势。",
+        "en": "First to incorporate spin point groups into dynamical selection rules, demonstrating the unique advantage of spin-current HHG in distinguishing altermagnets from other magnetic phases and relativistic mimics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对交错磁性这一凝聚态物理前沿热点，提出了具有普适物理意义的对称性理论和探测方案，非常适合发表在PRL上。",
+        "en": "Addressing a hot frontier in condensed matter physics (altermagnetism), this work proposes a symmetry theory and detection scheme of broad physical significance, making it highly suitable for PRL."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "High-harmonic generation",
+      "Spin point group",
+      "Spin current",
+      "Dynamical symmetry"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:31:47",
+    "input_scope": "full_pdf_text"
+  }
+}

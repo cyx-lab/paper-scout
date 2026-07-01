@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2606.31934v1",
+    "title": "Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy",
+    "authors": [
+      "Pankaj Kumar",
+      "Michel Bosman",
+      "Nikolai Lavrentev",
+      "He Zheng",
+      "Ding Peng",
+      "Kostya S. Novoselov",
+      "Tatiana Latychevskaia"
+    ],
+    "abstract": "Reconstruction of the atomic crystal structure in twisted 2D materials has been demonstrated to be responsible for multiple exciting phenomena in van der Waals heterostructures, from the appearance of flat bands in twisted bilayer graphene to Wigner crystallization in transition metal dichalcogenides (TMDs). However, there are still no experimental methods for accessing the 3D atomic distributions nor models that describe the exact atomic shifts in such reconstructed structures, which significantly impedes the development of the field. Dark field (DF) transmission electron microscopy (TEM) has been conventionally employed to visualize the local in-plane atomic displacements. Here we expand this method to obtain a full description of the reconstructed atomic systems and demonstrate the quantitative relations between the local stacking and the intensity in the DF image. We show how local 3D atomic displacements and the interlayer distance can be extracted from a DF image.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-30T16:38:51Z",
+    "updated": "2026-06-30T16:38:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31934v1",
+      "pdf_path": "data/pdfs/2026-07-01/3_Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy__2606.31934v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.051395",
+    "updated_at": "2026-07-01T02:30:56.051384Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/3_Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy__2606.31934v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31934v1",
+    "pdf_filename": "3_Untangling 3D atomic reconstruction in twisted bilayer 2D crystals via dark field transmission electron microscopy__2606.31934v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种利用暗场透射电子显微镜定量重构扭角双层二维晶体三维原子位移和层间距离的方法。",
+      "en": "This paper presents a method to quantitatively reconstruct 3D atomic displacements and interlayer distances in twisted bilayer 2D crystals using dark-field transmission electron microscopy."
+    },
+    "problem": {
+      "zh": "难以通过实验获取扭角二维材料中重构的三维原子分布及精确的原子位移。",
+      "en": "The difficulty in experimentally accessing the reconstructed 3D atomic distributions and exact atomic shifts in twisted 2D materials."
+    },
+    "approach": {
+      "zh": "扩展暗场透射电镜方法，建立局部堆叠结构与图像强度之间的定量关系，并结合样品倾角分析提取三维位移。",
+      "en": "Expanding dark-field TEM by establishing quantitative relations between local stacking and image intensity, incorporating sample tilt analysis to extract 3D displacements."
+    },
+    "main_takeaway": {
+      "zh": "可以直接从单张暗场透射电镜图像中定量提取扭角双层体系的局部三维原子位移和层间距离。",
+      "en": "Local 3D atomic displacements and interlayer distances in twisted bilayers can be quantitatively extracted directly from a dark-field TEM image."
+    },
+    "why_it_matters": {
+      "zh": "精确获取原子重构信息对于理解莫尔超晶格的电子、光学和机械性能至关重要。",
+      "en": "Precise knowledge of atomic reconstruction is crucial for understanding the electronic, optical, and mechanical properties of moiré superlattices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一种从常规暗场电镜图像中提取三维结构信息的定量分析框架。",
+        "en": "Proposes a quantitative framework to extract 3D structural information from conventional dark-field TEM images."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究解决了莫尔超晶格表征中的重要瓶颈，非常适合发表在顶尖纳米技术期刊上。",
+        "en": "The study addresses a major bottleneck in characterizing moiré superlattices, making it highly suitable for top-tier nanotechnology journals."
+      }
+    },
+    "keywords": [
+      "twisted bilayer",
+      "dark-field TEM",
+      "3D atomic reconstruction",
+      "interlayer distance",
+      "transition metal dichalcogenides"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:32:12",
+    "input_scope": "full_pdf_text"
+  }
+}

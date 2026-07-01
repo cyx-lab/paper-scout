@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2606.31604v1",
+    "title": "Eigenstate Transitions, Duality, and Anomalous Diffusion in a Quasiperiodic Qi-Wu-Zhang Chern Insulator",
+    "authors": [
+      "Tengming Lou",
+      "Haiyang Wang",
+      "Haijiao Ji",
+      "Haiwen Liu"
+    ],
+    "abstract": "Quasiperiodic systems usually interpolate between extended, critical, and localized states as the quasiperiodic modulation is increased. Here we show that the magnetic Qi-Wu-Zhang Chern-insulator model realizes a distinct full-spectrum transition in which localization is avoided. For an irrational magnetic flux, the two-dimensional model reduces to a spinor quasiperiodic chain with a matrix onsite modulation controlled by the hopping amplitude $t_x$. When $|m+2|>t_y$, increasing $t_x$ produces the conventional extended-critical-localized sequence with a critical line at $t_x=t_y$. In contrast, when $|m+2|\\le t_y$, the system changes from an extended phase to a critical phase at $t_x=|m+2|$ and remains critical even for stronger quasiperiodic modulation. Finite-size scaling of the average inverse participation ratio gives $\\overline{\\mathrm{IPR}}\\sim q^{-α}$ with $0<α<1$ throughout this persistent critical regime. A dual transformation exchanging $t_x$ and $t_y$, together with a Lyapunov-exponent analysis, explains the phase diagram. Wave-packet dynamics further distinguish ballistic, anomalous-diffusive, and localized regimes. These results identify magnetic Chern-insulator systems as a natural platform for robust criticality and anomalous quantum transport.",
+    "categories": [
+      "cond-mat.dis-nn",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-30T12:51:55Z",
+    "updated": "2026-06-30T12:51:55Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31604v1",
+      "pdf_path": "data/pdfs/2026-07-01/4_Eigenstate Transitions, Duality, and Anomalous Diffusion in a Quasiperiodic Qi-Wu-Zhang Chern Insulator__2606.31604v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.052173",
+    "updated_at": "2026-07-01T02:30:56.052166Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/4_Eigenstate Transitions, Duality, and Anomalous Diffusion in a Quasiperiodic Qi-Wu-Zhang Chern Insulator__2606.31604v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31604v1",
+    "pdf_filename": "4_Eigenstate Transitions, Duality, and Anomalous Diffusion in a Quasiperiodic Qi-Wu-Zhang Chern Insulator__2606.31604v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，在无理磁通下的Qi-Wu-Zhang陈绝缘体模型中存在一个持续的临界相，在此相位中系统避免了局域化并表现出反常扩散。",
+      "en": "The study shows that a quasiperiodic Qi-Wu-Zhang Chern insulator realizes a persistent critical phase that avoids localization and exhibits anomalous diffusion."
+    },
+    "problem": {
+      "zh": "探索二维拓扑陈绝缘体在无理磁场（准周期调制）下是否能实现不同于传统标量模型的局域化物理和独特的本征态转变。",
+      "en": "To investigate whether a 2D topological Chern insulator under an irrational magnetic field (quasiperiodic modulation) can realize localization physics and eigenstate transitions distinct from conventional scalar models."
+    },
+    "approach": {
+      "zh": "将磁性QWZ模型简化为具有矩阵调制的旋量准周期链，结合有限尺寸标度分析、对偶变换、李雅普诺夫指数和波包动力学进行研究。",
+      "en": "Reduce the magnetic QWZ model to a spinor quasiperiodic chain with matrix onsite modulation, and analyze it using finite-size scaling, dual transformation, Lyapunov exponents, and wave-packet dynamics."
+    },
+    "main_takeaway": {
+      "zh": "发现当拓扑质量参数小于等于跳符振幅时，系统在强准周期调制下不会局域化，而是保持在具有分形特征和反常扩散的持续临界相。",
+      "en": "Found that when the topological mass parameter is smaller than or equal to the hopping amplitude, the system does not localize under strong quasiperiodic modulation but remains in a persistent critical phase with multifractal features and anomalous diffusion."
+    },
+    "why_it_matters": {
+      "zh": "它揭示了拓扑陈绝缘体系统是实现鲁棒临界性和反常量子输运的天然平台，为准周期系统中的非局域化临界相提供了新机制。",
+      "en": "It identifies magnetic Chern insulator systems as a natural platform for robust criticality and anomalous quantum transport, providing a new mechanism for non-localizing critical phases in quasiperiodic systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "发现了准周期系统中一种避免局域化的持续临界相，并给出了完整的对偶性与动力学解释。",
+        "en": "Discovered a persistent critical phase that avoids localization in quasiperiodic systems, supported by a complete duality and dynamical explanation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究揭示了拓扑模型中新颖的准周期物理现象，具有较强的普适性和理论深度，非常符合该期刊的定位。",
+        "en": "The study reveals novel quasiperiodic physics in a topological model with strong universality and theoretical depth, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "Qi-Wu-Zhang model",
+      "Chern insulator",
+      "quasiperiodic system",
+      "persistent critical phase",
+      "anomalous diffusion"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:32:40",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2606.31775v1",
+    "title": "Energy-time entanglement from a monolithically integrated quantum dot on silicon",
+    "authors": [
+      "Marcel Hohn",
+      "Imad Limame",
+      "Peter Ludewig",
+      "Chirag C. Palekar",
+      "Aris Koulas-Simos",
+      "Kerstin Volz",
+      "Stephan Reitzenstein"
+    ],
+    "abstract": "Scalable quantum photonic technologies require deterministic sources of entangled photons that are compatible with established semiconductor manufacturing platforms. While self-assembled III--V semiconductor quantum dots are among the most promising sources of on-demand entanglement generation, their integration with silicon-based architectures remains a central challenge. Here, we demonstrate energy--time entanglement from a single InGaAs/GaAs quantum dot monolithically grown on a silicon substrate. Under coherent two-photon excitation, we achieve coherent control of the biexciton--exciton cascade, evidenced by Rabi oscillations and dressed-state formation. Using a four-channel Franson interferometer, we observe phase-dependent two-photon interference with visibilities up to $(64.0 \\pm 7.0)\\%$ for an 80 ps integration window (and $(49.4 \\pm 1.9)\\%$ for a 1600 ps window), approaching the threshold for Bell inequality violation at short time scales. These results establish monolithically integrated III--V-on-silicon quantum dots as promising sources of energy--time entangled photons for scalable quantum photonic technologies.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-06-30T14:58:06Z",
+    "updated": "2026-06-30T14:58:06Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:biexciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31775v1",
+      "pdf_path": "data/pdfs/2026-07-01/3_Energy-time entanglement from a monolithically integrated quantum dot on silicon__2606.31775v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.051804",
+    "updated_at": "2026-07-01T02:30:56.051794Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/3_Energy-time entanglement from a monolithically integrated quantum dot on silicon__2606.31775v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31775v1",
+    "pdf_filename": "3_Energy-time entanglement from a monolithically integrated quantum dot on silicon__2606.31775v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在硅衬底上单片集成的单个InGaAs/GaAs量子点中成功实现了能量-时间纠缠光子对的发射。",
+      "en": "Demonstrated energy-time entanglement from a single InGaAs/GaAs quantum dot monolithically grown on a silicon substrate."
+    },
+    "problem": {
+      "zh": "如何将高性能的III-V族自组装量子点纠缠光源与硅基光子学平台进行单片集成，并克服精细结构分裂对偏振纠缠的限制。",
+      "en": "How to monolithically integrate high-performance III-V self-assembled quantum dot entangled photon sources with silicon platforms, and overcome the limitations of polarization entanglement caused by fine-structure splitting."
+    },
+    "approach": {
+      "zh": "利用金属有机化学气相沉积在硅上外延生长量子点，在相干双光子激发下驱动双激子-激子级联，并使用四通道Franson干涉仪测量纠缠度。",
+      "en": "Epitaxially grow quantum dots on silicon using MOCVD, drive the biexciton-exciton cascade under coherent two-photon excitation, and measure entanglement using a four-channel Franson interferometer."
+    },
+    "main_takeaway": {
+      "zh": "在相干双光子激发下，硅基单片集成量子点在80 ps积分窗口下实现了高达(64.0±7.0)%的Franson干涉可见度，接近违反贝尔不等式的阈值。",
+      "en": "Under coherent two-photon excitation, the monolithically integrated quantum dot on silicon achieved a Franson visibility of up to (64.0±7.0)% for an 80 ps integration window, approaching the threshold for Bell inequality violation."
+    },
+    "why_it_matters": {
+      "zh": "该成果证明了硅基集成量子点作为高相干性、抗精细结构分裂干扰的能量-时间纠缠光源的可行性，为规模化片上量子光子集成电路奠定了基础。",
+      "en": "It proves the feasibility of silicon-integrated quantum dots as highly coherent, fine-structure-splitting-resilient energy-time entangled photon sources, paving the way for scalable on-chip quantum photonic integrated circuits."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在硅基单片集成的半导体量子点中实现了能量-时间纠缠的实验观测。",
+        "en": "First experimental demonstration of energy-time entanglement from a monolithically integrated semiconductor quantum dot on silicon."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Applied Physics Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作属于应用物理与光子学器件领域的突破，文章结构紧凑，非常符合该期刊的定位。",
+        "en": "The work represents a breakthrough in applied physics and photonic devices, with a concise structure that fits the journal's scope perfectly."
+      }
+    },
+    "keywords": [
+      "Quantum dots",
+      "Silicon photonics",
+      "Energy-time entanglement",
+      "Monolithic integration",
+      "Franson interferometry"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:32:00",
+    "input_scope": "full_pdf_text"
+  }
+}

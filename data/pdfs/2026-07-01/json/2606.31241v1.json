@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2606.31241v1",
+    "title": "Symmetry-Enforced Ferroelectric Switching of Two-Dimensional Altermagnetism",
+    "authors": [
+      "Jiangyu Zhao",
+      "Yibo Liu",
+      "Guoli Wu",
+      "Xinru Li",
+      "Ying Dai",
+      "Baibiao Huang",
+      "Yandong Ma"
+    ],
+    "abstract": "Altermagnetism features strong momentum-dependent spin splitting despite zero net magnetization, offering a transformative platform for next-generation spintronics. However, the nonvolatile and deterministic switching between its two equivalent spin-splitting states remains a fundamental bottleneck. Here, we propose a universal layer-engineering paradigm to achieve symmetry-enforced ferroelectric switching of two-dimensional altermagnetism. By sandwiching a conventional antiferromagnetic monolayer between two identical ferroelectric layers, the out-of-plane polarization cleanly breaks the spatial symmetry to induce robust altermagnetic splitting. Crucially, the global combined parity-time symmetry dictates that reversing the ferroelectric polarization exactly inverts the altermagnetic spin-splitting pattern. We rigorously validate this mechanism in the In2Se3/MnPTe3/In2Se3 trilayer using first-principles calculations. As a direct consequence, the ferroelectrically driven spin-splitting reversal deterministically flips the anomalous Hall effect signal, providing an unambiguous transport fingerprint to electrically distinguish the two altermagnetic states. Unconstrained by the stringent symmetry requirements of intrinsic single-phase materials, our findings establish a versatile physical framework for electrically addressable altermagnetic spintronics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-06-30T07:16:42Z",
+    "updated": "2026-06-30T07:16:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31241v1",
+      "pdf_path": "data/pdfs/2026-07-01/3_Symmetry-Enforced Ferroelectric Switching of Two-Dimensional Altermagnetism__2606.31241v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.053351",
+    "updated_at": "2026-07-01T02:30:56.053285Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/3_Symmetry-Enforced Ferroelectric Switching of Two-Dimensional Altermagnetism__2606.31241v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31241v1",
+    "pdf_filename": "3_Symmetry-Enforced Ferroelectric Switching of Two-Dimensional Altermagnetism__2606.31241v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种通过对称性保护的铁电夹层结构实现二维交错磁性非易失性电学调控的通用方案。",
+      "en": "Proposes a universal layer-engineering paradigm to achieve symmetry-enforced, nonvolatile ferroelectric switching of two-dimensional altermagnetism."
+    },
+    "problem": {
+      "zh": "解决二维交错磁性中等效自旋分裂态之间难以进行非易失性和确定性电学翻转的瓶颈问题。",
+      "en": "Addressing the bottleneck of achieving nonvolatile and deterministic switching between equivalent spin-splitting states in two-dimensional altermagnetism."
+    },
+    "approach": {
+      "zh": "设计对称的铁电/反铁磁/铁电三层夹心结构，利用全局宇称-时间对称性约束，并通过第一性原理计算在In2Se3/MnPTe3/In2Se3异质结中进行验证。",
+      "en": "Designing a symmetric ferroelectric/antiferromagnetic/ferroelectric trilayer heterostructure and validating it in In2Se3/MnPTe3/In2Se3 using first-principles calculations."
+    },
+    "main_takeaway": {
+      "zh": "翻转外层铁电极化方向可精确且确定性地反转中间反铁磁层的交错磁性自旋分裂能带，并导致反常霍尔效应信号的同步翻转。",
+      "en": "Reversing the ferroelectric polarization exactly inverts the altermagnetic spin-splitting pattern and flips the anomalous Hall conductivity sign."
+    },
+    "why_it_matters": {
+      "zh": "该方案摆脱了单相多铁材料苛刻的对称性限制，克服了滑动铁电极化微弱的缺点，为电控交错磁性自旋电子学器件提供了通用物理框架。",
+      "en": "It bypasses the strict symmetry constraints of single-phase multiferroics and the weak polarization of sliding mechanisms, offering a versatile framework for electrically programmable altermagnetic spintronics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种通用的三层异质结设计方案，实现了交错磁性自旋态的非易失性铁电翻转，并给出了明确的输运观测信号。",
+        "en": "Proposes a universal trilayer design to achieve nonvolatile ferroelectric control of altermagnetic states with a clear transport signature."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该工作提出了一个关于二维交错磁性电学调控的通用物理机制，并结合第一性原理计算进行了论证，非常符合该期刊对物理概念创新的要求。",
+        "en": "The work proposes a general physical mechanism for electrical control of 2D altermagnetism with DFT validation, fitting the journal's focus on conceptual physics advances."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "ferroelectric switching",
+      "van der Waals heterostructure",
+      "anomalous Hall effect",
+      "spintronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:31:14",
+    "input_scope": "full_pdf_text"
+  }
+}

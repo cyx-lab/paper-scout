@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.31972v1",
+    "title": "Dissipative surface solitons in two-dimensional truncated lattices with linear gain and loss",
+    "authors": [
+      "Changming Huang",
+      "Yan Wang",
+      "Pengcheng Liu",
+      "Qidong Fu",
+      "Liangwei Dong"
+    ],
+    "abstract": "Dissipative solitons constitute a robust class of self-localized nonlinear states sustained by the dynamic balance between nonlinearity and gain-loss, possessing an intrinsic stability that stems from their fundamental attractor nature. When combined with lattice truncation, this balance gives rise to dissipative surface solitons (DSSs), whose existence and stability are jointly dictated by boundary-induced confinement and non-Hermitian dynamics. In two-dimensional truncated lattices with linear gain and loss, surface localization emerges within gap regimes, where families of DSSs bifurcate from linear surface localized gain modes as the nonlinearity increases. Increasing the number of waveguide rows at the interface enriches the diversity of supported surface modes in both linear and nonlinear regimes. Although multiple DSS families with distinct phase configurations may coexist within the same gap, their dynamical stability is strongly phase selective. These insights establish linear gain-loss engineering as a powerful mechanism for controlling nonlinear surface localization and provide practical guidelines for realizing robust nonlinear surface states in gain-loss-tailored photonic platforms.",
+    "categories": [
+      "nlin.PS",
+      "physics.optics"
+    ],
+    "published": "2026-06-30T17:12:50Z",
+    "updated": "2026-06-30T17:12:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31972v1",
+      "pdf_path": "data/pdfs/2026-07-01/2_Dissipative surface solitons in two-dimensional truncated lattices with linear gain and loss__2606.31972v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.051336",
+    "updated_at": "2026-07-01T02:30:56.051284Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/2_Dissipative surface solitons in two-dimensional truncated lattices with linear gain and loss__2606.31972v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31972v1",
+    "pdf_filename": "2_Dissipative surface solitons in two-dimensional truncated lattices with linear gain and loss__2606.31972v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了具有线性增益和损耗的二维截断晶格中耗散表面孤子的形成、分岔及相位选择性稳定性。",
+      "en": "Investigates the formation, bifurcation, and phase-selective stability of dissipative surface solitons in two-dimensional truncated lattices with linear gain and loss."
+    },
+    "problem": {
+      "zh": "探讨几何截断（波导排数）和线性增益-损耗如何共同控制非厄米晶格中二维耗散表面孤子的存在性、空间局域化和动力学稳定性。",
+      "en": "Explores how geometric truncation (number of waveguide rows) and linear gain-loss jointly control the existence, spatial localization, and dynamical stability of 2D dissipative surface solitons in non-Hermitian lattices."
+    },
+    "approach": {
+      "zh": "采用带有复数晶格势的二维非线性薛定谔方程进行建模，通过牛顿迭代法求解孤子解，并利用线性稳定性分析和直接传播模拟验证其稳定性。",
+      "en": "Models the system using a 2D nonlinear Schrödinger equation with a complex lattice potential, solves for soliton states via Newton iteration, and analyzes stability using linear stability analysis and direct propagation simulations."
+    },
+    "main_takeaway": {
+      "zh": "二维耗散表面孤子的稳定性具有强烈的相位选择性，在去聚焦非线性下只有同相孤子是稳定的，而反相和反对称孤子会演化为同相状态。",
+      "en": "The stability of 2D dissipative surface solitons is highly phase-selective; under defocusing nonlinearity, only in-phase solitons are stable, while out-of-phase and antisymmetric states destabilize and evolve into in-phase states."
+    },
+    "why_it_matters": {
+      "zh": "它为在增益-损耗调控的光子学平台中利用几何截断控制非线性表面局域化提供了理论依据和实用指南。",
+      "en": "It provides a theoretical foundation and practical guidelines for controlling nonlinear surface localization using geometric truncation in gain-loss-tailored photonic platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了波导排数和相位配置对二维耗散表面孤子稳定性的具体影响机制。",
+        "en": "Clarifies the specific mechanisms of how waveguide row numbers and phase configurations affect the stability of 2D dissipative surface solitons."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review A",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究关注非厄米光学晶格中的非线性波动力学，非常符合该期刊在光学物理领域的定位。",
+        "en": "The study focuses on nonlinear wave dynamics in non-Hermitian optical lattices, which aligns well with the journal's scope in optical physics."
+      }
+    },
+    "keywords": [
+      "Dissipative surface solitons",
+      "Truncated lattices",
+      "Non-Hermitian optics",
+      "Linear gain and loss",
+      "Phase selectivity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:32:33",
+    "input_scope": "full_pdf_text"
+  }
+}

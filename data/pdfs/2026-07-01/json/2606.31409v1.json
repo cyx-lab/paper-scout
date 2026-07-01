@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2606.31409v1",
+    "title": "Hodge Topology of Semiclassical Transport: A Coordinate-Free Geometric Framework for the Anomalous Hall Effect and Non-Linear Berry Dipole",
+    "authors": [
+      "Zhi-Wei Wang",
+      "Samuel L. Braunstein"
+    ],
+    "abstract": "We establish a coordinate-free differential geometric framework for anomalous transport in topological bands using the Hodge-de Rham decomposition of the Brillouin zone. Standard formulations face mathematical singularities (Dirac strings) when using the quantum Berry connection in bands with non-zero Chern numbers. Applying this decomposition to the Berry curvature 2-form isolates the quantized topological monopole flux from a globally smooth geometric 1-form proxy potential, $\\mathcal{A}$. Substituting this regularized potential into semiclassical transport integrals yields distinct analytical advantages. For linear transverse transport, our cohomological decomposition enables an exact geometric derivation of Haldane's insight via the co-area formula, partitioning the response into a continuous Fermi sea topological background and a localized Fermi surface geometric line integral. For non-linear transport, this globally smooth proxy unifies the geometric description, reproducing the high numerical stability of scalar integration-by-parts techniques directly from its exact sector, accommodating arbitrary Chern numbers. By enforcing the continuous Coulomb-Hodge gauge ($δ\\mathcal{A} = 0$) alongside vanishing harmonic holonomies over fundamental 1-cycles ($\\oint_{γ_i} \\mathcal{A} = 0$), we map the Hodge potential $\\mathcal{A}$ to the Maximally Localized Wannier Function (MLWF) gauge in trivial bands, providing a non-singular computational proxy for topologically obstructed bands. Finally, we analytically demonstrate that solving the Hodge Laplacian for $\\mathcal{A}$ zeroes the macroscopic Brillouin zone average (uniform $\\mathbf{R}=0$ zero-mode) topological divergence, yielding a mathematically consistent covariant formulation that matches the algorithmic robustness of standard methods against discrete $\\mathbf{k}$-grid noise.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "math-ph",
+      "math.DG"
+    ],
+    "published": "2026-06-30T09:36:04Z",
+    "updated": "2026-06-30T09:36:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:berry connection"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2606.31409v1",
+      "pdf_path": "data/pdfs/2026-07-01/3_Hodge Topology of Semiclassical Transport A Coordinate-Free Geometric Framework for the Anomalous Hall Effect and Non-Li__2606.31409v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-01T02:30:56.052780",
+    "updated_at": "2026-07-01T02:30:56.052773Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-01/3_Hodge Topology of Semiclassical Transport A Coordinate-Free Geometric Framework for the Anomalous Hall Effect and Non-Li__2606.31409v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2606.31409v1",
+    "pdf_filename": "3_Hodge Topology of Semiclassical Transport A Coordinate-Free Geometric Framework for the Anomalous Hall Effect and Non-Li__2606.31409v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文建立了一个基于Hodge-de Rham分解的无坐标微分几何框架，用于描述拓扑能带中的半经典输运。",
+      "en": "This paper establishes a coordinate-free differential geometric framework based on the Hodge-de Rham decomposition for semiclassical transport in topological bands."
+    },
+    "problem": {
+      "zh": "传统的拓扑输运几何表述在处理非零陈数能带时，因使用量子贝里联络而引入数学奇异性（狄拉克弦）。",
+      "en": "Traditional geometric formulations of topological transport encounter mathematical singularities (Dirac strings) when using the quantum Berry connection in bands with non-zero Chern numbers."
+    },
+    "approach": {
+      "zh": "直接对贝里曲率二形式进行Hodge-de Rham分解，将拓扑单极子磁通与全局光滑的几何一形式代用势分离。",
+      "en": "Apply the Hodge-de Rham decomposition directly to the Berry curvature 2-form to separate the topological monopole flux from a globally smooth geometric 1-form proxy potential."
+    },
+    "main_takeaway": {
+      "zh": "利用全局光滑的代用势，该框架统一了线性和非线性反常输运的几何描述，且适用于任意陈数。",
+      "en": "By utilizing a globally smooth proxy potential, this framework unifies the geometric description of linear and non-linear anomalous transport for arbitrary Chern numbers."
+    },
+    "why_it_matters": {
+      "zh": "它为拓扑阻碍能带的输运计算提供了一个无奇异性且数值稳定的数学工具，并为推广到三维外尔拓扑提供了途径。",
+      "en": "It provides a singularity-free and numerically stable mathematical tool for transport calculations in topologically obstructed bands, and offers a path to extend to 3D Weyl topology."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一个基于Hodge分解的全新几何框架，解决了拓扑输运计算中的规范奇异性问题。",
+        "en": "Proposes a novel geometric framework based on Hodge decomposition to resolve gauge singularities in topological transport calculations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文深入探讨了凝聚态物理中拓扑输运的数学物理机制，非常符合该期刊的定位。",
+        "en": "The paper deeply explores the mathematical and physical mechanisms of topological transport in condensed matter physics, which fits the journal's scope well."
+      }
+    },
+    "keywords": [
+      "Hodge decomposition",
+      "Berry curvature",
+      "anomalous Hall effect",
+      "Berry dipole",
+      "semiclassical transport"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-01T10:31:35",
+    "input_scope": "full_pdf_text"
+  }
+}

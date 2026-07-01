@@ -1,0 +1,82 @@
+{
+  "run_date": "2026-07-01",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2606.31241v1.json": 1,
+    "2606.31267v1.json": 1,
+    "2606.31409v1.json": 1,
+    "2606.31573v1.json": 1,
+    "2606.31604v1.json": 2,
+    "2606.31775v1.json": 1,
+    "2606.31934v1.json": 1,
+    "2606.31972v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2606.31241v1.json",
+      "status": "ok",
+      "secs": 9.17,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31267v1.json",
+      "status": "ok",
+      "secs": 12.73,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31409v1.json",
+      "status": "ok",
+      "secs": 7.44,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31573v1.json",
+      "status": "ok",
+      "secs": 12.41,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31604v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'invalid_grant', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+      "secs": 2.58,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31775v1.json",
+      "status": "ok",
+      "secs": 10.41,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31934v1.json",
+      "status": "ok",
+      "secs": 11.7,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31972v1.json",
+      "status": "ok",
+      "secs": 20.78,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2606.31604v1.json",
+      "status": "ok",
+      "secs": 7.68,
+      "round": 2,
+      "attempt": 2
+    }
+  ]
+}
