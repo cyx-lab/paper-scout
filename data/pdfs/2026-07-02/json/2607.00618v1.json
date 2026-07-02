@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.00618v1",
+    "title": "Generation of strongly localized skin solitons in non-Hermitian waveguide arrays with the Kerr effect",
+    "authors": [
+      "Chong Hou",
+      "Boris A. Malomed",
+      "Qin Zhou"
+    ],
+    "abstract": "We address two distinct nonlinear propagation problems in nonlinear optical waveguide arrays (WGAs) with non-reciprocal (non-Hermitian) couplings. First, we investigate the light propagation launched by initial excitations of two different types. The single-channel excitation creates stable solitons supported by the interplay of the Kerr nonlinearity and non-Hermitian skin effect (NHSE). In this case, we derive, by means of the symbolic-regression method, an analytical formula defining the soliton existence boundary. For the broad-pulse excitation, we produce perturbed soliton solutions analytically in the continuum approximation, which is accurately corroborated by numerical results. We thus conclude that NHSE accelerates the propagation of the broad soliton towards the boundary, ultimately causing tight localization at the edge, which is a hallmark of the NHSE in the continuum limit. Second, we identify stationary solitons in the system -- specifically, nonlinear bulk modes in the Hermitian regime and near-edge skin solitons in the non-Hermitian one. The nonlinear bulk modes are compressed toward the edge of the WGA under the action of the non-reciprocality, which is the nonlinear extension of NHSE.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-07-01T08:39:05Z",
+    "updated": "2026-07-01T08:39:05Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.00618v1",
+      "pdf_path": "data/pdfs/2026-07-02/2_Generation of strongly localized skin solitons in non-Hermitian waveguide arrays with the Kerr effect__2607.00618v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.457818",
+    "updated_at": "2026-07-02T02:10:31.457812Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/2_Generation of strongly localized skin solitons in non-Hermitian waveguide arrays with the Kerr effect__2607.00618v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.00618v1",
+    "pdf_filename": "2_Generation of strongly localized skin solitons in non-Hermitian waveguide arrays with the Kerr effect__2607.00618v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了非互易光波导阵列中Kerr非线性与非埃尔米特皮肤效应协同作用下的孤子动力学与局域化机制。",
+      "en": "Investigates the soliton dynamics and localization mechanisms driven by the interplay of Kerr nonlinearity and non-Hermitian skin effect in non-reciprocal waveguide arrays."
+    },
+    "problem": {
+      "zh": "探索非埃尔米特皮肤效应与Kerr非线性在不同激发条件下如何共同影响光孤子的产生、传输动力学及稳态模式。",
+      "en": "Explores how the non-Hermitian skin effect and Kerr nonlinearity jointly affect the generation, propagation dynamics, and stationary modes of optical solitons under different excitation conditions."
+    },
+    "approach": {
+      "zh": "基于非线性Hatano-Nelson模型，结合符号回归、连续体近似微扰理论以及数值牛顿-拉夫森方法进行分析。",
+      "en": "Analyzes the nonlinear Hatano-Nelson model using symbolic regression, continuum approximation perturbation theory, and numerical Newton-Raphson methods."
+    },
+    "main_takeaway": {
+      "zh": "非埃尔米特皮肤效应在非线性体制下表现为边界压缩效应，促使非线性体模式向边缘收缩并演化为强局域的“皮肤孤子”。",
+      "en": "The non-Hermitian skin effect acts as a boundary compression mechanism in the nonlinear regime, driving bulk modes to contract toward the edge and evolve into strongly localized skin solitons."
+    },
+    "why_it_matters": {
+      "zh": "将非埃尔米特皮肤效应成功推广至非线性领域，为拓扑激光器和集成光子器件的设计提供了理论指导。",
+      "en": "Successfully extends the non-Hermitian skin effect to the nonlinear regime, providing theoretical guidance for designing topological lasers and integrated photonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了非互易耦合与自聚焦非线性在孤子形成及边界动力学中的竞争与协同机制。",
+        "en": "Clarifies the competitive and cooperative mechanisms between non-reciprocal coupling and self-focusing nonlinearity in soliton formation and boundary dynamics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical and numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究深入探讨了非埃尔米特拓扑物理与非线性晶格动力学，非常符合该期刊的收录范围。",
+        "en": "The study deeply explores non-Hermitian topological physics and nonlinear lattice dynamics, which fits well within the scope of this journal."
+      }
+    },
+    "keywords": [
+      "非埃尔米特皮肤效应 (Non-Hermitian skin effect)",
+      "Kerr非线性 (Kerr nonlinearity)",
+      "Hatano-Nelson模型 (Hatano-Nelson model)",
+      "皮肤孤子 (Skin solitons)",
+      "波导阵列 (Waveguide arrays)"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:11:08",
+    "input_scope": "full_pdf_text"
+  }
+}

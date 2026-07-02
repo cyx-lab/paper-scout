@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2607.00991v1",
+    "title": "Tensor Network Solvers for Ultra-large Tight-binding Hamiltonians: Algorithms and Applications",
+    "authors": [
+      "Tiago V. C. Antão",
+      "Anouar Moustaj",
+      "Yitao Sun",
+      "Jose L. Lado"
+    ],
+    "abstract": "Understanding quantum materials at meso and even macroscopic scales requires tight-binding calculations on system sizes where explicit matrix representations become prohibitively costly. This represents a major bottleneck to rationalize phenomena in moiré and super-moiré heterostructures and quasicrystals. Here, we present a unified tensor-network methodology to solve tight-binding problems at exceptionally large scales, by mapping a system of $N = 2^L$ sites onto a many-body problem of $L$ pseudospin sites, which is subsequently solved with tensor network algorithms. For Hamiltonians with compressible real-space structure, the tensor network bond dimension remains modest, typically of order a few tens, independent of $N$.Tensor network representations of arbitrary hopping functions including long-range, spatially modulated, and twisted-layer couplings are built with quantics tensor cross interpolation, and all physical observables are evaluated entirely with tensor network algebra without explicit matrix storage or diagonalization. We demonstrate applications to spectral functions, momentum-space spectra via the tensor-network quantum Fourier transform, real-space topological invariants, real-time dynamics, correlation induced symmetry breaking with self-consistent mean-field calculations, non-Hermitian phenomena, and excitonic many-body physics. Our methodology enables routinely solving systems with billions of sites, by leveraging the tensor network compressibility of real-space structures, and establishing a flexible framework to study quantum matter at ultra-large length scales. The methodology is implemented in the open-source Julia package TensorBinding.jl.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-01T14:27:32Z",
+    "updated": "2026-07-01T14:27:32Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "quasicrystal:quasicrystal"
+      ],
+      "author_match": false,
+      "rule_score": 7,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.00991v1",
+      "pdf_path": "data/pdfs/2026-07-02/7_Tensor Network Solvers for Ultra-large Tight-binding Hamiltonians Algorithms and Applications__2607.00991v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.456577",
+    "updated_at": "2026-07-02T02:10:31.456570Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/7_Tensor Network Solvers for Ultra-large Tight-binding Hamiltonians Algorithms and Applications__2607.00991v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.00991v1",
+    "pdf_filename": "7_Tensor Network Solvers for Ultra-large Tight-binding Hamiltonians Algorithms and Applications__2607.00991v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出一种基于张量网络的统一框架，用于解决包含数十亿个格点的超大规模紧束缚模型。",
+      "en": "A unified tensor-network framework for solving ultra-large tight-binding models with up to billions of sites."
+    },
+    "problem": {
+      "zh": "传统的紧束缚计算受限于显式矩阵存储和对角化的多项式复杂度，难以处理莫尔超晶格、准晶等需要超大规模实空间模型的系统。",
+      "en": "Conventional tight-binding methods are limited by the polynomial scaling of matrix storage and diagonalization, making ultra-large systems like moiré superlattices and quasicrystals computationally inaccessible."
+    },
+    "approach": {
+      "zh": "将格点映射到伪自旋链，利用矩阵乘积算符（MPO）和量子张量交叉插值（QTCI）技术，结合核多项式法（KPM）在不进行显式对角化的前提下计算物理量。",
+      "en": "Mapping lattice sites to a pseudospin chain and using Matrix Product Operators (MPO) with Quantics Tensor Cross Interpolation (QTCI), combined with the Kernel Polynomial Method (KPM) to evaluate observables without explicit diagonalization."
+    },
+    "main_takeaway": {
+      "zh": "通过利用实空间结构的张量网络可压缩性，该方法可以在普通工作站上处理包含数十亿格点的系统，并计算能带、拓扑、动力学及关联物理。",
+      "en": "By exploiting the tensor-network compressibility of real-space structures, this method enables calculations for systems with billions of sites on standard hardware, covering band structures, topology, dynamics, and correlated physics."
+    },
+    "why_it_matters": {
+      "zh": "它为研究莫尔超莫尔结构、准晶以及大规模激子动力学等新兴凝聚态物理问题提供了一个高效且通用的开源工具包 TensorBinding.jl。",
+      "en": "It provides an efficient and versatile open-source toolkit, TensorBinding.jl, for studying emerging condensed matter problems such as super-moiré structures, quasicrystals, and large-scale excitonic dynamics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "极大地扩展了紧束缚模型的计算规模，并集成了从拓扑到关联电子学的多种功能，具有很强的实用性。",
+        "en": "Significantly extends the computational scale of tight-binding models and integrates diverse functionalities from topology to correlated electronics with high practical utility."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Research",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文详细介绍了算法实现、广泛的应用案例以及开源软件包，非常符合该期刊对计算物理和方法论的定位。",
+        "en": "The paper details algorithmic implementation, extensive use cases, and an open-source package, aligning well with the journal's focus on computational physics and methodology."
+      }
+    },
+    "keywords": [
+      "Tensor Networks",
+      "Tight-binding",
+      "Moiré Superlattices",
+      "Quantics Tensor Cross Interpolation",
+      "Large-scale Simulation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:11:33",
+    "input_scope": "full_pdf_text"
+  }
+}

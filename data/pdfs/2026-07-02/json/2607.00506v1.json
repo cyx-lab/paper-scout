@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2607.00506v1",
+    "title": "Atom-selective spin-polarized transport in a charge-ordered altermagnet",
+    "authors": [
+      "Liu Yang",
+      "Yuan-Yuan Jiang",
+      "Xiao-Yan Guo",
+      "Yi-Dong Liu",
+      "Xian-Zhe Chen",
+      "Wen-Jian Lu",
+      "Yu-Ping Sun",
+      "Ming Li",
+      "Ding-Fu Shao"
+    ],
+    "abstract": "Altermagnets provide a promising platform for spin-polarized transport without net magnetization, but their transport properties are usually discussed in terms of momentum-space spin splitting. Here, using first-principles calculations and quantum transport simulations, we show that the charge-ordered altermagnet $α$-Fe$_2$PO$_5$ exhibits a distinct form of real-space spin selectivity despite weak altermagnetic spin splitting near the Fermi level. The charge order creates inequivalent Fe$^{2+}$ and Fe$^{3+}$ sites within each sublattice, while the puckered C-type antiferromagnetic stacking suppresses inter-sublattice transport. As a result, electron and hole doping activate spin-polarized transport predominantly through Fe$^{3+}$- and Fe$^{2+}$-based channels, respectively. These atom-selective channels carry opposite spin polarizations on the two antiferromagnetic sublattices, giving rise to a globally compensated charge current with hidden Néel spin character. We further propose an all-in-one $α$-Fe$_2$PO$_5$ tunnel junction, where matching or mismatching atom-selective conduction channels yields orders-of-magnitude conductance modulation. Our findings establish a real-space design principle for atomically controlled spin functionality and spintronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-01T06:42:00Z",
+    "updated": "2026-07-01T06:42:00Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.00506v1",
+      "pdf_path": "data/pdfs/2026-07-02/3_Atom-selective spin-polarized transport in a charge-ordered altermagnet__2607.00506v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.458184",
+    "updated_at": "2026-07-02T02:10:31.458175Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/3_Atom-selective spin-polarized transport in a charge-ordered altermagnet__2607.00506v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.00506v1",
+    "pdf_filename": "3_Atom-selective spin-polarized transport in a charge-ordered altermagnet__2607.00506v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了电荷有序交错磁体中由实空间原子选择性通道主导的自旋极化输运机制。",
+      "en": "The study reveals a real-space atom-selective spin-polarized transport mechanism in a charge-ordered altermagnet."
+    },
+    "problem": {
+      "zh": "交错磁体的自旋极化输运通常在动量空间中描述，但在费米能级附近自旋分裂较弱的体系中，如何实现高效的自旋极化输运仍不清楚。",
+      "en": "Spin-polarized transport in altermagnets is typically described in momentum space, but how to achieve efficient spin transport in systems with weak spin splitting near the Fermi level remains unclear."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算与量子输运模拟，研究电荷有序交错磁体Fe2PO5的电子结构与实空间输运通道。",
+      "en": "Combined first-principles calculations and quantum transport simulations to study the electronic structure and real-space transport pathways of the charge-ordered altermagnet Fe2PO5."
+    },
+    "main_takeaway": {
+      "zh": "电子和空穴掺杂分别激活了基于Fe3+和Fe2+的实空间自旋极化输运通道，在全局补偿的电荷流中产生了具有奈尔自旋特征的自旋流。",
+      "en": "Electron and hole doping activate spin-polarized transport predominantly through Fe3+- and Fe2+-based real-space channels, respectively, generating a Néel spin current within a globally compensated charge current."
+    },
+    "why_it_matters": {
+      "zh": "提出了利用实空间原子通道匹配调制电导的新型隧道结器件设计原理，为原子级控制的自旋电子学器件提供了新思路。",
+      "en": "It proposes a design principle for spintronic tunnel junctions based on real-space atomic channel matching, offering new routes for atomically controlled spin functionalities."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了实空间电荷有序和磁性堆叠如何共同决定自旋输运通道，解释了动量空间弱自旋分裂体系中的强自旋极化输运。",
+        "en": "Clarifies how real-space charge order and magnetic stacking cooperatively dictate spin transport pathways, explaining strong spin polarization in systems with weak momentum-space spin splitting."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该工作揭示了交错磁体中新型的自旋输运物理效应并提出了器件概念，非常符合该期刊对物理机制创新的要求。",
+        "en": "The paper addresses fundamental spin transport physics in altermagnets and proposes a new device concept, which fits the journal's focus on physical mechanism innovation."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Spin-polarized transport",
+      "Charge order",
+      "Néel spin current",
+      "Tunnel junction"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:10:58",
+    "input_scope": "full_pdf_text"
+  }
+}

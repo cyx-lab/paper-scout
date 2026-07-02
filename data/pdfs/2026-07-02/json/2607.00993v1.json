@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.00993v1",
+    "title": "Magnon-polaron mediated spin Seebeck effect in altermagnets",
+    "authors": [
+      "Ilia Moghayer",
+      "Ritesh Das",
+      "Yaroslav M. Blanter"
+    ],
+    "abstract": "Altermagnets, distinguished by compensated antiparallel spins yet nondegenerate magnon spectra, bridge the gap between ferromagnets and antiferromagnets. Although several probes such as anisotropic transport and spectroscopic measurements have been proposed to identify altermagnetic order, experimentally accessible transport signatures remain highly desirable. Here, we show that in altermagnets subject to an external magnetic field, the spin Seebeck effect exhibits pronounced directional anisotropy. Specifically, the spin Seebeck coefficient differs significantly along in-plane directions, and this anisotropy increases with field strength. Magnetoelastic interactions further produce resonant peaks whose positions with respect to an applied magnetic field reflect the intrinsic magnon band anisotropy, and provide localized features that enhance the distinguishability of the altermagnetic response. The peaks provide a robust experimental signature of altermagnetic order. Our findings serve as signatures of altermagnetic order while laying the groundwork for their application in spintronic devices.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-01T14:28:41Z",
+    "updated": "2026-07-01T14:28:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.00993v1",
+      "pdf_path": "data/pdfs/2026-07-02/3_Magnon-polaron mediated spin Seebeck effect in altermagnets__2607.00993v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.456532",
+    "updated_at": "2026-07-02T02:10:31.456525Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/3_Magnon-polaron mediated spin Seebeck effect in altermagnets__2607.00993v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.00993v1",
+    "pdf_filename": "3_Magnon-polaron mediated spin Seebeck effect in altermagnets__2607.00993v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出利用磁振子-极化子介导的自旋塞贝克效应的各向异性共振峰来实验识别交错磁体。",
+      "en": "This paper proposes using the anisotropic resonance peaks of magnon-polaron mediated spin Seebeck effect to experimentally identify altermagnets."
+    },
+    "problem": {
+      "zh": "交错磁体由于宏观磁矩为零，其独特的磁序难以通过常规磁学手段或中子散射实验直接证实。",
+      "en": "Due to vanishing net magnetization, the unique magnetic order of altermagnets is difficult to directly confirm using conventional magnetometry or neutron scattering."
+    },
+    "approach": {
+      "zh": "基于交错磁体紧束缚模型，结合磁弹耦合与声子色散，利用玻尔兹曼输运理论计算了磁场下的自旋塞贝克系数。",
+      "en": "Based on a tight-binding model of altermagnets, the authors calculated the spin Seebeck coefficient under a magnetic field using Boltzmann transport theory, incorporating magnetoelastic coupling and phonon dispersions."
+    },
+    "main_takeaway": {
+      "zh": "交错磁体中的自旋塞贝克效应具有强烈的方向各向异性，其磁振子-极化子共振峰在不同方向的磁场下出现在不同的场强位置，这与反铁磁体截然不同。",
+      "en": "The spin Seebeck effect in altermagnets exhibits strong directional anisotropy, where the magnon-polaron resonance peaks appear at different magnetic field strengths along different directions, distinct from antiferromagnets."
+    },
+    "why_it_matters": {
+      "zh": "该工作提供了一种灵敏的输运探测手段来区分交错磁体与反铁磁体（如MnF2），并为设计无漏磁的自旋热电学器件提供了理论基础。",
+      "en": "This work provides a sensitive transport-based probe to distinguish altermagnets from antiferromagnets (such as MnF2) and lays the foundation for designing stray-field-free spin caloritronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种利用磁振子-声子杂化共振峰的各向异性来识别交错磁序的切实可行的实验方案。",
+        "en": "Proposes a feasible experimental scheme to identify altermagnetic order using the anisotropy of magnon-phonon hybridization resonance peaks."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "交错磁体是当前凝聚态物理的热点，该研究为该领域提供了一个通用的、具有高度可操作性的实验探测方案。",
+        "en": "Altermagnetism is a highly active topic in condensed matter physics, and this study provides a general and highly feasible experimental detection scheme."
+      }
+    },
+    "keywords": [
+      "Altermagnets",
+      "Spin Seebeck effect",
+      "Magnon-polarons",
+      "Magnetoelastic coupling",
+      "Spin transport"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:11:43",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2607.01186v1",
+    "title": "Observation of Flat Bands in Type-II Weyl Semimetal TaRhTe$_{4}$",
+    "authors": [
+      "Harry Rankin",
+      "Tyler J. Slade",
+      "Benjamin Schrunk",
+      "Yevhen Kushnirenko",
+      "Andrew Eaton",
+      "K. U. R. R. S. Rathnayaka",
+      "Maxwell Doyle",
+      "Lin-Lin Wang",
+      "Paul C. Canfield",
+      "Adam Kaminski"
+    ],
+    "abstract": "Flat bands have been theoretically predicted for decades but have only recently been realized in quantum materials such as magic-angle twisted bilayer graphene, kagome and Lieb lattices, and rare-earth metal compounds. To date, only twisted layered materials have enabled tuning of flat-band energies near the electronic chemical potential, thereby influencing transport and thermodynamic properties. Here, we report the presence of flat bands near the chemical potential in bulk TaRhTe$_{4}$, a noncentrosymmetric van-der Waals type-II Weyl semimetal. Flat bands are rarely observed in Weyl semimetals, particularly in nonmagnetic bulk systems, and the observed flat bands were not predicted by density functional theory calculations. TaRhTe$_{4}$ therefore provides a platform in which nontrivial topology coexists with flat bands near the Fermi level, as evidenced by our angle-resolved photoemission spectroscopy measurements.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-01T17:19:09Z",
+    "updated": "2026-07-01T17:19:09Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.01186v1",
+      "pdf_path": "data/pdfs/2026-07-02/3_Observation of Flat Bands in Type-II Weyl Semimetal TaRhTe$_{4}$__2607.01186v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.455773",
+    "updated_at": "2026-07-02T02:10:31.455759Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/3_Observation of Flat Bands in Type-II Weyl Semimetal TaRhTe$_{4}$__2607.01186v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.01186v1",
+    "pdf_filename": "3_Observation of Flat Bands in Type-II Weyl Semimetal TaRhTe$_{4}$__2607.01186v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用角分辨光电子能谱在非中心对称的II型外尔半金属TaRhTe4中观测到费米能级附近的平带。",
+      "en": "Observation of flat bands near the Fermi level in the noncentrosymmetric type-II Weyl semimetal TaRhTe4 using ARPES."
+    },
+    "problem": {
+      "zh": "在非磁性体材料外尔半金属中寻找并观测与拓扑态共存的平带结构。",
+      "en": "Finding and observing flat bands that coexist with topological states in nonmagnetic bulk Weyl semimetals."
+    },
+    "approach": {
+      "zh": "结合助熔剂法单晶生长、角分辨光电子能谱（ARPES）测量以及第一性原理（DFT）计算。",
+      "en": "Combining flux-growth of single crystals, angle-resolved photoemission spectroscopy (ARPES), and density functional theory (DFT) calculations."
+    },
+    "main_takeaway": {
+      "zh": "在TaRhTe4的特定表面终止面上实验观测到位于费米能级下方约4 meV的平带，而该平带并未被DFT计算预测。",
+      "en": "Experimentally observed flat bands located approximately 4 meV below the Fermi level on a specific surface termination of TaRhTe4, which were not predicted by DFT."
+    },
+    "why_it_matters": {
+      "zh": "该材料为研究拓扑物性与强关联电子态（平带）在非磁性体材料中的共存与相互作用提供了全新平台。",
+      "en": "This material provides a new platform to study the coexistence and interaction of topological properties and strongly correlated electronic states (flat bands) in a nonmagnetic bulk system."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在非磁性II型外尔半金属体材料中实验观测到未被DFT预测的费米能级附近平带。",
+        "en": "First experimental observation of unpredicted flat bands near the Fermi level in a nonmagnetic bulk type-II Weyl semimetal."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "首次在新型拓扑材料中观测到独特的电子结构（平带与外尔费米子共存），非常符合该期刊对物理学重要进展的要求。",
+        "en": "The first observation of a unique electronic structure (coexistence of flat bands and Weyl fermions) in a novel topological material fits the scope of the journal."
+      }
+    },
+    "keywords": [
+      "TaRhTe4",
+      "Weyl semimetal",
+      "Flat bands",
+      "ARPES"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:12:16",
+    "input_scope": "full_pdf_text"
+  }
+}

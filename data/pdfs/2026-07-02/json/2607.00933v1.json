@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2607.00933v1",
+    "title": "First-principles calculations of spin-split bands in chiral hybrid organic-inorganic perovskites ($R$/$S$-PEA)PbI$_3$ and ($R$/$S$-NEA)PbI$_3$",
+    "authors": [
+      "Tetsuya Furukawa",
+      "Kazushi Nakano",
+      "Youta Suzuki",
+      "Takumi Kaneko",
+      "Ayumi Ishii",
+      "Tetsuaki Itou"
+    ],
+    "abstract": "Chiral hybrid organic-inorganic perovskites provide a promising platform for investigating the physics of chirality-driven spin-split bands because they combine robust molecular chirality with strong spin-orbit coupling from heavy inorganic ions. First-principles calculations including spin-orbit coupling are performed for the one-dimensional chiral perovskites ($R$/$S$-PEA)PbI$_3$ and ($R$/$S$-NEA)PbI$_3$ to compare their spin-split band structures and to identify the factors controlling their differences. In ($R$/$S$-PEA)PbI$_3$, the lowest conduction bands predominantly consist of Pb orbitals, whereas in ($R$/$S$-NEA)PbI$_3$, they are formed by hybridization between Pb orbitals and the lowest unoccupied molecular orbital of NEA. Both compounds exhibit pronounced spin splitting near the valence-band maximum and conduction-band minimum. The effective spin splitting of the edges of the valence bands is stronger in ($R$/$S$-NEA)PbI$_3$, despite similar linear-in-$k$ splitting coefficients near the relevant high-symmetry points. This enhancement originates from larger gaps induced by spin-orbit coupling at high-symmetry points and band (anti)crossings in the multiband structure. For a given molecular handedness, the PEA- and NEA-based compounds exhibit opposite spin textures, consistent with the opposite chiral distortions of the [PbI$_6$]$^{4-}$ octahedra and with the previously observed opposite signs of circular dichroism. Group-theoretical analysis for the nonsymmorphic space group $P2_12_12_1$ further accounts for band sticking, symmetry-enforced degeneracies, and the disappearance of spin polarization at specific Brillouin-zone-boundary points. These results provide a solid foundation for future studies of chirality-dependent electromagnetic responses, including circular dichroism, in chiral hybrid organic-inorganic perovskites.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-01T13:35:56Z",
+    "updated": "2026-07-01T13:35:56Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.00933v1",
+      "pdf_path": "data/pdfs/2026-07-02/3_First-principles calculations of spin-split bands in chiral hybrid organic-inorganic perovskites ($R$$S$-PEA)PbI$_3$ and__2607.00933v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.456700",
+    "updated_at": "2026-07-02T02:10:31.456693Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/3_First-principles calculations of spin-split bands in chiral hybrid organic-inorganic perovskites ($R$$S$-PEA)PbI$_3$ and__2607.00933v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.00933v1",
+    "pdf_filename": "3_First-principles calculations of spin-split bands in chiral hybrid organic-inorganic perovskites ($R$$S$-PEA)PbI$_3$ and__2607.00933v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过第一性原理计算和群论分析，揭示了手性杂化钙钛矿中自旋分裂能带的结构特征及其与结构手性和圆二色性信号的关联。",
+      "en": "This work reveals the spin-split band structures of chiral hybrid perovskites and their correlation with structural chirality and circular dichroism using first-principles calculations and group theory."
+    },
+    "problem": {
+      "zh": "阐明一维手性杂化钙钛矿(R/S-PEA)PbI3和(R/S-NEA)PbI3自旋分裂能带结构的差异及其微观物理机制。",
+      "en": "Clarifying the differences and microscopic mechanisms of spin-split band structures in 1D chiral hybrid perovskites (R/S-PEA)PbI3 and (R/S-NEA)PbI3."
+    },
+    "approach": {
+      "zh": "结合考虑自旋轨道耦合的第一性原理密度泛函理论计算与非共生空间群P212121的群论分析。",
+      "en": "Combining first-principles density functional theory calculations including spin-orbit coupling with group-theoretical analysis of the nonsymmorphic space group P212121."
+    },
+    "main_takeaway": {
+      "zh": "相同手性的PEA和NEA化合物表现出相反的自旋织构，这与无机八面体的相反手性畸变及实验观测到的相反圆二色性信号一致。",
+      "en": "PEA- and NEA-based compounds with the same molecular handedness exhibit opposite spin textures, consistent with the opposite chiral distortions of inorganic octahedra and opposite circular dichroism signs."
+    },
+    "why_it_matters": {
+      "zh": "为理解手性杂化钙钛矿的巨手征光学响应奠定了理论基础，并为设计自旋相关器件提供了新思路。",
+      "en": "It establishes a theoretical foundation for understanding giant chiroptical responses in chiral hybrid perovskites and offers new design principles for spin-dependent devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了分子手性向电子自旋织构传递的结构媒介，并解释了非共生对称性对能带简并的影响。",
+        "en": "It clarifies the structural mediator for chirality transfer from molecules to electronic spin textures and explains the impact of nonsymmorphic symmetry on band degeneracies."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+计算",
+      "en": "Theoretical + Computational"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究包含详尽的第一性原理计算和严谨的群论推导，非常符合该期刊的风格。",
+        "en": "The paper features detailed first-principles calculations and rigorous group-theoretical derivations, which strongly aligns with the journal's scope."
+      }
+    },
+    "keywords": [
+      "chiral perovskites",
+      "spin-orbit coupling",
+      "spin splitting",
+      "first-principles calculations",
+      "group theory"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:11:17",
+    "input_scope": "full_pdf_text"
+  }
+}

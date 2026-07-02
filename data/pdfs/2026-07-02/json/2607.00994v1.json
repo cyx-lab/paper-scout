@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2607.00994v1",
+    "title": "Exceptional points in dissipative coupling polaron-polaritons",
+    "authors": [
+      "A. J. Vega-Carmona",
+      "D. A. Mendoza",
+      "A. Camacho-Guardian",
+      "M. A. Bastarrachea-Magnani"
+    ],
+    "abstract": "Understanding how strong correlations and dissipation combine to shape collective quantum excitations is a central challenge in many-body physics. We investigate the effect of dissipative light-matter coupling on strongly interacting exciton-polaritons in the presence of a biexciton resonance, which gives rise to polaron-polariton quasiparticles. We show that the interplay between many-body correlations and non-Hermitian coupling generates anomalous dispersion relations and exceptional points in the polaron-polariton spectrum. The location and coexistence of exceptional points are controlled by the dissipative coupling and the relative decay rates of the excitonic and photonic constituents, allowing them to emerge across different polaron-polariton branches. These results identify dissipative polaron-polaritons as a versatile platform for exploring non-Hermitian many-body physics with tunable light-matter quasiparticles.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.quant-gas",
+      "quant-ph"
+    ],
+    "published": "2026-07-01T14:29:22Z",
+    "updated": "2026-07-01T14:29:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:polariton",
+        "exciton:exciton-polariton",
+        "exciton:biexciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.00994v1",
+      "pdf_path": "data/pdfs/2026-07-02/3_Exceptional points in dissipative coupling polaron-polaritons__2607.00994v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.456500",
+    "updated_at": "2026-07-02T02:10:31.456493Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/3_Exceptional points in dissipative coupling polaron-polaritons__2607.00994v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.00994v1",
+    "pdf_filename": "3_Exceptional points in dissipative coupling polaron-polaritons__2607.00994v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了耗散光-物质耦合对强相互作用极化子-极化激元的影响，揭示了异常色散与奇异点的涌现与调控机制。",
+      "en": "Investigates the effect of dissipative light-matter coupling on strongly interacting polaron-polaritons, revealing the emergence and control of anomalous dispersions and exceptional points."
+    },
+    "problem": {
+      "zh": "探索多体关联与非厄米耦合如何共同塑造极化子-极化激元的能谱及奇异点。",
+      "en": "Explores how many-body correlations and non-Hermitian coupling jointly shape the spectrum and exceptional points of polaron-polaritons."
+    },
+    "approach": {
+      "zh": "采用有限温度格林函数方法和梯形近似，理论计算存在耗散耦合及衰减时的极化子-极化激元自能与谱函数。",
+      "en": "Uses finite-temperature Green's function formalism and ladder approximation to theoretically calculate the self-energy and spectral functions of polaron-polaritons with dissipative coupling and decay."
+    },
+    "main_takeaway": {
+      "zh": "耗散耦合和相对衰减率可诱导能带吸引、负有效质量以及在不同极化子分支间共存且可调的奇异点。",
+      "en": "Dissipative coupling and relative decay rates induce level attraction, negative effective mass, and tunable, coexisting exceptional points across different polaron-polariton branches."
+    },
+    "why_it_matters": {
+      "zh": "为在可调光-物质准粒子平台中研究非厄米物理与强关联多体物理的交叉提供了新思路。",
+      "en": "Provides new insights for exploring the intersection of non-Hermitian physics and strongly correlated many-body physics in tunable light-matter quasiparticle platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了耗散耦合与多体相互作用共同作用下极化子-极化激元异常色散和奇异点的产生机制。",
+        "en": "Clarifies the mechanism generating anomalous dispersions and exceptional points in polaron-polaritons under the joint effect of dissipative coupling and many-body interactions."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "针对半导体微腔中极化激元多体效应的理论计算，非常符合该期刊的定位。",
+        "en": "Theoretical calculations on many-body effects of polaritons in semiconductor microcavities, highly fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "polaron-polaritons",
+      "exceptional points",
+      "non-Hermitian physics",
+      "dissipative coupling",
+      "many-body correlations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:11:53",
+    "input_scope": "full_pdf_text"
+  }
+}

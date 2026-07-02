@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2607.01098v1",
+    "title": "Room temperature valley coherence in monolayer WSe2 mediated by chiral nematic liquid crystal",
+    "authors": [
+      "Hassan Lamsaadi",
+      "Andrea Balocchi",
+      "Aurélien Cuche",
+      "Hugo Lourenco Martins",
+      "Vincent Paillard",
+      "Sébastien Weber",
+      "Jean Marie Poumirol",
+      "Gonzague Agez"
+    ],
+    "abstract": "Valley coherence refers to a phase-coherent superposition of inequivalent momentum valleys, in which quantum information can be encoded in the relative valley phase. Chiral nematic liquid crystals, by imposing a flip of the spin angular momentum upon light reflection, provide an effective photonic environment for optically coupling excitons of the K and K' valleys in monolayer semiconducting transition-metal dichalcogenides. We experimentally demonstrate that using such liquid crystal as a substrate, it is possible through nearfield interaction to engineer a room temperature mechanism for inducing the intervalley coupling. Our results show that this approach provides a simple and scalable route toward valleytronic functionalities based on controlled coherent emission from valleys with opposite Berry curvature.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-07-01T15:50:47Z",
+    "updated": "2026-07-01T15:50:47Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.01098v1",
+      "pdf_path": "data/pdfs/2026-07-02/6_Room temperature valley coherence in monolayer WSe2 mediated by chiral nematic liquid crystal__2607.01098v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-02T02:10:31.455981",
+    "updated_at": "2026-07-02T02:10:31.455973Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-02/6_Room temperature valley coherence in monolayer WSe2 mediated by chiral nematic liquid crystal__2607.01098v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.01098v1",
+    "pdf_filename": "6_Room temperature valley coherence in monolayer WSe2 mediated by chiral nematic liquid crystal__2607.01098v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过将单层WSe2放置在手性向列相液晶衬底上，在室温下成功实现了由手性布拉格反射介导的谷相干性。",
+      "en": "This paper demonstrates room-temperature valley coherence in monolayer WSe2 mediated by chiral Bragg reflection from a chiral nematic liquid crystal substrate."
+    },
+    "problem": {
+      "zh": "单层过渡金属硫族化合物中的谷相干性在室温下由于快速的退相干和散射过程极难维持，且现有的光子学调控方法通常需要复杂的纳米加工或极低温度。",
+      "en": "Valley coherence in monolayer transition-metal dichalcogenides is extremely difficult to maintain at room temperature due to rapid dephasing and scattering, and existing photonic control methods typically require complex nanofabrication or cryogenic temperatures."
+    },
+    "approach": {
+      "zh": "将单层WSe2转移到手性向列相液晶薄膜上，利用液晶的自发螺旋结构产生圆偏振布拉格反射，通过自旋翻转反射光在近场介导K和K'谷之间的单向光学耦合。",
+      "en": "Transferring monolayer WSe2 onto a chiral nematic liquid crystal thin film to utilize its helical structure for circularly polarized Bragg reflection, which mediates unidirectional optical coupling between K and K' valleys via spin-flip reflection in the near field."
+    },
+    "main_takeaway": {
+      "zh": "在室温下成功观测到单层WSe2约30%的线性偏振光致发光信号，直接证实了室温谷相干性的存在，且偏振方向可通过旋转样品进行控制。",
+      "en": "Successfully observed a ~30% linear polarization component in the photoluminescence of monolayer WSe2 at room temperature, directly demonstrating valley coherence that can be controlled by rotating the sample."
+    },
+    "why_it_matters": {
+      "zh": "该方法无需精细的纳米加工，为室温谷电子学器件的开发提供了一种简单、可扩展且可通过外部刺激（如电场、温度）进行动态调控的新途径。",
+      "en": "This approach bypasses the need for complex nanofabrication, offering a simple, scalable, and dynamically tunable route (via external stimuli like electric fields or temperature) for developing room-temperature valleytronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出并实验验证了一种利用液晶手性光学反馈在室温下诱导二维材料谷相干性的新方案，摆脱了对复杂微纳腔的依赖。",
+        "en": "Proposed and experimentally verified a new scheme to induce room-temperature valley coherence in 2D materials using chiral optical feedback from liquid crystals, bypassing the need for complex microcavities."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "论文展示了二维材料与液晶光子学结合的创新实验结果，适合发表在纳米材料与光子学领域的国际高水平期刊。",
+        "en": "The paper presents innovative experimental results combining 2D materials and liquid crystal photonics, suitable for high-level international journals in nanomaterials and photonics."
+      }
+    },
+    "keywords": [
+      "Valley coherence",
+      "Chiral liquid crystal",
+      "Transition-metal dichalcogenide",
+      "Room temperature valleytronics",
+      "Bragg reflection"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-02T10:12:08",
+    "input_scope": "full_pdf_text"
+  }
+}
