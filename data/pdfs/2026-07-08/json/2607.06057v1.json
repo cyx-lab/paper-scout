@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.06057v1",
+    "title": "Stabilization of Stone-Wales Defects in Metal-supported Graphene",
+    "authors": [
+      "Rob H. Mason",
+      "Manuka M. S. Sinharage",
+      "Hansika I. Sirikumara",
+      "Sabrina Nilufar",
+      "Thushari Jayasekera"
+    ],
+    "abstract": "The characteristics of graphene-metal interfaces play a decisive role in their electronic, optoelectronic, and mechanical applications. Properties such as charge transfer across the interface become particularly significant in the presence of topological defects. The stability of Stone Wales (SW) defects in graphene is governed by the balance between three energy descriptors, the activation energy, formation energy, and restoration energy. By comparing the energy parameters obtained from first-principles density functional theory calculations, we show that SW defect formation is energetically more favorable on metal-supported graphene. Our calculations for SW defects in graphene/Cu(111) and graphene/Al(111) systems indicate only a little dependence of energy profile on the type of metal. The presence of the metal substrate leads to a $\\sim$ 12\\% increase in the formation energy and a $\\sim$ 20\\% reduction in the activation energy, which together favor the formation of Stone Wales defects. Although the restoration energy decreases by about $\\sim$ 35\\% in metal-supported graphene, it remains significantly higher to prevent self-healing. As a result, once formed, the Stone Wales defects are likely to remain stable, suggesting the possibility of terminal SW defect formation in metal-supported graphene.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-07T09:32:51Z",
+    "updated": "2026-07-07T09:32:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06057v1",
+      "pdf_path": "data/pdfs/2026-07-08/2_Stabilization of Stone-Wales Defects in Metal-supported Graphene__2607.06057v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.411261",
+    "updated_at": "2026-07-08T01:43:36.411253Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/2_Stabilization of Stone-Wales Defects in Metal-supported Graphene__2607.06057v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06057v1",
+    "pdf_filename": "2_Stabilization of Stone-Wales Defects in Metal-supported Graphene__2607.06057v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过第一性原理计算表明，金属衬底通过界面电荷转移降低了石墨烯中斯通-瓦尔斯缺陷的形成和活化能垒，从而促进并稳定了该缺陷。",
+      "en": "This study uses first-principles calculations to show that metal substrates stabilize Stone-Wales defects in graphene by reducing their formation and activation energy barriers through interfacial charge transfer."
+    },
+    "problem": {
+      "zh": "研究金属衬底（铝和铜）对石墨烯中斯通-瓦尔斯（SW）缺陷的形成能、活化能和修复能等热力学稳定性的影响。",
+      "en": "Investigating the effects of metal substrates (Al and Cu) on the thermodynamic stability parameters, including formation, activation, and restoration energies, of Stone-Wales (SW) defects in graphene."
+    },
+    "approach": {
+      "zh": "采用基于密度泛函理论（DFT）的第一性原理计算，模拟石墨烯在单侧金属支撑和双侧金属夹心结构中C-C键旋转过程的能量曲线。",
+      "en": "Using first-principles density functional theory (DFT) calculations to simulate the energy profile of C-C bond rotation in metal-supported and metal-sandwiched graphene configurations."
+    },
+    "main_takeaway": {
+      "zh": "金属衬底使石墨烯SW缺陷的活化能降低约20%，虽然修复能也降低了约35%，但仍足够高以阻止缺陷自愈，从而使缺陷在形成后保持稳定。",
+      "en": "Metal substrates reduce the activation energy of SW defects by ~20%; although the restoration energy also decreases by ~35%, it remains high enough to prevent self-healing, ensuring the defects remain stable once formed."
+    },
+    "why_it_matters": {
+      "zh": "该研究揭示了金属-石墨烯界面相互作用对拓扑缺陷稳定性的调控规律，有助于指导高性能石墨烯增强金属基复合材料的设计与制备。",
+      "en": "This work reveals how metal-graphene interface interactions control topological defect stability, which helps guide the design and fabrication of high-performance graphene-reinforced metal matrix composites."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确阐明了金属衬底通过界面电荷转移和晶格畸变稳定石墨烯Stone-Wales缺陷的物理机制。",
+        "en": "It clearly elucidates the physical mechanism of how metal substrates stabilize Stone-Wales defects in graphene through interfacial charge transfer and lattice distortion."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究关注二维材料缺陷与金属界面的电子结构和热力学性质，符合PRB在凝聚态物理和材料物理领域的定位。",
+        "en": "The study focuses on the electronic structure and thermodynamic properties of 2D material defects and metal interfaces, aligning well with PRB's scope in condensed matter and materials physics."
+      }
+    },
+    "keywords": [
+      "Stone-Wales defects",
+      "Graphene",
+      "Metal substrate",
+      "Density Functional Theory",
+      "Charge transfer"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:50:24",
+    "input_scope": "full_pdf_text"
+  }
+}

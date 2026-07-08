@@ -1,0 +1,121 @@
+{
+  "paper_record": {
+    "id": "2607.05962v1",
+    "title": "High temperature ferromagnetism in epitaxial monolayers of Co-doped Fe5GeTe2",
+    "authors": [
+      "Jules Courtin",
+      "Fatima Ibrahim",
+      "Davide Benettin",
+      "Djordje Dosenovic",
+      "Roberto Sant",
+      "Pâmella Vasconcelos Borges Pinho",
+      "Vincent Polewczyk",
+      "Alain Marty",
+      "Isabelle G de Moraes",
+      "Matthieu Jamet",
+      "Denis Jalabert",
+      "Fadi Choueikani",
+      "Philippe Ohresser",
+      "N. B. Brookes",
+      "Hanako Okuno",
+      "Mairbek Chshiev",
+      "Frédéric Bonell"
+    ],
+    "abstract": "Magnetic van der Waals materials have mainly been investigated in their bulk form or as few-layers flakes. Due to the challenges in producing atomically thin films, only a few have been isolated as monolayers, which typically exhibit long-range magnetic order below 150 K. In this work, we use molecular beam epitaxy to synthesize Co-doped Fe5GeTe2, achieving precise control over both thickness and composition. We demonstrate ferromagnetism well above room temperature in multilayer samples and present clear evidence of ferromagnetic ordering in monolayers up to $\\sim$200 K. The changes in Curie temperature and magnetic anisotropy with composition exhibit similar trends in both monolayers and thicker films, indicating that the magnetic properties are primarily governed by intralayer magnetic interactions. Through element-specific X-ray magnetic circular dichroism and density functional theory, we identify the substitution site of Co dopants and reveal the mechanism behind the Curie temperature enhancement induced by Co doping. Our findings suggest that, despite their weak magnetic moment, Co dopants strengthen the magnetic moments on neighboring Fe atoms and enhance the intralayer ferromagnetic exchange interactions.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-07T07:59:30Z",
+    "updated": "2026-07-07T07:59:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.05962v1",
+      "pdf_path": "data/pdfs/2026-07-08/3_High temperature ferromagnetism in epitaxial monolayers of Co-doped Fe5GeTe2__2607.05962v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.411521",
+    "updated_at": "2026-07-08T01:43:36.411514Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/3_High temperature ferromagnetism in epitaxial monolayers of Co-doped Fe5GeTe2__2607.05962v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.05962v1",
+    "pdf_filename": "3_High temperature ferromagnetism in epitaxial monolayers of Co-doped Fe5GeTe2__2607.05962v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过分子束外延制备了钴掺杂的五铁锗碲单层薄膜，并在其中实现了高达约200 K的高温铁磁性。",
+      "en": "Epitaxial monolayers of Co-doped Fe5GeTe2 were synthesized via molecular beam elegance, demonstrating ferromagnetism up to ~200 K."
+    },
+    "problem": {
+      "zh": "单层范德华磁性材料的居里温度通常较低（低于150 K），且原子级薄膜的厚度与成分精确控制制备十分困难。",
+      "en": "Monolayer van der Waals magnets typically exhibit low Curie temperatures (below 150 K), and achieving precise thickness and composition control in atomically thin films is challenging."
+    },
+    "approach": {
+      "zh": "利用分子束外延在Ge(111)衬底上生长单层钴掺杂五铁锗碲，结合X射线磁圆二色性测量与密度泛函理论计算研究其磁性及微观机制。",
+      "en": "Synthesized monolayer Co-doped Fe5GeTe2 on Ge(111) using molecular beam epitaxy, and investigated its magnetic properties and microscopic mechanism using X-ray magnetic circular dichroism and density functional theory."
+    },
+    "main_takeaway": {
+      "zh": "钴掺杂在多层样品中实现了室温以上的铁磁性，在单层中实现了高达约200 K的铁磁序；钴选择性替代Fe1位点，增强了邻近铁原子的磁矩及层内铁磁交换作用。",
+      "en": "Co doping induces ferromagnetism above room temperature in multilayers and up to ~200 K in monolayers; Co selectively substitutes the Fe1 site, enhancing neighboring Fe moments and intralayer ferromagnetic exchange."
+    },
+    "why_it_matters": {
+      "zh": "该研究提供了一种具有易面磁各向异性且转变温度较高、可外延制备的二维范德华磁体，对低维磁性研究和自旋电子学器件应用具有重要意义。",
+      "en": "It provides a scalable, epitaxially grown 2D vdW magnet with easy-plane anisotropy and a high transition temperature, which is highly relevant for low-dimensional magnetism and spintronic applications."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在严格的单层极限下实现了约200 K的高温铁磁性，并阐明了钴掺杂增强铁磁性的微观机制。",
+        "en": "Achieved high-temperature ferromagnetism (~200 K) in the strict monolayer limit for the first time and clarified the microscopic mechanism of Co-doping enhancement."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用Letter格式，结合了高质量的分子束外延生长、先进的同步辐射表征与第一性原理计算，解决了二维磁性领域的关键问题。",
+        "en": "The paper is written in a Letter format, combining high-quality MBE growth, advanced synchrotron characterization, and DFT calculations to address a key problem in 2D magnetism."
+      }
+    },
+    "keywords": [
+      "Fe5GeTe2",
+      "van der Waals magnets",
+      "molecular beam epitaxy",
+      "monolayer ferromagnetism",
+      "XMCD"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:47:48",
+    "input_scope": "full_pdf_text"
+  }
+}

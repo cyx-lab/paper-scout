@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.05754v1",
+    "title": "Magnon-Mediated Superconductivity in a 2D Itinerant Ferromagnet with Weak Easy-plane Magnetic Anisotropy",
+    "authors": [
+      "Vladimir Calvera",
+      "Heqiu Li",
+      "Yijie Wang",
+      "B. Andrei Bernevig",
+      "Andrey V. Chubukov"
+    ],
+    "abstract": "Motivated by recent observations of superconductivity in a quarter-metal state of spin- and valley- polarized graphene multilayers, we investigate pairing within a ferromagnetic phase of a single-valley model of itinerant two-dimensional (2D) electrons with Hubbard-type interaction and no artificial high-energy cutoff. In 2D, the Stoner transition is first-order into a fully-polarized state wherein the only gapless collective excitations are transverse magnons. We find that in a spin-SU(2) symmetric model, this magnon-mediated pairing interaction between equal-spin fermions vanishes at $T=0$. We show that a small easy-plane magnetic anisotropy $Ω_0 \\ll E_F$, where $E_F$ is the Fermi energy, breaks the SU(2) symmetry and generates an attractive interaction for equal-spin $p-$wave pairing. We explicitly derive the corresponding coupling constant $λ_p$ as the scaling function of both the relative strength of the easy-plane anisotropy, $Ω_0/E_F$, and the proximity to the ferromagnetic transition. While $λ_p$ is parametrically small in $Ω_0/E_F$ deep inside the ferromagnetic phase, it becomes enhanced near the ferromagnetic transition, reaching order unity regardless of how small $Ω_0/E_F$ is. This mechanism yields a sizable $T_c$, peaked near the onset of ferromagnetism.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-07T02:25:42Z",
+    "updated": "2026-07-07T02:25:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [],
+      "author_match": true,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.05754v1",
+      "pdf_path": "data/pdfs/2026-07-08/5_Magnon-Mediated Superconductivity in a 2D Itinerant Ferromagnet with Weak Easy-plane Magnetic Anisotropy__2607.05754v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.412188",
+    "updated_at": "2026-07-08T01:43:36.412179Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/5_Magnon-Mediated Superconductivity in a 2D Itinerant Ferromagnet with Weak Easy-plane Magnetic Anisotropy__2607.05754v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.05754v1",
+    "pdf_filename": "5_Magnon-Mediated Superconductivity in a 2D Itinerant Ferromagnet with Weak Easy-plane Magnetic Anisotropy__2607.05754v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，微弱的易面磁各向异性可以打破SU(2)对称性，从而在二维巡游铁磁体中诱导出由自旋波介导的p波超导电性。",
+      "en": "The study shows that a weak easy-plane magnetic anisotropy breaks SU(2) symmetry to enable magnon-mediated p-wave superconductivity in a 2D itinerant ferromagnet."
+    },
+    "problem": {
+      "zh": "在自旋SU(2)对称的二维巡游铁磁体中，同自旋费米子之间由自旋波介导的配对相互作用在零温下会完全消失。",
+      "en": "In a spin-SU(2) symmetric 2D itinerant ferromagnet, the magnon-mediated pairing interaction between equal-spin fermions vanishes at zero temperature."
+    },
+    "approach": {
+      "zh": "引入微弱的易面磁各向异性来打破SU(2)对称性，并计算单能带模型中由双自旋波交换介导的有效电子-电子相互作用及p波配对耦合常数。",
+      "en": "Introduce a weak easy-plane magnetic anisotropy to break the SU(2) symmetry and calculate the effective electron-electron interaction and p-wave coupling constant mediated by two-magnon exchange in a single-band model."
+    },
+    "main_takeaway": {
+      "zh": "易面磁各向异性使自旋波介导的配对相互作用不再为零，且该耦合在接近铁磁相变边界时显著增强，导致超导转变温度在铁磁序转变点附近达到峰值。",
+      "en": "Easy-plane anisotropy prevents the magnon-mediated pairing from vanishing, and the coupling is significantly enhanced near the ferromagnetic transition, peaking the superconducting transition temperature near the onset of ferromagnetism."
+    },
+    "why_it_matters": {
+      "zh": "它为石墨烯多层膜等二维铁磁材料中观察到的超导电性提供了一种无需依赖多能带或少数自旋载流子的新机制。",
+      "en": "It provides a new mechanism for superconductivity observed in 2D ferromagnetic materials like graphene multilayers without relying on multi-band structures or minority spin carriers."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了磁各向异性如何克服二维铁磁体中自旋波配对在零温下消失的理论限制。",
+        "en": "Clarifies how magnetic anisotropy overcomes the theoretical limitation of vanishing magnon-mediated pairing at zero temperature in 2D ferromagnets."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "解决了二维超导领域的一个重要基础理论问题，且与当前石墨烯超导实验紧密相关。",
+        "en": "Resolves an important fundamental theoretical problem in 2D superconductivity and is closely related to current graphene superconductivity experiments."
+      }
+    },
+    "keywords": [
+      "magnon-mediated superconductivity",
+      "itinerant ferromagnetism",
+      "magnetic anisotropy",
+      "p-wave pairing",
+      "two-dimensional systems"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:45:04",
+    "input_scope": "full_pdf_text"
+  }
+}

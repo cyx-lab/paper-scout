@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2607.06053v1",
+    "title": "Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers",
+    "authors": [
+      "Meiyang Yu",
+      "Chen Shen",
+      "Ruiwen Xie",
+      "Jingwei Tao",
+      "Lijun Zhang",
+      "Hongbin Zhang"
+    ],
+    "abstract": "The extension of moire physics to complex oxides offers new ways to manipulate electronic states, but the large oxide moire supercells make systematic first-principles calculations demanding. Here, we combine density functional theory with the E(3)-equivariant deep-learning Hamiltonian framework DeepH-E3 to investigate the twist-angle-dependent electronic structure and optical responses of twisted bilayer SrTiO3. The model is trained on untwisted bilayers with different interlayer-sliding configurations and then applied to commensurate twisted bilayers with twist angles from 8.80 degrees to 53.13 degrees. Compared with the untwisted bilayer, decreasing twist angle systematically flattens the valence bands and leads to nearly dispersionless bands at the smallest angles studied. Based on the predicted Hamiltonians, we evaluate the dielectric response, second-harmonic generation (SHG), shift current, and spin Hall conductivity. The dielectric response and spin Hall conductivity remain close to those of the untwisted bilayer, whereas the nonlinear optical responses are more strongly affected by twisting. SHG is strongly enhanced relative to the weak untwisted response, and the shift current shows a clear twist-angle dependence within the response-calculation range (53.13 degrees-22.62 degrees). These results show that twist engineering can control electronic and optoelectronic responses in oxide moire systems.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-07T09:30:53Z",
+    "updated": "2026-07-07T09:30:53Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:moire",
+        "moire:twist angle",
+        "moire:twist-angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06053v1",
+      "pdf_path": "data/pdfs/2026-07-08/3_Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers__2607.06053v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.411299",
+    "updated_at": "2026-07-08T01:43:36.411291Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/3_Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers__2607.06053v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06053v1",
+    "pdf_filename": "3_Deep-learning Hamiltonian reveals twist-tunable flat bands and nonlinear photocurrents in SrTiO3 moire bilayers__2607.06053v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用深度学习哈密顿量框架，研究了扭角双层钛酸锶中的平带演状及非线性光电流响应。",
+      "en": "Using a deep-learning Hamiltonian framework, this work investigates the twist-angle-dependent flat bands and nonlinear photocurrents in twisted bilayer SrTiO3."
+    },
+    "problem": {
+      "zh": "由于莫尔超胞在小扭角下原子数巨大，传统第一性原理计算难以系统研究扭角过渡金属氧化物双层的电子结构和光学响应。",
+      "en": "The rapid growth of moiré supercells at small twist angles makes systematic first-principles calculations of twisted oxide bilayers computationally prohibitive."
+    },
+    "approach": {
+      "zh": "结合密度泛函理论与E(3)等变深度学习哈密顿量框架（DeepH-E3），在无扭转滑动双层结构上进行训练，并预测大尺寸扭角双层SrTiO3的哈密顿量，进而计算其介电响应、二次谐波产生、位移电流和自旋霍尔电导。",
+      "en": "Combined density functional theory with the E(3)-equivariant deep-learning Hamiltonian framework (DeepH-E3), trained on sliding untwisted bilayers, to predict the Hamiltonians of large twisted bilayer SrTiO3 and evaluate their dielectric, SHG, shift current, and spin Hall responses."
+    },
+    "main_takeaway": {
+      "zh": "减小扭角会系统性地压平双层SrTiO3的价带并在小角度下形成近无色散的平带；同时，扭转显著增强了二次谐波产生，且位移电流表现出强烈的扭角依赖性。",
+      "en": "Decreasing the twist angle systematically flattens the valence bands of bilayer SrTiO3 to form nearly dispersionless bands, while twisting strongly enhances second-harmonic generation and yields a clear twist-angle-dependent shift current."
+    },
+    "why_it_matters": {
+      "zh": "它展示了如何利用机器学习克服大尺度莫尔超胞的计算瓶颈，并证明了扭角工程是调控复杂氧化物非线性光电响应的有效手段。",
+      "en": "It demonstrates how machine learning overcomes computational bottlenecks in large moiré supercells and proves that twist engineering is an effective tool to tune nonlinear optoelectronic responses in complex oxides."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究成功将深度学习哈密顿量方法拓展应用于复杂的过渡金属氧化物莫尔超晶格，并揭示了其独特的非线性光学调控规律。",
+        "en": "This study successfully extends the deep-learning Hamiltonian method to complex transition-metal oxide moiré superlattices and reveals unique tuning of nonlinear optical responses."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该工作结合了前沿的机器学习物理方法与莫尔氧化物这一热门领域，适合发表在物理学顶级期刊上。",
+        "en": "The work combines cutting-edge machine learning for physics with the popular field of moiré oxides, making it suitable for top-tier physics journals."
+      }
+    },
+    "keywords": [
+      "SrTiO3",
+      "moiré bilayer",
+      "deep-learning Hamiltonian",
+      "flat bands",
+      "shift current",
+      "second-harmonic generation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:50:13",
+    "input_scope": "full_pdf_text"
+  }
+}

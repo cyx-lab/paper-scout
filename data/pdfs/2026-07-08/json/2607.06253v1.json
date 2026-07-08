@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2607.06253v1",
+    "title": "Local spin magnetization in itinerant non-collinear magnets: The local spin Berry curvature",
+    "authors": [
+      "Doru Sticlet",
+      "Frédéric Piéchon"
+    ],
+    "abstract": "Conventionally, the local spin magnetization in itinerant magnets is determined from the equilibrium local spin density. Here, we propose a thermodynamic approach in which the local spin magnetization is defined from the response of the system to an infinitesimal external magnetic field. The predictions of the two theories are identical for collinear magnets, but differ qualitatively and quantitatively for non-collinear magnets. In the present thermodynamic approach, the spin coherences determine an alternative distribution of local spin magnetization due to the field-induced deformation of the energy eigenstates. This effect is captured by a Berry-curvature-like contribution reminiscent of orbital magnetization and has several distinct observable consequences. We explore the differences between the conventional and thermodynamic approaches in several test cases.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-07T13:19:14Z",
+    "updated": "2026-07-07T13:19:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06253v1",
+      "pdf_path": "data/pdfs/2026-07-08/3_Local spin magnetization in itinerant non-collinear magnets The local spin Berry curvature__2607.06253v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.410668",
+    "updated_at": "2026-07-08T01:43:36.410660Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/3_Local spin magnetization in itinerant non-collinear magnets The local spin Berry curvature__2607.06253v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06253v1",
+    "pdf_filename": "3_Local spin magnetization in itinerant non-collinear magnets The local spin Berry curvature__2607.06253v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种基于热力学响应的局域自旋磁化强度理论，揭示了非共线磁体中由波函数形变引起的局域自旋贝里曲率贡献。",
+      "en": "Proposes a thermodynamic theory of local spin magnetization, revealing a local spin Berry curvature contribution induced by wave-function deformation in non-collinear magnets."
+    },
+    "problem": {
+      "zh": "传统的局域自旋磁化强度定义基于平衡态自旋密度，无法准确描述非共线磁体中自旋相干性（非对角项）对磁化强度的贡献。",
+      "en": "Conventional local spin magnetization is defined via equilibrium spin density, failing to capture the contribution of spin coherences (off-diagonal terms) in non-collinear magnets."
+    },
+    "approach": {
+      "zh": "将局域自旋磁化强度定义为系统对微弱外磁场的热力学响应，引入自旋贝里曲率项来描述场诱导的波函数形变，并在多种格点模型中进行数值验证。",
+      "en": "Defines local spin magnetization as the thermodynamic response to an external magnetic field, introduces a spin Berry curvature term to describe field-induced wave-function deformation, and validates it using lattice models."
+    },
+    "main_takeaway": {
+      "zh": "在非共线磁体中，热力学磁化强度与传统定义存在定性和定量差异，特别是在能隙中，热力学磁化强度随化学势线性变化，而非保持常数平台。",
+      "en": "In non-collinear magnets, the thermodynamic magnetization qualitatively differs from the conventional one, notably exhibiting a linear variation with the chemical potential inside spectral gaps instead of a flat plateau."
+    },
+    "why_it_matters": {
+      "zh": "统一了局域轨道和自旋磁化的理论框架，并预测了可被自旋极化扫描隧道显微镜等局域探针检测的独特物理效应。",
+      "en": "Unifies the theoretical framework for local orbital and spin magnetization, predicting unique physical effects detectable by local probes like spin-polarized STM."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了非共线磁体中自旋相干性对局域磁化的贡献机制，指出了传统定义的局限性。",
+        "en": "Clarifies the mechanism of how spin coherences contribute to local magnetization in non-collinear magnets, pointing out the limitations of the conventional definition."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "提出了凝聚态物理中关于局域磁化强度的基础性新概念，且具有潜在的实验可观测性。",
+        "en": "Proposes a fundamental new concept regarding local magnetization in condensed matter physics, with potential experimental observability."
+      }
+    },
+    "keywords": [
+      "非共线磁性",
+      "局域自旋磁化",
+      "自旋贝里曲率",
+      "热力学响应",
+      "自旋相干性"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:56:32",
+    "input_scope": "full_pdf_text"
+  }
+}

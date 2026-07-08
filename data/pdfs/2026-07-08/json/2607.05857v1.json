@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2607.05857v1",
+    "title": "Floquet polaritons in optically driven materials",
+    "authors": [
+      "Tsan Huang",
+      "Teng Xiao",
+      "Jiahua Duan",
+      "Haoliang Qian",
+      "Zhiyuan Sun"
+    ],
+    "abstract": "Polaritons are coupled collective modes of light and matter in quantum materials. In modern pump-probe experiments, a pump light pulse may dramatically alter the properties of the polaritons, rendering them Floquet polaritons that can be detected by a probe pulse. We present a practical framework to describe Floquet polaritons in terms of the linear and nonlinear optical properties of the material. The central quantity that yields the spectra of Floquet polaritons is an effective linear optical susceptibility contributed by the pump through nonlinear optical susceptibilities. We apply this method to graphene and show that via its third-order optical nonlinearity, infrared pump leads to Floquet plasmon bands. Notably, near plasmonic band crossings, parametric instability leads to flat bands with unstable modes and exceptional points that closely resemble those of non-Hermitian systems. As a second example, we show that in hexagonal boron nitride pumped by mid-infrared laser, the pump induces Floquet phonon polariton bands via phononic nonlinearity, which can be detected with either far-field or near-field optical technique. Finally, in layered superconductors pumped by THz light polarized along the out-of-plane direction, the Josephson-type optical nonlinearity leads to Floquet Josephson plasmons, which manifest as new peaks in the THz reflectivity of a probe pulse.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-07T05:26:10Z",
+    "updated": "2026-07-07T05:26:10Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.05857v1",
+      "pdf_path": "data/pdfs/2026-07-08/3_Floquet polaritons in optically driven materials__2607.05857v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.411868",
+    "updated_at": "2026-07-08T01:43:36.411861Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/3_Floquet polaritons in optically driven materials__2607.05857v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.05857v1",
+    "pdf_filename": "3_Floquet polaritons in optically driven materials__2607.05857v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究提出了一个利用非线性光学极化率预测光驱动材料中Floquet极化激元光谱的理论框架，并应用于石墨烯、六方氮化硼和分层超导体。",
+      "en": "This work presents a theoretical framework to predict Floquet polariton spectra in optically driven materials using nonlinear optical susceptibilities, applied to graphene, hBN, and layered superconductors."
+    },
+    "problem": {
+      "zh": "如何定量且无人工参数地预测强泵浦光驱动下量子材料中Floquet极化激元的非平衡态色散光谱与不稳定性。",
+      "en": "How to quantitatively predict the non-equilibrium dispersion spectra and instabilities of Floquet polaritons in quantum materials under strong pump drive without artificial parameters."
+    },
+    "approach": {
+      "zh": "基于Keldysh路径积分和经典运动方程，通过材料的非线性光学极化率推导泵浦光修饰的有效线性光学极化率，并结合麦克斯韦方程组求解极化激元传播子。",
+      "en": "Based on Keldysh path integrals and classical equations of motion, the pump-modified effective linear susceptibility is derived via nonlinear optical susceptibilities, and polariton propagators are solved using Maxwell's equations."
+    },
+    "main_takeaway": {
+      "zh": "在强光泵浦下，极化激元能带交叠处会因参数不稳定性产生具有不稳定模式和奇异点的非厄米扁平带，使系统在特定频段表现为增益介质。",
+      "en": "Under strong pumping, parametric instability at polaritonic band crossings leads to non-Hermitian flat bands with unstable modes and exceptional points, rendering the system a gain medium."
+    },
+    "why_it_matters": {
+      "zh": "它为利用超快激光在纳米尺度上调控和放大极化激元（如等离激元、声子极化激元和约瑟夫森等离激元）提供了切实可行的定量理论指导，对非平衡态物理和量子信息器件设计具有重要意义。",
+      "en": "It provides a practical quantitative guide for manipulating and amplifying polaritons (plasmons, phonon polaritons, and Josephson plasmons) at the nanoscale using ultrafast lasers, which is crucial for non-equilibrium physics and quantum devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究建立了一个通用的格林函数框架，将Floquet极化激元与可观测的非线性光学系数直接联系起来，并首次揭示了其非厄米扁平带和参数放大特性。",
+        "en": "This work establishes a general Green's function framework linking Floquet polaritons directly to observable nonlinear optical coefficients, revealing non-Hermitian flat bands and parametric amplification."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提出了凝聚态物理和纳米光子学交叉领域的重要新概念，公式推导严谨，且与当前前沿的超快泵浦-探测实验紧密结合。",
+        "en": "The paper proposes important new concepts at the intersection of condensed matter physics and nanophotonics, with rigorous derivations and close ties to cutting-edge pump-probe experiments."
+      }
+    },
+    "keywords": [
+      "Floquet polaritons",
+      "Nonlinear optics",
+      "Parametric instability",
+      "Graphene plasmons",
+      "Hexagonal boron nitride",
+      "Josephson plasmons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:47:30",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.06077v1",
+    "title": "Breathing k-Gap Events and Instability on Instability in Nonlinear Photonic Time Crystals",
+    "authors": [
+      "Liang Zhang",
+      "Chenhao Pan",
+      "Yiming Pan"
+    ],
+    "abstract": "Photonic time crystals (PTCs) host momentum bandgaps, or k gaps, that enable parametric amplification and lasing of seeded fields. In nonlinear PTCs, Kerr saturation dynamically suppresses the exponential growth, reshaping k-gap amplification into an active, spatially homogeneous k gap soliton train. Here, we show that a localized perturbation on this unstable background then nucleates a transient spatiotemporal excitation: the breathing k gap event. Unlike Peregrine breathers emerging from modulational instability on a planewave background, this event extracts energy from competing host k gap solitons and remains sustained by their interaction. We identify this process as an instability on instability mechanism intrinsic to nonlinear k gap dynamics. The event is robust against noise and disorder, and can be deterministically reshaped into collective breathing patterns by periodic and phase engineered seeding. These results establish k gap engineering as a route to generating and controlling extreme spatiotemporal waves in photonic time varying media.",
+    "categories": [
+      "physics.optics",
+      "nlin.PS"
+    ],
+    "published": "2026-07-07T09:47:08Z",
+    "updated": "2026-07-07T09:47:08Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06077v1",
+      "pdf_path": "data/pdfs/2026-07-08/2_Breathing k-Gap Events and Instability on Instability in Nonlinear Photonic Time Crystals__2607.06077v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.411221",
+    "updated_at": "2026-07-08T01:43:36.411211Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/2_Breathing k-Gap Events and Instability on Instability in Nonlinear Photonic Time Crystals__2607.06077v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06077v1",
+    "pdf_filename": "2_Breathing k-Gap Events and Instability on Instability in Nonlinear Photonic Time Crystals__2607.06077v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了非线性光子时间晶体中由局部扰动触发的“不稳定性上的不稳定性”机制，并实现了对呼吸动量带隙事件的控制。",
+      "en": "This work studies the 'instability on instability' mechanism triggered by local perturbations in nonlinear photonic time crystals and demonstrates the control of breathing k-gap events."
+    },
+    "problem": {
+      "zh": "探讨在缺乏空间调制和完整时空带隙的纯时间调制介质（光子时间晶体）中，能否产生并控制局域的非线性瞬态波事件。",
+      "en": "Investigating whether localized nonlinear transient wave events can be generated and controlled in purely time-varying media (photonic time crystals) that lack spatial modulation and a full spatiotemporal bandgap."
+    },
+    "approach": {
+      "zh": "采用一维非线性耦合波方程进行理论建模与数值模拟，在由克尔饱和稳定的均匀动量带隙孤子背景上引入局部扰动。",
+      "en": "Using theoretical modeling and numerical simulations of 1D nonlinear coupled-mode equations to introduce local perturbations onto a homogeneous k-gap soliton background stabilized by Kerr saturation."
+    },
+    "main_takeaway": {
+      "zh": "局部扰动会破坏动量带隙孤子背景的均匀性，通过“不稳定性上的不稳定性”机制激发出瞬态的呼吸动量带隙事件，且其演化可通过注入种子的振幅和相位进行调控。",
+      "en": "Local perturbations disrupt the homogeneity of the k-gap soliton background, nucleating transient breathing k-gap events via an 'instability on instability' mechanism that can be controlled by the seed's amplitude and phase."
+    },
+    "why_it_matters": {
+      "zh": "它为在时间调制介质中产生和控制极端时空波开辟了新途径，对微波电路、声学和超材料等平台具有潜在应用价值。",
+      "en": "It opens a new route to generating and controlling extreme spatiotemporal waves in time-varying media, with potential applications in microwave circuits, acoustics, and metamaterials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "揭示了光子时间晶体中双重不稳定性叠加导致局域呼吸事件的物理机制，并展示了主动调控方法。",
+        "en": "Reveals the physical mechanism of localized breathing events induced by double instability superposition in photonic time crystals and demonstrates active control methods."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文探讨了光子时间晶体中新颖的非线性物理机制，非常适合该期刊对基础物理突破的要求。",
+        "en": "The paper explores novel nonlinear physical mechanisms in photonic time crystals, which fits the journal's criteria for fundamental physics breakthroughs."
+      }
+    },
+    "keywords": [
+      "Photonic time crystals",
+      "Momentum bandgap",
+      "Breathers",
+      "Nonlinear optics",
+      "Instability"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:52:24",
+    "input_scope": "full_pdf_text"
+  }
+}

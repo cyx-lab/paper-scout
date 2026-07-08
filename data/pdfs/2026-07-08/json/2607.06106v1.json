@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.06106v1",
+    "title": "Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice",
+    "authors": [
+      "Abhigya Rangari",
+      "Manna Paul",
+      "Sayandip Ghosh"
+    ],
+    "abstract": "Altermagnets, characterized by spin-split electronic bands with compensated magnetic moments, have emerged as a new class of magnetic materials garnering attention in recent years. Here, using a minimal one-band Hubbard model, we show that the checkerboard lattice serves as a natural platform for altermagnetism for electrons. The instability towards altermagnetic order is denoted by diverging altermagnetic susceptibility at weak-coupling. Carrying out mean-field treatment of the Hubbard repulsion, we show phase transitions from the nonmagnetic to altermagnetic semimetal and then to altermagnetic insulating phase, allowing clear identification of spin-split states. We then examine magnetic excitations in the altermagnetic phases using a random-phase approximation treatment of the dynamical spin susceptibility. The altermagnetic order is found to be stable against spin-fluctuations with the excitation spectra showing well-defined magnon excitations, which decay into single-particle excitations with decreasing interaction strength. Remarkably, the magnetic excitations exhibit strong dependence on both chirality and direction, showing an alternating chirality splitting, similar to the alternating spin splitting of the electronic bands, which serves as a salient feature of altermagnetism.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-07T10:16:45Z",
+    "updated": "2026-07-07T10:16:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06106v1",
+      "pdf_path": "data/pdfs/2026-07-08/3_Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice__2607.06106v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.411185",
+    "updated_at": "2026-07-08T01:43:36.411178Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/3_Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice__2607.06106v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06106v1",
+    "pdf_filename": "3_Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice__2607.06106v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文利用棋盘格点阵上的单能带Hubbard模型，研究了巡游电子交错磁性的产生机制及其特有的手性自旋波激发。",
+      "en": "This paper investigates the origin of itinerant altermagnetism and its characteristic chiral spin-wave excitations using a single-band Hubbard model on a checkerboard lattice."
+    },
+    "problem": {
+      "zh": "阐明巡游电子系统中交错磁性态的微观起源，以及其特有的手性磁振子分裂的物理机制。",
+      "en": "Clarifying the microscopic origin of the altermagnetic state in itinerant electron systems and the physical mechanism behind its characteristic chiral magnon splitting."
+    },
+    "approach": {
+      "zh": "采用二维棋盘格点阵上的单能带Hubbard模型，结合自洽哈特里-福克平均场理论计算相图与能带分裂，并利用随机相位近似（RPA）计算动力学自旋易受率以研究磁激发谱。",
+      "en": "Employing a single-band Hubbard model on a 2D checkerboard lattice, using self-consistent Hartree-Fock mean-field theory to calculate phase transitions and band splitting, and random phase approximation (RPA) to obtain the dynamical spin susceptibility for magnetic excitations."
+    },
+    "main_takeaway": {
+      "zh": "棋盘格点阵是实现巡游电子交错磁性的天然平台，其磁激发谱展现出与电子能带自旋分裂相对应的交替手性分裂特征，且该分裂在中间到强耦合区域非常显著。",
+      "en": "The checkerboard lattice serves as a natural platform for itinerant altermagnetism, where the magnetic excitation spectrum exhibits alternating chirality splitting that corresponds to the spin splitting of the electronic bands, which is prominent in the intermediate-to-strong coupling regimes."
+    },
+    "why_it_matters": {
+      "zh": "它为理解交错磁性中的手性磁振子分裂提供了一个极简的微观电子模型，无需引入复杂的自旋轨道耦合或不切实际的长程自旋相互作用，对自旋电子学器件设计具有指导意义。",
+      "en": "It provides a minimal microscopic electronic model to understand chiral magnon splitting in altermagnets without invoking complex spin-orbit coupling or unrealistic long-range spin interactions, offering insights for spintronic device design."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究成功将棋盘格点阵的几何对称性与Hubbard模型的电子关联相结合，清晰阐明了交错磁性及手性自旋分裂的微观物理图像。",
+        "en": "The study successfully combines the geometric symmetry of the checkerboard lattice with electronic correlations in the Hubbard model, clearly clarifying the microscopic physical picture of altermagnetism and chiral spin splitting."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文关注凝聚态物理中强关联电子系统与新型磁性材料的理论计算，非常符合Physical Review B的定位。",
+        "en": "The paper focuses on theoretical calculations of strongly correlated electron systems and novel magnetic materials in condensed matter physics, which aligns well with the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "checkerboard lattice",
+      "Hubbard model",
+      "chiral magnons",
+      "spin susceptibility"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:54:25",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.06406v1",
+    "title": "Bright solitons in hybrid-dispersion photonic crystal microresonators",
+    "authors": [
+      "Alexander E. Ulanov",
+      "Lukas Bengel",
+      "Bastian Ruhnke",
+      "Alexandra Sakharova",
+      "Tobias Herr"
+    ],
+    "abstract": "Bright dissipative Kerr solitons in optical microresonators provide chip-scale sources of ultrashort pulses and frequency combs. Their properties are defined by the cavity dispersion for which fundamentally conflicting requirements exist: short pulses and broadband spectra require weak dispersion, whereas strong dispersion is associated with predictable dynamics. Here, we resolve this conflict by introducing a localized strong-dispersion section spanning several modes around the pump resonance within an otherwise weakly dispersive system. We implement this hybrid-dispersion scheme in a photonic crystal microresonator and reveal a new soliton attractor of backward-propagating solitons, accessible at low pump power in a thermally stable manner within the blue-detuned regime. The conflicting requirements for broadband spectra and low-noise single-soliton formation are reconciled, even in microwave-repetition-rate resonators, which otherwise are prone to uncontrollable multi-soliton formation. These results highlight the potential to achieve previously incompatible characteristics in nonlinear photonic systems through hybrid-dispersion attractor shaping.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-07-07T15:35:43Z",
+    "updated": "2026-07-07T15:35:43Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06406v1",
+      "pdf_path": "data/pdfs/2026-07-08/2_Bright solitons in hybrid-dispersion photonic crystal microresonators__2607.06406v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-08T01:43:36.410272",
+    "updated_at": "2026-07-08T01:43:36.410264Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-08/2_Bright solitons in hybrid-dispersion photonic crystal microresonators__2607.06406v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06406v1",
+    "pdf_filename": "2_Bright solitons in hybrid-dispersion photonic crystal microresonators__2607.06406v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出并实现了一种混合色散光子晶体微腔，通过在全局弱色散中引入局部强色散，实现了蓝失谐下热稳定的单孤子产生。",
+      "en": "This paper introduces and demonstrates a hybrid-dispersion photonic crystal microresonator that reconciles conflicting dispersion requirements to achieve thermally stable, blue-detuned single-soliton generation."
+    },
+    "problem": {
+      "zh": "微腔光频梳设计中存在色散要求的冲突：宽带光谱需要弱色散，而可预测的单孤子激发和低噪声振荡需要强色散，这在微波重频微腔中尤为严重。",
+      "en": "Microresonator design faces a conflict where broadband spectra require weak dispersion, whereas predictable single-soliton initiation requires strong dispersion, a challenge particularly acute in microwave-repetition-rate resonators."
+    },
+    "approach": {
+      "zh": "在硅纳光子晶体微腔中引入混合色散设计，即在全局弱色散的系统里，在泵浦模式附近引入跨越数个模式的局部强色散区域，并通过数值模拟、分岔分析与实验进行验证。",
+      "en": "Introducing a hybrid-dispersion scheme in a silicon nitride photonic crystal microresonator, combining globally weak dispersion with a localized strong-dispersion section around the pump resonance, validated by simulations, bifurcation analysis, and experiments."
+    },
+    "main_takeaway": {
+      "zh": "混合色散设计产生了一种新的反向传播孤子吸引子，允许在蓝失谐区域以低泵浦功率、无“孤子台阶”且热稳定的方式直接激发单孤子。",
+      "en": "The hybrid-dispersion design creates a new attractor of backward-propagating solitons, enabling direct, step-free, and thermally stable single-soliton generation in the blue-detuned regime at low pump power."
+    },
+    "why_it_matters": {
+      "zh": "它成功解耦了孤子激发与最终宽带状态对色散的要求，为在微波重复频率微腔中产生低噪声、宽带单孤子光频梳提供了一条实用途径。",
+      "en": "It successfully decouples the dispersion requirements for soliton initiation and the final broadband state, providing a practical route to low-noise, broadband single-soliton frequency combs in microwave-repetition-rate microresonators."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次提出并实验证实了混合色散微腔概念，解决了宽带孤子产生与稳定单孤子激发之间的长期冲突。",
+        "en": "First to propose and experimentally demonstrate the hybrid-dispersion microresonator concept, resolving the long-standing conflict between broadband soliton generation and stable single-soliton initiation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作展示了集成光子学和非线性光学领域的重大概念突破，且实验结果非常完整。",
+        "en": "The work demonstrates a major conceptual breakthrough in integrated photonics and nonlinear optics, supported by comprehensive experimental results."
+      }
+    },
+    "keywords": [
+      "hybrid dispersion",
+      "photonic crystal microresonator",
+      "dissipative Kerr solitons",
+      "frequency combs",
+      "blue-detuned pumping"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-08T09:56:42",
+    "input_scope": "full_pdf_text"
+  }
+}
