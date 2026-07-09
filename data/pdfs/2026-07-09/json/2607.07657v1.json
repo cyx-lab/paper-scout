@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.07657v1",
+    "title": "Predicting Multi-Order Magnetic Polariton Resonances for Radiative Properties Tailoring by Distributed Circuit Model",
+    "authors": [
+      "Hangjie Li",
+      "Junming Zhao"
+    ],
+    "abstract": "Surface plasmon polaritons (SPPs) and magnetic polaritons (MPs) are fundamental resonance modes that are widely used to tailor the thermal radiation properties of micro/nanostructured metamaterials. Lumped circuit models (LCMs) are usually constructed empirically to describe the MP resonance conditions, and different LCMs have to be constructed for different orders of MPs, but these are difficult to be built for high-order MP modes due to the complex electromagnetic field distribution. This work proposes a new type of circuit model, distributed circuit model (DCM), to describe and predict multi-order MP resonances inside the structure based on the minimum total impedance condition. This allows both fundamental and high-order MP resonances to be predicted with a unified circuit, significantly simplifying the analysis of high-order MPs. More importantly, the DCM shares a similar and clear physical picture as the LCM for describing MPs. The MP resonance conditions for four typical structures are derived. Theoretical predictions based on DCMs are compared with and validated by rigorous numerical simulations. This study deepens the understanding and facilitates the design of MP-based thermal radiation metamaterials.",
+    "categories": [
+      "physics.optics",
+      "physics.app-ph"
+    ],
+    "published": "2026-07-08T17:13:54Z",
+    "updated": "2026-07-08T17:13:54Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.07657v1",
+      "pdf_path": "data/pdfs/2026-07-09/3_Predicting Multi-Order Magnetic Polariton Resonances for Radiative Properties Tailoring by Distributed Circuit Model__2607.07657v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-09T01:54:07.784173",
+    "updated_at": "2026-07-09T01:54:07.784165Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-09/3_Predicting Multi-Order Magnetic Polariton Resonances for Radiative Properties Tailoring by Distributed Circuit Model__2607.07657v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.07657v1",
+    "pdf_filename": "3_Predicting Multi-Order Magnetic Polariton Resonances for Radiative Properties Tailoring by Distributed Circuit Model__2607.07657v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种用于预测微纳超材料中多阶磁极化激元共振的分布式电路模型。",
+      "en": "This paper proposes a distributed circuit model to predict multi-order magnetic polariton resonances in micro/nanostructured metamaterials."
+    },
+    "problem": {
+      "zh": "传统的集总电路模型难以预测高阶磁极化激元共振，且需要针对不同阶数构建不同的复杂电路。",
+      "en": "Traditional lumped circuit models struggle to predict high-order magnetic polariton resonances and require constructing different complex circuits for different modes."
+    },
+    "approach": {
+      "zh": "基于最小总阻抗条件建立分布式电路模型，将传输线阻抗与磁极化激元的物理特性相结合，推导出统一的共振条件。",
+      "en": "Developing a distributed circuit model based on the minimum total impedance condition, combining transmission line impedance with the physical properties of magnetic polaritons to derive unified resonance conditions."
+    },
+    "main_takeaway": {
+      "zh": "分布式电路模型能够用单一的统一电路同时预测基阶和高阶磁极化激元共振，且仅需一个等效电流深度作为自由参数。",
+      "en": "The distributed circuit model can predict both fundamental and high-order magnetic polariton resonances using a single unified circuit with only one free parameter (equivalent current depth)."
+    },
+    "why_it_matters": {
+      "zh": "该模型简化了高阶磁极化激元的分析，为设计具有特定热辐射特性的超材料器件提供了快速预测工具。",
+      "en": "This model simplifies the analysis of high-order magnetic polaritons, providing a fast prediction tool for designing metamaterial devices with specific thermal radiative properties."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了分布式电路模型，解决了传统集总电路模型无法用统一电路预测多阶共振的问题。",
+        "en": "Proposed a distributed circuit model, solving the limitation of traditional lumped circuit models in predicting multi-order resonances with a unified circuit."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "International Journal of Heat and Mass Transfer",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文主题属于微纳尺度辐射传热与热物性调控，是该期刊的核心征稿方向。",
+        "en": "The topic falls under micro/nanoscale radiative heat transfer and thermal properties control, which is a core area of this journal."
+      }
+    },
+    "keywords": [
+      "Magnetic polaritons",
+      "Distributed circuit model",
+      "Thermal radiation properties",
+      "Metamaterials",
+      "Resonance frequency"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-09T09:55:52",
+    "input_scope": "full_pdf_text"
+  }
+}

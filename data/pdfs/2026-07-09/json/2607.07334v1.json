@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2607.07334v1",
+    "title": "Spin-polarized electron transport for the altermagnet CrSb",
+    "authors": [
+      "V. D. Esin",
+      "D. Yu. Kazmin",
+      "A. V. Timonina",
+      "N. N. Kolesnikov",
+      "E. V. Deviatov"
+    ],
+    "abstract": "We experimentally investigate spin-polarized electron transport for the centrosymmetric altermagnet CrSb, which is known to reveal both altermagnetic and topological features. We demonstrate pronounced first-harmonic anomalous and second-harmonic non-linear Hall effects for a single-crystal CrSb flake with ferromagnetic nickel contacts, while both effects can not be seen for the reference samples with non-magnetic gold ones. For the anomalous Hall effect, we demonstrate bow-tie hysteresis loop in Hall voltage, which is usually ascribed to surface spin textures in magnetic materials. The slope of the Hall curve changes a sign for two orientations of the Hall-bar contact configuration for the same sample, i.e. for the same sign of the charge carriers. We interpret the observed sign inversion and bow-tie hysteresis as the joint effect of the alternating bulk spin splitting and spin-polarized topological surface states in CrSb. The pronounced non-linear Hall effect with hysteresis in magnetic field confirms finite Berry curvature dipole under injection of spin-polarized electrons, i.e. the topological features for the altermagnetic candidate CrSb.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-08T12:25:21Z",
+    "updated": "2026-07-08T12:25:21Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.07334v1",
+      "pdf_path": "data/pdfs/2026-07-09/6_Spin-polarized electron transport for the altermagnet CrSb__2607.07334v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-09T01:54:07.785465",
+    "updated_at": "2026-07-09T01:54:07.785457Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-09/6_Spin-polarized electron transport for the altermagnet CrSb__2607.07334v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.07334v1",
+    "pdf_filename": "6_Spin-polarized electron transport for the altermagnet CrSb__2607.07334v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "实验证明了自旋极化电流注入能在中心对称超磁体CrSb中诱导反常霍尔效应和非线性霍尔效应。",
+      "en": "Experimental demonstration of spin-polarized current injection inducing anomalous and non-linear Hall effects in the centrosymmetric altermagnet CrSb."
+    },
+    "problem": {
+      "zh": "在缺乏强自旋轨道耦合的中心对称超磁体CrSb中，如何实现并观测通常被禁止的反常霍尔效应和非线性霍尔效应。",
+      "en": "How to realize and observe the anomalous and non-linear Hall effects, which are theoretically prohibited, in the centrosymmetric altermagnet CrSb lacking strong spin-orbit coupling."
+    },
+    "approach": {
+      "zh": "使用铁磁镍电极向CrSb单晶薄片注入自旋极化电流，并在极低温下测量一阶反常霍尔电压和二阶非线性霍尔电压，同时以非磁性金电极作为对比。",
+      "en": "Injecting spin-polarized current into CrSb single-crystal flakes using ferromagnetic nickel contacts, and measuring the first-harmonic anomalous Hall and second-harmonic non-linear Hall voltages at ultralow temperatures, using non-magnetic gold contacts as a reference."
+    },
+    "main_takeaway": {
+      "zh": "仅在自旋极化电流注入下才能在CrSb中观测到明显的反常霍尔和非线性霍尔效应，这源于体相超磁自旋分裂与拓扑表面态的共同作用。",
+      "en": "Pronounced anomalous and non-linear Hall effects are observed in CrSb only under spin-polarized current injection, originating from the joint effect of bulk altermagnetic spin splitting and topological surface states."
+    },
+    "why_it_matters": {
+      "zh": "它展示了利用自旋注入调控和激活无自旋轨道耦合中心对称材料中拓扑与超磁输运性质的新途径，对自旋电子学器件具有重要意义。",
+      "en": "It demonstrates a new route to control and activate topological and altermagnetic transport properties in centrosymmetric materials without spin-orbit coupling, which is important for spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "揭示了自旋极化注入与超磁体能带及拓扑表面态相互作用产生霍尔响应的物理机制。",
+        "en": "It reveals the physical mechanism of generating Hall responses through the interaction of spin-polarized injection with altermagnetic bands and topological surface states."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究关注凝聚态物理中的新型超磁材料输运性质，符合该期刊的收录范围。",
+        "en": "The study focuses on the transport properties of novel altermagnetic materials in condensed matter physics, which fits the scope of the journal."
+      }
+    },
+    "keywords": [
+      "CrSb",
+      "Altermagnetism",
+      "Anomalous Hall effect",
+      "Nonlinear Hall effect",
+      "Spin injection"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-09T09:54:54",
+    "input_scope": "full_pdf_text"
+  }
+}

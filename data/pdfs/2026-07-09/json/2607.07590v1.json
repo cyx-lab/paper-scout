@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2607.07590v1",
+    "title": "Unveiling the Spin-Valley Structure of Dipolar Exciton Ladders in R-stacked WSe$_2$/WS$_2$ Moiré Heterobilayers",
+    "authors": [
+      "Byeong Wook Cho",
+      "Tatyana V. Ivanova",
+      "Zhe Li",
+      "Takashi Taniguchi",
+      "Kenji Watanabe",
+      "Brian D. Gerardot",
+      "Mauro Brotons-Gisbert"
+    ],
+    "abstract": "Localized interlayer excitons in moiré heterobilayers can form dipolar exciton ladders, yet their internal spin-valley structure remains unresolved. Here, we use helicity-resolved magneto-photoluminescence to identify the microscopic origin of the ladder in R-stacked WSe$_2$/WS$_2$ at charge neutrality and one-electron filling of the moiré lattice. At charge neutrality, the first two emission peaks correspond to a spin-triplet interlayer exciton and a triplet-triplet two-exciton state separated by 38 meV, reflecting the on-site dipolar interaction. The opposite Zeeman response of the apparent third rung of the ladder rules out its assignment as a spin-conserving three-exciton state and instead identifies it as a triplet-singlet two-exciton configuration with a 22 meV offset set by the WS$_2$ conduction-band spin splitting. At one-electron filling, the correlated electronic background gives rise to charged one- and two-exciton states and intervalley/intravalley two-exciton configurations, while reducing the effective exciton-exciton interaction. Our results establish a spin-valley-resolved picture of dipolar exciton ladders beyond simple occupation-number physics in moiré heterobilayers.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-08T16:12:37Z",
+    "updated": "2026-07-08T16:12:37Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:interlayer exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.07590v1",
+      "pdf_path": "data/pdfs/2026-07-09/3_Unveiling the Spin-Valley Structure of Dipolar Exciton Ladders in R-stacked WSe$_2$WS$_2$ Moiré Heterobilayers__2607.07590v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-09T01:54:07.784640",
+    "updated_at": "2026-07-09T01:54:07.784632Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-09/3_Unveiling the Spin-Valley Structure of Dipolar Exciton Ladders in R-stacked WSe$_2$WS$_2$ Moiré Heterobilayers__2607.07590v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.07590v1",
+    "pdf_filename": "3_Unveiling the Spin-Valley Structure of Dipolar Exciton Ladders in R-stacked WSe$_2$WS$_2$ Moiré Heterobilayers__2607.07590v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究利用偏振解析磁光致发光光谱，首次揭示了R叠层WSe2/WS2莫尔异质双层中偶极激子梯度的微观自旋-谷结构及其与关联电子背景的相互作用。",
+      "en": "This study utilizes helicity-resolved magneto-photoluminescence to unveil the microscopic spin-valley structure of dipolar exciton ladders and their interactions with a correlated electronic background in R-stacked WSe2/WS2 moiré heterobilayers."
+    },
+    "problem": {
+      "zh": "莫尔异质双层中局域层间激子形成的偶极激子梯度，其内部的自旋-谷结构以及在关联电子背景下的演化机制此前尚未明确。",
+      "en": "The internal spin-valley structure of dipolar exciton ladders formed by localized interlayer excitons in moiré heterobilayers, and their evolution under a correlated electronic background, remained unresolved."
+    },
+    "approach": {
+      "zh": "在电中性和单电子填充状态下，利用偏振解析的低温磁光致发光光谱，测量不同激子密度和磁场下层间激子的发光特征与g因子。",
+      "en": "Using helicity-resolved low-temperature magneto-photoluminescence spectroscopy at charge neutrality and one-electron filling to measure the emission characteristics and g-factors of interlayer excitons under varying exciton densities and magnetic fields."
+    },
+    "main_takeaway": {
+      "zh": "偶极激子梯度并非简单的无自旋多激子态，而是由自旋三重态单激子、三重态-三重态双激子以及受自旋分裂能带调控的三重态-单重态双激子态构成；单电子填充会引入带电激子态并屏蔽激子间的偶极排斥力。",
+      "en": "The dipolar exciton ladder is not a simple sequence of spinless multi-exciton states, but consists of a spin-triplet single exciton, a triplet-triplet two-exciton state, and a triplet-singlet two-exciton state governed by spin-split bands; one-electron filling introduces charged exciton states and screens the inter-exciton dipolar repulsion."
+    },
+    "why_it_matters": {
+      "zh": "该工作超越了简单的占据数物理，建立了莫尔激子的自旋-谷分辨图像，为在二维半导体异质结中探索自旋相关的玻色-费米混合物奠定了基础。",
+      "en": "This work goes beyond simple occupation-number physics to establish a spin-valley-resolved picture of moiré excitons, laying the foundation for exploring spin-dependent Bose-Fermi mixtures in 2D semiconductor heterostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究成功澄清了莫尔激子梯度中不均匀能量间距的微观自旋-谷起源，并揭示了 resident 电子对激子排斥力的屏蔽机制。",
+        "en": "The study successfully clarifies the microscopic spin-valley origin of the unequal energy spacing in moiré exciton ladders and reveals the screening mechanism of resident electrons on exciton repulsion."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用高精度磁光光谱技术解决二维莫尔超晶格中激子多体态的物理机制，非常符合PRL对物理学重要进展的要求。",
+        "en": "The paper uses high-precision magneto-optical spectroscopy to address the physical mechanism of exciton many-body states in 2D moiré superlattices, which aligns well with the scope of PRL."
+      }
+    },
+    "keywords": [
+      "Moiré superlattices",
+      "Interlayer excitons",
+      "Dipolar exciton ladders",
+      "Spin-valley physics",
+      "Transition metal dichalcogenides"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-09T09:55:16",
+    "input_scope": "full_pdf_text"
+  }
+}

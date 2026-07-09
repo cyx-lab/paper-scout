@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.07633v1",
+    "title": "Distributed Circuit Model for Predicting the Quality Factor of Magnetic Polariton Resonance",
+    "authors": [
+      "Hangjie Li",
+      "Junming Zhao"
+    ],
+    "abstract": "Existing RLC circuit model leads to inaccurate predictions of the quality factor (Q-factor) of magnetic polariton (MP) resonances under imperfect absorption conditions due to the omission of radiation loss. Moreover, the lumped-parameter nature of RLC models also limits their applicability for predicting higher-order MP modes. In this letter, we propose a distributed circuit model (DCM) for predicting the Q-factor of MP resonances, which overcomes these limitations. By introducing a radiation resistance to characterize radiation loss and establishing a mapping between distributed and lumped parameters, we derive a unified analytical expression for the Q-factor of arbitrary-order MPs. Validation via rigorous coupled-wave analysis (RCWA) demonstrates that this model can accurately predict the Q-factors of MPs of all orders in various metal-insulator-metal (MIM) structures. This work provides a simple yet effective tool for designing metamaterial emitters/absorbers and advances the understanding of MP loss mechanisms.",
+    "categories": [
+      "physics.app-ph",
+      "physics.optics"
+    ],
+    "published": "2026-07-08T16:49:43Z",
+    "updated": "2026-07-08T16:49:43Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.07633v1",
+      "pdf_path": "data/pdfs/2026-07-09/3_Distributed Circuit Model for Predicting the Quality Factor of Magnetic Polariton Resonance__2607.07633v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-09T01:54:07.784388",
+    "updated_at": "2026-07-09T01:54:07.784380Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-09/3_Distributed Circuit Model for Predicting the Quality Factor of Magnetic Polariton Resonance__2607.07633v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.07633v1",
+    "pdf_filename": "3_Distributed Circuit Model for Predicting the Quality Factor of Magnetic Polariton Resonance__2607.07633v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种引入辐射损耗的分布式电路模型，用于准确预测各种金属-绝缘体-金属结构中任意阶磁极化激元共振的品质因子。",
+      "en": "This paper proposes a distributed circuit model incorporating radiation loss to accurately predict the quality factors of arbitrary-order magnetic polariton resonances in various metal-insulator-metal structures."
+    },
+    "problem": {
+      "zh": "传统的集总参数电路模型忽略了辐射损耗，导致在非完美吸收条件下预测磁极化激元共振的品质因子不准确，且难以推广到高阶共振模式。",
+      "en": "Traditional lumped circuit models neglect radiation loss, leading to inaccurate predictions of quality factors for magnetic polariton resonances under imperfect absorption, and are difficult to extend to higher-order modes."
+    },
+    "approach": {
+      "zh": "在分布式电路模型中引入辐射电阻以表征辐射损耗，并建立分布式与集总参数之间的映射关系，推导出任意阶磁极化激元品质因子的统一解析表达式，最后通过严格耦合波分析进行验证。",
+      "en": "Introduce a radiation resistance into the distributed circuit model to characterize radiation loss, establish a mapping between distributed and lumped parameters to derive a unified analytical expression for the Q-factor of arbitrary-order magnetic polaritons, and validate it using rigorous coupled-wave analysis."
+    },
+    "main_takeaway": {
+      "zh": "引入辐射电阻的分布式电路模型能够准确预测不同金属-绝缘体-金属结构中各阶磁极化激元的品质因子，并能捕获非单调变化及辐射与欧姆损耗的耦合效应。",
+      "en": "The distributed circuit model incorporating radiation resistance accurately predicts the Q-factors of various magnetic polariton modes in different metal-insulator-metal structures, capturing non-monotonic behaviors and radiative-Ohmic coupling."
+    },
+    "why_it_matters": {
+      "zh": "该模型为设计具有特定光谱选择性的超材料发射器和吸收器提供了一个简单高效的解析工具，并深化了对微纳光子器件中损耗机制的物理理解。",
+      "en": "The model provides a simple and efficient analytical tool for designing metamaterial emitters and absorbers with tailored spectral selectivity, and deepens the physical understanding of loss mechanisms in micro/nanophotonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "首次在分布式电路模型中引入辐射电阻，解决了传统电路模型无法准确预测高阶磁极化激元品质因子的难题。",
+        "en": "It introduces radiation resistance into a distributed circuit model for the first time, solving the problem of predicting Q-factors for higher-order magnetic polaritons."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Optics Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "论文采用快报格式，聚焦于微纳光学与辐射特性的理论建模，非常符合该期刊的定位。",
+        "en": "The paper is formatted as a letter and focuses on theoretical modeling of micro/nanophotonics and radiative properties, which fits the journal's scope."
+      }
+    },
+    "keywords": [
+      "Magnetic polaritons",
+      "Quality factor",
+      "Distributed circuit model",
+      "Radiation loss",
+      "Metamaterials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-09T09:55:25",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "paper_record": {
+    "id": "2607.07299v1",
+    "title": "Electrical manipulation and detection of perpendicular altermagnetic order via proximitized Dirac semimetal",
+    "authors": [
+      "Zhaohui Li",
+      "Wenqing He",
+      "Hua Bai",
+      "Yang Wang",
+      "Alexander J. Grutter",
+      "Guoyi Shi",
+      "Xiwen Zhang",
+      "Christy Kinane",
+      "Andrew Caruana",
+      "Hui Ru Tan",
+      "Yuchen Pu",
+      "Chenhui Zhang",
+      "Yongxi Wang",
+      "Hanbum Park",
+      "Anjan Soumyanarayanan",
+      "Lei Shen",
+      "Hyunsoo Yang"
+    ],
+    "abstract": "Altermagnets, which combine antiferromagnetic-like magnetic compensation with ferromagnetic-like broken time-reversal symmetry, hold great promise for high-density and ultrafast spintronic applications. However, the detection and switching of perpendicular altermagnetic order are fundamentally constrained by magnetic symmetry, restricting both fundamental studies and practical implementation. We realize robust electrical reading and deterministic switching of perpendicular altermagnetic order by designing a Dirac semimetal/altermagnet heterostructure of PtTe2/CrSb. This engineered interface enables anomalous Hall readout via altermagnetic proximity effect and delivers efficient spin-orbit torque for manipulating the epitaxial perpendicular Neel vector in CrSb. These findings significantly broaden the functional scope of altermagnetic heterostructures and pave the way for highly scalable altermagnetic memory.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-08T11:42:00Z",
+    "updated": "2026-07-08T11:42:00Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.07299v1",
+      "pdf_path": "data/pdfs/2026-07-09/3_Electrical manipulation and detection of perpendicular altermagnetic order via proximitized Dirac semimetal__2607.07299v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-09T01:54:07.785679",
+    "updated_at": "2026-07-09T01:54:07.785669Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-09/3_Electrical manipulation and detection of perpendicular altermagnetic order via proximitized Dirac semimetal__2607.07299v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.07299v1",
+    "pdf_filename": "3_Electrical manipulation and detection of perpendicular altermagnetic order via proximitized Dirac semimetal__2607.07299v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究通过构建PtTe2/CrSb异质结，利用邻近效应打破对称性限制，成功实现了垂直交错磁序的电学检测与自旋轨道矩调控。",
+      "en": "This work achieves the electrical detection and spin-orbit torque manipulation of perpendicular altermagnetic order in PtTe2/CrSb heterostructures by breaking symmetry constraints via the proximity effect."
+    },
+    "problem": {
+      "zh": "垂直交错磁序的电学检测和翻转受限于其本征的磁对称性，导致常规的反常霍尔效应无法直接读取垂直方向的奈尔矢量。",
+      "en": "The electrical detection and switching of perpendicular altermagnetic order are constrained by intrinsic magnetic symmetry, preventing conventional anomalous Hall effect readout of the perpendicular Néel vector."
+    },
+    "approach": {
+      "zh": "设计并制备了狄拉克半金属/交错磁体（PtTe2/CrSb）外延异质结，利用界面轨道杂化和邻近效应诱导反常霍尔效应进行读取，并利用PtTe2产生的自旋轨道矩实现奈尔矢量的确定性翻转。",
+      "en": "Designed and fabricated epitaxial Dirac semimetal/altermagnet (PtTe2/CrSb) heterostructures, utilizing interfacial orbital hybridization and proximity effects to induce the anomalous Hall effect for readout, and using spin-orbit torque from PtTe2 to achieve deterministic switching of the Néel vector."
+    },
+    "main_takeaway": {
+      "zh": "通过界面工程引入邻近效应可以打破交错磁体的对称性限制，在垂直各向异性下实现交错磁序的180度电学翻转和反常霍尔效应读取。",
+      "en": "Interface-engineered proximity effects can break the symmetry constraints of altermagnets, enabling 180-degree electrical switching and anomalous Hall effect readout of the altermagnetic order with perpendicular anisotropy."
+    },
+    "why_it_matters": {
+      "zh": "该工作克服了垂直交错磁体难以电学读写的瓶颈，为开发高密度、超快速且兼容垂直各向异性的交错磁自旋电子器件（如磁隧道结）奠定了基础。",
+      "en": "This work overcomes the bottleneck of electrically writing and reading perpendicular altermagnets, paving the way for high-density, ultrafast spintronic devices with perpendicular magnetic anisotropy, such as altermagnetic tunnel junctions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在实验上实现了垂直交错磁序的电学读写，并结合极化中子反射和理论计算阐明了界面磁矩在翻转中的关键作用。",
+        "en": "Experimentally demonstrated the electrical write-read of perpendicular altermagnetic order for the first time, clarifying the key role of interfacial moments using polarized neutron reflectometry and DFT."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Electronics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究展示了从高质量外延生长、先进中子表征到器件制备（磁隧道结）及宏自旋模拟的完整链路，非常符合该期刊对自旋电子器件重大突破的要求。",
+        "en": "The study presents a complete chain from high-quality epitaxial growth and advanced neutron characterization to device fabrication (MTJ) and macrospin simulations, fitting the journal's scope for major breakthroughs in spintronic devices."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Spin-orbit torque",
+      "Anomalous Hall effect",
+      "Proximity effect",
+      "Dirac semimetal",
+      "CrSb"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-09T09:54:47",
+    "input_scope": "full_pdf_text"
+  }
+}

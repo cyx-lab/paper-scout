@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.06966v1",
+    "title": "Anomalous Hall and Nernst effects driven by static and fluctuating spin chiralities on Kagome lattice",
+    "authors": [
+      "He-Lin Li",
+      "Zhen-Gang Zhu",
+      "Gang Su"
+    ],
+    "abstract": "We theoretically investigate the anomalous Hall and Nernst effects (AHE and ANE) in a two dimensional Kagome lattice to uncover the distinct roles of static and fluctuating scalar spin chi ralities. Employing Monte Carlo simulations incorporating with a tight binding Hamiltonian via the s-d exchange interaction, we explicitly evaluate the anomalous transport coefficients. A key finding is the systematic disentanglement of the macroscopic responses into an intrinsic contribu tion, governed by momentum space Berry curvature induced by static chirality, and an extrinsic skew scattering contribution driven by real space dynamical spin fluctuations. We demonstrate a pronounced mechanistic crossover: deep in magnetically ordered phases like the skyrmion crystal, the intrinsic Berry curvature dictates the transport behavior. However, approaching the magnetic order-disorder critical regime, strong thermal fluctuations disrupt static noncoplanar spin configu rations, drastically suppressing intrinsic responses. Here, dynamical chiral fluctuations emerge as the dominant driving force. By delineating the phase regimes governed by static versus fluctuating chiralities, this work elucidates the distinct microscopic mechanisms dictating anomalous transport in frustrated magnetic systems.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-08T03:45:01Z",
+    "updated": "2026-07-08T03:45:01Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06966v1",
+      "pdf_path": "data/pdfs/2026-07-09/3_Anomalous Hall and Nernst effects driven by static and fluctuating spin chiralities on Kagome lattice__2607.06966v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-09T01:54:07.786646",
+    "updated_at": "2026-07-09T01:54:07.786637Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-09/3_Anomalous Hall and Nernst effects driven by static and fluctuating spin chiralities on Kagome lattice__2607.06966v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06966v1",
+    "pdf_filename": "3_Anomalous Hall and Nernst effects driven by static and fluctuating spin chiralities on Kagome lattice__2607.06966v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究揭示了二维Kagome晶格中由静态标量自旋手性（内禀贝里曲率）与动态涨落标量自旋手性（外禀斜散射）共同驱动的反常霍尔与反常能斯特效应的竞争与转变机制。",
+      "en": "This work reveals the competition and crossover between intrinsic (static chirality-driven) and extrinsic (fluctuating chirality-driven) mechanisms of anomalous Hall and Nernst effects in a 2D Kagome lattice."
+    },
+    "problem": {
+      "zh": "如何定量区分和理解非共面磁性系统中，静态自旋构型诱导的内禀贝里曲率与动态自旋涨落引起的外禀散射对反常电荷与热电输运的具体贡献。",
+      "en": "How to quantitatively disentangle and understand the distinct contributions of static spin configurations (intrinsic Berry curvature) and dynamic spin fluctuations (extrinsic scattering) to anomalous charge and thermoelectric transport in noncoplanar magnetic systems."
+    },
+    "approach": {
+      "zh": "结合经典蒙特卡洛模拟与紧束缚模型，利用半经典玻尔兹曼输运理论，分别计算静态自旋平均值产生的内禀输运系数，以及动态手性涨落引起的斜散射外禀输运系数。",
+      "en": "Combining classical Monte Carlo simulations with a tight-binding model and semiclassical Boltzmann transport theory to separately calculate intrinsic transport from static spin averages and extrinsic transport from dynamical chiral fluctuations via skew scattering."
+    },
+    "main_takeaway": {
+      "zh": "在斯格明子晶格等磁有序相中，内禀贝里曲率主导反常输运；而在磁无序临界区，热涨落破坏静态有序，动态手性涨落引起的外禀斜散射成为主导，且两者贡献符号相反。",
+      "en": "In magnetically ordered phases like skyrmion crystals, intrinsic Berry curvature dominates transport, whereas near the order-disorder transition, thermal fluctuations suppress intrinsic order and dynamical chiral fluctuations (extrinsic skew scattering) become dominant, with the two mechanisms contributing opposite signs."
+    },
+    "why_it_matters": {
+      "zh": "它为理解几何挫折磁体中临界拓扑输运提供了统一的理论框架，解释了实验中观测到的拓扑霍尔和能斯特效应的符号反转现象，有助于设计基于相变的新型自旋电子学器件。",
+      "en": "It provides a unified theoretical framework for understanding critical topological transport in frustrated magnets, explains experimentally observed sign reversals in topological Hall and Nernst effects, and guides the design of phase-transition-based spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了非共面磁体中内禀与外禀手性输运机制的竞争与转变，为实验上的符号反转提供了清晰的微观解释。",
+        "en": "Clarifies the competition and crossover between intrinsic and extrinsic chiral transport mechanisms in noncoplanar magnets, providing a clear microscopic explanation for experimental sign reversals."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical Simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作聚焦于Kagome晶格上的拓扑输运机制，结合了紧束缚模型、玻尔兹曼输运和蒙特卡洛模拟，非常符合PRB的发表范围。",
+        "en": "The paper focuses on topological transport mechanisms on the Kagome lattice using tight-binding, Boltzmann transport, and Monte Carlo simulations, which fits perfectly within the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "Kagome lattice",
+      "Anomalous Hall effect",
+      "Anomalous Nernst effect",
+      "Scalar spin chirality",
+      "Spin fluctuations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-09T09:54:29",
+    "input_scope": "full_pdf_text"
+  }
+}

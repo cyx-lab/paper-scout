@@ -1,0 +1,98 @@
+{
+  "run_date": "2026-07-09",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2607.06966v1.json": 1,
+    "2607.07163v1.json": 1,
+    "2607.07299v1.json": 1,
+    "2607.07334v1.json": 1,
+    "2607.07340v1.json": 1,
+    "2607.07590v1.json": 1,
+    "2607.07633v1.json": 1,
+    "2607.07657v1.json": 4
+  },
+  "results": [
+    {
+      "file": "2607.06966v1.json",
+      "status": "ok",
+      "secs": 8.25,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07163v1.json",
+      "status": "ok",
+      "secs": 9.47,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07299v1.json",
+      "status": "ok",
+      "secs": 8.43,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07334v1.json",
+      "status": "ok",
+      "secs": 7.68,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07340v1.json",
+      "status": "ok",
+      "secs": 9.95,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07590v1.json",
+      "status": "ok",
+      "secs": 11.24,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07633v1.json",
+      "status": "ok",
+      "secs": 9.17,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07657v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'User location is not supported for the API use.', 'type': 'upstream_error', 'param': '', 'code': 400}}",
+      "secs": 5.71,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2607.07657v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'User location is not supported for the API use.', 'type': 'upstream_error', 'param': '', 'code': 400}}",
+      "secs": 5.7,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2607.07657v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'User location is not supported for the API use.', 'type': 'upstream_error', 'param': '', 'code': 400}}",
+      "secs": 5.99,
+      "round": 3,
+      "attempt": 3
+    },
+    {
+      "file": "2607.07657v1.json",
+      "status": "ok",
+      "secs": 10.09,
+      "round": 4,
+      "attempt": 4
+    }
+  ]
+}

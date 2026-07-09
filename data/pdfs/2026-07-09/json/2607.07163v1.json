@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.07163v1",
+    "title": "Emergent superconductivity upon disordering a topological insulator",
+    "authors": [
+      "Carlos Eduardo S. P. Corsino",
+      "Hermann Freire",
+      "Anurag Banerjee"
+    ],
+    "abstract": "We study the emergence of superconductivity in a quantum spin Hall insulator and identify a disorder-driven enhancement of pairing arising from quantum geometry. Using sign-problem-free quantum Monte Carlo simulations of the attractive Bernevig-Hughes-Zhang (BHZ) Hubbard model, we obtain a quantum phase transition as a function of interaction strength for different impurity densities. In the clean limit, the system develops bulk superconductivity for Hubbard interaction $\\vert U \\vert$ above a finite critical strength. Interestingly, strong impurities significantly reduce such $\\vert U \\vert$ required for the onset of superconductivity. Our calculations indicate that Cooper pairing first nucleates in subgap ring states surrounding the impurities and then evolves into a globally coherent superconducting phase. Our results demonstrate that impurity-generated bound states can promote superconductivity in systems with strong quantum geometry. This mechanism is expected to be relevant in nearly flat-band systems like moiré materials where quantum geometry plays a dominant role.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.dis-nn",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-08T08:55:22Z",
+    "updated": "2026-07-08T08:55:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.07163v1",
+      "pdf_path": "data/pdfs/2026-07-09/3_Emergent superconductivity upon disordering a topological insulator__2607.07163v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-09T01:54:07.786187",
+    "updated_at": "2026-07-09T01:54:07.786179Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-09/3_Emergent superconductivity upon disordering a topological insulator__2607.07163v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.07163v1",
+    "pdf_filename": "3_Emergent superconductivity upon disordering a topological insulator__2607.07163v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，强杂质通过诱导亚能隙环状态，能够显著降低拓扑绝缘体中发生超导转变所需的临界吸引相互作用。",
+      "en": "The study demonstrates that strong impurities can significantly lower the critical attractive interaction strength required for superconductivity in a topological insulator by inducing subgap ring states."
+    },
+    "problem": {
+      "zh": "研究无序和量子几何如何协同影响拓扑绝缘体中超导电性的涌现。",
+      "en": "Investigating how disorder and quantum geometry cooperatively affect the emergence of superconductivity in topological insulators."
+    },
+    "approach": {
+      "zh": "采用无负符号问题的辅助场量子蒙特卡洛模拟和自洽Bogoliubov-de Gennes计算，研究含杂质的吸引式BHZ-Hubbard模型。",
+      "en": "Employing sign-problem-free auxiliary-field quantum Monte Carlo simulations and self-consistent Bogoliubov-de Gennes calculations on the attractive BHZ-Hubbard model with impurities."
+    },
+    "main_takeaway": {
+      "zh": "在具有强量子几何的拓扑系统中，强杂质不仅不抑制超导，反而会诱导局域亚能隙态作为库珀对的形核中心，从而促进全局相干超导态的形成。",
+      "en": "In topological systems with strong quantum geometry, strong impurities promote rather than suppress superconductivity by inducing local subgap states that act as nucleation centers for Cooper pairing."
+    },
+    "why_it_matters": {
+      "zh": "该发现挑战了无序抑制超导的传统认知，为在莫尔材料等强量子几何系统中通过缺陷工程调控超导提供了理论依据。",
+      "en": "This finding challenges the conventional wisdom that disorder suppresses superconductivity, providing a theoretical basis for tuning superconductivity via defect engineering in strong quantum geometric systems like moiré materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了无序在拓扑系统中促进超导的非直觉机制，对理解几何效应主导的超导具有重要意义。",
+        "en": "Reveals a counterintuitive mechanism of disorder-promoted superconductivity in topological systems, which is significant for understanding geometry-dominated superconductivity."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作提出了关于拓扑系统中超导增强的新物理机制，并结合了精确的量子蒙特卡洛模拟，非常适合发表在物理学顶级快报上。",
+        "en": "This work proposes a novel physical mechanism for superconductivity enhancement in topological systems, combined with exact QMC simulations, making it highly suitable for a top physics letters journal."
+      }
+    },
+    "keywords": [
+      "topological insulator",
+      "superconductivity",
+      "disorder",
+      "quantum geometry",
+      "quantum Monte Carlo"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-09T09:54:38",
+    "input_scope": "full_pdf_text"
+  }
+}
