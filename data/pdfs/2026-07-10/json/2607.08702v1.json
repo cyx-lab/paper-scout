@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.08702v1",
+    "title": "Quantum-Geometric Design of Lattice Generalized Landau Levels",
+    "authors": [
+      "Bohao Li",
+      "Fengcheng Wu"
+    ],
+    "abstract": "We design lattice models with tailored quantum geometry, including generalized Landau levels (LLs) satisfying the integrated trace condition and higher-Chern bands with ideal quantum geometry. Our models with $N=2$, $3$, and $4$ sublattices include a generalized Haldane model ($N=2$ honeycomb lattice model) with Gaussian-decaying hoppings realizable in twisted bilayer MoTe$_2$, and $N \\geq 3$ models with exponentially decaying hoppings. Exact diagonalization reveals fractional Chern insulators in the generalized zeroth LL bands of all three models, a Moore-Read state in the generalized first LL band of the $N=4$ model, and various interaction-driven topological phases$\\unicode{x2013}$including integer and fractional anomalous Hall crystals and a multicomponent Halperin state$\\unicode{x2013}$in the ideal higher-Chern band of the $N=3$ model. Informed by quantum geometry, our work provides a pathway for lattice realizations of Landau-level and beyond-Landau-level physics.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-09T17:07:13Z",
+    "updated": "2026-07-09T17:07:13Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.08702v1",
+      "pdf_path": "data/pdfs/2026-07-10/6_Quantum-Geometric Design of Lattice Generalized Landau Levels__2607.08702v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.716049",
+    "updated_at": "2026-07-10T01:53:00.716041Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/6_Quantum-Geometric Design of Lattice Generalized Landau Levels__2607.08702v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08702v1",
+    "pdf_filename": "6_Quantum-Geometric Design of Lattice Generalized Landau Levels__2607.08702v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过量子几何工程设计了具有广义朗道能级特性的晶格模型，并发现了非阿贝尔 Moore-Read 态等多种拓扑物态。",
+      "en": "This paper designs lattice models with generalized Landau level properties through quantum-geometric engineering and identifies various topological phases, including non-Abelian Moore-Read states."
+    },
+    "problem": {
+      "zh": "如何在保持晶格平移对称性的前提下，系统地设计能模拟朗道能级量子几何特性的晶格能带，以实现分数量子霍尔物理。",
+      "en": "How to systematically design lattice bands that capture the quantum geometry of Landau levels while preserving ordinary lattice translation symmetry to realize fractional quantum Hall physics."
+    },
+    "approach": {
+      "zh": "利用空间调制的连续空间朗道能级波函数构造晶格布洛赫态，通过施密特正交化构建多子格模型，并使用精确对角化研究其相互作用驱动的物相。",
+      "en": "Constructing lattice Bloch states from spatially modulated continuum Landau level wavefunctions, building multi-sublattice models via Gram-Schmidt orthogonalization, and using exact diagonalization to study interaction-driven phases."
+    },
+    "main_takeaway": {
+      "zh": "在设计的晶格模型中不仅实现了阿贝尔分数量子陈绝缘体，还在四子格模型的广义第一朗道能级中发现了非阿贝尔 Moore-Read 态，并在高陈数能带中发现了反常霍尔晶体。",
+      "en": "The designed lattice models not only realize Abelian fractional Chern insulators but also host non-Abelian Moore-Read states in the generalized first Landau level of a four-sublattice model, along with anomalous Hall crystals in higher-Chern bands."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在莫尔材料（如扭曲双层二碲化钼）和量子模拟平台中实现超越传统朗道能级的非阿贝尔拓扑态提供了具体的模型指导和理论框架。",
+      "en": "This work provides specific model guidance and a theoretical framework for realizing non-Abelian topological states beyond conventional Landau levels in moire materials (like twisted bilayer MoTe2) and quantum simulation platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功建立了朗道能级量子几何与晶格平移对称性之间的直接联系，并首次在特定晶格广义朗道能级中数值验证了 Moore-Read 态。",
+        "en": "Successfully established a direct link between Landau level quantum geometry and lattice translation symmetry, and numerically verified the Moore-Read state in specific lattice generalized Landau levels for the first time."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值计算",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用 Letter 格式，解决了凝聚态物理中关于量子几何与拓扑物态设计的核心前沿问题。",
+        "en": "The paper uses the Letter format and addresses core frontier problems in condensed matter physics regarding quantum geometry and topological state design."
+      }
+    },
+    "keywords": [
+      "Quantum Geometry",
+      "Generalized Landau Levels",
+      "Fractional Chern Insulators",
+      "Moore-Read State",
+      "Anomalous Hall Crystals",
+      "Moire Materials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:55:17",
+    "input_scope": "full_pdf_text"
+  }
+}

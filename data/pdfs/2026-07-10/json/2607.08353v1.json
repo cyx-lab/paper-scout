@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2607.08353v1",
+    "title": "Signature in sound-mode of the exciton bilayer two-dimensional superfluid transition",
+    "authors": [
+      "Giovanni Midei",
+      "Filippo Pascucci",
+      "Milorad V. Milosevìc",
+      "Jacques Tempere",
+      "David Neilson",
+      "Andrea Perali"
+    ],
+    "abstract": "Obtaining definitive evidence of exciton superfluidity in electron-hole bilayers in zero magnetic field remains a major longstanding challenge since the condensate is electrically neutral, making its phase coherence difficult to detect directly. We show that the Anderson-Bogoliubov sound velocity provides a dynamical signature of exciton superfluidity. Across the BCS-BEC crossover, the velocity is known to discontinuously drop to zero at the Berezinskii-Kosterlitz-Thouless (BKT) transition. The magnitude of the drop has a strong density dependence. We compute this behavior, with the inclusion of finite-temperature screening, and determine the BKT transition using a renormalization-group approach. We further identify a temperature window which is experimentally accessible, where vortex-antivortex excitations strongly renormalize both the sound velocity and the transition temperature.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-09T10:59:42Z",
+    "updated": "2026-07-09T10:59:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.08353v1",
+      "pdf_path": "data/pdfs/2026-07-10/3_Signature in sound-mode of the exciton bilayer two-dimensional superfluid transition__2607.08353v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.717702",
+    "updated_at": "2026-07-10T01:53:00.717691Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/3_Signature in sound-mode of the exciton bilayer two-dimensional superfluid transition__2607.08353v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08353v1",
+    "pdf_filename": "3_Signature in sound-mode of the exciton bilayer two-dimensional superfluid transition__2607.08353v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文理论预测了双层激子超流体中安德森-博戈留波夫声速在BKT转变处的突降，为探测中性激子超流提供了动力学特征。",
+      "en": "This work theoretically predicts a discontinuous drop of the Anderson-Bogoliubov sound velocity at the BKT transition in exciton bilayers, providing a dynamical signature for neutral exciton superfluidity."
+    },
+    "problem": {
+      "zh": "零磁场下电子-空穴双层中激子超流的直接实验证实十分困难，因为凝聚体是电中性的，缺乏迈斯纳效应等直接相干性探测手段。",
+      "en": "Directly confirming exciton superfluidity in electron-hole bilayers at zero magnetic field is challenging because the neutral condensate lacks direct phase coherence signatures like the Meissner effect."
+    },
+    "approach": {
+      "zh": "发展了结合有限温随机相位近似（RPA）筛选与涡旋-反涡旋涨落重整化群（RG）分析的有限温路径积分理论，计算了BKT转变温度、重整化刚度和安德森-博戈留波夫声速。",
+      "en": "Developed a finite-temperature path-integral theory combining RPA screening with a renormalization-group treatment of vortex-antivortex fluctuations to calculate the BKT transition temperature, renormalized stiffness, and Anderson-Bogoliubov sound velocity."
+    },
+    "main_takeaway": {
+      "zh": "安德森-博戈留波夫声速在BKT转变温度处会不连续地骤降至零，且受涡旋涨落重整化影响的温度窗口宽达数开尔文，在实验上是可观测的。",
+      "en": "The Anderson-Bogoliubov sound velocity drops discontinuously to zero at the BKT transition, with a vortex-renormalization temperature window spanning several Kelvin, making it experimentally resolvable."
+    },
+    "why_it_matters": {
+      "zh": "为长期悬而未决的零磁场激子超流判定问题提供了一种切实可行的动力学测量方案（如布拉格光谱学），并展示了固体超流体中罕见的宽温区涡旋重整化效应。",
+      "en": "It proposes a feasible dynamical detection scheme (e.g., via Bragg spectroscopy) for the long-standing challenge of identifying zero-field exciton superfluidity, showcasing a uniquely wide temperature window for vortex renormalization in solid-state systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "为中性激子超流体的实验证实提出了明确的动力学特征，并定量计算了可观测的声速突降与宽温区涡旋涨落效应。",
+        "en": "Proposes a clear dynamical signature for the experimental verification of neutral exciton superfluids, quantitatively predicting an observable sound velocity drop and a wide temperature window for vortex fluctuations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了二维激子超流体探测的长期关键难题，提出了普适的实验可观测特征，非常适合发表在物理学顶级期刊上。",
+        "en": "The study addresses a long-standing key challenge in detecting 2D exciton superfluidity and proposes a universally observable experimental signature, making it highly suitable for a top physics journal."
+      }
+    },
+    "keywords": [
+      "exciton superfluidity",
+      "BKT transition",
+      "sound velocity",
+      "electron-hole bilayer",
+      "renormalization group"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:53:56",
+    "input_scope": "full_pdf_text"
+  }
+}

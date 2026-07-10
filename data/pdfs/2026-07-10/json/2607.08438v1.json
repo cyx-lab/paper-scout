@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.08438v1",
+    "title": "Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus",
+    "authors": [
+      "Vinayak M. Kulkarni",
+      "Sharona Horta"
+    ],
+    "abstract": "Quantum geometry is now experimentally accessible in crystalline solids, with black phosphorus providing a key platform through polarization-resolved angle-resolved photoemission spectroscopy. We develop a first-principles framework that connects the momentum-resolved quantum metric of black phosphorus to a complementary bulk observable: the direction-resolved quantum weight measurable through low-loss electron energy-loss spectroscopy (EELS). A 32-band DFT--Wannier Hamiltonian is used to compute both single-band and occupied-manifold geometric quantities from analytic momentum derivatives. We show that the raw single-band quantum metric of the top valence band is not globally meaningful in the conventional cell because folding degeneracies and intra-valence near degeneracies produce true isolated-band singularities; masked maps and occupied-manifold projectors are therefore essential. Because semilocal PBE produces near-gap semimetallic pockets and spurious subgap interpolation features, we introduce an experimentally motivated restricted quantum weight $K_{ii}(ω_c)$, which obeys the corresponding restricted Souza--Wilkens--Martin sum rule and is the appropriate quantity for low-loss EELS once the zero-loss region is excluded. The restricted in-plane quantum weight is nearly isotropic, $K_{zz}/K_{xx}=0.972\\pm0.005$ (armchair/zigzag), despite the strong band-mass anisotropy and armchair-only absorption onset of black phosphorus. Orbital-resolved Hubbard--Hartree corrections leave the absolute quantum weights rigid at the sub-percent level while producing a small but resolved armchair-directed drift of $K_{zz}/K_{xx}$, approximately $+0.46\\%$ per eV of $U$. These results identify low-loss EELS spectral moments as a practical probe of integrated quantum geometry in an anisotropic layered material.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-09T12:59:45Z",
+    "updated": "2026-07-09T12:59:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.08438v1",
+      "pdf_path": "data/pdfs/2026-07-10/3_Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus__2607.08438v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.717407",
+    "updated_at": "2026-07-10T01:53:00.717400Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/3_Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus__2607.08438v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08438v1",
+    "pdf_filename": "3_Quantum weight and low-loss EELS signatures of Wannier quantum geometry in black phosphorus__2607.08438v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究建立了一个第一性原理框架，将黑磷的动量空间量子几何与低损耗电子能量损失谱中可测的体相方向量子权重联系起来。",
+      "en": "This work establishes a first-principles framework connecting the momentum-resolved quantum geometry of black phosphorus to the measurable directional quantum weight in bulk low-loss electron energy-loss spectroscopy."
+    },
+    "problem": {
+      "zh": "如何在存在能带折叠和近简并的真实各向异性窄带隙材料中，定义、计算并实验检验受相互作用修正的量子几何。",
+      "en": "How to define, calculate, and experimentally test interaction-renormalized quantum geometry in realistic anisotropic narrow-gap materials hosting band folding and near-degeneracies."
+    },
+    "approach": {
+      "zh": "利用32带DFT-Wannier哈密顿量结合自洽轨道哈勃德-哈特里自能，计算占据流形的受限方向量子权重，并模拟其介电响应与电子能量损失谱。",
+      "en": "Using a 32-band DFT-Wannier Hamiltonian combined with a self-consistent orbital Hubbard-Hartree self-energy to compute the restricted directional quantum weight of the occupied manifold and simulate dielectric response and EELS."
+    },
+    "main_takeaway": {
+      "zh": "尽管黑磷具有强烈的能带各向异性，其面内受限量子权重却近乎各向同性，且该几何量对电子相互作用表现出极强的刚性，仅产生微小的方向性漂移。",
+      "en": "Despite the strong band anisotropy of black phosphorus, its in-plane restricted quantum weight is nearly isotropic and exhibits remarkable rigidity against electronic interactions, showing only a tiny directional drift."
+    },
+    "why_it_matters": {
+      "zh": "它为利用低损耗EELS在体相及空间分辨尺度上探测各向异性材料的积分量子几何提供了理论基础和具体的实验预测，克服了单带几何奇异性与表面敏感性的限制。",
+      "en": "It provides a theoretical foundation and concrete experimental predictions for using low-loss EELS to probe integrated quantum geometry in bulk and spatially-resolved anisotropic materials, overcoming the limitations of single-band singularities and surface sensitivity."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了占据流形表征如何消除单带几何奇异性，并揭示了相互作用对量子几何的微弱修正机制。",
+        "en": "It clarifies how the occupied-manifold formulation resolves single-band geometric singularities and reveals the weak renormalization mechanism of interactions on quantum geometry."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究紧密结合当前量子几何的实验探测热点，为经典材料黑磷提出了极具可行性的全新EELS测量方案。",
+        "en": "The study closely aligns with the current hot topic of experimental detection of quantum geometry, proposing a highly feasible new EELS measurement scheme for the classic material black phosphorus."
+      }
+    },
+    "keywords": [
+      "quantum geometry",
+      "black phosphorus",
+      "electron energy-loss spectroscopy",
+      "quantum weight",
+      "Wannier functions"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:54:19",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.08294v1",
+    "title": "Interplay of Quasiperiodic Criticality and the Non-Hermitian Skin Effect",
+    "authors": [
+      "Zhangyuan Chen",
+      "Xianqi Tong",
+      "Xiaosen Yang"
+    ],
+    "abstract": "Quasiperiodic lattices can host critical eigenstates, whereas nonreciprocal hopping in non-Hermitian lattices can induce non-Hermitian skin effect. In this work, we investigate localization phenomena in a Hatano--Nelson model with quasiperiodically modulated hopping amplitudes, where nonreciprocity arises from unequal modulation strengths of the right and left hoppings. Using a non-unitary gauge transformation, we map the non-Hermitian system into a Hermitian quasiperiodic system and obtain an exact analytical expression for the Lyapunov exponent in the thermodynamic limit. Under periodic boundary conditions, inverse participation ratios and finite-size scaling analysis are used to identify the quasiperiodic critical regimes. The comparison shows that parameter regimes hosting quasiperiodic critical states under periodic boundary conditions can exhibit the non-Hermitian skin effect under open boundary conditions. Furthermore, the non-Hermitian skin effect associated with quasiperiodic critical regimes is also observed in representative long-range hopping models and multiband extensions. Our results provide an analytically controlled perspective on how quasiperiodicity, modulated nonreciprocity, and boundary conditions jointly shape the non-Hermitian skin effect in critical regimes.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-07-09T09:38:40Z",
+    "updated": "2026-07-09T09:38:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.08294v1",
+      "pdf_path": "data/pdfs/2026-07-10/4_Interplay of Quasiperiodic Criticality and the Non-Hermitian Skin Effect__2607.08294v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.718038",
+    "updated_at": "2026-07-10T01:53:00.717973Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/4_Interplay of Quasiperiodic Criticality and the Non-Hermitian Skin Effect__2607.08294v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08294v1",
+    "pdf_filename": "4_Interplay of Quasiperiodic Criticality and the Non-Hermitian Skin Effect__2607.08294v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了具有准周期调制跃迁强度的非厄米Hatano-Nelson模型，揭示了准周期临界性与非厄米皮肤效应之间的相互作用。",
+      "en": "This work investigates the Hatano-Nelson model with quasiperiodically modulated hopping amplitudes, revealing the interplay between quasiperiodic criticality and the non-Hermitian skin effect."
+    },
+    "problem": {
+      "zh": "探究在准周期调制与非互易跃迁共存的系统中，准周期临界态在不同边界条件下是否以及如何展现出非厄米皮肤效应。",
+      "en": "To investigate whether and how quasiperiodic critical states exhibit the non-Hermitian skin effect under different boundary conditions in systems with both quasiperiodic modulation and nonreciprocal hopping."
+    },
+    "approach": {
+      "zh": "利用非幺正规范变换将非厄米模型映射为等效的厄米准周期模型，解析计算热力学极限下的李雅普诺夫指数，并结合数值计算研究周期和开边界条件下的局域化行为。",
+      "en": "Map the non-Hermitian model to an equivalent Hermitian quasiperiodic model using a non-unitary gauge transformation, analytically calculate the Lyapunov exponent in the thermodynamic limit, and perform numerical calculations under periodic and open boundary conditions."
+    },
+    "main_takeaway": {
+      "zh": "在周期边界条件下表现为准周期临界态的参数区域，在开边界条件下会展现出非厄米皮肤效应，且这一结论可推广至长程跃迁和多能带系统。",
+      "en": "Parameter regimes hosting quasiperiodic critical states under periodic boundary conditions exhibit the non-Hermitian skin effect under open boundary conditions, a behavior that generalizes to long-range hopping and multiband systems."
+    },
+    "why_it_matters": {
+      "zh": "它为理解准周期性、非互易性以及边界条件如何共同塑造非厄米皮肤效应提供了一个解析可控的视角，有助于指导未来在冷原子或光子晶体等平台中的实验实现。",
+      "en": "It provides an analytically controlled perspective on how quasiperiodicity, nonreciprocity, and boundary conditions jointly shape the non-Hermitian skin effect, guiding future experimental realizations in platforms like cold atoms or photonic crystals."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过解析映射和数值计算，清晰阐明了准周期临界性与非厄米皮肤效应在不同边界条件下的对应关系。",
+        "en": "The paper clarifies the correspondence between quasiperiodic criticality and the non-Hermitian skin effect under different boundary conditions through analytical mapping and numerical calculations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文的主题属于典型的凝聚态物理和非厄米拓扑物态研究，且格式和引用风格非常符合Physical Review B的要求。",
+        "en": "The topic is a typical study of condensed matter physics and non-Hermitian topological phases, and the format and citation style strongly align with Physical Review B."
+      }
+    },
+    "keywords": [
+      "non-Hermitian skin effect",
+      "quasiperiodic lattice",
+      "criticality",
+      "Hatano-Nelson model",
+      "localization"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:53:28",
+    "input_scope": "full_pdf_text"
+  }
+}

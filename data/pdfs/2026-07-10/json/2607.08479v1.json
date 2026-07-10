@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.08479v1",
+    "title": "Exciton valley depolarization in monolayer MoS2: non-Markovian quantum dynamics, intervalley scattering, and the breakdown of the Dyakonov-Perel mechanism",
+    "authors": [
+      "Yang-hao Chan",
+      "Jonah B. Haber",
+      "Mit H. Naik",
+      "Felipe H. da Jornada",
+      "Diana Y. Qiu"
+    ],
+    "abstract": "In monolayer transition metal dichalcogenides, exciton valley relaxation is typically attributed to the Dyakonov-Perel (DP) mechanism, where frequent intravalley scattering with phonons or defects suppresses the intervalley exchange-induced precession and the role of intervalley scattering is considered secondary. Employing a first-principles nonequilibrium exciton Green's function (NEGF) approach with the generalized Kadanoff-Baym ansatz (GKBA), which treats exchange-driven precession and exciton-phonon scattering on an equal footing across the full Brillouin zone, we demonstrate that even in the small momentum regime most favorable to DP physics, realistic exciton-phonon scattering is too weak to induce the motional narrowing that defines the DP regime. Upon accounting for excitons across the entire Brillouin zone, large momentum intervalley scattering becomes the dominant pathway for valley relaxation, shortening the depolarization by a factor of 3-4 relative to intravalley-only models. We find that valley depolarization and decoherence time are approximately 50 fs at 300 K and lengthen to 130 fs at 10 K. By comparing our results with a Lindblad-type collision framework, we explicitly demonstrate the role of non-Markovian effects and reveal that the Markovian Lindblad framework is highly basis dependent. In the valley-pseudospin basis underlying prior analyses, the Lindblad approach artificially amplifies scattering-induced equilibration, biasing the dynamics toward a DP interpretation. Our study provides a comprehensive picture of valley relaxation, and establishes the exciton density matrix approach derived from NEGF+GKBA as a powerful tool for investigating ultrafast exciton dynamics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-09T13:38:33Z",
+    "updated": "2026-07-09T13:38:33Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.08479v1",
+      "pdf_path": "data/pdfs/2026-07-10/3_Exciton valley depolarization in monolayer MoS2 non-Markovian quantum dynamics, intervalley scattering, and the breakdow__2607.08479v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.717219",
+    "updated_at": "2026-07-10T01:53:00.717212Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/3_Exciton valley depolarization in monolayer MoS2 non-Markovian quantum dynamics, intervalley scattering, and the breakdow__2607.08479v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08479v1",
+    "pdf_filename": "3_Exciton valley depolarization in monolayer MoS2 non-Markovian quantum dynamics, intervalley scattering, and the breakdow__2607.08479v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究利用第一性原理非平衡激子格林函数方法，揭示了单层MoS2中的激子谷极化弛豫并非由Dyakonov-Perel机制主导，而是由大动量区间谷间散射驱动。",
+      "en": "This study employs a first-principles nonequilibrium exciton Green's function approach to demonstrate that exciton valley relaxation in monolayer MoS2 is dominated by large-momentum intervalley scattering rather than the Dyakonov-Perel mechanism."
+    },
+    "problem": {
+      "zh": "澄清单层过渡金属硫族化合物中激子谷弛豫的微观物理机制，即究竟是受限于光锥附近的相干交换驱动进动（Dyakonov-Perel机制），还是受限于跨越整个布里渊区的激子-声子谷间散射。",
+      "en": "To clarify the microscopic mechanism of exciton valley relaxation in monolayer TMDs, distinguishing whether it is governed by coherent exchange-driven precession near the light cone (Dyakonov-Perel mechanism) or by exciton-phonon intervalley scattering across the entire Brillouin zone."
+    },
+    "approach": {
+      "zh": "采用基于广义Kadanoff-Baym ansatz (GKBA) 的第一性原理非平衡激子格林函数 (NEGF) 方法，将库仑交换相互作用与激子-声子散射置于同等地位进行全布里渊区动力学模拟，并与Markovian Lindblad碰撞框架进行对比。",
+      "en": "Employing a first-principles nonequilibrium exciton Green's function (NEGF) approach with the generalized Kadanoff-Baym ansatz (GKBA) to simulate exciton dynamics across the full Brillouin zone, treating Coulomb exchange and exciton-phonon scattering on an equal footing, and comparing it with a Markovian Lindblad framework."
+    },
+    "main_takeaway": {
+      "zh": "真实的激子-声子耦合强度不足以引发定义Dyakonov-Perel机制的运动收缩效应；在全布里渊区内，大动量谷间激子-声子散射是谷极化弛豫的主导通道，使弛豫速度加快了3到4倍。",
+      "en": "Realistic exciton-phonon coupling is too weak to induce the motional narrowing that defines the Dyakonov-Perel mechanism; instead, large-momentum intervalley exciton-phonon scattering across the full Brillouin zone is the dominant pathway, accelerating valley depolarization by a factor of 3-4."
+    },
+    "why_it_matters": {
+      "zh": "它纠正了长期以来将谷弛豫归因于Dyakonov-Perel机制的传统认识，定量给出了单层MoS2在不同温度下的谷极化和退相干时间，并指出了常用Lindblad近似方法存在的表象依赖性缺陷。",
+      "en": "It corrects the long-standing attribution of valley relaxation to the Dyakonov-Perel mechanism, provides quantitative temperature-dependent valley depolarization and decoherence times for MoS2, and exposes the representation-dependent artifacts of the widely used Lindblad approximation."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作通过严格的第一性原理动力学模拟，澄清了单层二维半导体中谷极化衰减的真实微观物理图像，否定了传统的DP机制解释。",
+        "en": "This work clarifies the true microscopic physics of valley depolarization in monolayer 2D semiconductors through rigorous first-principles dynamics, ruling out the conventional DP mechanism."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了凝聚态物理和二维材料领域关于谷动力学机制的长期争论，且方法具有高度的创新性和普适性。",
+        "en": "The study resolves a long-standing debate on valley dynamics in 2D materials with highly innovative and generalizable first-principles methodology."
+      }
+    },
+    "keywords": [
+      "monolayer MoS2",
+      "valley depolarization",
+      "non-Markovian dynamics",
+      "exciton-phonon scattering",
+      "Dyakonov-Perel mechanism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:54:38",
+    "input_scope": "full_pdf_text"
+  }
+}

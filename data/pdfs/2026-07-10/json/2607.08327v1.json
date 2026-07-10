@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2607.08327v1",
+    "title": "Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate",
+    "authors": [
+      "Philip Schwinghammer",
+      "Franziska S. Hegner",
+      "Frederico P. Delgado",
+      "Michel Panhans",
+      "Konrad Merkel",
+      "Frank Ortmann",
+      "Ian D. Sharp",
+      "David A. Egger"
+    ],
+    "abstract": "Bismuth vanadate (BiVO$_4$) is a prototypical oxide photocatalyst that occurs in both tetragonal and monoclinic scheelite phases with markedly different photocatalytic and photoelectrochemical activities. Accurately identifying the monoclinic phase as the ground state and explaining the origin of its symmetry-breaking distortion are unusually challenging from a theoretical perspective, with various levels of theory and associated physical interpretations for this behaviour reported in the literature. Here, we resolve these discrepancies by systematically assessing the role of exact exchange with and without spin-orbit coupling, demonstrating that an accurate treatment of electronic localization is essential to stabilize the monoclinic scheelite structure. Using this framework, we compute the electronic band structure through dense sampling of the Brillouin zone and show that the band edges in monoclinic and tetragonal BiVO$_4$ lie far from conventional high-symmetry paths, leading to substantial differences in band gaps and carrier effective masses. Choosing the exchange-correlation functional that best reproduces the crystal structure leads to excellent predictions of the band gap once excitonic and thermal effects are taken into account. In addition, we show that the monoclinic distortion is driven by charge transfer between non-equivalent oxygen sites, which breaks the lattice symmetry and is suppressed by self-interaction errors when using semi-local DFT. These results establish a direct connection between the exchange-correlation functional, electronic localization, chemical bonding, and structural stability in BiVO$_4$, providing a foundation for robust ab initio descriptions of phase stability and optoelectronic properties in such complex oxides.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-09T10:12:33Z",
+    "updated": "2026-07-09T10:12:33Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.08327v1",
+      "pdf_path": "data/pdfs/2026-07-10/3_Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate__2607.08327v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.717811",
+    "updated_at": "2026-07-10T01:53:00.717803Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/3_Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate__2607.08327v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08327v1",
+    "pdf_filename": "3_Interplay between Electronic Structure, Chemical Bonding, and Lattice Symmetry in Bismuth Vanadate__2607.08327v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文系统研究了钒酸铋中电子结构、化学键合与晶格对称性之间的相互作用，阐明了其单斜相畸变的物理机制。",
+      "en": "This work systematically investigates the interplay between electronic structure, chemical bonding, and lattice symmetry in bismuth vanadate, clarifying the physical mechanism driving its monoclinic distortion."
+    },
+    "problem": {
+      "zh": "解决理论计算在预测钒酸铋单斜相基态稳定性上的分歧，并阐明驱动其对称性破缺畸变的微观机制。",
+      "en": "Resolving theoretical discrepancies in predicting the monoclinic ground-state stability of BiVO4 and clarifying the microscopic mechanism driving its symmetry-breaking distortion."
+    },
+    "approach": {
+      "zh": "结合杂化密度泛函理论、自旋轨道耦合、Bethe-Salpeter方程以及晶体轨道哈密顿布居分析，系统评估电子局域化、激子和温度效应对其结构和光学性质的影响。",
+      "en": "Combining hybrid density functional theory, spin-orbit coupling, Bethe-Salpeter equation, and crystal orbital Hamilton population analysis to systematically assess the effects of electronic localization, excitons, and temperature on structural and optical properties."
+    },
+    "main_takeaway": {
+      "zh": "单斜畸变由非等效氧位点之间的电荷转移和铋轨道杂化共同驱动，且必须在杂化泛函结合自旋轨道耦合的框架下才能被准确描述。",
+      "en": "The monoclinic distortion is driven by charge transfer between non-equivalent oxygen sites and bismuth orbital hybridization, which requires hybrid functionals combined with spin-orbit coupling for an accurate description."
+    },
+    "why_it_matters": {
+      "zh": "建立起交换关联泛函、电子局域化、化学键合与结构稳定性之间的直接联系，为复杂氧化物相稳定性和光电性质的从头算描述奠定了基础。",
+      "en": "It establishes a direct link between exchange-correlation functionals, electronic localization, chemical bonding, and structural stability, laying a foundation for robust ab initio descriptions of phase stability and optoelectronic properties in complex oxides."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了钒酸铋单斜相稳定性的物理起源，并指出了半局域泛函因自相互作用误差导致预测失效的根源。",
+        "en": "Clarifies the physical origin of the monoclinic phase stability in BiVO4 and identifies why semi-local functionals fail due to self-interaction errors."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究深入探讨了凝聚态物质的电子结构、晶格动力学和相变机制，非常符合PRB的收录范围。",
+        "en": "This study deeply explores the electronic structure, lattice dynamics, and phase transition mechanisms of condensed matter, which fits well within the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Bismuth vanadate",
+      "Density functional theory",
+      "Spin-orbit coupling",
+      "Phase stability",
+      "Excitonic effects",
+      "Chemical bonding"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:53:49",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2607.06885v2",
+    "title": "Resonant-impurity scanning tunneling spectroscopy in altermagnets: dual Fano resonance and Landau-quantization-induced nodal spin contrast",
+    "authors": [
+      "Yuan Hong",
+      "Zhigang Wang",
+      "Zhen-Guo Fu",
+      "Feng Chi",
+      "Cong Wang",
+      "Wei Zhang",
+      "Ping Zhang"
+    ],
+    "abstract": "Using a Green's-function formalism, we study the spin-resolved local spectral function of a resonant impurity coupled to a two-dimensional $d$% -wave altermagnetic substrate. It is found that the interplay between direct tunneling from the impurity to the scanning tunneling microscopy (STM) tip and altermagnet-mediated tunneling gives rise to a dual Fano resonance in the absence of an external magnetic field. Moreover, the anisotropic spin-dependent oscillations of the local density of states and the corresponding Fano factors provide information on the altermagnetic splitting strength from complementary local and global perspectives. In addition, spin-selective tunneling can be achieved by tuning the Fermi energy and the tip position. In the presence of a strong magnetic field with Landau-level quantization, the dominant scanning tunneling spectroscopy (STS) signature appears as a spin-dependent nodal structure in real space: the nodal mismatch between opposite spin channels produces a large local spin contrast. These results establish resonant-impurity STM/STS as a phase-sensitive local probe of altermagnetic band anisotropy.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-08T01:01:38Z",
+    "updated": "2026-07-09T10:47:35Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.06885v2",
+      "pdf_path": "data/pdfs/2026-07-10/3_Resonant-impurity scanning tunneling spectroscopy in altermagnets dual Fano resonance and Landau-quantization-induced no__2607.06885v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.720666",
+    "updated_at": "2026-07-10T01:53:00.720655Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/3_Resonant-impurity scanning tunneling spectroscopy in altermagnets dual Fano resonance and Landau-quantization-induced no__2607.06885v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.06885v2",
+    "pdf_filename": "3_Resonant-impurity scanning tunneling spectroscopy in altermagnets dual Fano resonance and Landau-quantization-induced no__2607.06885v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了交错磁体中共振杂质的扫描隧道谱，揭示了双Fano共振和朗道能级调制下的自旋对比度机制。",
+      "en": "Investigates scanning tunneling spectroscopy of a resonant impurity in altermagnets, revealing dual Fano resonance and Landau-quantization-induced spin contrast."
+    },
+    "problem": {
+      "zh": "如何利用局部扫描隧道谱表征交错磁体的自旋分裂能带各向异性，以及磁场对杂质诱导空间谱图的影响。",
+      "en": "How to characterize the spin-split band anisotropy of altermagnets using local scanning tunneling spectroscopy, and how magnetic fields affect impurity-induced spatial spectral patterns."
+    },
+    "approach": {
+      "zh": "采用格林函数方法，理论计算耦合到二维d波交错磁体基底的共振杂质的自旋分辨局部谱函数。",
+      "en": "Uses a Green's function formalism to theoretically calculate the spin-resolved local spectral function of a resonant impurity coupled to a 2D d-wave altermagnetic substrate."
+    },
+    "main_takeaway": {
+      "zh": "零磁场下隧穿干涉导致双Fano共振，可用于提取交错磁性分裂强度；强磁场下朗道能级调制产生空间自旋选择性节点，带来极高的局部自旋对比度。",
+      "en": "Tunneling interference yields dual Fano resonances at zero field for extracting altermagnetic splitting, while Landau quantization at high fields creates spin-selective spatial nodes, producing high local spin contrast."
+    },
+    "why_it_matters": {
+      "zh": "为实验上探测交错磁体的能带各向异性和自旋分裂提供了一种相位敏感的局部谱学方法。",
+      "en": "Provides a phase-sensitive local spectroscopic method to experimentally detect band anisotropy and spin splitting in altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "系统阐明了交错磁体中杂质辅助隧穿的干涉机制以及磁场下的空间自旋分辨行为。",
+        "en": "Systematically clarifies the interference mechanisms of impurity-assisted tunneling and spatial spin-resolved behaviors under magnetic fields in altermagnets."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作关注凝聚态物理中交错磁体和杂质散射的理论计算，非常符合PRB的定位。",
+        "en": "This work focuses on theoretical calculations of altermagnets and impurity scattering in condensed matter physics, which fits PRB well."
+      }
+    },
+    "keywords": [
+      "Altermagnets",
+      "Scanning tunneling spectroscopy",
+      "Fano resonance",
+      "Landau quantization",
+      "Spin contrast"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:53:20",
+    "input_scope": "full_pdf_text"
+  }
+}

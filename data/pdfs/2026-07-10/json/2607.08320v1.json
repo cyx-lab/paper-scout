@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.08320v1",
+    "title": "Approximate eigenfunctions for some aperiodic crystals",
+    "authors": [
+      "Long Meng"
+    ],
+    "abstract": "In this paper, we consider Hamiltonians for aperiodic crystals of the form \\begin{align*} H_\\varepsilon:=T(-i\\nabla_x+{\\mathbf A}(x,\\varepsilon x))+V(x,\\varepsilon x),\\qquad x\\in {\\mathbb R}^d \\end{align*} where $T$ represents either a Dirac operators or a Schrödinger operator, and $x\\mapsto {\\mathbf A}(x,X)$ and $x\\mapsto V(x,X)$ are $\\mathbb L$-periodic with respect to some lattice $\\mathbb L\\subset{\\mathbb R}^d$. Let \\begin{align*} (k,X)\\ni {\\mathbb R}^d\\times {\\mathbb R}^d\\mapsto h(k,X):=T(-i\\nabla_x+k+{\\mathbf A}(x,X))+V(x,X) \\end{align*} be a family of operators acting on $L^2_{\\rm per}(\\mathbb{R}^d/\\mathbb{L})$ with periodic boundary conditions. We show that, under some suitable assumptions on the family of operators $ (h(k,X))_{k,X}$ around an energy level $e_0\\in {\\mathbb R}$ and some points $(k_0,X_0)\\in {\\mathbb R}^d\\times {\\mathbb R}^d$, one can construct localized approximate eigenfunctions $Φ_\\varepsilon\\in L^2({\\mathbb R}^d)$ of the operator $H_\\varepsilon$ such that for $\\varepsilon$ small enough and for some $m\\in \\{1,2\\}$ and $μ\\in {\\mathbb R}$, \\begin{align}\\label{eq:abstract} \\|(H_\\varepsilon-e_0-\\varepsilon^{\\frac{m}{2}}μ)Φ_\\varepsilon\\|_{L^2({\\mathbb R}^d)}={\\mathcal O}(\\varepsilon^{\\frac{m}{2}+\\frac{1}{4}}). \\end{align} with \\begin{align*} \\|Φ_\\varepsilon\\|_{L^2({\\mathbb R}^d)}=\\frac{1}{|{\\mathbb R}^d/\\mathbb L|^{1/2}}+{\\mathcal O}(\\sqrt{\\varepsilon}). \\end{align*}",
+    "categories": [
+      "math-ph",
+      "cond-mat.mes-hall",
+      "math.FA",
+      "math.SP",
+      "quant-ph"
+    ],
+    "published": "2026-07-09T10:03:51Z",
+    "updated": "2026-07-09T10:03:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:aperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.08320v1",
+      "pdf_path": "data/pdfs/2026-07-10/4_Approximate eigenfunctions for some aperiodic crystals__2607.08320v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-10T01:53:00.717863",
+    "updated_at": "2026-07-10T01:53:00.717856Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-10/4_Approximate eigenfunctions for some aperiodic crystals__2607.08320v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.08320v1",
+    "pdf_filename": "4_Approximate eigenfunctions for some aperiodic crystals__2607.08320v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过半经典分析和布洛赫变换，为非周期晶体哈密顿量构建了局域化近似本征函数，并应用于量子霍尔效应和扁平带的研究。",
+      "en": "This paper constructs localized approximate eigenfunctions for aperiodic crystal Hamiltonians using semiclassical analysis and Bloch transform, applying the framework to quantum Hall effects and flat bands."
+    },
+    "problem": {
+      "zh": "在缺乏平移对称性的非周期晶体（如扭曲或应变材料）中，直接求解和分析其哈密顿量的本征值和本征函数非常困难。",
+      "en": "Directly solving and analyzing the eigenvalues and eigenfunctions of aperiodic crystal Hamiltonians is challenging due to the loss of translation invariance."
+    },
+    "approach": {
+      "zh": "结合布洛赫变换与外尔量子化，将非周期算符转化为算符值符号，并在能级和特定点附近对本征模式进行渐近展开，构建近似本征函数。",
+      "en": "Combining Bloch transform and Weyl quantization to convert the aperiodic operator into an operator-valued symbol, and performing asymptotic expansions of eigenmodes to construct approximate eigenfunctions."
+    },
+    "main_takeaway": {
+      "zh": "证明了非周期晶体中的有效哈密顿量可简化为带能量偏移的量子谐振子或朗道-薛定谔/狄拉克算符，并阐明了该能量偏移源于塞曼效应。",
+      "en": "It proves that the effective Hamiltonians in aperiodic crystals reduce to quantum harmonic oscillators or Landau-Schrödinger/Dirac operators with an energy shift arising from the Zeeman effect."
+    },
+    "why_it_matters": {
+      "zh": "该研究为分析扭曲双层石墨烯等新型二维材料的电子结构、分数霍尔效应及几乎平坦带结构提供了一个严格且通用的数学物理框架。",
+      "en": "This work provides a rigorous and unified mathematical framework for analyzing electronic structures, fractional quantum Hall effects, and almost flat bands in novel 2D materials like twisted bilayer graphene."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "建立了非周期晶体近似本征函数构建的统一数学框架，并首次定量解释了有效谐振子近似中的能量偏移。",
+        "en": "Established a unified mathematical framework for constructing approximate eigenfunctions of aperiodic crystals and explained the energy shift in the effective harmonic oscillator approximation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Communications in Mathematical Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用严格的数学物理方法（半经典分析、算符谱理论），非常符合该期刊的定位。",
+        "en": "The paper employs rigorous mathematical physics methods (semiclassical analysis, spectral theory of operators), which fits the scope of this journal well."
+      }
+    },
+    "keywords": [
+      "aperiodic crystals",
+      "semiclassical analysis",
+      "Bloch transform",
+      "quantum Hall effect",
+      "flat bands"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-10",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-10T09:53:41",
+    "input_scope": "full_pdf_text"
+  }
+}
