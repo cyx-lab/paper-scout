@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.13529v1",
+    "title": "Hybridization-controlled re-entrant electronic phase switching and moire-confined states in twisted bilayer PtTe2",
+    "authors": [
+      "Seoung-Hun Kang",
+      "Jeonghwan Ahn",
+      "Young-Kyun Kwon"
+    ],
+    "abstract": "Twisting a van der Waals bilayer changes not only the moiré periodicity but also the local stacking and interlayer hybridization. Here, we show, using fully relaxed first-principles calculations including spin--orbit coupling, band unfolding, and Brillouin-zone-integrated densities of states, that bilayer PtTe$_2$ exhibits a non-monotonic evolution between gapless and gapped electronic regimes. The $7.34^\\circ$ structure remains gapless, whereas finite direct gaps appear at the sampled intermediate angles. The gap closes at the sampled $60^\\circ$ configuration and reopens at higher angles. The direct gap shows an overall increase with the minimum local interlayer Pt--Pt separation, although the complete distribution of local stacking environments is required to account for deviations from this trend. At $7.34^\\circ$, the low-energy states are concentrated predominantly in the AA-like regions of the otherwise gapless moiré cell. Controlled interlayer-separation scans show that increasing the layer spacing removes the near-$E_F$ crossings and opens a gap, consistent with weakened interlayer Te-$p_z$ hybridization. These results identify the redistribution of interlayer hybridization as the microscopic origin of the re-entrant gap evolution in twisted bilayer PtTe$_2$.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-15T07:29:56Z",
+    "updated": "2026-07-15T07:29:56Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:moire",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.13529v1",
+      "pdf_path": "data/pdfs/2026-07-16/3_Hybridization-controlled re-entrant electronic phase switching and moire-confined states in twisted bilayer PtTe2__2607.13529v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-16T01:30:11.073771",
+    "updated_at": "2026-07-16T01:30:11.073764Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-16/3_Hybridization-controlled re-entrant electronic phase switching and moire-confined states in twisted bilayer PtTe2__2607.13529v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.13529v1",
+    "pdf_filename": "3_Hybridization-controlled re-entrant electronic phase switching and moire-confined states in twisted bilayer PtTe2__2607.13529v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了转角双层PtTe2中由层间杂化控制的非单调（重入式）金属-绝缘体相变及莫尔局域态。",
+      "en": "The study reveals a non-monotonic (re-entrant) gapless-to-gapped electronic phase transition and moiré-confined states in twisted bilayer PtTe2 controlled by interlayer hybridization."
+    },
+    "problem": {
+      "zh": "厘清转角双层PtTe2在不同转角下的电子相演化规律及其微观物理机制。",
+      "en": "Clarifying the electronic phase evolution and the underlying microscopic mechanism in twisted bilayer PtTe2 across different twist angles."
+    },
+    "approach": {
+      "zh": "结合自洽结构弛豫的第一性原理计算、能带折叠技术、态密度分析以及受控层间距扫描。",
+      "en": "First-principles calculations with full structural relaxation, band unfolding, density of states analysis, and controlled interlayer-separation scans."
+    },
+    "main_takeaway": {
+      "zh": "转角双层PtTe2的能隙呈非单调演化，其微观起源是转角引起的局部层间距改变进而重塑了层间Te-pz轨道的杂化强度。",
+      "en": "The electronic gap of twisted bilayer PtTe2 evolves non-monotonically, microscopically driven by the redistribution of interlayer Te-pz orbital hybridization due to local layer spacing variations."
+    },
+    "why_it_matters": {
+      "zh": "提出了一种无需强关联效应、仅通过调控单粒子层间杂化来实现半金属二维材料物相转变的新途径，并预测了可被实验观测的畴区局域化态。",
+      "en": "It proposes a single-particle route to phase control in semimetallic 2D bilayers via interlayer hybridization tuning without strong correlation, predicting domain-confined states checkable by STM/ARPES."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了转角双层PtTe2中重入式能隙闭合与开启的层间杂化机制，并指出了局部堆叠环境的关键作用。",
+        "en": "It clarifies the interlayer hybridization mechanism behind the re-entrant gap opening and closing in twisted bilayer PtTe2, highlighting the role of local stacking environments."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究采用高精度DFT计算探讨二维材料的电子结构与物理机制，非常符合PRB的收录范围。",
+        "en": "The study focuses on detailed electronic structure calculations and physical mechanisms of 2D moiré materials, which aligns well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "twisted bilayer PtTe2",
+      "moire superlattice",
+      "interlayer hybridization",
+      "electronic phase transition",
+      "band unfolding"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-16T09:31:21",
+    "input_scope": "full_pdf_text"
+  }
+}

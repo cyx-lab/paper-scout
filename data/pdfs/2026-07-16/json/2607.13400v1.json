@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.13400v1",
+    "title": "Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS",
+    "authors": [
+      "Shovan Gayen",
+      "Sk. Soyeb Ali",
+      "S K Panda"
+    ],
+    "abstract": "We combine first-principles density-functional theory, Berry-curvature analysis, semiclassical Boltzmann transport, and atomistic spin dynamics to establish hexagonal NiS as a compensated 3d altermagnetic semimetal in which topology, magnetism, and lattice dynamics are intrinsically intertwined. The rotational coset symmetry of the NiAs lattice produces momentum-dependent spin splitting characteristic of altermagnetism. With spin-orbit coupling, gapped Dirac-like crossings generate intense Berry-curvature hot spots and nearly compensated electron-hole pockets. This leads to a large and anisotropic intrinsic spin Hall conductivity comparable to that of several 4d, 5d metals, a symmetry-allowed anomalous Hall response despite zero net magnetization, and nonsaturating magnetoresistance exceeding 10000 percent. On the magnetic side, first-principles determination of the exchange tensor reveals dominant long-range superexchange and sizable anisotropic interactions, quantitatively reproducing the experimental Neel temperature. Our results identify NiS as a model 3d platform in which carrier compensation, altermagnetic symmetry, Berry-curvature driven transport, and lattice-sensitive magnetism coexist within a single symmetry framework, offering a design principle for multi-functional quantum responses in correlated transition-metal compounds.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-15T02:53:13Z",
+    "updated": "2026-07-15T02:53:13Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.13400v1",
+      "pdf_path": "data/pdfs/2026-07-16/3_Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS__2607.13400v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-16T01:30:11.074018",
+    "updated_at": "2026-07-16T01:30:11.074010Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-16/3_Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS__2607.13400v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.13400v1",
+    "pdf_filename": "3_Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS__2607.13400v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文证实了六角NiS是一种兼具交错磁性、狄拉克拓扑能带和载流子补偿的半金属，展现出巨磁电阻和强自旋/反常霍尔响应。",
+      "en": "This work establishes hexagonal NiS as a compensated altermagnetic semimetal exhibiting coexisting Dirac topology, carrier compensation, and large spin and anomalous Hall responses."
+    },
+    "problem": {
+      "zh": "在单一磁性材料中同时实现狄拉克拓扑、载流子补偿、反常霍尔响应和巨磁电阻的共存与协同调控。",
+      "en": "Achieving the coexistence and cooperative interplay of Dirac topology, carrier compensation, anomalous Hall response, and giant magnetoresistance in a single magnetic material."
+    },
+    "approach": {
+      "zh": "结合第一性原理密度泛函理论计算（LSDA+U+SOC）、贝里曲率分析、半经典玻尔兹曼输运理论以及原子自旋动力学模拟。",
+      "en": "Combining first-principles density functional theory (LSDA+U+SOC), Berry curvature analysis, semiclassical Boltzmann transport, and atomistic spin dynamics simulations."
+    },
+    "main_takeaway": {
+      "zh": "六角NiS的交错磁性对称性打破了传统共线反铁磁中本征反常霍尔效应为零的限制，同时其近乎完美的电子-空穴补偿导致了超过1000%的非饱和巨磁电阻。",
+      "en": "The altermagnetic symmetry of hexagonal NiS lifts the constraint forbidding intrinsic anomalous Hall response in collinear magnets, while its nearly perfect electron-hole compensation yields a non-saturating magnetoresistance exceeding 1000%."
+    },
+    "why_it_matters": {
+      "zh": "它为在化学结构简单的3d过渡金属硫族化物中通过对称性控制实现多功能拓扑输运和自旋电子学器件提供了理论设计原则。",
+      "en": "It provides theoretical design principles for achieving multifunctional topological transport and spintronic responses via symmetry control in chemically simple 3d transition-metal chalcogenides."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究首次将交错磁性、狄拉克拓扑与载流子补偿导致的巨磁电阻统一在单一的NiS材料中，并给出了磁性与输运的定量微观图像。",
+        "en": "It unifies altermagnetism, Dirac topology, and compensation-driven giant magnetoresistance in a single NiS system with quantitative magnetic and transport modeling."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文紧扣交错磁性与拓扑输运这一当前凝聚态物理前沿热点，且计算方法完备、结论明确，非常符合该期刊的发表标准。",
+        "en": "The paper addresses the hot topic of altermagnetism and topological transport with comprehensive calculations, making it highly suitable for PRL."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Dirac semimetal",
+      "Anomalous Hall effect",
+      "Magnetoresistance",
+      "Nickel sulfide"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-16T09:31:14",
+    "input_scope": "full_pdf_text"
+  }
+}

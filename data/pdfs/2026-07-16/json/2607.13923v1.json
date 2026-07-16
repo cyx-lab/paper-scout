@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2607.13923v1",
+    "title": "Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets",
+    "authors": [
+      "Dimos Chatzichrysafis",
+      "Alexander Mook"
+    ],
+    "abstract": "We theoretically demonstrate that axial phonons, lattice vibration quanta carrying finite angular momentum, can host a $d$-wave angular momentum texture in orbital altermagnets in the absence of spin-orbit coupling. We consider a minimal electronic tight-binding model with $d$-wave loop-current order that breaks time-reversal symmetry. Within the Born-Oppenheimer approximation, we incorporate electron-phonon coupling via the molecular Berry curvature and show that the underlying $d$-wave orbital magnetic moment texture of the electronic state is transferred to the phonons without requiring the relativistic spin-orbit coupling. Our results expand the range of platforms available for engineering axial phonons and point to functionality unique to $d$-wave textures, including angular-momentum Seebeck and splitter effects, corresponding to longitudinal and transverse angular-momentum currents driven by a temperature gradient.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-15T15:01:42Z",
+    "updated": "2026-07-15T15:01:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.13923v1",
+      "pdf_path": "data/pdfs/2026-07-16/3_Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets__2607.13923v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-16T01:30:11.072497",
+    "updated_at": "2026-07-16T01:30:11.072487Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-16/3_Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets__2607.13923v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.13923v1",
+    "pdf_filename": "3_Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets__2607.13923v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文理论证明了在无自旋轨道耦合的情况下，轨道交错磁体中可通过分子贝里曲率产生具有d波角动量织样的轴向声子。",
+      "en": "This work theoretically demonstrates that orbital altermagnets can host d-wave axial phonons via molecular Berry curvature without relying on spin-orbit coupling."
+    },
+    "problem": {
+      "zh": "探索如何在不依赖微弱的相对论自旋轨道耦合的情况下，在磁性材料中诱导超越s波对称性的偶宇称声子角动量织样。",
+      "en": "Exploring how to induce even-parity phonon angular momentum textures beyond s-wave symmetry in magnetic materials without relying on weak relativistic spin-orbit coupling."
+    },
+    "approach": {
+      "zh": "采用具有d波环路电流秩序的棋盘格子紧束缚模型，在玻恩-奥本海默近似下通过分子贝里曲率引入电子-声子耦合，计算声子谱及声子角动量。",
+      "en": "Using a checkerboard-lattice tight-binding model with d-wave loop-current order, incorporating electron-phonon coupling via molecular Berry curvature under the Born-Oppenheimer approximation to calculate phonon spectra and angular momentum."
+    },
+    "main_takeaway": {
+      "zh": "轨道交错磁体中的非相对论电子-声子耦合可将电子的d波轨道磁矩织样传递给声子，从而产生d波轴向声子。",
+      "en": "Non-relativistic electron-phonon coupling in orbital altermagnets can transfer the electronic d-wave orbital magnetic moment texture to phonons, generating d-wave axial phonons."
+    },
+    "why_it_matters": {
+      "zh": "它拓宽了设计轴向声子的材料平台，并预测了由温度梯度驱动的声子角动量塞贝克和分裂效应，为实验探测提供了新途径。",
+      "en": "It expands the material platforms for engineering axial phonons and predicts temperature-gradient-driven phonon angular-momentum Seebeck and splitter effects, offering new routes for experimental detection."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了轨道交错磁性与声子角动量之间的直接联系，提出了一种无需自旋轨道耦合即可产生高阶声子角动量织样的新机制。",
+        "en": "Reveals a direct link between orbital altermagnetism and phonon angular momentum, proposing a new mechanism to generate higher-order phonon angular momentum textures without spin-orbit coupling."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了交错磁性与声子角动量之间的新物理关联，并预测了可观测的输运效应，非常适合发表在物理学顶级期刊。",
+        "en": "The study proposes a novel physical link between altermagnetism and phonon angular momentum with observable transport signatures, making it highly suitable for top physics journals."
+      }
+    },
+    "keywords": [
+      "axial phonons",
+      "orbital altermagnets",
+      "molecular Berry curvature",
+      "angular-momentum splitter effect",
+      "thermal transport"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-16T09:31:46",
+    "input_scope": "full_pdf_text"
+  }
+}

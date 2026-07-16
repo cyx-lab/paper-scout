@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.13863v1",
+    "title": "Ultrafast altermagnetophononics",
+    "authors": [
+      "Chenyu Wang",
+      "Yaxian Wang",
+      "Sheng Meng"
+    ],
+    "abstract": "Altermagnets feature symmetry-dictated nontrivial spin splitting in electronic structure promising for next-generation spintronics, yet their ultrafast dynamical manipulation remains largely unexplored. Here, we establish altermagnetophononics as an efficient route for magnetic control via selective symmetry breaking induced by coherent phonons. Using the prototypical altermagnet $α$-MnTe as an example, we demonstrate that the targeted excitation of B$_{1g}$ mode selectively lifts the symmetry constraints protecting altermagnetism (AM), driving ultrafast transition into a transient compensated ferrimagnetic (cFiM) phase characterized by a global spin splitting without net magnetization. Further, we show that the proposed mechanism is broadly applicable by demonstrating a multi-mode symmetry breaking pathway, and by realizing a ferrimagnetic order with reversible magnetic moment in metallic CrSb. These findings elucidate the potential to obtain desirable nonequilibrium properties in altermagnets via coherent phononic control over their spin splittings.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-15T14:07:37Z",
+    "updated": "2026-07-15T14:07:37Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.13863v1",
+      "pdf_path": "data/pdfs/2026-07-16/3_Ultrafast altermagnetophononics__2607.13863v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-16T01:30:11.072768",
+    "updated_at": "2026-07-16T01:30:11.072758Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-16/3_Ultrafast altermagnetophononics__2607.13863v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.13863v1",
+    "pdf_filename": "3_Ultrafast altermagnetophononics__2607.13863v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了超快交错磁声子学框架，通过相干声子选择性破缺晶格对称性，实现交错磁性的超快调控。",
+      "en": "This work establishes ultrafast altermagnetophononics to achieve ultrafast control of altermagnetism via selective symmetry breaking induced by coherent phonons."
+    },
+    "problem": {
+      "zh": "交错磁体中由对称性保护的非平庸自旋分裂的超快动力学调控方法尚不明确。",
+      "en": "The ultrafast dynamical manipulation of symmetry-protected spin splitting in altermagnets remains largely unexplored."
+    },
+    "approach": {
+      "zh": "基于对称性分析和第一性原理计算，以锰特（alpha-MnTe）和锑化铬（CrSb）为例，研究相干声子（如B1g模式或多模式组合）激发对交错磁性对称性的动态破缺。",
+      "en": "Based on symmetry analysis and first-principles calculations, the authors study the dynamic symmetry breaking of altermagnetism in alpha-MnTe and CrSb driven by coherent phonons (such as the B1g mode or multi-mode combinations)."
+    },
+    "main_takeaway": {
+      "zh": "激发特定的相干声子可以消除保护交错磁性的空间对称性约束，从而在亚皮秒尺度上将其驱动为具有全局自旋分裂但无净磁矩的瞬态补偿亚铁磁相。",
+      "en": "Exciting specific coherent phonons lifts the symmetry constraints protecting altermagnetism, driving a sub-picosecond transition into a transient compensated ferrimagnetic phase with global spin splitting but zero net magnetization."
+    },
+    "why_it_matters": {
+      "zh": "它为超快调控交错磁性提供了一种通用的、由对称性主导的物理机制，无需依赖复杂的微观自旋-声子耦合参数计算，有助于设计下一代高速自旋电子学器件。",
+      "en": "It provides a general, symmetry-driven mechanism for ultrafast manipulation of altermagnetism without requiring complex microscopic spin-phonon coupling calculations, facilitating the design of high-speed spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次将磁声子学概念拓展到交错磁体，提出了通过相干声子调控交错磁性自旋分裂的新机制。",
+        "en": "It extends the concept of magnetophononics to altermagnets for the first time, proposing a new mechanism to manipulate altermagnetic spin splitting via coherent phonons."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作提出了“交错磁声子学”这一新颖的物理概念，并结合典型材料进行了论证，非常符合该期刊的定位。",
+        "en": "The work proposes a novel physical concept of altermagnetophononics and demonstrates it with prototypical materials, which fits the scope of the journal perfectly."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "coherent phonons",
+      "symmetry breaking",
+      "ultrafast control",
+      "compensated ferrimagnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-16T09:31:30",
+    "input_scope": "full_pdf_text"
+  }
+}

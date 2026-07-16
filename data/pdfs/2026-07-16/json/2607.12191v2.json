@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2607.12191v2",
+    "title": "Phase-Controlled Epitaxy and Anisotropic Antiferromagnetism of Polar Wurtzite MnTe",
+    "authors": [
+      "Janusz Sadowski",
+      "Jaroslaw Z. Domagala",
+      "Piotr Dziawa",
+      "Anna Kaleta",
+      "Sania Dad",
+      "Maciej Wójcik",
+      "Dorota Janaszko",
+      "Sławomir Kret",
+      "Oleksii Liubchenko",
+      "Maciej Sawicki",
+      "Katarzyna Gas"
+    ],
+    "abstract": "Altermagnetic spintronics requires materials in which compensated magnetic order, symmetry-controlled electronic responses, and epitaxial tunability can be combined in experimentally accessible thin films. MnTe is a key material in this context, but experimental studies have focused mainly on the stable NiAs-type polymorph, whereas the polar wurtzite phase remains largely unexplored. Here we demonstrate molecular-beam epitaxy growth and investigate properties of nearly phase-pure wurtzite MnTe deposited directly on GaAs(111)B, and show that small changes in the growth conditions strongly modify the phase composition, from a multiphase state with endotaxial NiAs-type inclusions embedded in wurtzite MnTe matrix to an almost single-phase polar wurtzite layer.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-13T22:19:38Z",
+    "updated": "2026-07-15T15:25:21Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.12191v2",
+      "pdf_path": "data/pdfs/2026-07-16/3_Phase-Controlled Epitaxy and Anisotropic Antiferromagnetism of Polar Wurtzite MnTe__2607.12191v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-16T01:30:11.076117",
+    "updated_at": "2026-07-16T01:30:11.076108Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-16/3_Phase-Controlled Epitaxy and Anisotropic Antiferromagnetism of Polar Wurtzite MnTe__2607.12191v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.12191v2",
+    "pdf_filename": "3_Phase-Controlled Epitaxy and Anisotropic Antiferromagnetism of Polar Wurtzite MnTe__2607.12191v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文实现了极性纤锌矿结构MnTe薄膜的相位控制外延生长，并证实了其具有各向异性的反铁磁性。",
+      "en": "This work demonstrates the phase-controlled epitaxial growth of polar wurtzite MnTe thin films and establishes their anisotropic antiferromagnetism."
+    },
+    "problem": {
+      "zh": "缺乏高相纯度的极性纤锌矿结构MnTe外延薄膜，限制了对其潜在交错磁性及对称性控制响应的研究。",
+      "en": "The lack of high-phase-purity epitaxial thin films of polar wurtzite MnTe limits the study of its potential altermagnetic and symmetry-controlled properties."
+    },
+    "approach": {
+      "zh": "利用分子束外延技术在GaAs(111)B衬底上直接生长MnTe，通过微调生长温度抑制NiAs型杂相，并结合X射线衍射、透射电镜和SQUID磁强计进行结构与磁学表征。",
+      "en": "Grew MnTe directly on GaAs(111)B using molecular beam epitaxy, suppressed the NiAs-type secondary phase by tuning the growth temperature, and characterized the films using X-ray diffraction, transmission electron microscopy, and SQUID magnetometry."
+    },
+    "main_takeaway": {
+      "zh": "成功制备出近单相的纤锌矿MnTe薄膜，确定其为反铁磁半导体（奈尔温度约为58 K），并在转变温度以下表现出明显的磁各向异性。",
+      "en": "Successfully fabricated nearly single-phase wurtzite MnTe films, identifying them as antiferromagnetic semiconductors with a Neel temperature of approximately 58 K and distinct magnetic anisotropy below this transition."
+    },
+    "why_it_matters": {
+      "zh": "为探索纤锌矿锰硫族化合物中竞争磁结构、交错磁性及多铁性提供了理想的实验平台。",
+      "en": "It provides an ideal experimental platform for exploring competing magnetic configurations, altermagnetism, and multiferroicity in wurtzite Mn chalcogenides."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次实现了高相纯度纤锌矿MnTe薄膜的直接外延生长，并定量表征了其低温反铁磁转变与各向异性。",
+        "en": "First demonstration of direct epitaxial growth of high-phase-purity wurtzite MnTe thin films and quantitative characterization of their low-temperature antiferromagnetic transition and anisotropy."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Advanced Functional Materials",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究展示了新型自旋电子学材料的制备与磁学表征，符合该期刊对功能材料及器件应用的定位。",
+        "en": "The study presents the fabrication and magnetic characterization of a novel spintronic material, fitting the journal's focus on functional materials and device applications."
+      }
+    },
+    "keywords": [
+      "wurtzite MnTe",
+      "molecular beam epitaxy",
+      "antiferromagnetism",
+      "magnetic anisotropy",
+      "phase control"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-16T09:31:05",
+    "input_scope": "full_pdf_text"
+  }
+}

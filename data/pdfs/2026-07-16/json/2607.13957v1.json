@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2607.13957v1",
+    "title": "Temporal Fourier Optics Reveals Hidden Hybridized Light-Matter States",
+    "authors": [
+      "Juan-Feng Zhu",
+      "Wenjie Zhou",
+      "Shihao Feng",
+      "Zicheng Song",
+      "Ruicong Zhang",
+      "Cheng-Wei Qiu",
+      "Rengming Liu",
+      "Lin Wu"
+    ],
+    "abstract": "Spectral measurements provide fundamental insights into wave systems by revealing resonances, mode hybridization, and light-matter interactions. However, intrinsic dissipation and measurement-induced spectral broadening often conceal the underlying hybridized light-matter states that give rise to measured spectra. Here, we establish a space-time Fourier correspondence that interprets spectral broadening as an effective temporal attenuation, giving rise to a temporal Fourier optics framework for recovering hidden spectral information. Implemented through a temporal point-spread-function (TPSF) reconstruction method, the framework compensates the effective temporal decay before Fourier transformation, directly reconstructing intrinsic spectral responses from experimentally measured spectra without repeated frequency synthesis or model-dependent fitting. We experimentally validate the approach in deterministic single-molecule Au nanosphere dimers and open Au@Ag nanorod- and nanotriangle-based plasmonic nanocavities coupled to J-aggregate excitons. Across these diverse platforms, TPSF consistently reconstructs hidden upper and lower polaritonic branches, thereby revealing the underlying hybridized light-matter states and strong coupling that remain unresolved in conventional scattering spectra. The reconstructed spectra agree closely with the recently developed complex-frequency formalism while offering a considerably simpler and more experimentally accessible implementation. Beyond strong light-matter coupling, temporal Fourier optics establishes a general framework for uncovering physical states hidden by dissipation, opening new opportunities for spectroscopy, imaging, sensing, and inverse wave measurements across photonics and wave physics.",
+    "categories": [
+      "physics.optics",
+      "physics.app-ph",
+      "quant-ph"
+    ],
+    "published": "2026-07-15T15:45:39Z",
+    "updated": "2026-07-15T15:45:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.13957v1",
+      "pdf_path": "data/pdfs/2026-07-16/3_Temporal Fourier Optics Reveals Hidden Hybridized Light-Matter States__2607.13957v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-16T01:30:11.072305",
+    "updated_at": "2026-07-16T01:30:11.072297Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-16/3_Temporal Fourier Optics Reveals Hidden Hybridized Light-Matter States__2607.13957v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.13957v1",
+    "pdf_filename": "3_Temporal Fourier Optics Reveals Hidden Hybridized Light-Matter States__2607.13957v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种基于时间傅里叶光学和时间点扩散函数的方法，直接从耗散展宽的实验光谱中重构出隐藏的强耦合极化激元分支。",
+      "en": "Proposes a temporal Fourier optics framework using a temporal point-spread function to directly reconstruct hidden polaritonic branches from dissipation-broadened experimental spectra."
+    },
+    "problem": {
+      "zh": "固有耗散和测量引起的谱线展宽常常掩盖强耦合系统中的杂化光-物质状态，导致在常规散射光谱中无法解析出拉比分裂。",
+      "en": "Intrinsic dissipation and measurement-induced spectral broadening often conceal hybridized light-matter states, preventing Rabi splitting from being resolved in conventional scattering spectra."
+    },
+    "approach": {
+      "zh": "利用空间-时间傅里叶对应关系将光谱展宽映射为时间衰减，通过维纳正则化的时间点扩散函数方法在时域补偿该衰减，从而重构出本征光谱。",
+      "en": "Maps spectral broadening to temporal decay using space-time Fourier correspondence, and compensates for this decay in the time domain via a Wiener-regularized temporal point-spread function to reconstruct intrinsic spectra."
+    },
+    "main_takeaway": {
+      "zh": "光谱展宽并非不可逆的信息丢失，通过时域逆向重构可以无需模型拟合地恢复出隐藏的极化激元双峰结构。",
+      "en": "Spectral broadening is not an irreversible loss of information; the hidden polaritonic doublet can be recovered without model-dependent fitting through inverse temporal reconstruction."
+    },
+    "why_it_matters": {
+      "zh": "该方法为表征强光-物质相互作用提供了一种无需复杂光源调制或色散模型拟合的简便途径，并可推广至声学、微波等其他耗散波系统。",
+      "en": "This method provides a simple route to characterize strong light-matter interactions without complex excitation engineering or dispersion model fitting, and can be generalized to other dissipative wave systems like acoustics and microwaves."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "引入了时间点扩散函数（TPSF）概念，为解决耗散波系统中的光谱展宽和信息恢复问题提供了全新的时域重构方案。",
+        "en": "Introduces the concept of temporal point-spread function (TPSF), offering a novel time-domain reconstruction scheme to address spectral broadening and information recovery in dissipative wave systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究结合了新颖的物理概念与单分子级别的等离激元强耦合实验验证，非常适合发表在顶级光子学期刊上。",
+        "en": "The study combines a novel physical concept with single-molecule level plasmonic strong coupling experiments, making it highly suitable for top-tier photonics journals."
+      }
+    },
+    "keywords": [
+      "Temporal Fourier optics",
+      "Spectral reconstruction",
+      "Strong light-matter coupling",
+      "Plasmonic nanocavities",
+      "Rabi splitting"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-16T09:32:11",
+    "input_scope": "full_pdf_text"
+  }
+}
