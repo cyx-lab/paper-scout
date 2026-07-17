@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.14829v1",
+    "title": "Monopole Spin Density Wave States in Magnetic Weyl Semimetals",
+    "authors": [
+      "Xi Luo"
+    ],
+    "abstract": "The interplay between topology and magnetism in Weyl semimetals has recently emerged as a fertile ground for novel quantum phases. While monopole harmonic order parameters have been established for superconductivity and charge density waves in these systems, their spin density wave counterparts remain unexplored. Here we introduce monopole spin density wave (SDW) states arising from particle-hole pairing between nested Fermi surfaces enclosing Weyl nodes of the same chirality. We demonstrate that the SDW order parameter inherits a nontrivial pairing Berry phase and is described by monopole harmonic functions that exhibit topologically protected nodal structures in the gap function. Through a concrete lattice model, we show that helical and cycloidal SDW orders produce distinct signatures in band structures, Fermi arc distributions, and surface spin polarization patterns, which can be directly resolved by spin- and angle-resolved photoemission spectroscopy. Remarkably, we find that the quantum geometric tensor of the monopole pairing realizes ideal quantum geometry in the weak-coupling limit, where quantum distance fluctuations are entirely governed by Berry curvature. Our results not only unify the understanding of monopole ordered states across pairing channels but also provide experimental avenues for distinguishing competing magnetic orders in ReAlX (Re=rare earth elements, X=Si, Ge) materials and suggest potential applications in topological spintronics.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-16T10:47:20Z",
+    "updated": "2026-07-16T10:47:20Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum geometric tensor",
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:quantum distance"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.14829v1",
+      "pdf_path": "data/pdfs/2026-07-17/3_Monopole Spin Density Wave States in Magnetic Weyl Semimetals__2607.14829v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-17T01:44:31.822400",
+    "updated_at": "2026-07-17T01:44:31.822390Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-17/3_Monopole Spin Density Wave States in Magnetic Weyl Semimetals__2607.14829v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.14829v1",
+    "pdf_filename": "3_Monopole Spin Density Wave States in Magnetic Weyl Semimetals__2607.14829v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了磁性外尔半金属中的单极子自旋密度波（SDW）态，并揭示了其独特的实验特征与理想量子几何性质。",
+      "en": "This paper introduces monopole spin density wave (SDW) states in magnetic Weyl semimetals, revealing their distinct experimental signatures and ideal quantum geometry."
+    },
+    "problem": {
+      "zh": "探讨在外尔半金属中，同手性外尔点之间的电子-空穴配对是否能形成具有非平凡配对贝里相位的单极子自旋密度波态。",
+      "en": "Investigating whether particle-hole pairing between Weyl nodes of the same chirality in Weyl semimetals can form monopole spin density wave states with nontrivial pairing Berry phases."
+    },
+    "approach": {
+      "zh": "建立单极子自旋密度波的理论框架，利用格点模型模拟螺旋和摆线型自旋密度波，计算其能带结构、费米弧分布、表面自旋极化以及配对量子几何张量。",
+      "en": "Establishing a theoretical framework for monopole SDWs, simulating helical and cycloidal SDW orders using a lattice model, and calculating band structures, Fermi arcs, surface spin polarization, and the pairing quantum geometric tensor."
+    },
+    "main_takeaway": {
+      "zh": "单极子自旋密度波由同手性外尔点配对产生，其序参量由单极谐振函数描述，且在弱耦合极限下能实现由贝里曲率完全决定的理想量子几何。",
+      "en": "Monopole SDW states arise from pairing of same-chirality Weyl nodes, described by monopole harmonics, and realize ideal quantum geometry fully governed by Berry curvature in the weak-coupling limit."
+    },
+    "why_it_matters": {
+      "zh": "为通过自旋角分辨光电子能谱（spin-ARPES）区分稀土铝硅/锗化物中竞争的磁结构提供了可行方案，并拓展了理想量子几何在凝聚态物理中的应用。",
+      "en": "It provides a feasible scheme to distinguish competing magnetic orders in ReAlX materials using spin-ARPES and expands the application of ideal quantum geometry in condensed matter physics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "首次将单极子序的概念推广到自旋密度波通道，并建立了其与理想量子几何的精确对应关系。",
+        "en": "It extends the concept of monopole order to the spin density wave channel for the first time and establishes its exact correspondence with ideal quantum geometry."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究提出了新型拓扑物态并与实验材料紧密结合，适合发表在物理学顶级期刊。",
+        "en": "The study proposes a new topological phase of matter with close ties to experimental materials, making it suitable for top-tier physics journals."
+      }
+    },
+    "keywords": [
+      "Weyl semimetals",
+      "spin density wave",
+      "monopole harmonics",
+      "quantum geometry",
+      "Fermi arcs"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-17T09:45:34",
+    "input_scope": "full_pdf_text"
+  }
+}

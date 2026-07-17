@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2607.15189v1",
+    "title": "Gyrotropy from Extrinsic Geometry in Twisted Materials",
+    "authors": [
+      "Spenser Talkington",
+      "Eugene J Mele"
+    ],
+    "abstract": "Gyrotropy in twisted bilayer graphene can be used as a signature of interlayer electronic coherence. Gyrotropy can emerge in the absence of interlayer coupling in time-reversal symmetric bilayer systems. This gyrotropy originates from the extrinsic geometry associated with the physical geometry of the system and is independent of the structure of the electronic states. We first illustrate this effect for a purely classical bilayer array of one-dimensional wires. Next we study twisted bilayer graphene and show that the gyrotropy is entirely due to interlayer coherence. In doing so we observe that conductivities calculated in the Bistritzer-MacDonald frame differ significantly from conductivities measurable in the lab frame. Finally we consider twisted bilayer MoTe2, first as a pristine model where the gyrotropy exactly vanishes, and then with weak strain and displacement fields where we show that the geometric gyrotropy can dominate the coherent gyrotropy. Our results call attention to the necessity to separate the contribution of extrinsic physical geometry from the contribution of intrinsic electronic states to the properties of twisted materials.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-16T16:43:21Z",
+    "updated": "2026-07-16T16:43:21Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.15189v1",
+      "pdf_path": "data/pdfs/2026-07-17/3_Gyrotropy from Extrinsic Geometry in Twisted Materials__2607.15189v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-17T01:44:31.820711",
+    "updated_at": "2026-07-17T01:44:31.820701Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-17/3_Gyrotropy from Extrinsic Geometry in Twisted Materials__2607.15189v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.15189v1",
+    "pdf_filename": "3_Gyrotropy from Extrinsic Geometry in Twisted Materials__2607.15189v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了扭曲双层材料中的光学旋光性不仅源于层间电子相干性，还可由不依赖于电子态结构的外部物理几何（外在几何）产生。",
+      "en": "The study reveals that optical gyrotropy in twisted bilayer materials originates not only from interlayer electronic coherence but also from the extrinsic physical geometry independent of the electronic state structure."
+    },
+    "problem": {
+      "zh": "如何区分和定量评估扭曲双层材料中由“内在”层间电子相干性与由“外在”真实空间物理几何引起的旋光性（手性光学响应）贡献。",
+      "en": "How to distinguish and quantitatively evaluate the contributions to optical gyrotropy (chiral optical response) in twisted bilayers arising from \"intrinsic\" interlayer electronic coherence versus \"extrinsic\" real-space physical geometry."
+    },
+    "approach": {
+      "zh": "通过构建无层间耦合的经典一维导线双层阵列模型、分析紧束缚连续区模型（TBG和TMD）的对称性，并计算实验室框架与局部框架下的层解析Kubo公式电导率进行对比研究。",
+      "en": "By constructing a classical 1D wire bilayer array model without interlayer coupling, analyzing the symmetries of tight-binding continuum models (TBG and TMD), and calculating and comparing layer-resolved Kubo formula conductivities in the lab frame versus the local frame."
+    },
+    "main_takeaway": {
+      "zh": "在扭曲双层过渡金属硫族化合物（如MoTe2）中，微弱的异质应变和位移场打破对称性后，由外在物理几何主导的旋光性可以远超由层间相干性引起的内在旋光性。",
+      "en": "In twisted transition metal dichalcogenides (like MoTe2), once symmetries are broken by weak heterostrain and a displacement field, the extrinsic gyrotropy dominated by physical geometry can far exceed the intrinsic gyrotropy from interlayer coherence."
+    },
+    "why_it_matters": {
+      "zh": "它指出了在分析扭曲材料的手性光学实验时，必须将外在几何贡献与内在电子态贡献区分开，并纠正了在Bistritzer-MacDonald局部框架下计算电导率会产生虚假旋光性信号的常见理论误区。",
+      "en": "It highlights the necessity of separating extrinsic geometric contributions from intrinsic electronic ones when analyzing chiral optical experiments in twisted materials, and corrects a common theoretical pitfall where calculating conductivities in the local Bistritzer-MacDonald frame yields spurious gyrotropic signals."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了扭曲材料中旋光性的几何与电子相干起源，并指出了连续区模型计算电导率时框架选择的关键问题。",
+        "en": "Clarified the geometric and electronic coherence origins of gyrotropy in twisted materials, and identified a critical frame-selection issue in continuum model conductivity calculations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作由凝聚态物理领域资深学者撰写，对魔角石墨烯等热门莫尔材料的电磁响应理论做出了重要修正和概念澄清，非常符合PRL的定位。",
+        "en": "Written by senior researchers in condensed matter physics, this work provides important corrections and conceptual clarifications to the electromagnetic response theory of popular moire materials like magic-angle graphene, fitting PRL perfectly."
+      }
+    },
+    "keywords": [
+      "twisted bilayer graphene",
+      "transition metal dichalcogenides",
+      "optical gyrotropy",
+      "extrinsic geometry",
+      "moire materials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-17T09:45:52",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "paper_record": {
+    "id": "2607.14723v1",
+    "title": "Tunable Magneto-Excitonic Coupling in Alloyed van der Waals Antiferromagnet",
+    "authors": [
+      "Maciej Smiertka",
+      "Oliwia Janikowska",
+      "Katarzyna Olkowska-Pucko",
+      "Grzegorz Krasucki",
+      "Katarzyna Posmyk",
+      "Paulina Peksa",
+      "Alessandro Surrente",
+      "Dimitar Pashov",
+      "Kseniia Mosina",
+      "Zdenek Sofer",
+      "Mark van Schilfgaarde",
+      "Adam Babinski",
+      "Maciej R. Molas",
+      "Gabriela Komorowska",
+      "Esteban Zamora-Amo",
+      "Andres Castellanos-Gomez",
+      "Federico Mompean",
+      "Mar Garcia-Hernandez",
+      "Michal Baranowski",
+      "Swagata Acharya",
+      "Paulina Plochocka"
+    ],
+    "abstract": "The unique coupling between magnetic order and photo-generated excitons, electron-hole pairs bound by Coulomb interaction, in layered magnetic semiconductors offers a powerful mechanism for controlling light-matter interactions. In the van der Waals antiferromagnet CrSBr, this coupling is exceptionally strong and manifests distinctly between two coexisting excitonic states: the localised, Frenkel-like XA exciton and the more delocalised, Wannier-Mott-like XB exciton, providing a unique playground for the optical control of magnetism. Here, we reveal how chlorine incorporation reshapes the magneto-optical interplay in CrSBr1-xClx by simultaneously modifying its electronic structure, excitonic properties, and magnetic interactions. Combining magneto-optical spectroscopy up to 85 T with state-of-the-art quasiparticle self-consistent GW (QSGW) calculations on alloy supercells, we show that Cl insertion progressively localises the excitonic wavefunctions and drives both states toward a more Frenkel-like regime. This evolution is accompanied by a systematic reduction of the magnetic-field-induced energy renormalisation, most prominently for the XB exciton. Our work connects exciton character directly to magneto-excitonic coupling. Furthermore, it establishes compositional alloying as an effective strategy for engineering the coupling between magnetic and optical properties in van der Waals magnetic semiconductors.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-16T08:52:16Z",
+    "updated": "2026-07-16T08:52:16Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.14723v1",
+      "pdf_path": "data/pdfs/2026-07-17/3_Tunable Magneto-Excitonic Coupling in Alloyed van der Waals Antiferromagnet__2607.14723v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-17T01:44:31.822851",
+    "updated_at": "2026-07-17T01:44:31.822841Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-17/3_Tunable Magneto-Excitonic Coupling in Alloyed van der Waals Antiferromagnet__2607.14723v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.14723v1",
+    "pdf_filename": "3_Tunable Magneto-Excitonic Coupling in Alloyed van der Waals Antiferromagnet__2607.14723v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，在范德华反铁磁体CrSBr中掺杂氯元素会增强激子的局域化，从而系统性地减弱磁-激子耦合。",
+      "en": "The study reveals that chlorine alloying in the van der Waals antiferromagnet CrSBr localizes excitonic wavefunctions, systematically reducing magneto-excitonic coupling."
+    },
+    "problem": {
+      "zh": "如何通过化学合金化调控范德华磁性半导体中不同类型激子的局域化特征及其与磁序的耦合。",
+      "en": "How to tune the localization character of coexisting excitons and their coupling to magnetic order in van der Waals magnetic semiconductors via chemical alloying."
+    },
+    "approach": {
+      "zh": "结合高达85T的强磁场 magneto-optical 光谱测量与基于合金超胞的准粒子自洽GW计算。",
+      "en": "Combining magneto-optical spectroscopy in magnetic fields up to 85T with quasiparticle self-consistent GW calculations on alloy supercells."
+    },
+    "main_takeaway": {
+      "zh": "氯的引入增强了激子的局域化（使其更接近Frenkel极限），从而降低了激子对磁序变化的敏感性，减小了磁场诱导的能量移动。",
+      "en": "Chlorine incorporation localizes excitonic states toward the Frenkel limit, reducing their sensitivity to magnetic order and decreasing the field-induced energy shift."
+    },
+    "why_it_matters": {
+      "zh": "建立了激子空间局域化程度与磁-激子耦合强度之间的直接联系，为调控二维磁性材料的磁光特性提供了新策略。",
+      "en": "It establishes a direct link between exciton localization and magneto-excitonic coupling strength, offering a new strategy to engineer magneto-optical properties in 2D magnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了卤素合金化调控激子波函数空间分布及其与磁序耦合强度的微观物理机制。",
+        "en": "It clarifies the microscopic mechanism of tuning exciton wavefunction spread and its coupling to magnetic order via halide alloying."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "结合了极高磁场（85T）的先进实验与高精度第一性原理计算，非常符合该期刊对凝聚态物理和材料科学领域高质量工作的要求。",
+        "en": "The combination of extreme magnetic field (85T) experiments and high-level first-principles calculations fits the journal's scope for high-quality condensed matter physics."
+      }
+    },
+    "keywords": [
+      "van der Waals antiferromagnet",
+      "magneto-excitonic coupling",
+      "exciton localization",
+      "alloy engineering",
+      "CrSBr"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-17T09:45:24",
+    "input_scope": "full_pdf_text"
+  }
+}

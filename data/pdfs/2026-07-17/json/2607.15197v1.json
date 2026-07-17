@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2607.15197v1",
+    "title": "Emergent d-wave altermagnetism in chlorine-adsorbed FeSe monolayer",
+    "authors": [
+      "Zi-Hao Ding",
+      "Ze-Feng Gao",
+      "Kai Liu",
+      "Peng-Jie Guo",
+      "Zhong-Yi Lu"
+    ],
+    "abstract": "The recent emergence of altermagnetism has opened new frontiers in condensed matter physics, yet material platforms capable of hosting both intrinsic altermagnetic order and superconductivity remain exceedingly rare. Here, based on symmetry analysis and first-principles calculations, we propose a realistic route to engineer robust altermagnetism in monolayer FeSe, a prototypical iron-based superconductor. By designing a stoichiometric Fe2Se2Cl structure through single-side Cl adsorption and introducing gate-tunable hole doping, we achieve a highly stable altermagnetic ground state. Our calculations reveal a synergistic mechanism: hole doping firmly stabilizes the checkerboard magnetic order, while the asymmetric ligand environment intrinsically breaks the outof-plane spatial inversion symmetry. Consequently, this interplay induces a giant altermagnetic spin splitting of up to 620 meV. Crucially, we demonstrate that this altermagnetic state and its giant spin splitting are highly resilient, persisting even in a 10-layer slab model that accurately simulates the bulk limit. By introducing altermagnetism into the well-established FeSe-based superconducting family, our findings identify Fe2Se2Cl as a promising platform for spintronic applications and motivate future studies of the possible interplay between altermagnetism and superconductivity.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-16T16:57:03Z",
+    "updated": "2026-07-16T16:57:03Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.15197v1",
+      "pdf_path": "data/pdfs/2026-07-17/3_Emergent d-wave altermagnetism in chlorine-adsorbed FeSe monolayer__2607.15197v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-17T01:44:31.820606",
+    "updated_at": "2026-07-17T01:44:31.820571Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-17/3_Emergent d-wave altermagnetism in chlorine-adsorbed FeSe monolayer__2607.15197v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.15197v1",
+    "pdf_filename": "3_Emergent d-wave altermagnetism in chlorine-adsorbed FeSe monolayer__2607.15197v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过单面吸附氯原子和空穴掺杂，在单层FeSe中实现了具有超大自旋分裂的稳态d波交错磁体。",
+      "en": "Stable d-wave altermagnetism with giant spin splitting is engineered in monolayer FeSe via single-sided Cl adsorption and hole doping."
+    },
+    "problem": {
+      "zh": "缺乏同时具有本征交错磁序和超导电性的材料平台。",
+      "en": "Lack of material platforms hosting both intrinsic altermagnetic order and superconductivity."
+    },
+    "approach": {
+      "zh": "利用第一性原理计算，设计单面吸附Cl的Fe2Se2Cl单层结构，并通过引入空穴掺杂稳定棋盘格磁序。",
+      "en": "Design a single-sided Cl-adsorbed Fe2Se2Cl monolayer and apply hole doping to stabilize the checkerboard magnetic order using first-principles calculations."
+    },
+    "main_takeaway": {
+      "zh": "空穴掺杂能有效稳定棋盘格磁序，结合单面吸附打破的空间反演对称性，可诱导出高达620 meV的巨大交错磁自旋分裂，且该效应在多层极限下依然稳定。",
+      "en": "Hole doping stabilizes the checkerboard order, which, combined with inversion symmetry breaking from asymmetric Cl adsorption, induces a giant altermagnetic spin splitting of up to 620 meV that persists in the bulk limit."
+    },
+    "why_it_matters": {
+      "zh": "将交错磁性引入经典的FeSe超导体系，为探索交错磁性与超导的共存及拓扑自旋电子学器件提供了可行平台。",
+      "en": "Introducing altermagnetism into the well-known FeSe superconducting family provides a viable platform to study the coexistence of altermagnetism and superconductivity for spintronics and topological quantum computing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种在铁基超导薄膜中实现稳态交错磁性的具体方案，并证实了其在多层结构中的鲁棒性。",
+        "en": "Proposes a concrete route to realize stable altermagnetism in iron-based superconducting films and demonstrates its robustness in multi-layer structures."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究将交错磁性与铁基超导两大热门领域结合，提出了新颖的物理机制，非常符合该期刊的定位。",
+        "en": "The study combines altermagnetism and iron-based superconductivity, proposing a novel physical mechanism that fits the journal's scope well."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "FeSe monolayer",
+      "spin splitting",
+      "surface functionalization",
+      "iron-based superconductivity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-17T09:46:01",
+    "input_scope": "full_pdf_text"
+  }
+}

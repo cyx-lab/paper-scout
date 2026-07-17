@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2607.14567v1",
+    "title": "Phase coherence control of a programmable high-Tc superconductor created by light",
+    "authors": [
+      "Viktoria Yursa",
+      "Igor Vaskivskyi",
+      "Anze Mraz",
+      "Damjan Svetin",
+      "Sergej Raznjevic",
+      "Vinko Srsan",
+      "Saso Sturm",
+      "Tomaz Mertelj",
+      "Mikhail Feigelman",
+      "Dragan Mihailovic"
+    ],
+    "abstract": "The quest for superconductivity created by light extends for more than half a century, yet direct evidence of a true zero-resistance state -whose macroscopic quantum phase coherence is both created and controlled by light -- has remained elusive. Here we report for the first time on a complex but robust light-programmable superconducting (LiPS) state at an aluminium-silicon heterojunction that is created and fully controlled with femtosecond laser pulses. The superconducting critical temperatures -- ranging from 1.8-8.5 K, can be increased or erased at will by the application of tailored pulse sequences. At low temperatures the LiPS state shows features characteristic of a Berezinski-Kosterlitz-Thouless topological transition, but another distinct state appears at temperatures above 2 K, which shows clear signatures of quantum phase disorder. In the presence of a magnetic field we observe behaviour characteristic of vortex pinning and creep consistent with the 2-dimensional (2D) nature of the phase coherent system. The origin of the LiPS effect is attributed to light pulse control of the Moire-like superlattice of misfit dislocations (MDs) that naturally occur as a result of discommensurations between Al and Si lattices at the interface, and is clearly observable by high-resolution electron microscopy. We show how light pulses can be used to control the superlattice periodicity and highlight the appearance of topologically protected soliton-like kinks along the dislocation lines, important for imparting metastability to the system. The demonstration of LiPS opens a route to the design of metastable long-range phase coherent superconducting states, leading to light-engineering of quantum circuits, local gap tuning in quantum processors and novel devices utilizing switchable superconductivity.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "physics.optics",
+      "quant-ph"
+    ],
+    "published": "2026-07-16T04:48:30Z",
+    "updated": "2026-07-16T04:48:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton",
+        "moire:moire"
+      ],
+      "author_match": false,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.14567v1",
+      "pdf_path": "data/pdfs/2026-07-17/5_Phase coherence control of a programmable high-Tc superconductor created by light__2607.14567v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-17T01:44:31.823197",
+    "updated_at": "2026-07-17T01:44:31.823156Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-17/5_Phase coherence control of a programmable high-Tc superconductor created by light__2607.14567v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.14567v1",
+    "pdf_filename": "5_Phase coherence control of a programmable high-Tc superconductor created by light__2607.14567v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文报道了在铝-硅异质结中利用飞秒光脉冲首次实现并完全控制的持久、可编程超导态。",
+      "en": "This paper reports the first realization and full control of a persistent, programmable superconducting state at an aluminum-silicon heterojunction using femtosecond laser pulses."
+    },
+    "problem": {
+      "zh": "如何利用光诱导并完全控制一个具有宏观量子相位相干性和零电阻的持久超导态。",
+      "en": "How to create and fully control a persistent superconducting state with macroscopic quantum phase coherence and zero resistance using light."
+    },
+    "approach": {
+      "zh": "在铝-硅异质结上施加飞秒激光脉冲序列来写入或擦除超导态，并通过输运测量和高分辨透射电镜表征界面错配位错超晶格的动力学。",
+      "en": "Applying femtosecond laser pulse sequences to write or erase superconducting states at an Al-Si heterojunction, and characterizing the dynamics of the interfacial misfit dislocation superlattice via transport measurements and HRTEM."
+    },
+    "main_takeaway": {
+      "zh": "通过光脉冲调控铝-硅界面处的错配位错超晶格，可以可逆地写入和擦除临界温度在1.8 K至8.5 K之间的持久超导态。",
+      "en": "A persistent superconducting state with a critical temperature between 1.8 K and 8.5 K can be reversibly written and erased by manipulating the misfit dislocation superlattice at the Al-Si interface using light pulses."
+    },
+    "why_it_matters": {
+      "zh": "它为光电工程化量子芯片、量子处理器中的局部能隙调控以及新型开关超导器件的设计开辟了新途径。",
+      "en": "It opens up new avenues for light-engineering of quantum circuits, local gap tuning in quantum processors, and the design of novel switchable superconducting devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次展示了光控可编程的持久零电阻超导态，并将其机制归因于界面位错超晶格的拓扑亚稳态调控。",
+        "en": "First demonstration of a light-programmable, persistent zero-resistance superconducting state, attributing the mechanism to the topological metastable control of the interfacial dislocation superlattice."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了长期以来光诱导超导缺乏持久零电阻证据的难题，概念新颖且数据详实。",
+        "en": "The study resolves the long-standing challenge of lacking persistent zero-resistance evidence in light-induced superconductivity, featuring a novel concept and comprehensive data."
+      }
+    },
+    "keywords": [
+      "Light-induced superconductivity",
+      "Al-Si heterojunction",
+      "Misfit dislocations",
+      "Programmable quantum state",
+      "BKT transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-17T09:44:58",
+    "input_scope": "full_pdf_text"
+  }
+}

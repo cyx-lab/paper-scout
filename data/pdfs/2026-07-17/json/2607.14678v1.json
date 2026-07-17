@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2607.14678v1",
+    "title": "Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskites",
+    "authors": [
+      "Ju-Young Kim",
+      "Anirban Mondal",
+      "Gi Rim Han",
+      "Kwang Jin Lee",
+      "Jong Min Lim",
+      "Myeongsam Jen",
+      "Minhaeng Cho"
+    ],
+    "abstract": "Two-dimensional (2D) Ruddlesden Popper perovskites are promising optoelectronic materials with strongly confined excitonic properties; however, probing their ultrafast carrier transport dynamics, particularly the initial nonequilibrium diffusion regime, remains challenging because conventional transient absorption microscopy requires complex spatial imaging and lacks sufficient temporal sensitivity to resolve early time diffusion dynamics. Here, we demonstrate a vortex beam based transient absorption microspectroscopy platform (VTAM) enabling imaging free measurement of carrier transport by encoding spatial diffusion information into the mode dependent pump probe signal. By employing vortex probes with different topological charges, VTAM provides mode selective spatial sensitivity to excitonic dynamics with subpicosecond temporal resolution. Using VTAM, we resolved rapid free exciton (FE) diffusion followed by relaxation toward a slower steady state transport regime. A theoretically derived time dependent diffusion model separated transient and steady state transport contributions, yielding a transient diffusion enhancement (68.84 cm2 per s) and a steady state diffusion coefficient (1.85 cm2 per s), thus providing an initial diffusion coefficient (70.69 cm2 per s), and a cooling time of 0.35 ps. Measurements at the exciton-polaron (EP) resonance revealed strongly suppressed diffusion with nearly time independent signal ratios, indicating lattice-coupled EP transport. These parameters were extracted without spatial scanning or image reconstruction, establishing V-TAM as a powerful imaging free platform for investigating carrier transport in perovskites and other semiconductor systems.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-07-16T07:42:39Z",
+    "updated": "2026-07-16T07:42:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.14678v1",
+      "pdf_path": "data/pdfs/2026-07-17/3_Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskit__2607.14678v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-17T01:44:31.823009",
+    "updated_at": "2026-07-17T01:44:31.823002Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-17/3_Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskit__2607.14678v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.14678v1",
+    "pdf_filename": "3_Vortex-Beam Transient Absorption Microspectroscopy Resolves Ultrafast Free-Exciton and Polaron Diffusion in 2D Perovskit__2607.14678v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文开发了一种基于涡旋光束的瞬态吸收微区光谱技术（V-TAM），无需空间成像即可解析二维钙钛矿中自由激子和极化子的超快扩散动力学。",
+      "en": "This work develops a vortex-beam-based transient absorption microspectroscopy (V-TAM) platform to resolve the ultrafast diffusion dynamics of free excitons and polarons in 2D perovskites without spatial imaging."
+    },
+    "problem": {
+      "zh": "传统的瞬态吸收显微镜需要复杂的空间扫描和图像重建，且难以在亚皮秒时间尺度上灵敏地分辨非平衡态（热载流子）的早期扩散过程。",
+      "en": "Conventional transient absorption microscopy requires complex spatial scanning and image reconstruction, and lacks the temporal sensitivity to resolve early-time nonequilibrium (hot-carrier) diffusion dynamics on sub-picosecond scales."
+    },
+    "approach": {
+      "zh": "结合高斯泵浦光和不同拓扑电荷的涡旋探测光，将空间扩散信息编码进模式相关的泵浦-探测信号中，并结合随时间变化的扩散模型提取输运参数。",
+      "en": "Combining a Gaussian pump with vortex probe beams of different topological charges to encode spatial diffusion into mode-dependent pump-probe signals, analyzed using a time-dependent diffusion model."
+    },
+    "main_takeaway": {
+      "zh": "成功区分了二维钙钛矿中自由激子的超快热载流子扩散（初始扩散系数达70.69平方厘米每秒，冷却时间0.35皮秒）与晶格耦合的激子-极化子受限输运（扩散极慢且与时间无关）。",
+      "en": "Successfully distinguished the ultrafast hot-carrier diffusion of free excitons (initial diffusion coefficient of 70.69 cm2/s, cooling time of 0.35 ps) from the strongly suppressed, lattice-coupled transport of exciton-polarons."
+    },
+    "why_it_matters": {
+      "zh": "该方法将“显微成像问题”转化为“光谱重叠问题”，实现了无扫描的超快输运测量，为研究低维半导体材料中的非平衡态载流子动力学提供了高效的新工具。",
+      "en": "By transforming a microscopy imaging problem into a spectroscopic mode-overlap measurement, this method enables scanning-free tracking of ultrafast transport, offering a powerful tool for studying nonequilibrium carriers in low-dimensional semiconductors."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出并实验验证了一种无需空间扫描即可测量超快扩散的新型光谱学方法，并成功应用于二维钙钛矿中激子与极化子输运的解耦。",
+        "en": "Proposes and experimentally validates a novel scanning-free spectroscopic method for measuring ultrafast diffusion, successfully decoupling exciton and polaron transport in 2D perovskites."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作展示了一种创新的超快光谱表征技术，并解决了二维钙钛矿中载流子输运的关键物理问题，非常符合该期刊对方法学创新和物理深入理解的要求。",
+        "en": "The work demonstrates an innovative ultrafast spectroscopy technique and addresses key physical questions in 2D perovskite carrier transport, fitting the journal's scope for methodological innovation and physical insights."
+      }
+    },
+    "keywords": [
+      "2D perovskites",
+      "vortex-beam",
+      "transient absorption",
+      "exciton diffusion",
+      "hot-carrier transport",
+      "exciton-polaron"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-17T09:45:09",
+    "input_scope": "full_pdf_text"
+  }
+}
