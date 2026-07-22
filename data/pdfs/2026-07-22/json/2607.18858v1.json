@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.18858v1",
+    "title": "Vortex clusters bifurcating from multipoles and second-order ring solitons",
+    "authors": [
+      "Hanqi Dong",
+      "Boris A. Malomed",
+      "Zhiwei Men"
+    ],
+    "abstract": "We address the existence, stability, and propagation dynamics of multipole solitons and vortex clusters in cubicquintic media subject to a harmonic trapping potential.We found that vortex clusters comprising N off centered vortices with alternating topological charges m equal to +(-)1, evenly distributed on a ring, can bifurcate from a multipole soliton for N less than or equal to 4 and from a second-order ring soliton for N greater than 4. Rigorous linear stability analysis, corroborated by direct numerical simulations, shows that upper branch vortex clusters with N equal to 2 and 4 remain stable over a wide range of the propagation constant. Thus, we reveal the formation mechanism of vortex clusters.",
+    "categories": [
+      "physics.optics",
+      "nlin.PS"
+    ],
+    "published": "2026-07-21T08:48:12Z",
+    "updated": "2026-07-21T08:48:12Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.18858v1",
+      "pdf_path": "data/pdfs/2026-07-22/2_Vortex clusters bifurcating from multipoles and second-order ring solitons__2607.18858v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-22T01:30:09.005378",
+    "updated_at": "2026-07-22T01:30:09.005370Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-22/2_Vortex clusters bifurcating from multipoles and second-order ring solitons__2607.18858v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.18858v1",
+    "pdf_filename": "2_Vortex clusters bifurcating from multipoles and second-order ring solitons__2607.18858v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了在调和势阱和立方-五次方非线性作用下，涡旋团簇如何从多极孤子和二阶环形孤子中分岔产生及其稳定性。",
+      "en": "This paper investigates the bifurcation and stability of vortex clusters from multipole and second-order ring solitons in cubic-quintic media with a harmonic trapping potential."
+    },
+    "problem": {
+      "zh": "揭示二维非线性介质中涡旋团簇的形成与稳定化机制。",
+      "en": "Unveiling the formation and stabilization mechanisms of vortex clusters in two-dimensional nonlinear media."
+    },
+    "approach": {
+      "zh": "采用带有调和势阱的二维立方-五次方非线性薛定谔方程进行建模，结合线性稳定性分析与直接数值模拟研究孤子的动力学行为。",
+      "en": "Modeling with the 2D cubic-quintic nonlinear Schrödinger equation under a harmonic potential, and analyzing soliton dynamics using linear stability analysis and direct numerical simulations."
+    },
+    "main_takeaway": {
+      "zh": "数量不超过4的交替电荷涡旋团簇自多极孤子分岔产生，而更多数量的团簇自二阶环形孤子分岔产生，且双极和四极涡旋团簇在宽参数范围内保持稳定。",
+      "en": "Vortex clusters with up to 4 alternating-charge vortices bifurcate from multipole solitons, while larger clusters bifurcate from second-order ring solitons, with dipole and quadrupole clusters showing stability over a wide range."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在非线性光学、玻色-爱因斯坦凝聚及量子液滴等系统中操纵和稳定复杂的涡旋结构提供了理论依据。",
+      "en": "This study provides a theoretical basis for manipulating and stabilizing complex vortex structures in nonlinear optics, Bose-Einstein condensates, and quantum droplets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了不同尺寸涡旋团簇的分岔来源，并给出了其稳定存在的参数区间。",
+        "en": "It clarifies the bifurcation origins of vortex clusters of different sizes and identifies the parameter regions for their stable propagation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Optics Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文采用 Optics Letters 模板排版，且研究主题属于典型的非线性光学空间孤子领域。",
+        "en": "The manuscript is formatted in the Optics Letters template, and the topic fits well within the field of spatial solitons in nonlinear optics."
+      }
+    },
+    "keywords": [
+      "spatial solitons",
+      "vortex clusters",
+      "cubic-quintic nonlinearity",
+      "harmonic potential",
+      "bifurcation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-22T09:30:40",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.19018v1",
+    "title": "Pure Spin Bulk Photovoltaic Effect in an Altermagnetic Higher-Order Topological Insulator",
+    "authors": [
+      "Sibgat Ulah",
+      "Ankan Bhattacharyya",
+      "Manisha Thakurathi"
+    ],
+    "abstract": "We investigate the bulk photovoltaic effect (BPVE) in a $PT$-symmetric two-dimensional heterostructure consisting of a topological insulator coupled to a $d$-wave altermagnet. To describe the symmetry-enforced degenerate bands of this system, we develop a non-Abelian formulation of the spin BPVE, extending the conventional theory from isolated nondegenerate bands to $PT$-degenerate manifolds. We show that the orientation of the Néel vector controls both the topological phase and the character of the nonlinear optical response. When the Néel vector lies in the $xy$-plane, the heterostructure realizes a second-order topological insulator (SOTI) protected by $C_{4z}T$ symmetry. The system also retains $C_{2z}$ symmetry, which completely suppresses second-order charge photocurrents while allowing finite spin photocurrents. As a result, the BPVE becomes an intrinsically pure spin photovoltaic effect, generating a dc spin current without an accompanying charge current. We find that linearly polarized light drives a spin shift current, whereas circularly polarized light generates a spin injection current. Both responses undergo a sign reversal whenever the local Dirac mass changes sign. As the Néel vector is rotated toward the $z$-axis, the SOTI phase transforms into a first-order topological insulating phase, leading to the coexistence of charge and spin photocurrents. Our results establish $PT$-symmetric altermagnetic topological-insulator heterostructures as a versatile platform for generating and controlling pure spin photocurrents and reveal nonlinear spin transport as a sensitive probe of topology and magnetic symmetry.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-07-21T12:02:22Z",
+    "updated": "2026-07-21T12:02:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.19018v1",
+      "pdf_path": "data/pdfs/2026-07-22/3_Pure Spin Bulk Photovoltaic Effect in an Altermagnetic Higher-Order Topological Insulator__2607.19018v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-22T01:30:09.004956",
+    "updated_at": "2026-07-22T01:30:09.004948Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-22/3_Pure Spin Bulk Photovoltaic Effect in an Altermagnetic Higher-Order Topological Insulator__2607.19018v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.19018v1",
+    "pdf_filename": "3_Pure Spin Bulk Photovoltaic Effect in an Altermagnetic Higher-Order Topological Insulator__2607.19018v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了交错磁体与拓扑绝缘体异质结中的纯自旋体光伏效应，并展示了如何通过磁矩转向调控二阶拓扑相与非线性光电响应。",
+      "en": "This work investigates the pure spin bulk photovoltaic effect in an altermagnetic higher-order topological insulator heterostructure, demonstrating control over topological phases and spin photocurrents via Néel vector rotation."
+    },
+    "problem": {
+      "zh": "如何在具有PT对称性导致的简并能带系统中描述自旋体光伏效应，以及如何利用高阶拓扑和交错磁性实现纯自旋光电流的产生与调控。",
+      "en": "How to describe the spin bulk photovoltaic effect in systems with PT-enforced band degeneracies, and how to generate and control pure spin photocurrents using higher-order topology and altermagnetism."
+    },
+    "approach": {
+      "zh": "构建了二维拓扑绝缘体与d波交错磁体耦合的异质结模型，开发了适用于PT简并流形的非阿贝尔自旋体光伏效应理论，并数值计算了不同奈尔矢量方向下的自旋位移电流和注入电流。",
+      "en": "Constructed a 2D TI and d-wave altermagnet heterostructure model, developed a non-Abelian spin BPVE formulation for PT-degenerate manifolds, and numerically calculated spin shift and injection currents under different Néel vector orientations."
+    },
+    "main_takeaway": {
+      "zh": "当奈尔矢量处于面内时，系统处于二阶拓扑绝缘体相，其晶格对称性完全抑制了电荷光电流，从而实现了由线偏振光驱动自旋位移电流、圆偏振光驱动自旋注入电流的纯自旋体光伏效应。",
+      "en": "When the Néel vector is in-plane, the system realizes a second-order topological insulator phase where symmetry completely suppresses charge photocurrents, enabling a pure spin bulk photovoltaic effect (spin shift current via linearly polarized light and spin injection current via circularly polarized light)."
+    },
+    "why_it_matters": {
+      "zh": "它为无电荷流伴随的纯自旋流产生提供了新方案，并表明非线性自旋输运可以作为探测能带反转、高阶拓扑和磁对称性的敏感手段。",
+      "en": "It offers a new scheme for generating pure spin currents without accompanying charge currents, and demonstrates that nonlinear spin transport can sensitively probe band inversion, higher-order topology, and magnetic symmetries."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了适用于简并能带的非阿贝尔自旋体光伏效应理论，并首次在交错磁性高阶拓扑绝缘体中实现了纯自旋光电流的磁控开关。",
+        "en": "Proposed a non-Abelian spin BPVE theory for degenerate bands and demonstrated magnetic control of pure spin photocurrents in an altermagnetic higher-order topological insulator."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了当前凝聚态物理的热点话题（交错磁性、高阶拓扑绝缘体和非线性光学响应），并推导了通用的非阿贝尔响应公式，非常适合发表在PRL。",
+        "en": "The study combines highly active topics in condensed matter physics (altermagnetism, HOTIs, and nonlinear optics) and derives a general non-Abelian response formalism, making it highly suitable for PRL."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Bulk photovoltaic effect",
+      "Higher-order topological insulator",
+      "Spin photocurrent",
+      "PT symmetry"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-22T09:30:49",
+    "input_scope": "full_pdf_text"
+  }
+}
