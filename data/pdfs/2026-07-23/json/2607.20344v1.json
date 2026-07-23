@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2607.20344v1",
+    "title": "Probing the temperature dependence of dielectric function of ternary transition metal dichalcogenides: towards thermo-driven ultrathin photonic components",
+    "authors": [
+      "Artsruni Margaryan",
+      "Maria Levonyan",
+      "Maksim Sargsyan",
+      "David Karakhanyan",
+      "Meri Hayrapetyan",
+      "Kostya S. Novoselov",
+      "Davit A. Ghazaryan"
+    ],
+    "abstract": "Transition metal dichalcogenides (TMDs), along with their ternary derivatives, have attracted considerable attention mostly due to pronounced excitonic resonances emerging in visible (Vis) and near-infrared (NIR) spectral regions, enabling strong light-matter interaction. Nevertheless, a comprehensive insight of the temperature-dependent optical dispersions for the most of representatives of the family remains yet unrevealed. Here, we report on systematic studies of dielectric permittivity functions of uniaxial ternary MoSSe and WSSe across 430-1000 nm spectral region over a broad temperature window of 80-670 K. We show that the temperature evolution of their dielectric responses is governed by Varshni's formalism in Vis spectral region further affecting their high refractive index properties at the lossless NIR spectral tails. Furthermore, we exploit the measured optical dispersion of ternary WSSe designing ultrathin plano-convex NIR photonic lenses that demonstrate continuous modulation of performance with temperature variation. Our work provides critical insights for the creation of next-generation thermo-driven nanophotonic and optoelectronic devices.",
+    "categories": [
+      "physics.optics",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-22T16:30:28Z",
+    "updated": "2026-07-22T16:30:28Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.20344v1",
+      "pdf_path": "data/pdfs/2026-07-23/3_Probing the temperature dependence of dielectric function of ternary transition metal dichalcogenides towards thermo-dri__2607.20344v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-23T01:52:18.437803",
+    "updated_at": "2026-07-23T01:52:18.437766Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-23/3_Probing the temperature dependence of dielectric function of ternary transition metal dichalcogenides towards thermo-dri__2607.20344v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.20344v1",
+    "pdf_filename": "3_Probing the temperature dependence of dielectric function of ternary transition metal dichalcogenides towards thermo-dri__2607.20344v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究系统测量了三元过渡金属硫族化合物MoSSe和WSSe在宽温度范围内的介电函数，并展示了其在温度可调超薄近红外透镜中的应用。",
+      "en": "This work systematically measures the temperature-dependent dielectric functions of ternary TMDs MoSSe and WSSe, and demonstrates their application in temperature-tunable ultrathin NIR lenses."
+    },
+    "problem": {
+      "zh": "缺乏对三元过渡金属硫族化合物在不同温度下光学色散关系的系统理解，限制了其在温控纳米光子器件中的设计与应用。",
+      "en": "The lack of systematic understanding of the temperature-dependent optical dispersion in ternary TMDs limits their design and application in thermo-driven nanophotonic devices."
+    },
+    "approach": {
+      "zh": "结合室温微区光谱椭偏仪与80-670 K变温微区反射光谱，利用Tauc-Lorentz模型和Varshni公式提取了介电函数，并数值模拟了基于WSSe的超薄平凸透镜的变温聚焦特性。",
+      "en": "Combined room-temperature micro-ellipsometry with temperature-dependent (80-670 K) micro-reflectance spectroscopy, extracted the dielectric functions using Tauc-Lorentz and Varshni models, and numerically simulated the temperature-dependent focusing of a WSSe-based ultrathin lens."
+    },
+    "main_takeaway": {
+      "zh": "三元TMDs的介电函数随温度的变化符合Varshni公式，导致激子共振峰移动，从而在无损近红外波段实现了折射率的连续温控调节，可用于制造焦距随温度连续变化的超薄透镜。",
+      "en": "The temperature evolution of the dielectric functions of ternary TMDs follows Varshni's relation, shifting excitonic resonances and enabling continuous tuning of the refractive index in the lossless NIR region, which can be used to create ultrathin lenses with temperature-tunable focal lengths."
+    },
+    "why_it_matters": {
+      "zh": "它为基于二维半导体的下一代温控纳米光子和光电器件提供了关键的变温光学常数数据库，推动了超薄可调谐光学元件的发展。",
+      "en": "It provides a critical temperature-dependent optical constant database for next-generation thermo-driven nanophotonic and optoelectronic devices based on 2D semiconductors, advancing the development of ultrathin tunable optical components."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次给出了三元TMDs在宽温度范围内的精确介电函数，并成功论证了其在主动调谐超薄光学元件中的应用潜力。",
+        "en": "First to provide precise dielectric functions of ternary TMDs over a wide temperature range and successfully demonstrate their potential in actively tunable ultrathin optical components."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experiment + Numerical"
+    },
+    "likely_venue": {
+      "journal": "ACS Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究紧密结合了二维材料的光学表征与微纳光子器件设计，非常契合该期刊在纳米光子学领域的定位。",
+        "en": "The study closely combines optical characterization of 2D materials with nanophotonic device design, which perfectly aligns with the journal's focus on nanophotonics."
+      }
+    },
+    "keywords": [
+      "ternary TMD",
+      "dielectric function",
+      "temperature dependence",
+      "photonic lens",
+      "refractive index"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-23T09:54:54",
+    "input_scope": "full_pdf_text"
+  }
+}

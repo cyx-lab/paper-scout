@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2607.19698v1",
+    "title": "Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based on a Solvable Exciton Model",
+    "authors": [
+      "Duy-Nhat Ly",
+      "Thanh-Son Nguyen",
+      "Ngoc-Tram D. Hoang",
+      "Van-Hoang Le"
+    ],
+    "abstract": "We develop an analytical procedure to retrieve fundamental material parameters of monolayer transition-metal dichalcogenides from optical and magneto-optical exciton spectra, based on the solvable modified Kratzer model. The proposed retrieval procedure naturally consists of two complementary stages. In the first stage, explicit inversion formulas determine the quasiparticle bandgap, effective screening parameter, and energy scaling factor directly from the experimentally measured energies of the three lowest excitonic states, from which the screening length is subsequently obtained. In the second stage, an analytical expression for the magnetic-field dependence of the exciton energies independently yields the reduced exciton mass, from which the surrounding dielectric constant is then calculated. Once the complete set of material parameters has been retrieved, the framework analytically predicts the diamagnetic coefficients, exciton radii, and complete magnetoexciton spectra without introducing additional fitting parameters or matrix diagonalization. The method is applied to a broad range of experimental samples for WSe$_2$, WS$_2$, MoS$_2$, MoSe$_2$, and MoTe$_2$ monolayers embedded in different dielectric environments. The retrieved material parameters are in good agreement with independent experimental measurements and previous Rytova--Keldysh (RK) calculations, while the predicted excitonic properties accurately reproduce available magneto-optical observations. The proposed analytical theory provides an efficient, physically transparent alternative to conventional numerical fitting procedures and offers an effective tool for the rapid characterization of two-dimensional semiconductors via excitonic spectroscopy.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-07-22T02:57:30Z",
+    "updated": "2026-07-22T02:57:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.19698v1",
+      "pdf_path": "data/pdfs/2026-07-23/3_Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based on a Solvable Exciton Mo__2607.19698v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-23T01:52:18.439682",
+    "updated_at": "2026-07-23T01:52:18.439622Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-23/3_Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based on a Solvable Exciton Mo__2607.19698v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.19698v1",
+    "pdf_filename": "3_Analytical Retrieval of Material Parameters in Monolayer Transition-Metal Dichalcogenides Based on a Solvable Exciton Mo__2607.19698v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究开发了一种基于可解修饰Kratzer模型的两阶段解析方法，能直接从光学和磁光激子光谱中快速提取单层过渡金属硫族化合物的基态材料参数。",
+      "en": "This study develops a two-stage analytical method based on the solvable modified Kratzer model to rapidly retrieve fundamental material parameters of monolayer transition-metal dichalcogenides directly from optical and magneto-optical exciton spectra."
+    },
+    "problem": {
+      "zh": "传统的从实验激子光谱中提取二维半导体材料参数的方法依赖于复杂的数值拟合，计算成本高且物理图像不透明。",
+      "en": "Conventional methods for extracting material parameters of 2D semiconductors from experimental exciton spectra rely on complex numerical fitting, which is computationally expensive and lacks physical transparency."
+    },
+    "approach": {
+      "zh": "基于解析可解的修饰Kratzer模型，建立了两阶段反演框架：第一阶段通过前三个零场激子态能量解析计算带隙和筛选参数；第二阶段利用磁场下的激子能量解析表达式独立确定激子有效质量和环境介电常数。",
+      "en": "Based on the analytically solvable modified Kratzer model, a two-stage retrieval framework is established: the first stage analytically calculates the bandgap and screening parameters from the three lowest zero-field exciton states, and the second stage independently determines the effective exciton mass and environmental dielectric constant using analytical magnetoexciton energy expressions."
+    },
+    "main_takeaway": {
+      "zh": "该解析框架不仅能准确提取多种单层TMDC在不同介电环境下的核心材料参数，还能在无需任何拟合参数或矩阵对角化的情况下，直接预测抗磁系数、激子半径和完整的磁激子光谱。",
+      "en": "The analytical framework not only accurately retrieves core material parameters for various monolayer TMDCs in different dielectric environments, but also directly predicts diamagnetic coefficients, exciton radii, and complete magnetoexciton spectra without any fitting parameters or matrix diagonalization."
+    },
+    "why_it_matters": {
+      "zh": "它为二维半导体的激子光谱表征提供了一种高效、物理清晰且适用范围广的解析替代方案，避免了繁琐的数值拟合。",
+      "en": "It provides an efficient, physically transparent, and widely applicable analytical alternative to tedious numerical fitting for the spectroscopic characterization of two-dimensional semiconductors."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一种全新的两阶段解析反演方法，克服了传统数值拟合的复杂性，并拓展了此前解析方法在介电筛选范围上的局限性。",
+        "en": "Proposes a novel two-stage analytical retrieval method that overcomes the complexity of traditional numerical fitting and extends the dielectric screening range limitations of previous analytical methods."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章深入探讨了二维半导体的激子与磁激子物理，符合该期刊在凝聚态物理理论与计算领域的定位，且作者此前有多篇相关工作发表于此。",
+        "en": "The paper deeply explores exciton and magnetoexciton physics in 2D semiconductors, aligning well with the journal's scope in condensed matter theory and computation, and the authors have previously published several related works here."
+      }
+    },
+    "keywords": [
+      "transition-metal dichalcogenides",
+      "exciton spectroscopy",
+      "modified Kratzer model",
+      "material parameter retrieval",
+      "magnetoexcitons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-23T09:53:11",
+    "input_scope": "full_pdf_text"
+  }
+}

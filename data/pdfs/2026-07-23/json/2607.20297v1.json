@@ -1,0 +1,117 @@
+{
+  "paper_record": {
+    "id": "2607.20297v1",
+    "title": "Proximity-induced charge transfer, strain and magnetic exchange in graphene/CrSBr heterostructure",
+    "authors": [
+      "Asish K. Kundu",
+      "Anil Rajapitamahuni",
+      "Niraj Aryal",
+      "Turgut Yilmaz",
+      "Margalit L. Feuer",
+      "Suji Park",
+      "Houk Jang",
+      "Abhay Pasupathy",
+      "Xavier Roy",
+      "Jerzy T. Sadowski",
+      "Elio Vescovo"
+    ],
+    "abstract": "Stacking van der Waals materials provides a powerful route to engineer emergent electronic and magnetic behaviors through proximity-driven interactions. The graphene/CrSBr heterostructure has emerged as a compelling platform in this frontier, exhibiting exotic macroscopic responses-- including uniaxial surface-plasmon-polariton propagation and an unconventional quantum Hall effect-- indicative of strong interfacial electronic and magnetic coupling. However, a microscopic electronic landscape governing these phenomena has remained elusive. Here, we provide a comprehensive spectroscopic characterization of the graphene/CrSBr interface using a combination of angle-resolved photoemission spectroscopy (ARPES), low-energy electron microscopy (LEEM), and density functional theory. We resolve a massive redistribution of interfacial charge that concurrently hole dopes graphene and populates the quasi-one-dimensional spin-polarized conduction band of CrSBr, resulting insulator-to-metal transition in the interfacial CrSBr layer. Furthermore, electronic structure of CrSBr exhibits strong momentum-dependent renormalization distinct from conventional charge doping, and theoretical modeling supported by Raman spectroscopy points to additional interfacial compressive strain. In addition, ARPES reveals a splitting-like feature in the graphene Dirac cone consistent with spin degeneracy lifting, providing possible evidence of magnetic proximity coupling. These findings provide crucial microscopic insight into the system's optical and transport responses and establish graphene/CrSBr as a versatile platform for charge-transfer control, strain-driven band engineering, magnetic-proximity coupling, and directionally confined excitations for next-generation spintronic and nanophotonic devices.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-22T15:46:13Z",
+    "updated": "2026-07-22T15:46:13Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.20297v1",
+      "pdf_path": "data/pdfs/2026-07-23/3_Proximity-induced charge transfer, strain and magnetic exchange in grapheneCrSBr heterostructure__2607.20297v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-23T01:52:18.437923",
+    "updated_at": "2026-07-23T01:52:18.437913Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-23/3_Proximity-induced charge transfer, strain and magnetic exchange in grapheneCrSBr heterostructure__2607.20297v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.20297v1",
+    "pdf_filename": "3_Proximity-induced charge transfer, strain and magnetic exchange in grapheneCrSBr heterostructure__2607.20297v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过微区ARPES、LEEM和DFT计算，揭示了石墨烯/CrSBr异质结界面处的强电荷转移、单轴压应变以及磁邻近效应导致的能带重构。",
+      "en": "This work reveals the interfacial electronic reconstruction in graphene/CrSBr heterostructures driven by strong charge transfer, compressive strain, and magnetic proximity effects using micro-ARPES, LEEM, and DFT."
+    },
+    "problem": {
+      "zh": "尽管石墨烯/CrSBr异质结表现出单轴等离激元传播和非常规量子霍尔效应等宏观现象，但其背后的微观电子结构、电荷转移量、界面应变及磁邻近效应的直接证据仍然缺乏。",
+      "en": "Although graphene/CrSBr heterostructures exhibit exotic macroscopic phenomena like uniaxial plasmon propagation and unconventional quantum Hall effect, a direct microscopic visualization of their interfacial band alignment, charge transfer, strain, and magnetic proximity coupling has been lacking."
+    },
+    "approach": {
+      "zh": "结合微区角分辨光电子能谱（micro-ARPES）、低能电子显微镜（LEEM）、拉曼光谱以及密度泛函理论（DFT）计算，对石墨烯/CrSBr界面进行全面的动量空间谱学表征。",
+      "en": "Combining micro-angle-resolved photoemission spectroscopy (micro-ARPES), low-energy electron microscopy (LEEM), Raman spectroscopy, and density functional theory (DFT) calculations to comprehensively characterize the graphene/CrSBr interface in momentum space."
+    },
+    "main_takeaway": {
+      "zh": "界面电荷转移导致石墨烯发生强空穴掺杂，并使CrSBr的准一维导带填充，引发金属-绝缘体转变；同时，界面压应变重构了CrSBr的能带，且石墨烯狄拉克锥出现符合磁邻近效应的能带分裂。",
+      "en": "Interfacial charge transfer strongly hole-dopes graphene and populates the quasi-1D conduction band of CrSBr, driving an insulator-to-metal transition, while compressive strain renormalizes the CrSBr bands and a splitting in the graphene Dirac cone provides evidence of magnetic proximity."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解二维磁性半导体异质结中的自旋-电荷耦合提供了微观物理图像，并为基于电荷转移、应变工程和磁邻近效应调控的下一代自旋电子学和纳米光子学器件奠定了基础。",
+      "en": "This study provides a microscopic physical picture for understanding spin-charge coupling in 2D magnetic semiconductor heterostructures, laying the foundation for next-generation spintronic and nanophotonic devices controlled via charge transfer, strain engineering, and magnetic proximity."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "首次在动量空间直接观测并澄清了石墨烯/CrSBr界面电荷转移、应变和磁邻近效应的微观机制，解释了此前报道的宏观输运与光学异常。",
+        "en": "It directly observes and clarifies the microscopic mechanisms of charge transfer, strain, and magnetic proximity at the graphene/CrSBr interface in momentum space for the first time, explaining previously reported macroscopic transport and optical anomalies."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作结合了先进的微区谱学表征（micro-ARPES/LEEM）与理论计算，解决了二维磁性异质结领域的关键微观机制问题，非常符合该期刊的定位。",
+        "en": "This work combines advanced micro-spectroscopy (micro-ARPES/LEEM) with theoretical calculations to resolve key microscopic mechanism questions in 2D magnetic heterostructures, highly fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "graphene",
+      "CrSBr",
+      "charge transfer",
+      "magnetic proximity",
+      "ARPES",
+      "van der Waals heterostructure"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-23T09:54:35",
+    "input_scope": "full_pdf_text"
+  }
+}

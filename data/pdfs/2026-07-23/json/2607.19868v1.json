@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.19868v1",
+    "title": "Band Engineering of Exciton Polaritons in Resonant Polaritonic Metasurfaces",
+    "authors": [
+      "Polina Pantiukhina",
+      "Daria Smirnova",
+      "Kirill Koshelev"
+    ],
+    "abstract": "Polaritonic metasurfaces provide a versatile platform for engineering hybrid light-matter states through the interplay of optical resonances and excitonic excitations. Yet, predictive models often remain phenomenological and rely on coupled-mode equations. Here, we develop an effective Hamiltonian framework for exciton polaritons in resonant polaritonic metasurfaces, derived from a semiclassical single-pole description of excitonic polarization and a Green's-function description of guided-mode resonances. The resulting non-Hermitian Hamiltonian rigorously incorporates resonant photonic harmonics, multiple excitonic degrees of freedom, and radiative losses. The model reveals selection rules governing photonic-excitonic coupling classified by orbital multipole index and polarization, and shows that the minimal number of excitonic degrees of freedom equals the number of relevant photonic modes. We apply the framework to a bulk van der Waals WS$_2$ metasurface patterned into a hexagonal lattice of triangular holes and uncover a new geometry-controlled topological transition driven by dipole-quadrupole band inversion, distinct from the conventional breathing-honeycomb-lattice transition. Full-wave simulations confirm the predicted topological phase diagram and the emergence of photonic and polaritonic edge states at a topological interface. Our results establish a theoretical multimode framework for geometry-controlled bandstructure engineering in polaritonic metasurfaces, with applications in topological, chiral, and quantum integrated photonics.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-07-22T07:54:44Z",
+    "updated": "2026-07-22T07:54:44Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.19868v1",
+      "pdf_path": "data/pdfs/2026-07-23/3_Band Engineering of Exciton Polaritons in Resonant Polaritonic Metasurfaces__2607.19868v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-23T01:52:18.439229",
+    "updated_at": "2026-07-23T01:52:18.439216Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-23/3_Band Engineering of Exciton Polaritons in Resonant Polaritonic Metasurfaces__2607.19868v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.19868v1",
+    "pdf_filename": "3_Band Engineering of Exciton Polaritons in Resonant Polaritonic Metasurfaces__2607.19868v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究开发了一种用于共振极化超表面中激子极化激元的非埃尔米特有效哈密顿量框架，并发现了一种由几何形状控制的新型拓扑相变。",
+      "en": "This work develops a non-Hermitian effective Hamiltonian framework for exciton polaritons in resonant metasurfaces and uncovers a new geometry-controlled topological transition."
+    },
+    "problem": {
+      "zh": "现有的极化超表面预测模型多为唯象模型，依赖于耦合模方程，缺乏一个既能准确捕获核心物理又具有极简相互作用模式的系统性有效哈密顿量框架。",
+      "en": "Existing predictive models for polaritonic metasurfaces are often phenomenological, relying on coupled-mode equations and lacking a systematic effective Hamiltonian framework that captures the essential physics with a minimal number of interacting modes."
+    },
+    "approach": {
+      "zh": "基于激子极化半经典单极描述和导模共振的格林函数方法，推导出非埃尔米特有效哈密顿量，并将其应用于具有六角晶格三角形孔洞的体相二硫化钨范德华超表面。",
+      "en": "Derived a non-Hermitian effective Hamiltonian from a semiclassical single-pole description of excitonic polarization and a Green's function description of guided-mode resonances, applying it to a bulk WS2 van der Waals metasurface with a hexagonal lattice of triangular holes."
+    },
+    "main_takeaway": {
+      "zh": "描述极化激元分支所需的最小激子自由度数量等于相关光子模式的数量，且通过调节超表面孔洞几何形状（而非晶格排布）可触发由偶极-四极能带反转驱动的新型拓扑相变。",
+      "en": "The minimal number of excitonic degrees of freedom required to describe polariton branches equals the number of relevant photonic modes, and a new topological transition driven by dipole-quadrupole band inversion can be controlled solely by the geometry of the meta-atoms rather than the lattice arrangement."
+    },
+    "why_it_matters": {
+      "zh": "该框架为设计具有特定色散、辐射损耗和拓扑性质的极化超表面提供了实用的解析工具，在手性纳米光子学、非线性光与物质相互作用以及拓扑极化激元输运中具有重要应用前景。",
+      "en": "This framework provides a practical analytical tool for designing polaritonic metasurfaces with engineered dispersion, radiative losses, and topology, offering significant potential for applications in chiral nanophotonics, nonlinear light-matter interactions, and topological polariton transport."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "首次推导出了结合半经典激子极化与格林函数导模共振的严格多模有效哈密顿量，并预测了一种新型的几何控制拓扑相变。",
+        "en": "Developed a rigorous multimode effective Hamiltonian combining semiclassical excitonic polarization with Green's function guided-mode resonances, and predicted a novel geometry-controlled topological transition."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了严谨的理论推导与新颖的拓扑物理预测，非常符合该期刊对物理学突破性进展的要求。",
+        "en": "The study combines rigorous theoretical derivation with novel topological physics predictions, which aligns well with the journal's standards for groundbreaking physics advances."
+      }
+    },
+    "keywords": [
+      "exciton polaritons",
+      "resonant metasurfaces",
+      "effective Hamiltonian",
+      "topological band inversion",
+      "van der Waals materials"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-23T09:53:34",
+    "input_scope": "full_pdf_text"
+  }
+}

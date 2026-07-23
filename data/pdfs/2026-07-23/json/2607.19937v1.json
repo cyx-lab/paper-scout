@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.19937v1",
+    "title": "Symmetry-Based Design Rules for Second-Harmonic Generation in Stacked and Twisted MoS2 Bilayers",
+    "authors": [
+      "Sumanti Patra",
+      "Caterina Cocchi"
+    ],
+    "abstract": "Understanding how stacking controls the nonlinear optical response of two-dimensional materials is key to designing van der Waals heterostructures with tailored functionalities. Here, we establish a comprehensive symmetry-based framework mapping the structural configuration of MoS2 bilayers across four point groups (D3h, D3d, C3v, C3) to their second-order susceptibility tensor chi^(2). Using group-theory arguments benchmarked against first-principles calculations, we demonstrate how symmetry breaking controls the activation and suppression of individual tensor elements in these systems. We show that the emergence of the in-plane component chi_xxx in twisted configurations (C3 group) induces a rigid azimuthal rotation of the second-harmonic generation polar lobes, which remains frequency-independent across the entire optical spectrum, locking to half of the structural twist angle. Our findings establish a direct, wavelength-independent optical route for twist-angle determination and provide a clear roadmap for engineering nonlinear optical responses in two-dimensional materials.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-22T09:08:56Z",
+    "updated": "2026-07-22T09:08:56Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "moire:twist-angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.19937v1",
+      "pdf_path": "data/pdfs/2026-07-23/3_Symmetry-Based Design Rules for Second-Harmonic Generation in Stacked and Twisted MoS2 Bilayers__2607.19937v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-23T01:52:18.439094",
+    "updated_at": "2026-07-23T01:52:18.439082Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-23/3_Symmetry-Based Design Rules for Second-Harmonic Generation in Stacked and Twisted MoS2 Bilayers__2607.19937v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.19937v1",
+    "pdf_filename": "3_Symmetry-Based Design Rules for Second-Harmonic Generation in Stacked and Twisted MoS2 Bilayers__2607.19937v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究建立了一个基于对称性的理论框架，揭示了MoS2双层物理堆叠与扭角如何调控其二次谐波产生（SHG）响应，并发现扭角双层中的SHG极化瓣旋转角严格锁定为结构扭角的一半。",
+      "en": "This study establishes a symmetry-based framework mapping the stacking and twisting of MoS2 bilayers to their second-harmonic generation (SHG) response, demonstrating that the SHG polar lobe rotation is geometrically locked to half of the structural twist angle."
+    },
+    "problem": {
+      "zh": "如何系统地理解和预测不同堆叠及扭转构型对二维过渡金属硫族化合物双层材料非线性光学响应（特别是二次谐波产生）的调控规律，以规避大规模莫尔超晶格中极其昂贵的第一性原理计算。",
+      "en": "How to systematically understand and predict the influence of different stacking and twisting configurations on the nonlinear optical response (specifically second-harmonic generation) of 2D transition metal dichalcogenide bilayers, avoiding extremely expensive ab initio calculations for large-scale moiré superlattices."
+    },
+    "approach": {
+      "zh": "结合群论分析（纽曼原理）与第一性原理密度泛函理论计算，系统推导并验证了四种点群（D3h, D3d, C3v, C3）下非线性极化率张量元的激活与抑制规律，并模拟了其角分辨SHG图谱。",
+      "en": "Combining group-theory analysis (Neumann's principle) with first-principles density functional theory calculations to systematically derive and validate the activation and suppression of nonlinear susceptibility tensor elements across four point groups (D3h, D3d, C3v, C3) and simulate their angular-resolved SHG patterns."
+    },
+    "main_takeaway": {
+      "zh": "在扭角双层结构（C3点群）中，由于镜面对称性破缺激活了新的面内张量元，导致SHG极化瓣产生一个与频率无关的刚性方位角旋转，该旋转角在数值上精确等于结构扭角的一半。",
+      "en": "In twisted bilayer configurations (C3 point group), the breaking of mirror symmetries activates a new in-plane tensor element, inducing a frequency-independent rigid rotation of the SHG polar lobes that is locked to exactly half of the structural twist angle."
+    },
+    "why_it_matters": {
+      "zh": "它为通过堆叠控制来设计二维材料的非线性光学响应提供了通用的对称性路线图，并提出了一种无需破坏性、与波长无关的直接光学测量方法，用于精确确定二维莫尔超晶格的局部扭转角。",
+      "en": "It provides a universal symmetry-based roadmap for engineering nonlinear optical responses in 2D materials via stacking control, and offers a non-destructive, wavelength-independent optical protocol to directly determine local twist angles in 2D moiré superlattices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作系统地阐明了对称性破缺与非线性光学张量元之间的对应关系，并从物理机制上论证了SHG极化瓣旋转与晶格扭角之间的几何锁定关系。",
+        "en": "This work systematically clarifies the correspondence between symmetry breaking and nonlinear optical tensor elements, physically demonstrating the geometric locking between the SHG lobe rotation and the lattice twist angle."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了严谨的凝聚态物理对称性群论分析与高精度的第一性原理电子结构及光学性质计算，非常符合 Physical Review B 的定位。",
+        "en": "The paper combines rigorous group-theory symmetry analysis in condensed matter physics with high-precision first-principles calculations of electronic and optical properties, which perfectly aligns with the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "MoS2 bilayers",
+      "second-harmonic generation",
+      "twist angle",
+      "symmetry analysis",
+      "first-principles calculations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-23T09:53:58",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2607.20298v1",
+    "title": "Competing ferromagnetic and antiferromagnetic interactions in non-altermagnetic Ru$_{1-x}$Cr$_{x}$O$_{2}$",
+    "authors": [
+      "David T. Plouff",
+      "Nawsher J. Parvez",
+      "Subhash Bhatt",
+      "Xixiang Zhang",
+      "Adam A. Aczel",
+      "Jonathan Gaudet",
+      "John Q. Xiao"
+    ],
+    "abstract": "We investigate the proposal of hole doping RuO$_{2}$ via alloying with Cr ions to induce altermagnetism. Thin film samples of Ru$_{1-x}$Cr$_{x}$O$_{2}$ ($0 \\leq x \\leq 0.28$) were prepared by reactive magnetron co-sputtering on TiO$_{2}$ substrates, with epitaxial nature verified by X-ray diffraction and composition depth profiles determined by X-ray photoelectron spectroscopy combined with Ar etching. Neutron diffraction measurements of samples with $x = 0$ and $x = 0.23$ at low temperatures show no evidence of long-range altermagnetic order with spins oriented along the $c$-axis or within the $ab$-plane. In contrast, temperature dependent susceptibility measurements in samples with $x \\geq 0.16$ show a gradual downturn below $T\\approx20~$K, suggestive of antiferromagnetic interactions, although this coexists with ferromagnetic hysteresis and remnant magnetization at $4~$K for samples with $x \\geq 0.23$. Together, our magnetometry and neutron scattering measurements suggest the coexistence of antiferromagnetically coupled ferromagnetic CrO\\textsubscript{2} clusters. This indicates that Cr ions do not hole dope Ru bands to induce an altermagnet state, but rather the holes remain localized to the Cr ions.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-22T15:46:57Z",
+    "updated": "2026-07-22T15:46:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.20298v1",
+      "pdf_path": "data/pdfs/2026-07-23/3_Competing ferromagnetic and antiferromagnetic interactions in non-altermagnetic Ru$_{1-x}$Cr$_{x}$O$_{2}$__2607.20298v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-23T01:52:18.437865",
+    "updated_at": "2026-07-23T01:52:18.437853Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-23/3_Competing ferromagnetic and antiferromagnetic interactions in non-altermagnetic Ru$_{1-x}$Cr$_{x}$O$_{2}$__2607.20298v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.20298v1",
+    "pdf_filename": "3_Competing ferromagnetic and antiferromagnetic interactions in non-altermagnetic Ru$_{1-x}$Cr$_{x}$O$_{2}$__2607.20298v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，通过Cr掺杂在二氧化钌中引入空穴并不能实现预期的交错磁性，而是导致了反铁磁耦合的铁磁性CrO2团簇的共存。",
+      "en": "The study demonstrates that Cr-doping in RuO2 does not induce the proposed altermagnetic state, but instead leads to the coexistence of antiferromagnetically coupled ferromagnetic CrO2 clusters."
+    },
+    "problem": {
+      "zh": "验证通过Cr掺杂（空穴掺杂）能否在非磁性RuO2中诱导出长程交错磁性状态。",
+      "en": "To verify whether Cr substitution (hole doping) can induce a long-range altermagnetic state in non-magnetic RuO2."
+    },
+    "approach": {
+      "zh": "利用反应磁控共溅射制备Ru1-xCrxO2外延薄膜，结合X射线衍射、X射线光电子能谱、磁测量以及低温中子衍射技术进行表征。",
+      "en": "Synthesized epitaxial Ru1-xCrxO2 thin films using reactive magnetron co-sputtering, and characterized them using XRD, XPS, magnetometry, and low-temperature neutron diffraction."
+    },
+    "main_takeaway": {
+      "zh": "中子衍射未发现长程交错磁有序的证据，磁性测量表明Cr离子并未有效掺杂Ru能带，而是形成了相互之间反铁磁耦合的铁磁性CrO2纳米团簇。",
+      "en": "Neutron diffraction shows no evidence of long-range altermagnetic order, and magnetic data suggest Cr ions form antiferromagnetically coupled ferromagnetic clusters rather than doping the Ru bands."
+    },
+    "why_it_matters": {
+      "zh": "澄清了关于RuO2基材料中是否存在掺杂诱导交错磁性的争议，指出Cr掺杂RuO2并非实现d波交错磁性金属的有效途径。",
+      "en": "It clarifies the controversy surrounding doping-induced altermagnetism in RuO2-based materials, showing that Cr-alloyed RuO2 is not a viable platform for d-wave altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过直接的中子衍射和磁学测量，否定了之前关于Cr掺杂RuO2中存在交错磁性的假说，澄清了其磁性起源为局部团簇效应。",
+        "en": "Through direct neutron diffraction and magnetometry, it refutes the previous hypothesis of altermagnetism in Cr-doped RuO2, clarifying the magnetic origin as localized cluster effects."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "详细的薄膜生长、磁学表征和中子衍射数据非常符合PRB在凝聚态物理实验领域的发表标准。",
+        "en": "The detailed thin-film growth, magnetic characterization, and neutron diffraction data are highly suitable for publication standards of PRB in experimental condensed matter physics."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "ruthenium dioxide",
+      "neutron diffraction",
+      "thin films",
+      "magnetic clusters"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-23T09:54:44",
+    "input_scope": "full_pdf_text"
+  }
+}

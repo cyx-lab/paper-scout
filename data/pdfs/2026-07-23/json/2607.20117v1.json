@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.20117v1",
+    "title": "Frequency-dependent electron-phonon coupling and vibrational responses in tight-binding and continuous Dirac models with nuclear velocity correction",
+    "authors": [
+      "Paolo Fachin",
+      "Francesco Macheda",
+      "Paolo Barone",
+      "Francesco Mauri"
+    ],
+    "abstract": "The nuclear motion induces in the electronic atomic orbitals a nuclear-velocity-dependent phase (also known as electron-translation factor), which modifies the effective Hamiltonians constructed from localised atomic orbitals. In this work, using an Ehrenfest Lagrangian approach for the localised atomic orbitals (LCAO) and tight-binding methods, we determine, at any order in the nuclear velocity, the equations of motion and the vibrational responses within a linear response formalism, focusing on the tight-binding assessment of the Born effective charges and the force-constant matrix. The appearance of nuclear-velocity-dependent Peierls-like phases in the non-local part of the interactions restores the all-electron sum rules for frequency-dependent vibrational responses. In tight-binding models these corrections crucially modify the vibrational response from a qualitative point of view, also yielding contributions required to capture phenomena such as vibrational circular dichroism. We test these corrections in the tight-binding model for metallic gapped graphene - finding excellent agreement with \\textit{ab initio} calculations - and for the topological time-reversal symmetry breaking Haldane model.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-22T13:21:54Z",
+    "updated": "2026-07-22T13:21:54Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.20117v1",
+      "pdf_path": "data/pdfs/2026-07-23/3_Frequency-dependent electron-phonon coupling and vibrational responses in tight-binding and continuous Dirac models with__2607.20117v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-23T01:52:18.438415",
+    "updated_at": "2026-07-23T01:52:18.438394Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-23/3_Frequency-dependent electron-phonon coupling and vibrational responses in tight-binding and continuous Dirac models with__2607.20117v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.20117v1",
+    "pdf_filename": "3_Frequency-dependent electron-phonon coupling and vibrational responses in tight-binding and continuous Dirac models with__2607.20117v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过引入核速度修正，解决了紧束缚和狄拉克模型在描述非绝热振动响应时求和规则定性失效的问题。",
+      "en": "This work resolves the qualitative failure of sum rules in tight-binding and Dirac models for frequency-dependent vibrational responses by incorporating nuclear velocity corrections."
+    },
+    "problem": {
+      "zh": "传统的紧束缚和低能连续模型在计算非绝热、频率相关的振动响应（如玻恩有效电荷和力常数矩阵）时，由于忽略了核运动对原子轨道的相位影响，导致相关的求和规则定性为零，与全电子计算不符。",
+      "en": "Traditional tight-binding and low-energy continuous models neglect the effect of nuclear motion on atomic orbitals, causing frequency-dependent vibrational sum rules to vanish, which qualitatively contradicts all-electron calculations."
+    },
+    "approach": {
+      "zh": "采用半经典 Ehrenfest 拉格朗日方法，在局域原子轨道和紧束缚近似中引入依赖于核速度的 Peierls 样相位，推导了线性响应下的振动响应公式，并在带隙石墨烯和 Haldane 模型中进行了测试。",
+      "en": "Using a semiclassical Ehrenfest Lagrangian approach, the authors introduce nuclear-velocity-dependent Peierls-like phases into localized atomic orbitals, derive linear vibrational responses, and test the formalism on gapped graphene and the Haldane model."
+    },
+    "main_takeaway": {
+      "zh": "引入核速度修正能完全恢复紧束缚模型中的全电子非绝热振动求和规则，使计算结果与第一性原理高度一致，并能捕捉到振动圆二色性等物理效应。",
+      "en": "Incorporating nuclear velocity corrections restores the all-electron non-adiabatic vibrational sum rules in tight-binding models, yielding excellent agreement with ab initio calculations and enabling the capture of phenomena like vibrational circular dichroism."
+    },
+    "why_it_matters": {
+      "zh": "该研究为利用紧束缚和低能有效模型研究金属、拓扑材料中的非绝热晶格动力学、手性声子及相关磁光效应提供了正确且高效的理论框架。",
+      "en": "It provides a correct and efficient theoretical framework for studying non-adiabatic lattice dynamics, chiral phonons, and magneto-optical effects in metals and topological materials using tight-binding and low-energy models."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "该研究首次将核速度修正引入紧束缚和狄拉克模型，解决了非绝热振动响应中求和规则定性失效的长期问题。",
+        "en": "This work introduces nuclear velocity corrections to tight-binding and Dirac models for the first time, resolving the long-standing qualitative failure of vibrational sum rules."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文包含详尽的紧束缚理论推导以及针对石墨烯和拓扑模型的数值计算，非常适合发表在 PRB 上。",
+        "en": "The paper contains detailed theoretical derivations of tight-binding formalisms and numerical calculations for graphene and topological models, making it highly suitable for PRB."
+      }
+    },
+    "keywords": [
+      "electron-phonon coupling",
+      "tight-binding model",
+      "nuclear velocity correction",
+      "Born effective charges",
+      "Haldane model"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-23T09:54:09",
+    "input_scope": "full_pdf_text"
+  }
+}
