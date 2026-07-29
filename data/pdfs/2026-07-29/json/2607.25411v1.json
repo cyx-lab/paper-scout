@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2607.25411v1",
+    "title": "Twisted Multilayer Graphene: Superperiodicity and quasicrystals",
+    "authors": [
+      "Pedro Alcázar Guerrero"
+    ],
+    "abstract": "This thesis investigates how superperiodicity, quasiperiodicity, and disorder shape electronic and spin transport in graphene-based systems, with an emphasis on experimentally relevant length scales and realistic atomistic modeling. Using large-scale real-space quantum-transport methods, it first establishes controlled transport fingerprints that distinguish conventional Bloch propagation in periodic structures from the anomalous dynamics induced by quasiperiodic modulations. Building on this framework, the thesis analyzes magic-angle twisted bilayer graphene and shows that, within a finite disorder window where flat-band features remain robust, moderate Anderson disorder can counterintuitively enhance the mean free path. This disorder-induced delocalization is further linked to changes in the quantum metric extracted from optical conductivity, revealing a direct connection between transport, electronic geometry, and the real-space extent of the underlying states. The study then turns to graphene quasicrystal approximants and hybrid multilayer stacks, identifying sub-ballistic transport and self-similar localization patterns as signatures of quasicrystalline order, while also demonstrating their strong fragility against disorder and interlayer proximity effects. Finally, the thesis addresses spin transport in suspended monolayer graphene, showing that atomic-scale corrugations generate short-range fluctuating Rashba fields that can limit spin lifetimes to the nanosecond range even when charge transport remains close to ballistic. Taken together, these results provide a unified picture of how geometry, disorder, and structural complexity govern transport phenomena in twisted and corrugated graphene systems.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.comp-ph"
+    ],
+    "published": "2026-07-28T08:08:06Z",
+    "updated": "2026-07-28T08:08:06Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum metric",
+        "moire:twisted bilayer",
+        "quasicrystal:quasicrystal",
+        "quasicrystal:quasicrystalline",
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 10,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.25411v1",
+      "pdf_path": "data/pdfs/2026-07-29/10_Twisted Multilayer Graphene Superperiodicity and quasicrystals__2607.25411v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-29T01:29:52.843897",
+    "updated_at": "2026-07-29T01:29:52.843887Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-29/10_Twisted Multilayer Graphene Superperiodicity and quasicrystals__2607.25411v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.25411v1",
+    "pdf_filename": "10_Twisted Multilayer Graphene Superperiodicity and quasicrystals__2607.25411v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了超周期、准周期及结构复杂性如何通过大尺度量子输运模拟影响扭转多层石墨烯的电子和自旋输运。",
+      "en": "This thesis investigates how superperiodicity, quasiperiodicity, and structural complexity shape electronic and spin transport in twisted multilayer graphene using large-scale quantum simulations."
+    },
+    "problem": {
+      "zh": "探索几何结构（如莫尔超晶格和准晶）与无序如何共同决定石墨烯体系中的电子定域化、输运长度尺度及自旋寿命。",
+      "en": "Exploring how geometry (moire superlattices and quasicrystals) and disorder jointly govern electronic localization, transport length scales, and spin lifetimes in graphene systems."
+    },
+    "approach": {
+      "zh": "采用基于紧束缚模型的实空间线性标度核多项式方法（KPM），模拟包含数百万原子的莫尔扭转体系和大尺度输运演化。",
+      "en": "Utilizing real-space linear-scaling Kernel Polynomial Method (KPM) based on tight-binding models to simulate moire twisted systems and transport evolution with millions of atoms."
+    },
+    "main_takeaway": {
+      "zh": "在魔角石墨烯中，适度的安德森无序会通过拓宽平带诱导电子去定域化，从而反常地增加平均自由程；而石墨烯准晶的共振态对无序和邻近效应表现出极高的脆弱性。",
+      "en": "In magic-angle graphene, moderate Anderson disorder counterintuitively increases the mean free path via disorder-induced delocalization; meanwhile, graphene quasicrystal resonant states are highly fragile against disorder and proximity effects."
+    },
+    "why_it_matters": {
+      "zh": "揭示了无序在平带体系中非直观的作用，并为理解悬浮石墨烯中电荷输运与自旋寿命之间的巨大差异提供了微观机制。",
+      "en": "It reveals the non-intuitive role of disorder in flat-band systems and provides a microscopic mechanism for the discrepancy between charge transport and spin lifetime in suspended graphene."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "深入量化了无序对魔角石墨烯平带输运的影响，并首次给出了石墨烯准晶的亚弹道输运指数。",
+        "en": "Quantifies disorder effects on MATBLG flat-band transport and provides the first sub-ballistic exponent for graphene quasicrystals."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及凝聚态物理核心的输运和强关联体系，且包含大尺度数值创新，符合PRB的发表标准。",
+        "en": "The study addresses core condensed matter topics like transport and correlations with large-scale numerical innovation, fitting PRB standards."
+      }
+    },
+    "keywords": [
+      "Twisted Bilayer Graphene",
+      "Quantum Transport",
+      "Quasicrystals",
+      "Disorder-induced Delocalization",
+      "Spin Relaxation",
+      "Moire Superlattices"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-29",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-29T09:30:59",
+    "input_scope": "full_pdf_text"
+  }
+}

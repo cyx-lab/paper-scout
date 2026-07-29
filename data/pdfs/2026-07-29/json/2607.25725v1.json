@@ -1,0 +1,122 @@
+{
+  "paper_record": {
+    "id": "2607.25725v1",
+    "title": "Quantum metric quadrupoles in elemental bismuth thin films",
+    "authors": [
+      "Rhonald Burgos Atencia",
+      "Pavlo Makushko",
+      "Gabriele Naselli",
+      "Debottam Mandal",
+      "Paul Chekhonin",
+      "Sergey Kovalev",
+      "Steffen Kober",
+      "Zhe Wang",
+      "Igor Veremchuk",
+      "Oleksiy Pashkin",
+      "Fabian Ganss",
+      "Maria Teresa Mercaldo",
+      "Denys Makarov",
+      "Carmine Ortix"
+    ],
+    "abstract": "The nonlinear transport properties of solids are deeply rooted in the quantum geometry of their electronic wavefunctions, which is encoded in the quantum geometric tensor. Its real part, known as the quantum metric, has been recently identified as a primary origin of nonlinear transport in quantum materials where time-reversal and inversion symmetries are not simultaneously present. Consequently, the influence of the quantum metric on the largest class of materials -- non-magnetic and centrosymmetric systems -- has remained entirely elusive. Here, we demonstrate that third-order transport in centrosymmetric materials hosting relativistic fermions is governed by quantum metric quadrupoles (QMQs). We show that these QMQs can originate from both the non-Abelian quantum geometry of bulk three-dimensional Dirac fermions and the Abelian quantum geometry of spin-orbit-coupled surface states. In stark contrast to all zero-field nonlinear transport signatures known to date, the current driven by these QMQs persists as a robust, non-vanishing observable even in highly scalable polycrystalline thin films. We experimentally validate this quantum metric footprint by measuring nonlinear transport in thin films of elemental bismuth, observing a robust, surface-dominated, and broadband third-harmonic generation that persists up to room temperature. Our findings uncover a hidden role of the quantum metric in polycrystalline systems, establishing third-order nonlinear transport as a high-precision diagnostic tool of wavefunction geometry under ambient conditions.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-28T13:49:20Z",
+    "updated": "2026-07-28T13:49:20Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum geometric tensor",
+        "quantum_geometry:quantum metric"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.25725v1",
+      "pdf_path": "data/pdfs/2026-07-29/3_Quantum metric quadrupoles in elemental bismuth thin films__2607.25725v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-29T01:29:52.842992",
+    "updated_at": "2026-07-29T01:29:52.842985Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-29/3_Quantum metric quadrupoles in elemental bismuth thin films__2607.25725v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.25725v1",
+    "pdf_filename": "3_Quantum metric quadrupoles in elemental bismuth thin films__2607.25725v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "首次在中心对称的铋多晶薄膜中证实了由量子度规四极子（QMQ）主导的室温三阶非线性输运。",
+      "en": "Demonstrated room-temperature third-order nonlinear transport governed by quantum metric quadrupoles (QMQs) in centrosymmetric polycrystalline bismuth thin films."
+    },
+    "problem": {
+      "zh": "量子度规对非线性输运的影响此前局限于非中心对称系统，而在最常见的非磁性、中心对称材料中，其作用一直未被揭示。",
+      "en": "The influence of the quantum metric on nonlinear transport has been limited to non-centrosymmetric systems, leaving its role in the most common non-magnetic, centrosymmetric materials entirely elusive."
+    },
+    "approach": {
+      "zh": "理论上推导了由量子度规四极子驱动的三阶非线性电导，实验上制备了多晶铋薄膜，并利用谐波输运和太赫兹光谱测量了其室温下的三阶谐波响应。",
+      "en": "Theoretically derived the third-order nonlinear conductivity driven by QMQs, and experimentally fabricated polycrystalline bismuth thin films to measure their third-harmonic response at room temperature using harmonic transport and terahertz spectroscopy."
+    },
+    "main_takeaway": {
+      "zh": "与易受空间平均影响而抵消的二阶非线性响应不同，由量子度规四极子驱动的三阶非线性电流在多晶薄膜中具有不为零的空间平均分量，使其成为探测多晶材料波函数几何的鲁棒工具。",
+      "en": "Unlike second-order responses that cancel out due to domain averaging, third-order currents driven by quantum metric quadrupoles survive spatial averaging in polycrystalline films, serving as a robust probe of wavefunction geometry."
+    },
+    "why_it_matters": {
+      "zh": "该研究将量子几何效应拓展到了最常见的中心对称和多晶材料体系，并为在室温和零磁场下开发高效的太赫兹频率上转换器件提供了新途径。",
+      "en": "This work extends quantum geometric transport to the most common centrosymmetric and polycrystalline materials, opening new avenues for highly efficient terahertz frequency upconversion devices under ambient conditions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次将量子度规效应拓展至中心对称的多晶薄膜体系，并在室温下实现了鲁棒的三阶非线性输运观测。",
+        "en": "For the first time, extends quantum metric effects to centrosymmetric polycrystalline films, achieving robust third-order nonlinear transport observations at room temperature."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "结合了深刻的量子几何理论与高水平的室温实验验证，非常符合该期刊对凝聚态物理重大突破的定位。",
+        "en": "Combines deep quantum geometric theory with high-quality room-temperature experimental validation, fitting the journal's scope for major breakthroughs in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "quantum metric",
+      "quantum metric quadrupole",
+      "third-order nonlinear transport",
+      "bismuth thin films",
+      "polycrystalline materials",
+      "terahertz third-harmonic generation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-29",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-29T09:32:09",
+    "input_scope": "full_pdf_text"
+  }
+}

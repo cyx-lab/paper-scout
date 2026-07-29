@@ -1,0 +1,123 @@
+{
+  "paper_record": {
+    "id": "2607.25213v1",
+    "title": "Stacking-dependent anisotropic altermagnetism in V$_{1/3}$NbS$_2$",
+    "authors": [
+      "Chris J. Lygouras",
+      "Nathan Prouse",
+      "Jack H. Drouin",
+      "Youzhe Chen",
+      "Laura Garcia-Gassull",
+      "Zili Feng",
+      "Mingxuan Fu",
+      "Lü Fang",
+      "Alexander I. Kolesnikov",
+      "Christina Hoffman",
+      "Yiqing Hao",
+      "Huibo Cao",
+      "Maxime A. Siegler",
+      "Robert J. Birgeneau",
+      "Roser Valentí",
+      "Satoru Nakatsuji",
+      "Collin L. Broholm"
+    ],
+    "abstract": "We report profound impacts of the stacking sequence of triangular lattices of magnetic transition metal ions intercalated between the layers of the van der Waals material NbS$_2$. Using single crystal x-ray and neutron diffraction, and transport and magnetization measurements, we show there are two distinct polytypes of $\\rm V_{1/3}NbS_2$ with disparate easy axes of magnetization and different anomalous Hall responses. Self-consistent analysis of inelastic neutron scattering data provides evidence for oscillatory RKKY interactions that extend to 1 nm and stabilize quasi-collinear A-type altermagnetic orders in both polytypes though with perpendicular easy axes. The detailed stacking sequence of a bulk polytype crystal dramatically impact its macroscopic anomalous Hall response and magnetism, which suggests a new path to engineer the bulk properties of a layered three dimensional solid.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-28T02:39:07Z",
+    "updated": "2026-07-28T02:39:07Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.25213v1",
+      "pdf_path": "data/pdfs/2026-07-29/3_Stacking-dependent anisotropic altermagnetism in V$_{13}$NbS$_2$__2607.25213v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-29T01:29:52.844332",
+    "updated_at": "2026-07-29T01:29:52.844325Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-29/3_Stacking-dependent anisotropic altermagnetism in V$_{13}$NbS$_2$__2607.25213v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.25213v1",
+    "pdf_filename": "3_Stacking-dependent anisotropic altermagnetism in V$_{13}$NbS$_2$__2607.25213v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了钒插层二硫化铌中堆叠次序对交错磁性易轴及反常霍尔效应的决定性影响。",
+      "en": "The study reveals that stacking sequences in V-intercalated NbS2 determine the magnetic easy axis and the resulting anomalous Hall response in altermagnets."
+    },
+    "problem": {
+      "zh": "解释 V1/3NbS2 在不同实验中磁性和输运性质存在显著差异的原因，并探究其磁相互作用机制。",
+      "en": "To explain the significant variability in magnetic and transport properties of V1/3NbS2 across different experiments and to understand its magnetic interaction mechanisms."
+    },
+    "approach": {
+      "zh": "结合单晶X射线衍射、中子衍射、输运测量以及非弹性中子散射技术，并配合线性自旋波理论和密度泛函理论计算。",
+      "en": "Combined single-crystal X-ray and neutron diffraction, transport measurements, and inelastic neutron scattering, supported by linear spin-wave theory and DFT calculations."
+    },
+    "main_takeaway": {
+      "zh": "材料存在 AB 和 ABC 两种堆叠多型体，它们具有相互正交的磁易轴，这直接导致了截然不同的宏观反常霍尔效应响应。",
+      "en": "The material exists in AB and ABC polytypes with orthogonal magnetic easy axes, which directly leads to disparate macroscopic anomalous Hall effect responses."
+    },
+    "why_it_matters": {
+      "zh": "证明了可以通过调控三维层状固体的体相堆叠序列来工程化其磁性和拓扑电子性质，为设计交错磁性器件提供了新思路。",
+      "en": "It demonstrates that bulk magnetic and topological electronic properties can be engineered via stacking sequences in 3D layered solids, offering new routes for designing altermagnetic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究澄清了堆叠结构、磁易轴与反常霍尔效应之间的复杂关系，解决了该体系长期存在的实验不一致问题。",
+        "en": "The study clarifies the complex relationship between stacking structure, magnetic easy axis, and AHE, resolving long-standing experimental inconsistencies in this system."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文涵盖了深度的结构表征、先进的中子散射实验及理论计算，且文中引用显示其已在该期刊发表。",
+        "en": "The paper covers in-depth structural characterization, advanced neutron scattering, and theory, with citations indicating its publication in this journal."
+      }
+    },
+    "keywords": [
+      "V1/3NbS2",
+      "Altermagnetism",
+      "Polytypes",
+      "Anomalous Hall Effect",
+      "RKKY Interaction",
+      "Neutron Scattering"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-29",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-29T09:30:32",
+    "input_scope": "full_pdf_text"
+  }
+}

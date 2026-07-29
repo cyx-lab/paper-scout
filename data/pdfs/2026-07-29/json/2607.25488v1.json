@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2607.25488v1",
+    "title": "Synthesis of hybrid gold-protein nanobioconjugates with strongly enhanced circular dichroism",
+    "authors": [
+      "Yoann Prado",
+      "Victoire Ho",
+      "Maud Virolle",
+      "Maria Sanz-Paz",
+      "Mathieu Mivelle",
+      "Souhir Boujday",
+      "Michèle Salmain",
+      "Guillaume Demesy",
+      "Nicolas Bonod",
+      "Bruno Gallas"
+    ],
+    "abstract": "Controlling chiral light-matter interactions with nanophotonics is a powerful strategy for amplifying molecular circular dichroism (CD) beyond its natural limits. Here, we present a plasmonic platform that uses superchiral near fields to amplify the optical activity of biological chromophores. Gold nanoparticles (3.6 nm in diameter) are electrostatically coupled with photosynthetic proteins which results in stable hybrid nanobioconjugates in aqueous solution. The Q-band absorption spectrum of the proteins overlaps with the localized surface plasmon resonance of the gold particles. In the visible region, a combination of numerical simulations and normalized CD measurements reveal an enhancement factor of 3 compared to free proteins. This observation reveals three effects. First, there is a local increase in electromagnetic chirality density in the protein environment. Second, there is an increase in the absorption of the proteins. Third, there is plasmon-induced circular dichroism. Our results quantitatively demonstrate that near-field super-chirality directly modulates biomolecular optical activity. These findings open new avenues for chiroptical nanodevices, biosensing platforms, and light-driven asymmetric photochemistry.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-07-28T09:24:40Z",
+    "updated": "2026-07-28T09:24:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.25488v1",
+      "pdf_path": "data/pdfs/2026-07-29/3_Synthesis of hybrid gold-protein nanobioconjugates with strongly enhanced circular dichroism__2607.25488v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-29T01:29:52.843621",
+    "updated_at": "2026-07-29T01:29:52.843614Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-29/3_Synthesis of hybrid gold-protein nanobioconjugates with strongly enhanced circular dichroism__2607.25488v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.25488v1",
+    "pdf_filename": "3_Synthesis of hybrid gold-protein nanobioconjugates with strongly enhanced circular dichroism__2607.25488v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过将金纳米颗粒与光合蛋白质静电耦合，实现了蛋白质圆二色性信号的3倍增强，并揭示了超手性近场的增强机制。",
+      "en": "By electrostatically coupling gold nanoparticles with photosynthetic proteins, the authors achieved a 3-fold enhancement of protein circular dichroism and elucidated the underlying superchiral near-field mechanisms."
+    },
+    "problem": {
+      "zh": "生物大分子的天然圆二色性信号非常微弱，如何利用等离激元纳米结构在溶液中有效增强其手性光-物质相互作用是一个挑战。",
+      "en": "The natural circular dichroism signal of biomolecules is extremely weak, and achieving effective enhancement of chiral light-matter interactions using plasmonic nanostructures in solution remains challenging."
+    },
+    "approach": {
+      "zh": "将带正电的3.6纳米金纳米颗粒与带负电的R-藻红蛋白进行静电自组装，构建稳定的杂化纳米共轭物，并通过有限元数值模拟分析其局部手性密度和吸收增强。",
+      "en": "Electrostatically assemble positively charged 3.6 nm gold nanoparticles with negatively charged R-phycoerythrin proteins to form stable hybrid nanobioconjugates, and perform finite element numerical simulations to analyze local chirality density and absorption enhancement."
+    },
+    "main_takeaway": {
+      "zh": "杂化纳米共轭物在570纳米处的圆二色性信号比游离蛋白质提高了3倍，这源于局部光手性密度增加、蛋白质吸收增强以及等离激元诱导圆二色性的协同作用。",
+      "en": "The hybrid nanobioconjugates exhibit a 3-fold circular dichroism enhancement at 570 nm compared to free proteins, originating from the synergistic effects of increased local optical chirality density, enhanced protein absorption, and plasmon-induced circular dichroism."
+    },
+    "why_it_matters": {
+      "zh": "该研究定量证实了近场超手性对生物分子光学活性的直接调制，为手性纳米器件、生物传感和光驱动不对称光化学开辟了新途径。",
+      "en": "This study quantitatively demonstrates the direct modulation of biomolecular optical activity by near-field superchirality, opening new avenues for chiroptical nanodevices, biosensing, and light-driven asymmetric photochemistry."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功在水溶液中构建了金纳米颗粒-蛋白质杂化体系，实现了显著的圆二色性信号增强，并给出了清晰的物理机制解释。",
+        "en": "Successfully constructed gold nanoparticle-protein hybrids in aqueous solution, achieved significant circular dichroism enhancement, and provided a clear physical mechanism."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experiment + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作结合了纳米化学合成、生物共轭、手性光学表征与电磁学模拟，非常符合该期刊在纳米光子学与纳米生物技术交叉领域的定位。",
+        "en": "The work combines nanochemical synthesis, bioconjugation, chiroptical characterization, and electromagnetic simulations, which fits the journal's scope at the intersection of nanophotonics and nanobiotechnology."
+      }
+    },
+    "keywords": [
+      "Plasmonics",
+      "Nanobioconjugates",
+      "Circular Dichroism",
+      "Phycobiliproteins",
+      "Superchiral fields"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-29",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-29T09:31:09",
+    "input_scope": "full_pdf_text"
+  }
+}

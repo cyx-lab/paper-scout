@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2607.25673v1",
+    "title": "Relative hybridization textures as local coordinates for band geometry and topology",
+    "authors": [
+      "Caiyuan Ye",
+      "Zhong Fang",
+      "Hongming Weng",
+      "Quansheng Wu"
+    ],
+    "abstract": "Global diagnostics such as Berry curvature and quantum metrics characterize the geometry and topology of an occupied Bloch subspace, leaving the microscopic sectors that carry this structure implicit. We introduce the relative hybridization coordinate $Z$ as a projector-level diagnostic connecting these global quantities to local degrees of freedom. As the Grassmann graph coordinate relative to a chosen sector, $Z$ reconstructs the local projector and retains the phase and matrix orientation absent from ordinary weight or fat-band descriptions. On valid chart patches, its momentum-space texture encodes Berry curvature, quantum metric, Berry phases, and Wilson loops, while chart obstructions appear as rank-drop defects whose balanced-chart winding of $\\det Z$ gives the first Chern number. In the QWZ model this defect inventory reproduces the Chern phase diagram. In the lattice BHZ model, matrix $Z$ diagnoses the orbital $E|H$ partition as a robust matched chart for the QSH geometry, while the spin partition remains essential to the block and $\\mathbb Z_2$ interpretation and shows rank deficiency as a matched chart in the spin-conserving limit. The relative hybridization coordinate thus provides a sector-resolved framework for relating band geometry and topology to microscopic structure.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-28T12:52:09Z",
+    "updated": "2026-07-28T12:52:09Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:wilson loop"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.25673v1",
+      "pdf_path": "data/pdfs/2026-07-29/3_Relative hybridization textures as local coordinates for band geometry and topology__2607.25673v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-29T01:29:52.843198",
+    "updated_at": "2026-07-29T01:29:52.843191Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-29/3_Relative hybridization textures as local coordinates for band geometry and topology__2607.25673v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.25673v1",
+    "pdf_filename": "3_Relative hybridization textures as local coordinates for band geometry and topology__2607.25673v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "引入相对杂化坐标 Z 作为局部诊断工具，将能带的全局几何与拓扑性质关联到具体的微观自由度。",
+      "en": "Introduces the relative hybridization coordinate Z as a local diagnostic to connect global band geometry and topology to microscopic degrees of freedom."
+    },
+    "problem": {
+      "zh": "全局拓扑不变量（如陈数、Berry曲率）缺乏微观分辨率，无法明确指出是哪些轨道或自旋携带了这些性质，且传统的能带权重分析丢失了关键的相位和矩阵取向信息。",
+      "en": "Global topological invariants lack microscopic resolution, failing to identify which sectors carry the structure, while traditional weight analyses lose essential phase and matrix orientation information."
+    },
+    "approach": {
+      "zh": "定义 Grassmann 图坐标 Z 为占据态投影算符子块的组合，利用其在动量空间的纹理和奇异性（如行列式绕数）来重构局部投影算符，并推导 Berry 曲率和量子度规的坐标表达式。",
+      "en": "Defines the Grassmann graph coordinate Z as a combination of occupied projector blocks, using its momentum-space texture and singularities (e.g., determinant winding) to reconstruct local projectors and derive expressions for Berry curvature and quantum metric."
+    },
+    "main_takeaway": {
+      "zh": "拓扑性质被编码为微观扇区坐标图中的缺陷及其电荷分布，这使得研究者能够区分携带拓扑结构的“载体图”与仅改变几何纹理的“修饰通道”。",
+      "en": "Topological properties are encoded as defects and charge distributions within microscopic sector charts, allowing researchers to distinguish \"carrier charts\" that support topology from \"dressing channels\" that merely modify geometric textures."
+    },
+    "why_it_matters": {
+      "zh": "该方法为材料计算提供了一套算符层面的诊断框架，能精确识别 Berry 曲率热点或拓扑相变的微观起源，如区分轨道杂化与自旋轨道耦合的贡献。",
+      "en": "This method provides a projector-level diagnostic framework for materials, enabling precise identification of the microscopic origins of Berry curvature hotspots or topological transitions, such as distinguishing orbital hybridization from SOC contributions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种超越传统能带权重分析的新型局部坐标方法，为理解能带几何与微观结构的关联提供了严谨的数学基础。",
+        "en": "Proposes a novel local coordinate approach that goes beyond traditional fat-band analysis, providing a rigorous mathematical foundation for linking band geometry to microscopic structure."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了凝聚态拓扑领域的基础性新概念，并结合经典模型（QWZ和BHZ）进行了详尽验证。",
+        "en": "The study introduces a fundamental new concept in condensed matter topology and provides thorough validation using classic models (QWZ and BHZ)."
+      }
+    },
+    "keywords": [
+      "Band geometry",
+      "Topological invariants",
+      "Hybridization texture",
+      "Grassmannian",
+      "Chern insulator",
+      "Quantum metric"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-29",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-29T09:31:42",
+    "input_scope": "full_pdf_text"
+  }
+}
