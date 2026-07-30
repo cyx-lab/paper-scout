@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.26601v1",
+    "title": "Signature of Magnon-Raman Phonon-Polariton Condensation in a Cavity via Transverse Pumping",
+    "authors": [
+      "Subrata Chakraborty",
+      "Shishir Kumar Pandey"
+    ],
+    "abstract": "Polaritons---hybrid light-matter quasiparticles---provide a versatile platform for dynamically controlling a wide range of condensed matter systems. While conventional polaritonic platforms rely on direct dipole coupling, controlling dipole-forbidden or Raman-active lattice and spin excitations remains challenging due to optical selection rules and the limitations of THz cavities. Here, we propose a theoretical platform for realizing a continuous-wave magnon--Raman phonon--polariton condensate. By embedding a magnetic medium hosting strongly coupled magnon and Raman-active phonon (MRP) modes inside an optical microcavity under continuous-wave transverse laser pumping, we derive the stationary-state phase diagram and demonstrate the emerging signature of distinct MRP condensation phases under critical conditions. Furthermore, since the bare magnon frequency is tunable via an external magnetic field, we show that the transverse pump frequency and the external magnetic field-dependent magnon simultaneously as highly flexible control parameters for exploring and controlling macroscopic quantum phenomena at the interface of cavity quantum optics, lattice dynamics, and quantum magnetism.",
+    "categories": [
+      "physics.optics",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-29T08:24:08Z",
+    "updated": "2026-07-29T08:24:08Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.26601v1",
+      "pdf_path": "data/pdfs/2026-07-30/3_Signature of Magnon-Raman Phonon-Polariton Condensation in a Cavity via Transverse Pumping__2607.26601v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-30T01:22:37.535270",
+    "updated_at": "2026-07-30T01:22:37.535247Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-30/3_Signature of Magnon-Raman Phonon-Polariton Condensation in a Cavity via Transverse Pumping__2607.26601v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26601v1",
+    "pdf_filename": "3_Signature of Magnon-Raman Phonon-Polariton Condensation in a Cavity via Transverse Pumping__2607.26601v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种在横向激光泵浦光学微腔中实现连续波磁振子-拉曼声子-极化激元凝聚的理论方案。",
+      "en": "This paper proposes a theoretical scheme to realize a continuous-wave magnon-Raman phonon-polariton condensate in a transversely pumped optical microcavity."
+    },
+    "problem": {
+      "zh": "传统的极化激元平台受限于光学选择定域和太赫兹腔的限制，难以控制偶极禁戒或仅拉曼活跃的晶格与自旋激发。",
+      "en": "Traditional polaritonic platforms are limited by optical selection rules and THz cavity constraints, making it difficult to control dipole-forbidden or Raman-active lattice and spin excitations."
+    },
+    "approach": {
+      "zh": "提出将具有强磁振子-拉曼声子耦合的磁性介质置于光学微腔中，利用横向连续波激光泵浦，并通过理论推导构建低能有效哈密顿量，分析稳态相图。",
+      "en": "Propose placing a magnetic medium with strong magnon-Raman phonon coupling inside an optical microcavity under transverse continuous-wave laser pumping, and derive a low-energy effective Hamiltonian to analyze the stationary-state phase diagram."
+    },
+    "main_takeaway": {
+      "zh": "有限强度的横向泵浦可以诱导磁振子-拉曼声子-极化激元凝聚，且该凝聚状态可以通过外部磁场（调节磁振子频率）和泵浦光频率进行双重调控。",
+      "en": "A finite transverse pump strength can induce magnon-Raman phonon-polariton condensation, which can be dual-controlled via the external magnetic field (tuning the magnon frequency) and the pump laser frequency."
+    },
+    "why_it_matters": {
+      "zh": "该研究连接了腔量子电动力学、晶格动力学和量子磁学，为在固体系统中探索和调控宏观量子物态提供了一个高度可调控的连续波平台。",
+      "en": "This work bridges cavity QED, lattice dynamics, and quantum magnetism, providing a highly tunable continuous-wave platform to explore and manipulate macroscopic quantum states in solid-state systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "提出了实现新型极化激元凝聚的理论机制，并阐明了磁场和泵浦频率对凝聚相的调控机理。",
+        "en": "Proposes a theoretical mechanism for realizing a new type of polariton condensate and clarifies how magnetic fields and pump frequencies control the condensation phases."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究关注强耦合光-物质相互作用及磁振子-声子杂化，非常符合PRB在凝聚态理论和量子光学交叉领域的收录范围。",
+        "en": "The study focuses on strong light-matter interactions and magnon-phonon hybridization, which fits well within the scope of PRB's coverage of condensed matter theory and quantum optics."
+      }
+    },
+    "keywords": [
+      "magnon-polariton",
+      "Raman phonon",
+      "cavity QED",
+      "polariton condensation",
+      "magnetoelastic coupling"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-30T09:24:36",
+    "input_scope": "full_pdf_text"
+  }
+}

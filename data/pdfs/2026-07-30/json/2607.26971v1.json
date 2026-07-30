@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2607.26971v1",
+    "title": "Ferroelectric switchable altermagnetic-like compensated ferrimagnets with charge ordering",
+    "authors": [
+      "Xinyu Yang",
+      "Shuai Dong"
+    ],
+    "abstract": "Unconventional collinear magnets with almost zero magnetization but prominent nonrelativistic spin-splitting, such as altermagnets, can inherit the advantages of both ferromagnets and antiferromagnets. By incorporating more degrees of freedom such as ferroelectricity and charge ordering, these unconventional magnets can be even more interesting and functionalized. With this design principle, the Fe$_3$O$_5$ monolayer is predicted to exhibit a hybrid spin-splitting mechanism, with the superposition of the altermagnetic-like $k$-path alternating splitting and ferrimagnet-like Zeeman splitting. Benefiting from the hidden magnetoelectricity based on the spin-charge coupling, such spin-splitting can be fully switched by an electric field. Its conductivity is highly spin-polarized, with a polarization ratio above $99\\%$, comparable to half-metals but with zero magnetization.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-29T14:32:39Z",
+    "updated": "2026-07-29T14:32:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.26971v1",
+      "pdf_path": "data/pdfs/2026-07-30/3_Ferroelectric switchable altermagnetic-like compensated ferrimagnets with charge ordering__2607.26971v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-30T01:22:37.534015",
+    "updated_at": "2026-07-30T01:22:37.534008Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-30/3_Ferroelectric switchable altermagnetic-like compensated ferrimagnets with charge ordering__2607.26971v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26971v1",
+    "pdf_filename": "3_Ferroelectric switchable altermagnetic-like compensated ferrimagnets with charge ordering__2607.26971v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "预测Fe3O5单层为铁电可控的、具有电荷有序和混合自旋分裂特征的补偿亚铁磁体。",
+      "en": "Predicts Fe3O5 monolayer as a ferroelectrically switchable, compensated ferrimagnet with charge ordering and hybrid spin-splitting."
+    },
+    "problem": {
+      "zh": "如何在二维补偿亚铁磁体中实现显著且可非易失性电场调控的自旋分裂。",
+      "en": "How to achieve prominent and nonvolatile electric-field-controlled spin splittings in two-dimensional compensated ferrimagnets."
+    },
+    "approach": {
+      "zh": "利用第一性原理密度泛函理论计算，研究Fe3O5单层的磁结构、电子能带、铁电极化及自旋输运性质。",
+      "en": "Uses first-principles density functional theory calculations to investigate the magnetic structures, electronic bands, ferroelectric polarization, and spin transport properties of Fe3O5 monolayer."
+    },
+    "main_takeaway": {
+      "zh": "Fe3O5单层通过特殊的上下下（UUD）磁有序和电荷有序，实现了兼具交错型和塞曼型特征的混合自旋分裂，且该分裂和近100%的自旋极化电导可通过电场完全翻转。",
+      "en": "The Fe3O5 monolayer achieves a hybrid spin-splitting (altermagnetic-like and Zeeman-type) driven by a unique up-up-down magnetic order and charge ordering, enabling its spin splitting and near-100% spin-polarized conductivity to be fully switched by an electric field."
+    },
+    "why_it_matters": {
+      "zh": "它为设计无净磁化强度但具有高自旋极化率、且可电控的超快、低功耗自旋电子学器件开辟了新途径。",
+      "en": "It opens a new avenue for designing ultrafast, low-power spintronic devices that possess zero net magnetization but exhibit high, electrically switchable spin polarization."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了混合自旋分裂机制，并在二维单层材料中实现了铁电开关控制的近100%自旋极化输运。",
+        "en": "Proposes a hybrid spin-splitting mechanism and achieves ferroelectrically switchable, near-100% spin-polarized transport in a 2D monolayer."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该论文提出了新颖的物理概念（混合自旋分裂与分数量子铁电性的结合），并具有明确的器件应用前景，非常符合该期刊的定位。",
+        "en": "The paper proposes novel physical concepts (hybrid spin-splitting combined with fractional quantum ferroelectricity) and has clear device application prospects, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "compensated ferrimagnet",
+      "charge ordering",
+      "ferroelectricity",
+      "spin-splitting",
+      "magnetoelectricity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-30T09:25:12",
+    "input_scope": "full_pdf_text"
+  }
+}

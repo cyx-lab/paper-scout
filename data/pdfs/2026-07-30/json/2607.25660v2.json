@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.25660v2",
+    "title": "Aharonov-Casher phase in twisted bilayer graphene",
+    "authors": [
+      "Igor Kuzmenko",
+      "Y. B. Band",
+      "Yshai Avishai"
+    ],
+    "abstract": "The Aharonov-Casher (AC) effect is a quantum mechanical phenomenon in which the wave function of a particle with a magnetic moment moving in a region subject to an electric field develops a phase shift due to spin-orbit interaction, even if no classical force acts on it. This phase also depends on the medium through which the particle moves. Here we focus on the AC phase of an electron moving in twisted bilayer graphene (TBG) lying in the $x$-$y$ plane, subject to a uniform electric field perpendicular to the plane of the graphene, ${\\bf E}=E{\\hat{\\bf z}}$. The AC phase is determined by an $SU(2)$ vector potential ${\\bf A}$ from which a phase factor is generated, and used to perform a gauge transformation of the Hamiltonian. We find that the AC phase for a straight line path between two points in the TBG plane is linear with $E$ and exhibits sharp peaks at the magic angles. To help demonstrate an experimental method for determining the AC phase, we examine the probability of polarized electron propagation from a source tip to a drain tip in a double-tip scanning tunneling spectroscopy configuration.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-28T12:46:42Z",
+    "updated": "2026-07-29T08:31:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.25660v2",
+      "pdf_path": "data/pdfs/2026-07-30/3_Aharonov-Casher phase in twisted bilayer graphene__2607.25660v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-30T01:22:37.537046",
+    "updated_at": "2026-07-30T01:22:37.537034Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-30/3_Aharonov-Casher phase in twisted bilayer graphene__2607.25660v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.25660v2",
+    "pdf_filename": "3_Aharonov-Casher phase in twisted bilayer graphene__2607.25660v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了双层转角石墨烯中的阿哈罗诺夫-卡舍尔（AC）相位，发现其在魔角处因费米速度极小化而出现尖锐峰值，并提出了双探针扫描隧道谱的实验测量方法。",
+      "en": "This paper studies the Aharonov-Casher (AC) phase in twisted bilayer graphene, finding that it exhibits sharp peaks at magic angles due to the minimization of Fermi velocity, and proposes an experimental measurement method using double-tip scanning tunneling spectroscopy."
+    },
+    "problem": {
+      "zh": "探索在垂直电场下，双层转角石墨烯中电子运动产生的阿哈罗诺夫-卡舍尔（AC）几何相位如何受转角（特别是魔角）和重整化费米速度的影响，以及如何通过实验进行测量。",
+      "en": "To explore how the Aharonov-Casher (AC) geometric phase of electrons in twisted bilayer graphene under a perpendicular electric field is affected by the twist angle (especially magic angles) and renormalized Fermi velocity, and how to measure it experimentally."
+    },
+    "approach": {
+      "zh": "采用连续介质模型计算双层转角石墨烯的低能有效哈密顿量和重整化费米速度，推导SU(2)贝里联络及AC相位，并设计了基于铁磁探针的双探针扫描隧道谱（DTSTS）测量方案。",
+      "en": "Using continuum models to calculate the low-energy effective Hamiltonian and renormalized Fermi velocity of twisted bilayer graphene, deriving the SU(2) Berry connection and AC phase, and designing a double-tip scanning tunneling spectroscopy (DTSTS) measurement scheme with ferromagnetic tips."
+    },
+    "main_takeaway": {
+      "zh": "阿哈罗诺夫-卡舍尔（AC）相位与垂直电场强度成正比，且与重整化费米速度成反比，因此在费米速度极小的魔角处会表现出极其尖锐的峰值。",
+      "en": "The Aharonov-Casher (AC) phase is directly proportional to the perpendicular electric field strength and inversely proportional to the renormalized Fermi velocity, leading to extremely sharp peaks at the magic angles where the Fermi velocity is minimized."
+    },
+    "why_it_matters": {
+      "zh": "该研究将几何相位与转角石墨烯的平带物理联系起来，为直接探测莫尔超晶格中的谷贝里曲率、量子度规以及局部电场和应变变化提供了一种微观诊断工具。",
+      "en": "This study links geometric phases to the flat-band physics of twisted graphene, providing a microscopic diagnostic tool to directly probe valley Berry curvature, quantum metric, and local electric field or strain variations in moiré superlattices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了双层转角石墨烯中AC相位与魔角及费米速度重整化的物理关联，并提出了可行的双探针实验测量方案。",
+        "en": "Clarifies the physical connection between the AC phase, magic angles, and Fermi velocity renormalization in twisted bilayer graphene, and proposes a feasible double-tip experimental measurement scheme."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作关注凝聚态物理中的几何相位与二维材料输运，属于PRB的典型理论研究范畴，且作者此前相关工作也发表于该期刊。",
+        "en": "This work focuses on geometric phases and transport in 2D materials in condensed matter physics, falling within the typical scope of theoretical research in PRB, where the authors' previous related works were also published."
+      }
+    },
+    "keywords": [
+      "twisted bilayer graphene",
+      "Aharonov-Casher phase",
+      "magic angles",
+      "Fermi velocity renormalization",
+      "double-tip scanning tunneling spectroscopy"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-30T09:23:13",
+    "input_scope": "full_pdf_text"
+  }
+}

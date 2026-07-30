@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2607.26516v1",
+    "title": "Quantum Geometry-Driven RKKY: From Flat to Dispersive Bands",
+    "authors": [
+      "Zhenggang Zhou",
+      "Chuang Li",
+      "Lun-Hui Hu"
+    ],
+    "abstract": "In flat-band systems, quantum metric bounds physical observables like superfluid weight and coherence length, suggesting a single geometric scale for spatial correlations. Here, we show that the RKKY exchange in an isolated filled flat band can violate this expectation. With the intraband channel absent, the exchange proceeds via virtual interband transitions across the gap; the kernel becomes the inverse-gap-weighted trace product of the real-space flat-band projector and empty-band projectors. Because the corresponding momentum-space projectors are analytic, the kernel decays exponentially, with a decay length $ξ_\\text{RKKY}$ set by the closest singularities of the analytically continued projectors in the complex momentum plane. Thus, this length depends on both the flat-band geometry and the band gap. Applying this formalism to Chern flat-band systems, we find that for small gaps, $ξ_\\text{RKKY}$ depends non-monotonically on the quantum metric length: it first decreases, then increases, revealing that stronger quantum geometry can shorten the magnetic exchange range. Upon restoring dispersion, a nontrivial inversion representation can force the overlap between Bloch states at antipodal Fermi points to vanish under gate tuning, producing a $1/R^3$ RKKY tail instead of the conventional $1/R^2$---a geometric selection effect.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-29T06:32:34Z",
+    "updated": "2026-07-29T06:32:34Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:superfluid weight"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.26516v1",
+      "pdf_path": "data/pdfs/2026-07-30/3_Quantum Geometry-Driven RKKY From Flat to Dispersive Bands__2607.26516v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-30T01:22:37.535466",
+    "updated_at": "2026-07-30T01:22:37.535456Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-30/3_Quantum Geometry-Driven RKKY From Flat to Dispersive Bands__2607.26516v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26516v1",
+    "pdf_filename": "3_Quantum Geometry-Driven RKKY From Flat to Dispersive Bands__2607.26516v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了量子几何如何主导从平带到色散带的RKKY磁交换作用，发现其关联长度受能隙与几何的共同调控，并展现出独特的几何选择效应。",
+      "en": "This work reveals how quantum geometry drives the RKKY magnetic exchange from flat to dispersive bands, showing that the correlation length is jointly controlled by the band gap and geometry, and exhibits a unique geometric selection effect."
+    },
+    "problem": {
+      "zh": "研究在没有传统费米面（平带已满）的情况下，量子几何如何决定RKKY磁交换作用的空间关联长度，以及引入色散后量子几何对RKKY行为的影响。",
+      "en": "To understand how quantum geometry determines the spatial correlation length of the RKKY magnetic exchange in the absence of a conventional Fermi surface (fully filled flat band), and how restoring dispersion affects RKKY behavior."
+    },
+    "approach": {
+      "zh": "采用解析可解的双带模型，结合复动量空间中投影算符的极点分析，计算平带及色散带中的RKKY相互作用，并分析其空间衰减行为。",
+      "en": "Using an analytically solvable two-band model combined with pole analysis of band projectors in the complex momentum plane to calculate the RKKY interaction in both flat and dispersive bands and analyze its spatial decay."
+    },
+    "main_takeaway": {
+      "zh": "满平带中的RKKY相互作用呈指数衰减，其衰减长度由能隙和量子几何共同决定，在小能隙下增强量子几何反而会缩短磁交换范围；引入色散后，特定的对称性保护可使RKKY尾部从传统的1/R2变为1/R3。",
+      "en": "The RKKY interaction in a filled flat band decays exponentially with a length scale set by both the gap and quantum geometry, where stronger geometry can counterintuitively shorten the range for small gaps; with dispersion, a symmetry-protected geometric selection effect can change the RKKY tail from 1/R2 to 1/R3."
+    },
+    "why_it_matters": {
+      "zh": "它打破了“单一量子度规尺度控制平带空间关联”的传统认知，为利用莫尔工程和门电压调控材料中的磁相互作用提供了理论基础。",
+      "en": "It challenges the conventional paradigm that a single quantum metric scale controls spatial correlations in flat bands, providing a theoretical foundation for tuning magnetic interactions in materials via moire engineering and gate voltage."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了量子几何与能隙共同决定平带RKKY衰减长度的机制，并发现了色散带中由几何选择引起的幂律改变。",
+        "en": "Clarified the mechanism by which quantum geometry and band gap jointly determine the flat-band RKKY decay length, and discovered a geometry-induced power-law change in dispersive bands."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文探讨了凝聚态物理中极具热度的量子几何与平带物理，提出了具有普遍物理意义的新机制，非常适合发表在PRL。",
+        "en": "The paper discusses highly topical quantum geometry and flat-band physics in condensed matter, proposing a new mechanism of broad physical significance, making it highly suitable for PRL."
+      }
+    },
+    "keywords": [
+      "RKKY interaction",
+      "Quantum geometry",
+      "Flat bands",
+      "Chern insulator",
+      "Magnetic exchange"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-30T09:24:24",
+    "input_scope": "full_pdf_text"
+  }
+}

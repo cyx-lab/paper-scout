@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2607.26495v1",
+    "title": "Nanoscale Imaging of Strain-Controlled Altermagnetic Domains in α-MnTe",
+    "authors": [
+      "Alex L. Melendez",
+      "Sijie Xu",
+      "Liangbo Liang",
+      "An-Ping Li",
+      "Pengcheng Dai",
+      "Hu Miao",
+      "Zhaoyu Liu",
+      "Huan Zhao"
+    ],
+    "abstract": "Altermagnets combine compensated magnetic order with momentum-dependent spin splitting, offering a route to spintronic functionality without the stray fields of conventional ferromagnets. Mechanical strain provides a promising means of controlling their Néel order, yet the microscopic pathway by which strain reorganizes an altermagnetic texture remains unresolved. Here, we integrate a piezo-driven uniaxial strain cell with scanning nitrogen-vacancy magnetometry to image the magnetic domains of bulk α-MnTe during in situ compression at room temperature. We find that compression reorganizes the magnetic texture through domain coalescence, increasing the size of the largest connected domain while reducing the domain-wall density. Upon unloading, however, the strain-formed domain network does not retrace the loading pathway. Instead, the large connected regions fragment into a new metastable configuration, producing pronounced hysteresis in the maximum domain size and stray-field distribution. These results identify domain connectivity and topology as key carriers of strain-induced magnetic memory. Our work reveals domain coalescence and hysteretic fragmentation as the microscopic pathway of strain control in α-MnTe and establishes a route toward strain-programmable altermagnetic textures and reconfigurable spintronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-29T05:42:39Z",
+    "updated": "2026-07-29T05:42:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.26495v1",
+      "pdf_path": "data/pdfs/2026-07-30/3_Nanoscale Imaging of Strain-Controlled Altermagnetic Domains in α-MnTe__2607.26495v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-30T01:22:37.535562",
+    "updated_at": "2026-07-30T01:22:37.535555Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-30/3_Nanoscale Imaging of Strain-Controlled Altermagnetic Domains in α-MnTe__2607.26495v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26495v1",
+    "pdf_filename": "3_Nanoscale Imaging of Strain-Controlled Altermagnetic Domains in α-MnTe__2607.26495v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究利用原位应变扫描氮-空位色心磁力计，首次在纳米尺度上直接观测了室温下交错磁体α-MnTe中应变调控的磁畴演化与磁滞行为。",
+      "en": "This work utilizes in situ strain scanning nitrogen-vacancy magnetometry to directly image the strain-controlled domain evolution and hysteresis in the altermagnet α-MnTe at room temperature."
+    },
+    "problem": {
+      "zh": "尽管机械应变被认为是调控交错磁体中奈尔序的有效手段，但应变如何在微观尺度上重组交错磁畴结构的物理路径仍不清楚。",
+      "en": "Although mechanical strain is a promising tool to control the Néel order in altermagnets, the microscopic pathway of how strain reorganizes the altermagnetic domain texture remains unresolved."
+    },
+    "approach": {
+      "zh": "将压电驱动的单轴应变装置与扫描氮-空位色心磁力计相结合，在室温原位压缩过程中对块体α-MnTe的磁畴进行纳米级成像。",
+      "en": "Combined a piezo-driven uniaxial strain cell with scanning nitrogen-vacancy magnetometry to perform nanoscale imaging of bulk α-MnTe magnetic domains during in situ compression at room temperature."
+    },
+    "main_takeaway": {
+      "zh": "压缩通过磁畴合并减少畴壁密度来重组磁结构，而卸载时磁畴发生碎裂并陷入新的亚稳态，表现出显著的磁滞和磁记忆效应。",
+      "en": "Compression reorganizes the magnetic texture via domain coalescence and wall density reduction, whereas unloading causes domain fragmentation into a new metastable state, exhibiting pronounced hysteresis and magnetic memory."
+    },
+    "why_it_matters": {
+      "zh": "该研究统一了应变诱导去双晶与奈尔矢量连续旋转两种微观图像，为开发应变可编程的交错磁体自旋电子器件奠定了基础。",
+      "en": "It unifies the pictures of strain-induced detwinning and continuous Néel vector rotation, establishing a foundation for strain-programmable altermagnetic spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在纳米尺度上原位成像了应变调控的交错磁体磁畴动力学，揭示了磁畴合并与碎裂的微观机制。",
+        "en": "First in situ nanoscale imaging of strain-controlled altermagnetic domain dynamics, revealing the microscopic mechanism of domain coalescence and fragmentation."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Materials",
+      "confidence": "medium",
+      "reason": {
+        "zh": "结合了先进的扫描NV磁力计与原位应变技术，首次解决了交错磁体微观调控的关键争议，非常适合发表在材料或物理类顶级期刊。",
+        "en": "Combines advanced scanning NV magnetometry with in situ strain to resolve a key debate in altermagnetism, making it highly suitable for top-tier materials or physics journals."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "alpha-MnTe",
+      "scanning NV magnetometry",
+      "strain control",
+      "domain dynamics",
+      "magnetic memory"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-30T09:24:00",
+    "input_scope": "full_pdf_text"
+  }
+}

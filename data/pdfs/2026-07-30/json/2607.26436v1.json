@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2607.26436v1",
+    "title": "Molecular triplets and other metastable states for excitonic quantum batteries",
+    "authors": [
+      "Daniel Tibben",
+      "Gian Marcello Andolina",
+      "Daniel E. Gómez",
+      "Francesco Campaioli"
+    ],
+    "abstract": "Excitonic quantum batteries, based on organic fluorescent molecules embedded in optical microcavities, offer a room-temperature platform for studying collective effects in energy storage and developing applications. Recent experiments have offered evidence of superabsorption, a collective enhancement to the light absorption rate of organic molecules which leads to a scalable power density. However, they have also highlighted the challenge posed by rapid radiative decay of fluorescent molecules, which limits the energy storage lifetime. Current strategies to overcome this trade-off focus on controlling the coupling between the absorbing manifold and that used for energy storage. In this chapter, we review three implementations of this design principle: transferring energy from optically excited states to long-lived dark triplet states, generating triplet pairs and higher-spin states through singlet exciton fission, and forming charge-separated states. We discuss each mechanism from both theoretical and experimental perspectives, with particular emphasis on recent device implementations that have extended storage times by several orders of magnitude. We conclude with a cross-platform outlook on the role of metastable states across coherent and room-temperature implementations, from neutral atom arrays to masers and colour centres.",
+    "categories": [
+      "quant-ph",
+      "cond-mat.mes-hall",
+      "physics.atm-clus"
+    ],
+    "published": "2026-07-29T03:24:49Z",
+    "updated": "2026-07-29T03:24:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.26436v1",
+      "pdf_path": "data/pdfs/2026-07-30/3_Molecular triplets and other metastable states for excitonic quantum batteries__2607.26436v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-30T01:22:37.535755",
+    "updated_at": "2026-07-30T01:22:37.535746Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-30/3_Molecular triplets and other metastable states for excitonic quantum batteries__2607.26436v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26436v1",
+    "pdf_filename": "3_Molecular triplets and other metastable states for excitonic quantum batteries__2607.26436v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文评估并分析了利用分子三线态、单线态裂分和电荷分离态作为亚稳态寄存器来延长激子量子电池能量储存寿命的方法。",
+      "en": "This work reviews and analyzes the use of molecular triplets, singlet fission, and charge-separated states as metastable registers to extend the energy storage lifetime of excitonic quantum batteries."
+    },
+    "problem": {
+      "zh": "荧光分子的快速辐射衰减（超辐射）限制了激子量子电池的能量储存寿命，导致快速充电与快速自放电之间存在权衡。",
+      "en": "The rapid radiative decay (superradiance) of fluorescent molecules limits the energy storage lifetime of excitonic quantum batteries, creating a trade-off between fast charging and fast self-discharge."
+    },
+    "approach": {
+      "zh": "分析了将储存流形与腔模解耦的三种机制：通过系间窜越转移至暗三线态、通过单线态裂分产生三线态对以及空间电荷分离。",
+      "en": "Analyzing three mechanisms to decouple the storage manifold from the cavity mode: intersystem crossing to dark triplets, singlet fission to generate triplet pairs, and spatial charge separation."
+    },
+    "main_takeaway": {
+      "zh": "通过暗态或电荷分离构建亚稳态，成功绕过了激子电池的辐射寿命限制，在不牺牲集体充电功率的情况下实现了长寿命储存。",
+      "en": "Engineering metastability via dark states or charge separation successfully bypasses the radiative lifetime limit of excitonic batteries, enabling long-lived storage without sacrificing collective charging power."
+    },
+    "why_it_matters": {
+      "zh": "它为解决室温量子储能器件中的自放电瓶颈提供了清晰的设计路线图，架起了量子热力学与有机光化学之间的桥梁。",
+      "en": "It provides a clear design roadmap for resolving the self-discharge bottleneck in room-temperature quantum energy storage devices, bridging quantum thermodynamics and organic photochemistry."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "系统地阐明了如何通过设计不同的电子和自旋构型，来保护微腔中储存的能量免受辐射损失。",
+        "en": "It systematically clarifies how different electronic and spin configurations can be engineered to protect stored energy from radiative losses in microcavities."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Applied",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文探讨了固态量子器件的物理机制和设计原则，与该期刊对应用量子力学的关注高度契合。",
+        "en": "The paper addresses the physics and design principles of solid-state quantum devices, which is highly relevant to the journal's focus on applied quantum mechanics."
+      }
+    },
+    "keywords": [
+      "quantum batteries",
+      "metastable states",
+      "triplet excitons",
+      "singlet fission",
+      "charge-separated states"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-30T09:23:32",
+    "input_scope": "full_pdf_text"
+  }
+}

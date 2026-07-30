@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2607.26839v1",
+    "title": "Magnetic hopfions at room temperature",
+    "authors": [
+      "Kaixin Zhu",
+      "Wenli Gao",
+      "Zhan Wang",
+      "Shuaishuai Sun",
+      "Siyuan Huang",
+      "Junxi Tong",
+      "Jun Li",
+      "Huanfang Tian",
+      "Zian Li",
+      "Huaixin Yang",
+      "Ying Zhang",
+      "Olle Eriksson",
+      "Filipp N. Rybakov",
+      "Nikolai S. Kiselev",
+      "Jianqi Li"
+    ],
+    "abstract": "Hopfions are three-dimensional (3D) topological solitons predicted to exist in diverse magnetic systems, yet their practical utility has been largely restricted to cryogenic environments. Here, we overcome this temperature constraint by demonstrating stable magnetic hopfions in the chiral magnet Co8Zn8Mn4 at and above room temperature. Using a transmission electron microscope equipped for in situ optical excitation, we generate magnetic hopfions with femtosecond laser pulses. Long-term observations further reveal Brownian-like motion at room temperature and thermally activated collapse upon approaching the high-temperature regime. Together with micromagnetic simulations and homotopy group analysis, our experimental observations uncover the hopfion formation mechanism through the fusion of bimeron pairs. These findings establish room-temperature magnetic hopfions and provide a framework for their further studies under technologically relevant conditions.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-29T12:28:58Z",
+    "updated": "2026-07-29T12:28:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.26839v1",
+      "pdf_path": "data/pdfs/2026-07-30/2_Magnetic hopfions at room temperature__2607.26839v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-30T01:22:37.534623",
+    "updated_at": "2026-07-30T01:22:37.534613Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-30/2_Magnetic hopfions at room temperature__2607.26839v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26839v1",
+    "pdf_filename": "2_Magnetic hopfions at room temperature__2607.26839v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究在手性磁体Co8Zn8Mn4中首次实现了室温及以上温度下稳定磁霍普夫子的制备与直接观测。",
+      "en": "This study demonstrates the generation and direct observation of stable magnetic hopfions at and above room temperature in the chiral magnet Co8Zn8Mn4."
+    },
+    "problem": {
+      "zh": "磁霍普夫子作为三维拓扑孤子，此前仅能在极低温度下稳定存在，限制了其在实际自旋电子器件中的应用。",
+      "en": "Magnetic hopfions, as three-dimensional topological solitons, have previously been restricted to cryogenic temperatures, limiting their practical utility in spintronic devices."
+    },
+    "approach": {
+      "zh": "利用配备原位飞秒激光激发的洛伦兹透射电子显微镜在手性磁体中诱导并观测磁结构，并结合微磁学模拟和同伦群理论分析其三维磁化分布及形成机制。",
+      "en": "Using Lorentz transmission electron microscopy with in situ femtosecond laser excitation to induce and observe magnetic textures in a chiral magnet, combined with micromagnetic simulations and homotopy group theory to analyze their 3D magnetization and formation mechanism."
+    },
+    "main_takeaway": {
+      "zh": "通过飞秒激光脉冲在室温下成功激发了稳定的磁霍普夫子，并证实其形成源于一对相反电荷的双分体（bimeron）的融合。",
+      "en": "Stable magnetic hopfions were successfully generated at room temperature using femtosecond laser pulses, and their formation was shown to occur through the fusion of a pair of oppositely charged bimerons."
+    },
+    "why_it_matters": {
+      "zh": "突破了磁霍普夫子存在的温度瓶颈，为其在室温自旋电子学器件（如赛道内存和类脑计算）中的应用奠定了实验基础。",
+      "en": "It overcomes the temperature bottleneck of magnetic hopfions, establishing an experimental foundation for their application in room-temperature spintronic devices such as racetrack memories and neuromorphic computing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次将磁霍普夫子的稳定存在温度提升至室温，并清晰阐明了其通过双分体融合形成的物理机制。",
+        "en": "It raises the stability temperature of magnetic hopfions to room temperature for the first time and clarifies the physical mechanism of their formation via bimeron fusion."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论模拟",
+      "en": "Experimental + Theoretical simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作首次在室温下实现了三维拓扑孤子霍普夫子的观测，属于拓扑磁学领域的重大突破，非常适合发表在顶级物理或纳米技术期刊上。",
+        "en": "This work achieves the first room-temperature observation of 3D topological hopfions, representing a major breakthrough in topological magnetism suitable for top-tier physics or nanotechnology journals."
+      }
+    },
+    "keywords": [
+      "magnetic hopfions",
+      "room temperature",
+      "chiral magnet",
+      "bimeron fusion",
+      "Lorentz TEM"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-30T09:24:54",
+    "input_scope": "full_pdf_text"
+  }
+}
