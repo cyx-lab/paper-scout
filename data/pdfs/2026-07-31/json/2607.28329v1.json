@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2607.28329v1",
+    "title": "Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr$_2$S$_2$O",
+    "authors": [
+      "Chenchao Xu",
+      "Wansheng Bai",
+      "Guo-Xiang Zhi",
+      "Yi Liu",
+      "Xiaoqun Wang",
+      "Jianhui Dai",
+      "Chao Cao"
+    ],
+    "abstract": "A metal-insulator transition (MIT) driven by bond order (BO) coupled with a secondary spin-density wave (SDW) is identified in CsCr$_2$S$_2$O. Such coupling is enabled as a result of the broken time-reversal symmetry due to the pre-existing C-type antiferromagnetic (C-AFM) order. First-principles calculations reveal an orbital-selective physics that Cr-$d_{yz}$ orbitals form local moments and establish the altermagnetic order, while the Cr-$d_{xz}$ orbitals remain metallic and hybridize with S-$p_z$. Thus the low-energy physics is governed by the Cr-$d_{xz}$ and S-$p_z$ orbitals. On-site interactions then enhance a secondary SDW ($s$SDW) instability of the itinerant $d_{xz}$ electrons, which couples to the Cr-$d_{xz}$-S-$p_z$ bonding order. The resulting coupled $s$SDW-BO simultaneously produces experimentally observed structural distortion, charge disproportionation, local Cr-moment modulation, and gap opening. Our results establish an orbital-selective mechanism upon which pre-existing altermagnetism and electronic correlations cooperate to drive a structural MIT.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-07-30T14:58:50Z",
+    "updated": "2026-07-30T14:58:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.28329v1",
+      "pdf_path": "data/pdfs/2026-07-31/3_Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr$_2$S$_2$O__2607.28329v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-31T01:49:54.610020",
+    "updated_at": "2026-07-31T01:49:54.609972Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-31/3_Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr$_2$S$_2$O__2607.28329v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.28329v1",
+    "pdf_filename": "3_Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr$_2$S$_2$O__2607.28329v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "揭示了CsCr2S2O中由预存共线反铁磁序激活的、二次自旋密度波与键序耦合驱动的金属-绝缘体相变机制。",
+      "en": "Identifies a metal-insulator transition in CsCr2S2O driven by a secondary spin-density wave coupled with bond order, enabled by pre-existing altermagnetism."
+    },
+    "problem": {
+      "zh": "阐明CsCr2S2O中近室温结构畸变与金属-绝缘体相变的微观机制，以及它们与预存磁序的关系。",
+      "en": "Clarifying the microscopic mechanism of the near-room-temperature structural distortion and metal-insulator transition in CsCr2S2O and their relationship with the pre-existing magnetic order."
+    },
+    "approach": {
+      "zh": "结合第一性原理密度泛函理论计算、紧束缚模型、有限温度声子计算以及随机相位近似易受性分析。",
+      "en": "Combining first-principles DFT calculations, tight-binding modeling, finite-temperature phonon calculations, and RPA susceptibility analysis."
+    },
+    "main_takeaway": {
+      "zh": "轨道选择性使得局域轨道维持磁背景，而巡游轨道上的自旋密度波涨落与金属-配体键序耦合，共同驱动了相变。",
+      "en": "Orbital selectivity partitions the localized and itinerant states, allowing spin-density wave fluctuations in the itinerant channel to couple with bond order and drive the transition."
+    },
+    "why_it_matters": {
+      "zh": "提出了一种由预存磁序和电子关联协同驱动结构相变与金属-绝缘体相变的新型轨道选择机制。",
+      "en": "Proposes a novel orbital-selective mechanism where pre-existing magnetism and electronic correlations cooperate to drive structural and metal-insulator transitions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "成功解释了CsCr2S2O中磁性、结构和输运相变的耦合机制，并指出了其与钒基体系的差异。",
+        "en": "Successfully explains the coupling mechanism of magnetic, structural, and transport transitions in CsCr2S2O, highlighting the difference from V-based systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究探讨了当前热点的交错磁体中的新型相变机制，具有较强的物理通用性。",
+        "en": "The study discusses a novel transition mechanism in currently hot altermagnetic systems, offering broad physical insights."
+      }
+    },
+    "keywords": [
+      "CsCr2S2O",
+      "metal-insulator transition",
+      "altermagnetism",
+      "spin-density wave",
+      "bond order",
+      "orbital selectivity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-31",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-31T09:52:10",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.26986v2",
+    "title": "Theory of phonon-magnon hybridization and angular momentum in CrI$_3$ and CrBr$_3$",
+    "authors": [
+      "Maxime Mignolet",
+      "Miquel Royo",
+      "Massimiliano Stengel",
+      "Matthieu J. Verstraete"
+    ],
+    "abstract": "In magnetic materials angular momentum can be mediated by different carriers, including electrons, magnons, and phonons. The magnons can interact with circularly polarized phonons which are close in energy, provided specific symmetry conditions are met. If the interaction is strong enough the phonons and magnons shift in frequency and start to mix to form hybrid magneto-elastic quasi-particles. In this paper, we develop a constrained Hamiltonian framework which incorporates hybrid stiffness matrices and Berry curvatures. We quantify the degree of hybridization between phonons and magnons (up to 8% in CrI$_3$ and 25% in CrBr$_3$) using a decomposition of the total energy, which is a generalization of the norm decomposition for atomic contributions to phonons used in the literature. We also explore how the total angular momentum is conserved but shared between the phononic and magnonic subsystems upon hybridization.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-29T14:43:44Z",
+    "updated": "2026-07-30T10:04:08Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.26986v2",
+      "pdf_path": "data/pdfs/2026-07-31/3_Theory of phonon-magnon hybridization and angular momentum in CrI$_3$ and CrBr$_3$__2607.26986v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-31T01:49:54.613406",
+    "updated_at": "2026-07-31T01:49:54.613396Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-31/3_Theory of phonon-magnon hybridization and angular momentum in CrI$_3$ and CrBr$_3$__2607.26986v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.26986v2",
+    "pdf_filename": "3_Theory of phonon-magnon hybridization and angular momentum in CrI$_3$ and CrBr$_3$__2607.26986v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一个约束哈密顿量框架，用于定量研究三卤化铬中声子与磁振子的杂化及角动量转移。",
+      "en": "This paper develops a constrained Hamiltonian framework to quantify phonon-magnon hybridization and angular momentum transfer in chromium trihalides."
+    },
+    "problem": {
+      "zh": "如何在不依赖刚性自旋近似的情况下，定量描述磁性材料中声子与磁振子的杂化以及它们之间的角动量共享。",
+      "en": "How to quantitatively describe the hybridization and angular momentum sharing between phonons and magnons in magnetic materials without relying on the rigid spin approximation."
+    },
+    "approach": {
+      "zh": "建立结合杂化刚度矩阵和贝里曲率的约束哈密顿量方法，并通过总能量分解来量化杂化程度。",
+      "en": "Developing a constrained Hamiltonian framework incorporating hybrid stiffness matrices and Berry curvatures, using total energy decomposition to quantify hybridization."
+    },
+    "main_takeaway": {
+      "zh": "声子与磁振子存在显著杂化（在三溴化铬中达25%），导致磁振子在杂化过程中会“窃取”声子的机械角动量。",
+      "en": "Significant hybridization occurs between phonons and magnons (up to 25% in CrBr3), allowing magnons to \"steal\" mechanical angular momentum from phonons during the process."
+    },
+    "why_it_matters": {
+      "zh": "它为研究磁性材料中的磁弹准粒子、角动量输运以及超快退磁过程提供了严格的理论工具。",
+      "en": "It provides a rigorous theoretical tool for studying magneto-elastic quasi-particles, angular momentum transport, and ultrafast demagnetization in magnetic materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一个统一的约束哈密顿量框架和能量分解方案，解决了声子-磁振子杂化难以定量表征的问题。",
+        "en": "Proposes a unified constrained Hamiltonian framework and energy decomposition scheme, solving the difficulty of quantifying phonon-magnon hybridization."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "SciPost Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文手稿明确标注为向 SciPost Physics 投稿，且主题符合该期刊的物理学定位。",
+        "en": "The manuscript is explicitly marked as a submission to SciPost Physics, and the topic fits the journal's scope."
+      }
+    },
+    "keywords": [
+      "phonon-magnon hybridization",
+      "angular momentum",
+      "Berry curvature",
+      "chromium trihalides"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-31",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-31T09:50:27",
+    "input_scope": "full_pdf_text"
+  }
+}

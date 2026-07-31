@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2607.27848v1",
+    "title": "Giant nonlinear Hall effect in a Pt/ferrimagnetic insulator bilayer under Zeeman-exchange frustration",
+    "authors": [
+      "Takayuki Shiino",
+      "Matteo Fettizio",
+      "Weronika Janus",
+      "Can Onur Avci"
+    ],
+    "abstract": "Competing magnetic interactions can create metastable or unstable states and render magnetic systems highly susceptible to external perturbations. Here we show that Zeeman-exchange frustration in an Al-substituted terbium iron garnet with a compositional gradient across its thickness gives rise to a giant nonlinear Hall response in an adjacent Pt layer. Near magnetic compensation, a field-induced spin-flip transition is accompanied by unusually large higher-order odd harmonic voltages, with the third, fifth, and seventh harmonics reaching amplitudes comparable to that of the first harmonic. The field, temperature, and current dependences collectively identify Joule heating as the parametric drive of the harmonic response. Macrospin-chain simulations further show that current-induced thermal modulation periodically switches the interfacial Fe magnetization between exchange- and Zeeman-dominated states and reproduces the observed harmonic signals. These results demonstrate how frustration can convert a weak thermal perturbation into a large nonlinear electrical response, providing a route to nonlinear magnetotransport in compensated ferrimagnets.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-30T08:26:22Z",
+    "updated": "2026-07-30T08:26:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:nonlinear Hall",
+        "quantum_geometry:nonlinear Hall effect"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.27848v1",
+      "pdf_path": "data/pdfs/2026-07-31/3_Giant nonlinear Hall effect in a Ptferrimagnetic insulator bilayer under Zeeman-exchange frustration__2607.27848v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-31T01:49:54.611223",
+    "updated_at": "2026-07-31T01:49:54.611214Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-31/3_Giant nonlinear Hall effect in a Ptferrimagnetic insulator bilayer under Zeeman-exchange frustration__2607.27848v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.27848v1",
+    "pdf_filename": "3_Giant nonlinear Hall effect in a Ptferrimagnetic insulator bilayer under Zeeman-exchange frustration__2607.27848v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在Pt/亚铁磁绝缘体双层膜中，利用成分梯度引起的塞曼-交换相互作用竞争与焦耳热调制，实现了巨非线性反常霍尔效应。",
+      "en": "A giant nonlinear Hall effect is observed in a Pt/ferrimagnetic insulator bilayer, driven by Zeeman-exchange frustration and current-induced Joule heating."
+    },
+    "problem": {
+      "zh": "传统的电流诱导非线性输运信号通常非常微弱，如何在磁性异质结中实现大振幅的非线性电学响应是一个难题。",
+      "en": "Conventional current-induced nonlinear transport signals are typically perturbative and weak; achieving large-amplitude nonlinear electrical responses in magnetic heterostructures remains a challenge."
+    },
+    "approach": {
+      "zh": "制备了具有垂直成分梯度的铝掺杂铽铁石榴石（Al:TbIG）/铂（Pt）双层膜，在磁补偿点附近进行谐波霍尔电压测量，并结合一维宏自旋链模型进行数值模拟。",
+      "en": "Fabricated Al-substituted terbium iron garnet (Al:TbIG)/Pt bilayers with a vertical compositional gradient, performed harmonic Hall voltage measurements near magnetic compensation, and conducted 1D macrospin-chain simulations."
+    },
+    "main_takeaway": {
+      "zh": "塞曼能与交换能的竞争使系统对温度极其敏感，交流电流产生的焦耳热调制周期性地驱动界面磁化在交换主导和塞曼主导态之间切换，从而产生与基频振幅相当的巨奇数阶谐波霍尔电压。",
+      "en": "The competition between Zeeman and exchange energies makes the system highly temperature-sensitive, where current-induced Joule heating periodically switches the interfacial magnetization between exchange- and Zeeman-dominated states, generating giant odd-harmonic Hall voltages comparable to the fundamental signal."
+    },
+    "why_it_matters": {
+      "zh": "它展示了一种利用磁挫折将微弱的热扰动转化为巨大非线性电学响应的新机制，为补偿亚铁磁体中的非线性自旋输运器件开发开辟了新途径。",
+      "en": "It demonstrates a novel mechanism to convert weak thermal perturbations into giant nonlinear electrical responses using magnetic frustration, opening new avenues for nonlinear spintronic devices based on compensated ferrimagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在亚铁磁双层膜中通过热调制磁挫折状态实现了与基频振幅相当的巨非线性霍尔效应，突破了传统微扰非线性输运的限制。",
+        "en": "Achieved a giant nonlinear Hall effect comparable to the fundamental signal by thermally modulating a frustrated magnetic state in a ferrimagnetic bilayer, overcoming the limits of conventional perturbative transport."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论模拟",
+      "en": "Experimental + Theoretical simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "发现了全新的巨非线性输运效应，物理机制清晰且具有潜在的器件应用价值，非常适合发表在顶级纳米技术或物理期刊上。",
+        "en": "Discovered a novel giant nonlinear transport effect with a clear physical mechanism and potential device applications, making it highly suitable for top-tier nanotechnology or physics journals."
+      }
+    },
+    "keywords": [
+      "nonlinear Hall effect",
+      "ferrimagnetic insulator",
+      "magnetic compensation",
+      "Joule heating",
+      "Zeeman-exchange frustration"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-31",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-31T09:51:12",
+    "input_scope": "full_pdf_text"
+  }
+}

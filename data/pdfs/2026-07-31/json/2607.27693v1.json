@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2607.27693v1",
+    "title": "A Universal Crystal-Field Design Principle for Orbital-Order-Driven Altermagnetism",
+    "authors": [
+      "Shantanu Pathak",
+      "Saswata Bhattacharya"
+    ],
+    "abstract": "Altermagnets combine collinear antiferromagnetic order with nonrelativistic spin splitting, enabling spintronic functionalities without relying on spin--orbit coupling. While staggered orbital ordering has recently emerged as an alternative route to altermagnetism, its generality has remained unexplored. Here, we establish a universal crystal-field design principle for orbital-order-driven altermagnetism. We show that structural relaxation consistently reconstructs the crystal-field landscape, activating a common $d_{xz}/d_{yz}$ orbital manifold that drives spontaneous staggered orbital ordering and robust $d$-wave nonrelativistic spin splitting across transition-metal compounds spanning electron fillings from $d^1$ to $d^7$. By introducing a unified symmetry framework based on layer-dependent magnetic and orbital order parameters, we demonstrate how interlayer stacking determines whether the system realizes a bulk altermagnetic state or a globally compensated antialtermagnetic phase. Furthermore, we reveal that this symmetry-protected spin-split texture gives rise to highly anisotropic spin-polarized conductivities. Our results establish crystal-field engineering as a predictive design strategy for discovering and engineering orbital-order-driven altermagnets.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-30T05:26:18Z",
+    "updated": "2026-07-30T05:26:18Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.27693v1",
+      "pdf_path": "data/pdfs/2026-07-31/3_A Universal Crystal-Field Design Principle for Orbital-Order-Driven Altermagnetism__2607.27693v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-31T01:49:54.611899",
+    "updated_at": "2026-07-31T01:49:54.611892Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-31/3_A Universal Crystal-Field Design Principle for Orbital-Order-Driven Altermagnetism__2607.27693v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.27693v1",
+    "pdf_filename": "3_A Universal Crystal-Field Design Principle for Orbital-Order-Driven Altermagnetism__2607.27693v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了通过晶体场工程和层间对称性设计轨道序驱动交错磁性的通用原理。",
+      "en": "This work establishes a universal design principle for orbital-order-driven altermagnetism via crystal-field engineering and interlayer symmetry control."
+    },
+    "problem": {
+      "zh": "探讨轨道序驱动的交错磁性是否具有普适性，并建立连接晶体场重建、轨道有序、磁对称性与自旋输运的统一预测设计规则。",
+      "en": "To explore the universality of orbital-order-driven altermagnetism and establish predictive design rules linking crystal-field reconstruction, orbital ordering, magnetic symmetry, and spin transport."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算与基于层相关磁/轨道序参量的统一对称性分析框架，系统研究d1到d7电子填充的过渡金属化合物。",
+      "en": "Combining first-principles calculations with a unified symmetry framework based on layer-dependent magnetic and orbital order parameters to systematically study transition-metal compounds from d1 to d7 configurations."
+    },
+    "main_takeaway": {
+      "zh": "结构弛豫重建晶体场并激活共有的dxz/dyz轨道流形，驱动自发交错轨道有序和d波非相对论自旋分裂，而层间堆叠对称性决定了宏观上是交错磁性还是反交错磁性。",
+      "en": "Structural relaxation reconstructs the crystal field to activate a common dxz/dyz manifold driving staggered orbital ordering and d-wave spin splitting, while interlayer stacking symmetry dictates whether the bulk state is altermagnetic or antialtermagnetic."
+    },
+    "why_it_matters": {
+      "zh": "它将轨道序驱动的交错磁性从个别材料推广为普适的预测性设计策略，为无需自旋轨道耦合的自旋电子学器件开发提供了新途径。",
+      "en": "It elevates orbital-order-driven altermagnetism to a predictive design strategy, opening new avenues for spintronic devices operating without spin-orbit coupling."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了晶体场重建在诱导自发轨道序中的普适作用，并揭示了层间堆叠对称性对宏观自旋分裂的控制机制。",
+        "en": "Clarified the universal role of crystal-field reconstruction in inducing spontaneous orbital order and revealed the control mechanism of interlayer stacking symmetry on bulk spin splitting."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究提出了交错磁性领域的通用物理机制与设计原理，具有高度的普适性和理论重要性，非常符合该期刊的定位。",
+        "en": "The study proposes a universal physical mechanism and design principle in the field of altermagnetism, carrying high generality and theoretical significance suitable for this journal."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "orbital ordering",
+      "crystal-field engineering",
+      "nonrelativistic spin splitting",
+      "spintronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-31",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-31T09:50:34",
+    "input_scope": "full_pdf_text"
+  }
+}

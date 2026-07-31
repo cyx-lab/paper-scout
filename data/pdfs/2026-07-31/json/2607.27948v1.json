@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2607.27948v1",
+    "title": "Probing the Potential Profile of Twisted Bilayer Graphene via Fabry-Pérot Interference",
+    "authors": [
+      "Curtis McDowell",
+      "Alina Mreńca-Kolasińska",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Ming-Hao Liu",
+      "Thiti Taychatanapat"
+    ],
+    "abstract": "We use Fabry-Pérot interference to probe the internal potential profile of large-angle twisted bilayer graphene. We trace anomalous resistance oscillations in the nominally unipolar regime to a hidden cavity formed by unintentional local doping in our device. By analyzing zero-field interference patterns, we determine the location and size of this inhomogeneity. Magnetotransport measurements support the model, distinguishing local cavity modes from global resonances through their different magnetic dependence. Simulations using our extracted profile reproduce the experimental features. Our results highlight interference spectroscopy as a simple, non-invasive probe for identifying local defects and internal potential barriers in ballistic devices.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-07-30T09:53:36Z",
+    "updated": "2026-07-30T09:53:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.27948v1",
+      "pdf_path": "data/pdfs/2026-07-31/3_Probing the Potential Profile of Twisted Bilayer Graphene via Fabry-Pérot Interference__2607.27948v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-31T01:49:54.610916",
+    "updated_at": "2026-07-31T01:49:54.610906Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-31/3_Probing the Potential Profile of Twisted Bilayer Graphene via Fabry-Pérot Interference__2607.27948v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.27948v1",
+    "pdf_filename": "3_Probing the Potential Profile of Twisted Bilayer Graphene via Fabry-Pérot Interference__2607.27948v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用法布里-珀罗干涉谱非侵入式地探测了大角度双层转角石墨烯中的无意局部掺杂和内部势垒。",
+      "en": "Probing unintentional local doping and internal potential barriers in large-angle twisted bilayer graphene using Fabry-Pérot interference spectroscopy."
+    },
+    "problem": {
+      "zh": "如何在不破坏器件结构的情况下，非侵入式地识别和表征二维弹道输运器件内部的局部缺陷和无意掺杂势垒。",
+      "en": "How to non-invasively identify and characterize internal local defects and unintentional doping barriers in 2D ballistic transport devices."
+    },
+    "approach": {
+      "zh": "测量大角度双层转角石墨烯器件在零磁场和磁场下的输运性质，观察法布里-珀罗电阻振荡，并结合紧束缚近似和Landauer-Büttiker公式进行量子输运模拟。",
+      "en": "Measure transport properties of large-angle twisted bilayer graphene under zero and finite magnetic fields to observe Fabry-Pérot oscillations, combined with tight-binding and Landauer-Büttiker quantum transport simulations."
+    },
+    "main_takeaway": {
+      "zh": "标称单极性区域中的异常电阻振荡源于无意局部掺杂形成的隐蔽谐振腔，通过分析干涉图样可以确定该不均匀区域的位置和尺寸（达数十纳米精度）。",
+      "en": "Anomalous resistance oscillations in the nominally unipolar regime originate from a hidden cavity formed by unintentional local doping, allowing the determination of its location and size (down to tens of nanometers)."
+    },
+    "why_it_matters": {
+      "zh": "证明了干涉谱学可以作为一种简单、非侵入式的工具，用于诊断被封装在二维异质结内部的局部电荷不均匀性和势垒，而无需使用扫描探针。",
+      "en": "It demonstrates that interference spectroscopy can serve as a simple, non-invasive tool to diagnose local charge inhomogeneities and potential barriers buried inside 2D heterostructures without requiring scanning probes."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种利用电子干涉非侵入式重构二维器件内部势垒的新方法，并得到了实验和模拟的定量证实。",
+        "en": "Proposes a new method to non-invasively reconstruct internal potential barriers in 2D devices using electron interference, quantitatively validated by both experiment and simulation."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "结合了高质量的低温磁输运实验与精细的量子输运模拟，揭示了转角双层石墨烯中的新物理机制，非常符合PRL的定位。",
+        "en": "Combines high-quality low-temperature magnetotransport experiments with detailed quantum transport simulations to reveal new physics in twisted bilayer graphene, fitting PRL's scope."
+      }
+    },
+    "keywords": [
+      "twisted bilayer graphene",
+      "Fabry-Perot interference",
+      "ballistic transport",
+      "charge inhomogeneity",
+      "magnetotransport"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-31",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-31T09:51:35",
+    "input_scope": "full_pdf_text"
+  }
+}

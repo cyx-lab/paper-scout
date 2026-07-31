@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2607.28029v1",
+    "title": "Orbital-Selective Mott Transition and Correlation-Amplified Charge Ordering in the Altermagnet CsCr$_2$S$_2$O",
+    "authors": [
+      "Xiuhua Chen",
+      "Yilin Wang"
+    ],
+    "abstract": "Altermagnet CsCr$_2$S$_2$O undergoes a Verwey-type metal-to-insulator transition (MIT) driven by lattice distortion and a stripe charge order on the Cr sublattice, reminiscent of the physics in Fe$_3$O$_4$. However, atomic distortions occur exclusively at the ligand sites rather than the Cr sites. What drives such a pronounced charge imbalance between Cr sites thus remains a mystery. Utilizing DFT+DMFT calculations, we identify an orbital-selective Mott transition, which leaves the correlated metallic $d_{yz}$ orbital governing the low-energy physics. We demonstrate that S-site distortions trigger an initial, tiny charge asymmetry between Cr sites via Cr-$d_{yz}$ and S-$p$ orbital hybridization. Crucially, this asymmetry is significantly amplified by dynamical electronic correlations, resulting in a large discrepancy in both the charge and electron correlations of the Cr-$d_{yz}$ orbital between distinct Cr sites. This further induces a substantial differentiation in local spin polarizations in the altermagnetic state, ultimately driving the MIT. In contrast, we predict that replacing S with Te weakens this correlation-amplification effect and fails to induce an MIT due to weaker electron correlations. Our findings demonstrate that many-body effects can drastically amplify ligand instabilities to reshape the electronic structure of altermagnets, highlighting that ligand engineering is of paramount importance for realizing robust metallic altermagnetism.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-07-30T11:14:59Z",
+    "updated": "2026-07-30T11:14:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.28029v1",
+      "pdf_path": "data/pdfs/2026-07-31/3_Orbital-Selective Mott Transition and Correlation-Amplified Charge Ordering in the Altermagnet CsCr$_2$S$_2$O__2607.28029v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-31T01:49:54.610707",
+    "updated_at": "2026-07-31T01:49:54.610700Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-31/3_Orbital-Selective Mott Transition and Correlation-Amplified Charge Ordering in the Altermagnet CsCr$_2$S$_2$O__2607.28029v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.28029v1",
+    "pdf_filename": "3_Orbital-Selective Mott Transition and Correlation-Amplified Charge Ordering in the Altermagnet CsCr$_2$S$_2$O__2607.28029v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究揭示了电子关联如何放大配体畸变，从而驱动交错磁体 CsCr2S2O 中的电荷有序和金属-绝缘体转变。",
+      "en": "The study reveals how electronic correlations amplify ligand distortions to drive charge ordering and metal-insulator transition in the altermagnet CsCr2S2O."
+    },
+    "problem": {
+      "zh": "解释为什么在 Cr 原子没有结构位移的情况下，CsCr2S2O 会出现巨大的电荷不平衡并导致金属-绝缘体转变。",
+      "en": "Explaining why CsCr2S2O exhibits a massive charge imbalance and metal-insulator transition despite the lack of structural displacement of Cr ions."
+    },
+    "approach": {
+      "zh": "使用 DFT+DMFT 计算方法研究不同晶体结构下的电子结构、轨道选择性 Mott 转变以及轨道占据情况。",
+      "en": "Utilizing DFT+DMFT calculations to investigate electronic structures, orbital-selective Mott transitions, and orbital occupancies across different crystal structures."
+    },
+    "main_takeaway": {
+      "zh": "轨道选择性 Mott 转变使得 dyz 轨道主导低能物理，而强电子关联效应极大地放大了由配体畸变引起的微小电荷不对称，最终驱动了 Verwey 型转变。",
+      "en": "An orbital-selective Mott transition leaves the dyz orbital to govern low-energy physics, where strong electronic correlations drastically amplify tiny charge asymmetries seeded by ligand distortions, driving the Verwey-type transition."
+    },
+    "why_it_matters": {
+      "zh": "揭示了多体效应与配体不稳定性在交错磁体中的耦合机制，并提出通过配体工程（如 Te 替换 S）来稳定金属态交错磁体的方法。",
+      "en": "It uncovers the coupling between many-body effects and ligand instabilities in altermagnets and suggests ligand engineering (e.g., Te substitution) as a route to stabilize metallic altermagnetism."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "成功解释了实验观测到的电荷有序起源，并阐明了电子关联在其中的关键放大作用。",
+        "en": "Successfully explains the origin of experimentally observed charge ordering and clarifies the critical amplification role of electronic correlations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论计算",
+      "en": "Theoretical calculation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "针对热门的交错磁体材料，结合了先进的计算方法并解决了实验中的关键谜团。",
+        "en": "Addresses a hot topic in altermagnets using advanced DMFT methods and resolves a key experimental mystery."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Metal-insulator transition",
+      "Orbital-selective Mott transition",
+      "Electronic correlation",
+      "Charge ordering"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-31",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-31T09:51:49",
+    "input_scope": "full_pdf_text"
+  }
+}

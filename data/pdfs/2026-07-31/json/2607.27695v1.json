@@ -1,0 +1,135 @@
+{
+  "paper_record": {
+    "id": "2607.27695v1",
+    "title": "Unconventional and Fragile Magnetic Exciton in a van der Waals Quantum Magnet",
+    "authors": [
+      "Kai-Xuan Zhang",
+      "Min Zhang",
+      "Minjae Kim",
+      "Yong-Hyun Kim",
+      "Junghyun Kim",
+      "Heejun Yang",
+      "Pyeongjae Park",
+      "Chaebin Kim",
+      "Mangesh Diware",
+      "Junik Hwang",
+      "Youjin Lee",
+      "Byeong-Gwan Cho",
+      "Hyeong-Do Kim",
+      "Tae-Yeong Koo",
+      "Chunhua Chen",
+      "Mingtao Li",
+      "Xujie Lü",
+      "Wenge Yang",
+      "Kee-Hoon Kim",
+      "Seung-Ho Baek",
+      "Hyeonsik Cheong",
+      "Sung-Keun Lee",
+      "Beom Hyun Kim",
+      "Christopher Lane",
+      "Jian-Xin Zhu",
+      "Zhaorong Yang",
+      "Young-Woo Son",
+      "Je-Geun Park"
+    ],
+    "abstract": "The recently discovered magnetic exciton in the van der Waals (vdW) antiferromagnet NiPS3 exemplifies these phenomena, exhibiting several distinctive characteristics. Despite extensive investigation, much of its physics remains unresolved, with key questions about why the NiPS3 magnetic exciton is so sharp and optically bright despite the nominally spin-forbidden transition, posing significant challenges to a proper understanding and practical manipulation of the exciton. An urgent question is to what extent it is due to chemical disorder, magnetic weakening, lattice modification, or intrinsic instability of the bright exciton itself: answers to which will put stringent constraints on possible theoretical models. Here we address these questions using hydrostatic pressure as a clean, continuous, reversible, and in-situ tuning parameter. We find that the sharp photoluminescence peak is drastically suppressed by as little as 0.4 GPa and completely quenched by 1.5 GPa, with demonstrating its reversibility. Crucially, this bright-to-dark conversion occurs without magnetic, crystallographic, or electronic reconstruction despite an increase in the Neel temperature, as established by Raman, X-ray absorption, nuclear magnetic resonance spectroscopy, and first-principles many-body calculations. Our results demonstrate that the optical brightness of the magnetic exciton is independent of chemical disorder, lattice expansion, and weakening of magnetic order, indicating that a higher-order correlated mechanism governs the bright exciton. We further propose experimentally constrained microscopic scenarios involving exciton pairing, crystal-field-controlled spin-orbit mixing, and symmetry breaking, providing a framework for future tests of entangled magnetic exciton in correlated quantum magnets.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el",
+      "physics.app-ph",
+      "quant-ph"
+    ],
+    "published": "2026-07-30T05:26:56Z",
+    "updated": "2026-07-30T05:26:56Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2607.27695v1",
+      "pdf_path": "data/pdfs/2026-07-31/3_Unconventional and Fragile Magnetic Exciton in a van der Waals Quantum Magnet__2607.27695v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-07-31T01:49:54.611865",
+    "updated_at": "2026-07-31T01:49:54.611857Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-07-31/3_Unconventional and Fragile Magnetic Exciton in a van der Waals Quantum Magnet__2607.27695v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2607.27695v1",
+    "pdf_filename": "3_Unconventional and Fragile Magnetic Exciton in a van der Waals Quantum Magnet__2607.27695v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过高压调控揭示了范德华反铁磁体NiPS3中磁激子的极度脆弱性及其非传统物理机制。",
+      "en": "This study reveals the extreme fragility and unconventional nature of the magnetic exciton in the van der Waals antiferromagnet NiPS3 using hydrostatic pressure."
+    },
+    "problem": {
+      "zh": "探究NiPS3中名义上自旋禁阻的磁激子为何具有极尖锐且明亮的发射峰，以及该激子对外界清洁扰动的响应机制。",
+      "en": "To investigate why the nominally spin-forbidden magnetic exciton in NiPS3 is optically bright and sharp, and how it responds to clean external perturbations."
+    },
+    "approach": {
+      "zh": "利用静水压作为无化学无序的调控手段，结合高压光致发光、拉曼光谱、X射线吸收谱、核磁共振测量以及第一性原理多体计算。",
+      "en": "Using hydrostatic pressure as a clean tuning parameter combined with high-pressure photoluminescence, Raman, X-ray absorption, NMR spectroscopy, and first-principles many-body calculations."
+    },
+    "main_takeaway": {
+      "zh": "极低的压力（1.5 GPa）即可完全且可逆地淬灭磁激子发射，且该过程不伴随晶格结构、电子态或磁有序的相变。",
+      "en": "A very low pressure of 1.5 GPa completely and reversibly quenches the magnetic exciton emission without inducing structural, electronic, or magnetic phase transitions."
+    },
+    "why_it_matters": {
+      "zh": "它排除了化学无序、晶格膨胀和磁序减弱对激子淬灭的解释，证明该激子的光学亮度受高阶关联机制控制，为理解量子磁体中的纠缠激子提供了新框架。",
+      "en": "It rules out chemical disorder, lattice expansion, and magnetic weakening as causes for exciton quenching, proving that the optical brightness is governed by high-order correlations and providing a framework for entangled excitons."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了NiPS3磁激子淬灭并非源于常规的结构或磁相变，并提出了激子配对、晶体场调控的自旋轨道混合等微观机制。",
+        "en": "It clarifies that the quenching of the NiPS3 exciton does not stem from conventional structural or magnetic transitions, proposing microscopic scenarios such as exciton pairing and crystal-field-controlled spin-orbit mixing."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了二维磁性材料领域备受关注的NiPS3激子起源问题，结合了高质量的高压实验与多体理论计算。",
+        "en": "The study addresses the highly debated origin of excitons in NiPS3, combining high-quality high-pressure experiments with many-body theoretical calculations."
+      }
+    },
+    "keywords": [
+      "NiPS3",
+      "magnetic exciton",
+      "hydrostatic pressure",
+      "van der Waals antiferromagnet",
+      "quantum entanglement"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-07-31",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-07-31T09:50:45",
+    "input_scope": "full_pdf_text"
+  }
+}
