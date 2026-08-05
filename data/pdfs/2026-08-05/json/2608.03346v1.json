@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2608.03346v1",
+    "title": "Mid-infrared spontaneous and stimulated emission dynamics in black phosphorus",
+    "authors": [
+      "Hisashi Sumikura",
+      "Akihiko Shinya",
+      "Masaya Notomi"
+    ],
+    "abstract": "Black phosphorus (BP) has attracted attention as a light-emitting layered semiconductor for mid-infrared (MIR) photonics owing to its direct and thickness-tunable bandgap energy, highly anisotropic optical transitions, and potentially suppressed Auger recombination. However, spontaneous and stimulated emission dynamics governed by carrier recombination in BP have remained unexplored because time-resolved emission spectroscopy is challenging in the MIR region. Here we develop a time-resolved MIR emission microscope combining wavelength upconversion with superconducting single photon detection. This approach enables observation of emission dynamics in photoexcited BP at a wavelength around 4.6 μm with sub-100-ps temporal resolution. Temperature-dependent measurements reveal a crossover from excitonic to electron-hole plasma emission at around 70 K, supported by independent results in the characteristic transition temperature, pump-fluence dependence, and rise and decay dynamics of MIR emission. In a suspended BP structure, we further observe a nonlinear increase in the emission intensity above a well-defined pump threshold. Spectral narrowing and intense picosecond emission pulses appear above the threshold, providing solid evidence of stimulated emission assisted by optical feedback from a Fabry-Pérot cavity. These results elucidate ultrafast carrier dynamics and optical gain formation in BP and establish time-resolved upconversion spectroscopy as a powerful approach for investigating MIR photonic materials and devices.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-08-04T08:55:22Z",
+    "updated": "2026-08-04T08:55:22Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03346v1",
+      "pdf_path": "data/pdfs/2026-08-05/3_Mid-infrared spontaneous and stimulated emission dynamics in black phosphorus__2608.03346v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.151286",
+    "updated_at": "2026-08-05T01:30:18.151278Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/3_Mid-infrared spontaneous and stimulated emission dynamics in black phosphorus__2608.03346v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03346v1",
+    "pdf_filename": "3_Mid-infrared spontaneous and stimulated emission dynamics in black phosphorus__2608.03346v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "利用自主研发的时间分辨中红外发光显微镜，首次揭示了黑磷中激子向电子-空穴等离子体发光的转变，并实现了腔辅助的受激辐射。",
+      "en": "Using a self-developed time-resolved mid-infrared emission microscope, the study reveals the exciton-to-electron-hole plasma crossover and demonstrates cavity-assisted stimulated emission in black phosphorus."
+    },
+    "problem": {
+      "zh": "由于缺乏高灵敏度、超快的中红外探测器，黑磷在中红外波段的自发与受激辐射动力学此前一直无法被直接观测。",
+      "en": "Due to the lack of highly sensitive and ultrafast mid-infrared detectors, the spontaneous and stimulated emission dynamics of black phosphorus in the mid-infrared region remained unexplored."
+    },
+    "approach": {
+      "zh": "开发了一种结合波长上转换与超导单光子探测的时间分辨中红外发光显微技术，在4.6微米波段实现了低于100皮秒的时间分辨率，并对悬空黑磷微腔结构进行了测量。",
+      "en": "Developed a time-resolved mid-infrared emission microscopy combining wavelength upconversion with superconducting single photon detection, achieving sub-100-ps resolution at 4.6 microns, and measured suspended black phosphorus cavity structures."
+    },
+    "main_takeaway": {
+      "zh": "证实了黑磷发光机制在70 K附近从低温激子复合向高温电子-空穴等离子体复合的转变，并在悬空结构中观测到了皮秒级的受激辐射脉冲。",
+      "en": "Confirmed a crossover of the emission mechanism in black phosphorus from excitonic recombination to electron-hole plasma recombination around 70 K, and observed picosecond stimulated emission pulses in a suspended structure."
+    },
+    "why_it_matters": {
+      "zh": "该工作不仅为研究窄带隙半导体的多体相互作用提供了强有力的超快光谱手段，也为开发高效、高速的中红外光源器件奠定了基础。",
+      "en": "This work provides a powerful ultrafast spectroscopy tool for studying many-body interactions in narrow-bandgap semiconductors and lays the foundation for developing high-efficiency, high-speed mid-infrared light-emitting devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究首次直接观测并澄清了黑磷中红外发光随温度和激发的动力学演化机制。",
+        "en": "The study directly observes and clarifies the dynamical evolution of mid-infrared emission in black phosphorus with temperature and excitation for the first time."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文格式为Letter，且内容紧密结合了二维材料物理与纳米光子学器件，非常契合该期刊的定位。",
+        "en": "The paper is formatted as a Letter and closely integrates 2D material physics with nanophotonic devices, which highly aligns with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Black phosphorus",
+      "Mid-infrared emission",
+      "Time-resolved spectroscopy",
+      "Stimulated emission",
+      "Excitons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:32:05",
+    "input_scope": "full_pdf_text"
+  }
+}

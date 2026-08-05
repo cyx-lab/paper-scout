@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2608.03602v1",
+    "title": "Toward two dimensional MoS2 electrets",
+    "authors": [
+      "Eugenio Lunedei",
+      "Andrea Liscio",
+      "Francesco Borgatti",
+      "Edoardo Chini",
+      "Pasquale DAngelo",
+      "Fiorenza Esposito",
+      "Niccolo Borghi",
+      "Matteo Mannini",
+      "Denis Gentili",
+      "Luca Seravalli",
+      "Massimiliano Cavallini"
+    ],
+    "abstract": "Here, we show that controlled sulfur vacancy engineering converts monolayer MoS2 into an electret, imparting the ability to store quasi-permanent electrostatic charge within a single atomic layer. Sulfur vacancies are generated with submicrometer spatial control by stamp-assisted electrode-free electrochemical nanolithography, yielding programmable defect densities from 10 10 to 10 13 1 cm-2. The resulting vacancy domains act as deep electron traps and produce surface charge densities up to 1 uCcm-2, with charge retention in the order of hundreds days under ambient conditions. Kelvin probe and electric force microscopies directly reveal stable electrostatic patterns that replicate the lithographic motif. The same vacancy landscape simultaneously defines exciton-quenching regions, generating co-localized optical and electrostatic contrast and reducing the apparent exciton lifetime from 15 ns to 180 ps through enhanced nonradiative recombination. The persistence of the optical response over one year identifies sulfur vacancies, rather than transient charge states, as the origin of the patterned functionality. These results establish defect-engineered MoS2 as the first two-dimensional electret and demonstrate that atomic vacancies can be exploited as functional elements for encoding electrostatic and excitonic behavior in a single atomic layer.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-08-04T12:54:38Z",
+    "updated": "2026-08-04T12:54:38Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03602v1",
+      "pdf_path": "data/pdfs/2026-08-05/3_Toward two dimensional MoS2 electrets__2608.03602v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.150478",
+    "updated_at": "2026-08-05T01:30:18.150467Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/3_Toward two dimensional MoS2 electrets__2608.03602v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03602v1",
+    "pdf_filename": "3_Toward two dimensional MoS2 electrets__2608.03602v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过印章辅助的无电极电化学纳米光刻技术调控硫空位，首次将单层MoS2转化为具有长期电荷存储能力的二维驻极体。",
+      "en": "Monolayer MoS2 is converted into the first two-dimensional electret with long-term charge retention through controlled sulfur-vacancy engineering using stamp-assisted electrode-free electrochemical nanolithography."
+    },
+    "problem": {
+      "zh": "如何在单层二维半导体中实现空间可控且超长寿命的电荷捕获（即二维驻极体功能）。",
+      "en": "How to achieve spatially controlled and long-lived charge trapping (electret functionality) in a single-layer two-dimensional semiconductor."
+    },
+    "approach": {
+      "zh": "利用印章辅助的无电极局部阳极氧化纳米光刻技术（EFLAO），在单层MoS2中精确引入空间分布的硫空位缺陷作为深电子陷阱。",
+      "en": "Using stamp-assisted electrode-free local anodic oxidation nanolithography (EFLAO) to precisely introduce spatial patterns of sulfur vacancies as deep electron traps in monolayer MoS2."
+    },
+    "main_takeaway": {
+      "zh": "硫空位不仅是结构缺陷，还可以作为功能单元在单层二维材料中同时编码稳定的静电电荷图案和激子淬灭区域。",
+      "en": "Sulfur vacancies can serve as functional design elements to simultaneously encode stable electrostatic charge patterns and exciton-quenching regions in a single atomic layer."
+    },
+    "why_it_matters": {
+      "zh": "它首次实现了二维驻极体，为在单原子层尺度上操纵非局域激子动力学和开发新型二维光电器件提供了新策略。",
+      "en": "It realizes the first 2D electret, offering a new strategy for manipulating non-local exciton dynamics and developing novel optoelectronic devices at the single-atomic-layer scale."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究首次在单层MoS2中实现了具有数月稳定性的二维驻极体，展示了缺陷工程在构筑新型二维功能器件中的潜力。",
+        "en": "This study demonstrates the first realization of a 2D electret in monolayer MoS2 with months-long stability, showing the potential of defect engineering for novel 2D functional devices."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "手稿第一页明确注明该论文正在Nano Letters审稿中。",
+        "en": "The manuscript explicitly states on the first page that it is currently under review in Nano Letters."
+      }
+    },
+    "keywords": [
+      "MoS2",
+      "Electrets",
+      "Defect engineering",
+      "Charge trapping",
+      "Exciton dynamics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:33:07",
+    "input_scope": "full_pdf_text"
+  }
+}

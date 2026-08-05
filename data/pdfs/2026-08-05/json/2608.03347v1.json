@@ -1,0 +1,120 @@
+{
+  "paper_record": {
+    "id": "2608.03347v1",
+    "title": "Alloy engineering of excitonic properties in TMD monolayers",
+    "authors": [
+      "Eirini Katsipoulaki",
+      "Adlen Smiri",
+      "Panagiotis Spiliotakis",
+      "Konstantinos Mourzidis",
+      "Danae Katrisioti",
+      "Takashi Taniguchi",
+      "Kenji Watanabe",
+      "Georgios Kopidakis",
+      "Zdenek Sofer",
+      "Gang Wang",
+      "Emmanuel Stratakis",
+      "George Kioseoglou",
+      "Iann C. Gerber",
+      "Xavier Marie",
+      "Ioannis Paradisanos"
+    ],
+    "abstract": "We investigate monolayer MoS$_{2x}$Se$_{2(1-x)}$ alloys across the full composition range using optical spectroscopy. We demonstrate continuous tuning of the optical gap over $\\sim$0.35 eV, accompanied by a systematic reduction of the B--A exciton splitting, in agreement with density functional theory calculations. Temperature-dependent measurements reveal a progressive increase of the average phonon energy from Se-rich to S-rich alloys that follows a simple reduced-mass scaling model. Polarization-resolved spectroscopy further shows a monotonic increase of the circular polarization from nearly zero in MoSe$_2$ to $\\sim$15\\% in MoS$_2$ at 78 K. The observed evolution of the polarization is attributed to alloy-induced modifications of the electronic structure that modify bright--dark exciton mixing and the associated valley depolarization. These findings establish alloy engineering as an effective strategy for controlling excitonic properties in TMD monolayers.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-08-04T08:56:29Z",
+    "updated": "2026-08-04T08:56:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03347v1",
+      "pdf_path": "data/pdfs/2026-08-05/3_Alloy engineering of excitonic properties in TMD monolayers__2608.03347v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.151242",
+    "updated_at": "2026-08-05T01:30:18.151231Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/3_Alloy engineering of excitonic properties in TMD monolayers__2608.03347v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03347v1",
+    "pdf_filename": "3_Alloy engineering of excitonic properties in TMD monolayers__2608.03347v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过光学光谱和理论计算，系统研究了单层MoS2xSe2(1-x)合金中激子、声子和谷极化性质随成分的演化规律。",
+      "en": "This work systematically investigates the composition-dependent evolution of excitonic, vibrational, and spin-valley properties in monolayer MoS2xSe2(1-x) alloys using optical spectroscopy and DFT calculations."
+    },
+    "problem": {
+      "zh": "缺乏在统一实验框架下对二维过渡金属硫族化合物合金全组分范围内声子能量、激子分裂及自旋-谷极化性质演化的系统研究。",
+      "en": "The lack of a systematic study on the evolution of phonon energies, exciton splittings, and spin-valley polarization across the full composition range of 2D TMD alloys within a unified framework."
+    },
+    "approach": {
+      "zh": "对hBN封装的单层MoS2xSe2(1-x)合金进行温度和偏振依赖的光学光谱测量，并结合密度泛函理论（DFT）计算。",
+      "en": "Temperature- and polarization-dependent optical spectroscopy on hBN-encapsulated monolayer MoS2xSe2(1-x) alloys, combined with density functional theory (DFT) calculations."
+    },
+    "main_takeaway": {
+      "zh": "合金化实现了光学带隙在0.35 eV范围内的连续调节，且激子圆偏振度随硫含量增加而单调增加，这归因于合金化改变了导带自旋分裂，从而抑制了亮-暗激子混合导致的谷退极化。",
+      "en": "Alloying enables continuous tuning of the optical gap over 0.35 eV, and the exciton circular polarization increases monotonically with sulfur content due to alloy-induced modifications of the conduction-band spin splitting that suppress valley depolarization from bright-dark exciton mixing."
+    },
+    "why_it_matters": {
+      "zh": "证明了硫族元素合金化是调控二维半导体激子、声子和自旋-谷物理性质的有效手段，为设计新型谷电子学器件提供了基础。",
+      "en": "It demonstrates that chalcogen alloying is an effective strategy to engineer excitonic, vibrational, and spin-valley physics in 2D semiconductors, providing a foundation for designing novel valleytronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了合金化如何通过改变能带结构来调控亮-暗激子混合，进而影响谷极化强度的物理机制。",
+        "en": "Clarifies the physical mechanism of how alloying tunes the bright-dark exciton mixing by modifying the band structure, thereby affecting the valley polarization."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文深入探讨了二维合金的激子与自旋-谷物理机制，数据详实且结合了理论计算，非常符合该期刊的风格。",
+        "en": "The paper deeply explores the excitonic and spin-valley physics of 2D alloys with solid experimental data and theoretical calculations, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "transition metal dichalcogenides",
+      "alloy monolayers",
+      "optical spectroscopy",
+      "valley polarization",
+      "excitons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:32:15",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2608.03195v1",
+    "title": "Fluctuations of topological charges in two-dimensional classical Heisenberg model through high-temperature and low-temperature expansions",
+    "authors": [
+      "Shan-Chang Tang"
+    ],
+    "abstract": "It is well known that KT transition in 2d XY model is driven by the binding and unbinding of topological defects, which can be characterized by the fluctuation of topological charges inside a region. We extend the idea into the 2d Heisenberg model and calculate the fluctuation through high-temperature and low-temperature expansion respectively. It is found that the fluctuation of topological charges is proportional to the area of the region at high temperatures while obeys the perimeter law at low temperatures.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-08-04T06:36:50Z",
+    "updated": "2026-08-04T06:36:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03195v1",
+      "pdf_path": "data/pdfs/2026-08-05/2_Fluctuations of topological charges in two-dimensional classical Heisenberg model through high-temperature and low-tempe__2608.03195v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.151742",
+    "updated_at": "2026-08-05T01:30:18.151735Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/2_Fluctuations of topological charges in two-dimensional classical Heisenberg model through high-temperature and low-tempe__2608.03195v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03195v1",
+    "pdf_filename": "2_Fluctuations of topological charges in two-dimensional classical Heisenberg model through high-temperature and low-tempe__2608.03195v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过高低温展开理论证明了二维经典海森堡模型中拓扑电荷涨落的高温面积律和低温周长律。",
+      "en": "This paper theoretically demonstrates the high-temperature area law and low-temperature perimeter law of topological charge fluctuations in the 2D classical Heisenberg model using expansions."
+    },
+    "problem": {
+      "zh": "探究二维经典海森堡模型中是否存在类似于XY模型中由拓扑缺陷驱动的相变。",
+      "en": "Investigating whether a topological defect-driven phase transition, similar to the XY model, exists in the 2D classical Heisenberg model."
+    },
+    "approach": {
+      "zh": "利用高温图符展开和低温自旋波展开方法，解析计算区域内拓扑电荷涨落的标度行为。",
+      "en": "Analytically calculating the scaling behavior of topological charge fluctuations within a region using high-temperature diagrammatic and low-temperature spin expansions."
+    },
+    "main_takeaway": {
+      "zh": "拓扑电荷涨落在高温下呈面积律，在低温下呈周长律，表明该模型中存在拓扑相变。",
+      "en": "Topological charge fluctuations exhibit an area law at high temperatures and a perimeter law at low temperatures, indicating a topological transition."
+    },
+    "why_it_matters": {
+      "zh": "为二维经典海森堡模型的拓扑相变提供了坚实的解析理论支持，证实了此前的数值模拟结果。",
+      "en": "It provides solid analytical support for the topological phase transition in the 2D classical Heisenberg model, confirming previous numerical results."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "解析地澄清了拓扑电荷涨落在不同温度区间的标度行为，为理解二维海森堡模型的相变提供了理论依据。",
+        "en": "Analytically clarifies the scaling behavior of topological charge fluctuations across temperature regimes, providing a theoretical basis for the transition."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该研究属于经典的二维统计物理模型计算，适合发表在凝聚态物理专业期刊。",
+        "en": "The study involves analytical calculations of a classic 2D statistical physics model, suitable for specialized condensed matter journals."
+      }
+    },
+    "keywords": [
+      "Heisenberg model",
+      "topological charge",
+      "high-temperature expansion",
+      "low-temperature expansion",
+      "phase transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:31:54",
+    "input_scope": "full_pdf_text"
+  }
+}

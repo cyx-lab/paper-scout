@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2608.03759v1",
+    "title": "AFLOW-EMERALD: ElectroMagnetic modes EngineeRing in Advanced LayereD materials",
+    "authors": [
+      "Stefano Campanaro",
+      "Luca Bursi",
+      "Nicholas H. Anderson",
+      "Stefano Curtarolo",
+      "Arrigo Calzolari"
+    ],
+    "abstract": "Layered and periodically patterned heterostructures underpin advanced optical, photonic, and plasmonic (meta)materials, whose rational design demands electromagnetic solvers that are both numerically robust and tightly linked to the underlying material properties. Here, we present AFLOW-EMERALD (ElectroMagnetic modes EngineeRing in Advanced LayereD materials), an open-source, modular, Python-based computational framework for simulating electromagnetic wave propagation in finite and periodic layered (meta)materials. Built around a unified object-oriented architecture, AFLOW-EMERALD combines a numerically stable scattering-matrix method with plane-wave expansion and extends to rigorous coupled-wave analysis for laterally patterned structures such as gratings. The software computes optical spectra, spatial field distributions, and photonic band structures, including complex-k dispersion in lossy, dispersive media. A streamlined YAML workflow allows users to seamlessly import dielectric function datasets from experimental, literature, or first-principles sources. Owing to its modular design, AFLOW-EMERALD is readily extensible and suitable for integration into computational materials-design pipelines, providing a practical platform for the coupled material-geometry engineering of dielectric photonic crystals, plasmonic multilayers, hyperbolic metamaterials, and more complex architectures supporting, e.g., surface and volume plasmon-polariton modes.",
+    "categories": [
+      "physics.optics",
+      "physics.comp-ph"
+    ],
+    "published": "2026-08-04T14:47:47Z",
+    "updated": "2026-08-04T14:47:47Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03759v1",
+      "pdf_path": "data/pdfs/2026-08-05/3_AFLOW-EMERALD ElectroMagnetic modes EngineeRing in Advanced LayereD materials__2608.03759v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.149905",
+    "updated_at": "2026-08-05T01:30:18.149894Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/3_AFLOW-EMERALD ElectroMagnetic modes EngineeRing in Advanced LayereD materials__2608.03759v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03759v1",
+    "pdf_filename": "3_AFLOW-EMERALD ElectroMagnetic modes EngineeRing in Advanced LayereD materials__2608.03759v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文介绍了AFLOW-EMERALD，一个用于模拟有限和周期性层状超材料中电磁波传播的开源Python计算框架。",
+      "en": "This paper presents AFLOW-EMERALD, an open-source Python computational framework for simulating electromagnetic wave propagation in finite and periodic layered metamaterials."
+    },
+    "problem": {
+      "zh": "设计层状光子和等离激元超材料需要数值稳定且能直接与材料本征属性关联的电磁求解器，以克服传统有效介质理论无法捕获有限尺寸效应和光栅耦合等局限。",
+      "en": "Designing layered photonic and plasmonic metamaterials requires numerically robust electromagnetic solvers directly linked to material properties, overcoming the limitations of effective medium theory in capturing finite-size effects and grating-assisted coupling."
+    },
+    "approach": {
+      "zh": "结合数值稳定的散射矩阵方法与平面波展开法，并扩展至严密耦合波分析，以处理具有横向图案化结构、色散和损耗介质的复数波矢色散关系。",
+      "en": "Combines a numerically stable scattering-matrix method with plane-wave expansion, extending to rigorous coupled-wave analysis to handle complex-k dispersion in laterally patterned, dispersive, and lossy media."
+    },
+    "main_takeaway": {
+      "zh": "AFLOW-EMERALD提供了一个统一的面向对象架构，能够计算光子能带结构、空间电磁场分布及反射/透射/吸收光谱，并可无缝导入实验或第一性原理介电函数数据。",
+      "en": "AFLOW-EMERALD provides a unified object-oriented architecture capable of computing photonic band structures, spatial electromagnetic field distributions, and RTA spectra, with seamless import of experimental or first-principles dielectric function data."
+    },
+    "why_it_matters": {
+      "zh": "它将实际器件的宏观光学响应与理想无限周期介质的色散特性联系起来，为光子晶体、等离激元多层膜和双曲超材料的材料-几何协同设计提供了实用平台。",
+      "en": "It bridges realistic device optics with the dispersion properties of ideal infinite periodic media, providing a practical platform for the coupled material-geometry co-design of photonic crystals, plasmonic multilayers, and hyperbolic metamaterials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "开发并开源了用于模拟层状超材料电磁波传播的模块化Python框架，集成了散射矩阵和平面波展开方法。",
+        "en": "Developed and open-sourced a modular Python framework for simulating EM wave propagation in layered metamaterials, integrating scattering-matrix and plane-wave expansion methods."
+      }
+    },
+    "paper_type": {
+      "zh": "软件与计算工具",
+      "en": "Software and computational tool"
+    },
+    "likely_venue": {
+      "journal": "Computer Physics Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊专门发表物理学和材料科学中重要计算方法、算法及开源软件工具的开发与应用论文。",
+        "en": "This journal specializes in publishing papers on the development and application of computational methods, algorithms, and open-source software tools in physics and materials science."
+      }
+    },
+    "keywords": [
+      "AFLOW-EMERALD",
+      "layered metamaterials",
+      "electromagnetic simulation",
+      "scattering-matrix method",
+      "photonic band structure"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:33:48",
+    "input_scope": "full_pdf_text"
+  }
+}

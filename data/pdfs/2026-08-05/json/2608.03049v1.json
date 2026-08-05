@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2608.03049v1",
+    "title": "Hidden Quantum Geometry in Bilayer Exciton Condensates",
+    "authors": [
+      "Xuzhe Ying",
+      "Benjamin T. Zhou"
+    ],
+    "abstract": "When an electron-doped layer is stacked with a hole-doped layer with approximately equal carrier density, inter-layer Coulomb interaction turns the bilayer system into an exciton condensate (EC). In this Letter, we reveal a fundamental property of bilayer ECs: the excitonic order gives rise to nontrivial hidden quantum geometric effects in the correlated electron-hole bands, even when the non-interacting bands are trivial. Such peculiar EC-driven quantum geometry manifests itself in a characteristic out-of-plane polarization response upon applying an in-plane AC electric field to the bilayer EC system. In particular, the second-order response exhibits a characteristic inverse square scaling with the bilayer EC order parameter. Our finding reveals a fundamental hidden Berry phase effect driven by electron-hole correlations, and establishes bilayer EC as a promising platform for rich nonlinear physics.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-08-04T02:59:53Z",
+    "updated": "2026-08-04T02:59:53Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03049v1",
+      "pdf_path": "data/pdfs/2026-08-05/6_Hidden Quantum Geometry in Bilayer Exciton Condensates__2608.03049v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.152095",
+    "updated_at": "2026-08-05T01:30:18.152086Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/6_Hidden Quantum Geometry in Bilayer Exciton Condensates__2608.03049v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03049v1",
+    "pdf_filename": "6_Hidden Quantum Geometry in Bilayer Exciton Condensates__2608.03049v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "揭示了双层激子凝聚中由激子序诱导的隐性量子几何效应及其引起的非线性面外极化响应。",
+      "en": "Reveals the hidden quantum geometric effects induced by excitonic order in bilayer exciton condensates and their resulting nonlinear out-of-plane polarization response."
+    },
+    "problem": {
+      "zh": "探讨在非相互作用能带平凡的情况下，激子序本身是否能在双层激子凝聚中产生本征的量子几何效应，以及其物理后果是什么。",
+      "en": "Investigates whether excitonic order itself can generate intrinsic quantum geometry in bilayer exciton condensates when non-interacting bands are trivial, and what its physical consequences are."
+    },
+    "approach": {
+      "zh": "采用量子动力学方程框架，计算双层激子凝聚系统在面内交流电场驱动下的面外极化响应。",
+      "en": "Uses the quantum kinetic equation framework to calculate the out-of-plane polarization response of a bilayer exciton condensate driven by an in-plane AC electric field."
+    },
+    "main_takeaway": {
+      "zh": "激子序诱导的量子几何会导致面外偶极矩产生二阶非线性响应，且该响应强度与激子序参量的平方成反比。",
+      "en": "The exciton-order-induced quantum geometry leads to a second-order nonlinear out-of-plane dipole response that scales inversely with the square of the exciton order parameter."
+    },
+    "why_it_matters": {
+      "zh": "揭示了关联驱动的隐性贝里相位效应，为实验探测层间相干性和激子凝聚序参量提供了一种非微扰的非线性电学手段。",
+      "en": "Reveals a correlation-driven hidden Berry phase effect, providing a non-perturbative nonlinear electrical method to experimentally probe interlayer coherence and the exciton order parameter."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了层间激子相干性如何独立于非相互作用能带产生量子几何，并给出了明确的非线性电极化响应机制。",
+        "en": "Clarifies how interlayer excitonic coherence generates quantum geometry independently of non-interacting bands and provides a clear mechanism for nonlinear electrical polarization response."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作提出了凝聚态物理中关于量子几何与强关联体系结合的新颖物理机制，非常符合该期刊的定位。",
+        "en": "The work proposes a novel physical mechanism combining quantum geometry and strongly correlated systems, which fits the journal's scope well."
+      }
+    },
+    "keywords": [
+      "exciton condensate",
+      "quantum geometry",
+      "nonlinear response",
+      "out-of-plane polarization",
+      "Berry curvature"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:31:08",
+    "input_scope": "full_pdf_text"
+  }
+}

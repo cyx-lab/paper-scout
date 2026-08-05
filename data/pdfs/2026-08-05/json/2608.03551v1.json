@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2608.03551v1",
+    "title": "Emergence and Detection of Surface altermagnetism in KV$_2$Se$_2$O",
+    "authors": [
+      "Rodrigo Jaeschke-Ubiergo",
+      "Xanthe H. Verbeek",
+      "Colin Lange",
+      "Sergio Rodriguez",
+      "Atasi Chakraborty",
+      "Alexander Mook",
+      "Jairo Sinov"
+    ],
+    "abstract": "We demonstrate the recent concept of emergent surface altermagnetism through its unique signatures in \\KVSO. We show that for bulk antiferromagnetically ordered \\KVSO, the (001) surface exhibits $d$-wave altermagnetism. Our results fully explain the recent seemingly contradicgting experimental evidence, independently showing both an antiferromagnetically ordered bulk from neutron diffraction, and $d$-wave spin splitting from photoemission spectroscopy. To fully verify this conecept, we predict, as a key experimental signature, a large nonlinear Edelstein response, which is localized at the surface, and follows the $d$-wave altermagnetic symmetry. These results are not only relevant for the metallic and room-temperature magnet \\KVSO, but also for several other Lieb lattice systems. Our work expands the pool of techniques that can be used to detect altermagnetism emerging at the surfaces of antiferromagnets.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-08-04T12:23:23Z",
+    "updated": "2026-08-04T12:23:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03551v1",
+      "pdf_path": "data/pdfs/2026-08-05/3_Emergence and Detection of Surface altermagnetism in KV$_2$Se$_2$O__2608.03551v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.150667",
+    "updated_at": "2026-08-05T01:30:18.150657Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/3_Emergence and Detection of Surface altermagnetism in KV$_2$Se$_2$O__2608.03551v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03551v1",
+    "pdf_filename": "3_Emergence and Detection of Surface altermagnetism in KV$_2$Se$_2$O__2608.03551v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究表明体相反铁磁的KV2Se2O在(001)表面展现出涌现的d波交错磁性，并提出可通过表面局域的非线性Edelstein效应进行实验探测。",
+      "en": "This work demonstrates that bulk antiferromagnetic KV2Se2O exhibits emergent d-wave altermagnetism at its (001) surface and proposes its detection via a surface-localized nonlinear Edelstein effect."
+    },
+    "problem": {
+      "zh": "解释KV2Se2O中中子衍射测得的体相反铁磁序与光电子能谱测得的d波自旋分裂之间看似矛盾的实验结果。",
+      "en": "Resolving the apparent contradiction in KV2Se2O between the bulk antiferromagnetic order observed by neutron diffraction and the d-wave spin splitting observed by photoemission spectroscopy."
+    },
+    "approach": {
+      "zh": "利用密度泛函理论计算和基于Wannier函数的紧束缚模型，分析不同磁结构及表面终止面对KV2Se2O体相和表面态的影响，并计算层分辨的线性与非线性Edelstein响应。",
+      "en": "Using density functional theory calculations and Wannier-based tight-binding models to analyze the effects of magnetic configurations and surface terminations on the bulk and surface states of KV2Se2O, and calculating layer-resolved linear and nonlinear Edelstein responses."
+    },
+    "main_takeaway": {
+      "zh": "KV2Se2O的(001)表面由于对称性破缺而展现出d波交错磁性自旋分裂，且该表面交错磁性会诱导出独特的、局域在表面的面外非线性Edelstein自旋极化。",
+      "en": "The (001) surface of KV2Se2O exhibits d-wave altermagnetic spin splitting due to surface symmetry breaking, which induces a unique, surface-localized out-of-plane nonlinear Edelstein spin polarization."
+    },
+    "why_it_matters": {
+      "zh": "它不仅统一了解释了KV2Se2O的实验争议，还推广了表面交错磁性的概念，并为在反铁磁表面探测交错磁性提供了一种全新的非平衡电输运手段。",
+      "en": "It reconciles the experimental controversies in KV2Se2O, generalizes the concept of emergent surface altermagnetism, and provides a new non-equilibrium electrical transport method to detect altermagnetism at antiferromagnetic surfaces."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "成功解释了KV2Se2O中体相反铁磁与表面交错磁性自旋分裂的实验矛盾，并提出了利用非线性Edelstein效应探测表面交错磁性的方案。",
+        "en": "It successfully resolves the experimental contradiction between bulk antiferromagnetism and surface altermagnetic spin splitting in KV2Se2O, and proposes a detection scheme using the nonlinear Edelstein effect."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究解决了当前凝聚态物理热点材料的实验矛盾，并提出了具有可操作性的实验探测预言，非常符合该期刊的定位。",
+        "en": "The study resolves an experimental contradiction in a highly debated material in condensed matter physics and proposes a testable experimental prediction, which fits the journal's scope well."
+      }
+    },
+    "keywords": [
+      "surface altermagnetism",
+      "KV2Se2O",
+      "nonlinear Edelstein effect",
+      "spin splitting",
+      "antiferromagnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:32:45",
+    "input_scope": "full_pdf_text"
+  }
+}

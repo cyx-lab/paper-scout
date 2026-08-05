@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2608.03621v1",
+    "title": "Enhancement of far-field thermal emission via polaritonic cavity modes",
+    "authors": [
+      "Maelie Coral",
+      "Jose Ordonez-Miranda",
+      "Georges Hamaoui",
+      "Roman Anufriev",
+      "Laurent Jalabert",
+      "Masahiro Nomura",
+      "Yannick De Wilde",
+      "Sebastian Volz"
+    ],
+    "abstract": "Controlling thermal emission is crucial for applications involving thermophotovoltaics, thermal sensing, imaging, and camouflage. While prior studies focused on the emission of thermally excited guided modes (TEGMs) inside cavities, their contribution to the far-field radiation outside cavities has remained unexplored. Here, we demonstrate a tunable far-field thermal channel enabled by TEGMs arising from the coupling of surface phonon-polaritons and cavity resonances. By combining infrared emissivity experiments with fluctuational electrodynamics simulations, we identify distinct spectral features marking the conversion of two-dimensionally confined polaritonic modes into three-dimensional radiative channels. We find that silicon cavities covered with SiO2 enhance the emissivity by up to 200% near the polaritonic spectral resonance, whereas bare silicon cavities yield only broadband enhancement. These findings provide experimental evidence of TEGMs and establish a simple cavity architecture as an effective and scalable platform for tailoring thermal radiation without complex nanofabrication.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-08-04T13:10:24Z",
+    "updated": "2026-08-04T13:10:24Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03621v1",
+      "pdf_path": "data/pdfs/2026-08-05/3_Enhancement of far-field thermal emission via polaritonic cavity modes__2608.03621v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.150430",
+    "updated_at": "2026-08-05T01:30:18.150417Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/3_Enhancement of far-field thermal emission via polaritonic cavity modes__2608.03621v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03621v1",
+    "pdf_filename": "3_Enhancement of far-field thermal emission via polaritonic cavity modes__2608.03621v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究通过实验和模拟证实，平面腔中的表面声子极化激元与腔模耦合，可通过光阑衍射显著增强远场热发射。",
+      "en": "This study experimentally and numerically demonstrates that surface phonon-polaritons coupled with cavity modes in planar cavities can significantly enhance far-field thermal emission via aperture diffraction."
+    },
+    "problem": {
+      "zh": "澄清腔内二维受限的极化激元模式如何转化为可在远场探测到的三维辐射通道。",
+      "en": "Clarifying how two-dimensionally confined polaritonic modes inside a cavity are converted into three-dimensional radiative channels detectable in the far field."
+    },
+    "approach": {
+      "zh": "结合傅里叶变换红外光谱仪的半球发射率测量实验与基于边界元法的涨落电动力学数值模拟。",
+      "en": "Combining hemispherical emissivity measurements using Fourier-transform infrared spectroscopy with fluctuational electrodynamics simulations based on the boundary element method."
+    },
+    "main_takeaway": {
+      "zh": "覆盖二氧化硅的硅平面腔在极化激元共振频率附近可将远场发射率提高达200%，这源于腔体对受限导模的收集与光阑衍射调制。",
+      "en": "Silicon planar cavities covered with silicon dioxide enhance far-field emissivity by up to 200% near the polaritonic resonance, originating from the cavity channeling and aperture diffraction of the confined guided modes."
+    },
+    "why_it_matters": {
+      "zh": "提供了一种无需复杂纳米加工的简易平面腔架构，用于调控光谱和角度选择性热辐射，对热光伏和辐射制冷具有重要意义。",
+      "en": "It provides a simple planar cavity architecture to tailor spectral and angular thermal emission without complex nanofabrication, which is crucial for thermophotovoltaics and radiative cooling."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "定量并实验证实了腔内受限极化激元模式向远场辐射通道的衍射耦合转化机制。",
+        "en": "It quantitatively and experimentally demonstrates the diffraction-mediated conversion of confined polaritonic cavity modes into far-field radiative channels."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该工作揭示了热辐射调控的新物理机制，并结合了严谨的实验与数值模拟，符合该期刊的定位。",
+        "en": "The work reveals a new physical mechanism for thermal emission control, combining rigorous experiments and numerical simulations, which fits the journal's scope."
+      }
+    },
+    "keywords": [
+      "Far-field thermal radiation",
+      "Surface phonon-polaritons",
+      "Cavity guided modes",
+      "Emissivity enhancement"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:33:15",
+    "input_scope": "full_pdf_text"
+  }
+}

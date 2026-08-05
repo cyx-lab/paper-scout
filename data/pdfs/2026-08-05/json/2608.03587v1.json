@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2608.03587v1",
+    "title": "A 100x Faster Beam Propagation Method for Nonlinear Optical Wave Propagation Based on Discrete Exterior Calculus",
+    "authors": [
+      "Amgad Abdrabou",
+      "R. El-Ganainy"
+    ],
+    "abstract": "Efficient simulation of nonlinear light propagation in complex photonic structures remains a major challenge because these systems combine intricate transverse geometries with propagation over distances spanning many diffraction lengths. Existing numerical methods often require computationally intensive uniform discretizations or struggle to accurately represent complex material boundaries, limiting the practical simulation of multiscale nonlinear photonic devices. Here we introduce a computational framework for solving the nonlinear Schrödinger equation that accelerates simulations by more than two orders of magnitude (over 100x) compared with conventional approaches while maintaining spectral-level accuracy, thereby reducing the computational time required to solve large-scale and multiscale problems from days to hours. The method is based on discrete exterior calculus, enabling geometry-conforming discretization directly on unstructured meshes without the weak formulations required by conventional finite-element methods. In contrast to Fourier-based spectral solvers, it avoids global oversampling, eliminates Gibbs-type oscillations at material interfaces, naturally incorporates absorbing boundary conditions, and preserves the topological structure of the underlying differential operators. A key feature of the framework is that higher-order propagation operators are generated algorithmically from lower-order discrete operators, providing a systematic route to extending simulations beyond the standard nonlinear Schrödinger equation. Benchmarks on fundamental solitons, asymmetric beams, and optical vortices confirm spectral-level accuracy while demonstrating computational speedups exceeding 100x.",
+    "categories": [
+      "physics.optics",
+      "physics.comp-ph"
+    ],
+    "published": "2026-08-04T12:42:03Z",
+    "updated": "2026-08-04T12:42:03Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03587v1",
+      "pdf_path": "data/pdfs/2026-08-05/2_A 100x Faster Beam Propagation Method for Nonlinear Optical Wave Propagation Based on Discrete Exterior Calculus__2608.03587v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-05T01:30:18.150530",
+    "updated_at": "2026-08-05T01:30:18.150520Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-05/2_A 100x Faster Beam Propagation Method for Nonlinear Optical Wave Propagation Based on Discrete Exterior Calculus__2608.03587v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03587v1",
+    "pdf_filename": "2_A 100x Faster Beam Propagation Method for Nonlinear Optical Wave Propagation Based on Discrete Exterior Calculus__2608.03587v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种基于离散外微积分的非线性光束传输方法，在保持高精度的同时实现了百倍以上的计算加速。",
+      "en": "This paper introduces a beam propagation method based on discrete exterior calculus, achieving over 100x computational speedup for nonlinear optical waves while maintaining high accuracy."
+    },
+    "problem": {
+      "zh": "传统数值方法在模拟具有复杂几何边界和多尺度特征的非线性光波导传播时，面临计算效率低、吉布斯振荡或边界条件处理困难的问题。",
+      "en": "Traditional numerical methods face challenges of low computational efficiency, Gibbs oscillations, or difficult boundary conditions when simulating nonlinear optical wave propagation in structures with complex geometric boundaries and multiscale features."
+    },
+    "approach": {
+      "zh": "利用离散外微积分在非结构化网格上直接离散非线性薛定谔方程，通过拓扑算子与几何度量算子的分离，构建显式自适应步长传播方案。",
+      "en": "Utilizing discrete exterior calculus to directly discretize the nonlinear Schrödinger equation on unstructured meshes, constructing an explicit adaptive step-size propagation scheme by separating topological and metric operators."
+    },
+    "main_takeaway": {
+      "zh": "离散外微积分方法在处理步折射率光纤等复杂边界时，消除了吉布斯振荡，且计算速度比传统谱方法快100倍以上。",
+      "en": "The discrete exterior calculus beam propagation method eliminates Gibbs oscillations at step-index interfaces and runs over 100 times faster than conventional spectral methods."
+    },
+    "why_it_matters": {
+      "zh": "它为多尺度非线性光子器件的快速仿真和数值优化提供了一个高效、保拓扑的通用计算框架。",
+      "en": "It provides an efficient, topology-preserving general computational framework for the rapid simulation and numerical optimization of multiscale nonlinear photonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "首次将离散外微积分引入非线性光束传输模拟，克服了传统方法在复杂介质边界处的精度与速度瓶颈。",
+        "en": "Introduces discrete exterior calculus to nonlinear beam propagation simulation for the first time, overcoming the accuracy and speed bottlenecks of traditional methods at complex material interfaces."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Applied",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该工作展示了计算物理方法创新与光学工程的结合，适合发表在物理应用或光学类主流期刊。",
+        "en": "The work demonstrates the integration of computational physics methodology innovation and optical engineering, making it suitable for mainstream applied physics or optics journals."
+      }
+    },
+    "keywords": [
+      "discrete exterior calculus",
+      "beam propagation method",
+      "nonlinear Schrödinger equation",
+      "nonlinear optics",
+      "unstructured mesh"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-05T09:32:55",
+    "input_scope": "full_pdf_text"
+  }
+}
