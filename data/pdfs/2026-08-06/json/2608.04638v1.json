@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2608.04638v1",
+    "title": "The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$: A First-Principles Study",
+    "authors": [
+      "Torsten Geirsson",
+      "Davide Sangalli",
+      "Alberto García-Cristóbal",
+      "Alejandro Molina-Sánchez"
+    ],
+    "abstract": "The magnetoelectric (ME) effect provides a promising pathway for controlling magnetic functionalities using electric fields. While first-principles methods for the static linear ME response are well established, comparable approaches for the frequency-dependent response remain less developed, despite experiments showing pronounced finite-frequency resonances. Here, we investigate the dynamical spin-induced linear ME response from first principles and systematically compare the independent-particle approximation (IPA), random-phase approximation (RPA), time-dependent density functional theory (TDDFT), and the Bethe-Salpeter equation (BSE). We apply these methods to the prototypical ME material Cr$_2$O$_3$ and compare the results with available experimental and theoretical studies. We find that the IPA and RPA fail to reproduce the previously reported finite static limit of the spin-induced response. Within the BSE framework, pronounced excitonic resonances emerge in the ME spectrum, in qualitative agreement with experiment. We also identify a magnon-like peak that coincides with a pole of the transverse spin susceptibility while remaining essentially dark in optical absorption, highlighting the sensitivity of the ME response to spin excitations. TDDFT places this mode closer to the expected low-energy magnonic regime and yields a sizable static spin-induced response. Our results show that these frameworks capture complementary aspects of the dynamical ME response. Low-energy collective spin excitations are required to recover the static limit, whereas electron-hole interactions are essential for reproducing the excitonic resonances.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-08-05T09:53:42Z",
+    "updated": "2026-08-05T09:53:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.04638v1",
+      "pdf_path": "data/pdfs/2026-08-06/3_The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$ A First-Principles Study__2608.04638v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-06T01:27:20.475305",
+    "updated_at": "2026-08-06T01:27:20.475298Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-06/3_The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$ A First-Principles Study__2608.04638v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.04638v1",
+    "pdf_filename": "3_The Frequency-Dependent Spin Contribution to the Magnetoelectric Tensor of Cr$_2$O$_3$ A First-Principles Study__2608.04638v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过第一性原理计算研究了氧化铬的频率相关自旋磁电张量，阐明了不同理论框架在描述激子和磁振子共振中的互补作用。",
+      "en": "This work investigates the frequency-dependent spin magnetoelectric tensor of Cr2O3 using first-principles calculations, clarifying the complementary roles of different theoretical frameworks in describing excitonic and magnonic resonances."
+    },
+    "problem": {
+      "zh": "缺乏能够准确描述有限频率下动力学线性磁电响应的第一性原理计算方法。",
+      "en": "The lack of established first-principles methods to describe the frequency-dependent (dynamical) linear magnetoelectric response."
+    },
+    "approach": {
+      "zh": "采用并对比了独立粒子近似、随机相位近似、随时间变化密度泛函理论以及求解Bethe-Salpeter方程等方法，计算了典型磁电材料氧化铬的动力学自旋磁电张量。",
+      "en": "Implemented and compared the independent-particle approximation, random-phase approximation, time-dependent density functional theory, and the Bethe-Salpeter equation to calculate the dynamical spin magnetoelectric tensor of Cr2O3."
+    },
+    "main_takeaway": {
+      "zh": "动力学磁电响应在低能和高能区由不同机制主导：随时间变化密度泛函理论能较好描述低能集体自旋激发（磁振子）以恢复静态极限，而Bethe-Salpeter方程对于捕获光学区由电子-空穴相互作用引起的激子共振至关重要。",
+      "en": "The dynamical magnetoelectric response is governed by different mechanisms at different energies: time-dependent density functional theory captures low-energy collective spin excitations (magnons) to recover the static limit, while the Bethe-Salpeter equation is essential for describing excitonic resonances in the optical regime."
+    },
+    "why_it_matters": {
+      "zh": "它建立了动力学磁电张量与特定微观激发（激子和磁振子）之间的直接联系，为理解和设计基于光和太赫兹调控的磁电功能器件提供了理论基础。",
+      "en": "It establishes a direct link between the dynamical magnetoelectric tensor and specific microscopic excitations (excitons and magnons), providing a theoretical foundation for designing light- and THz-controlled magnetoelectric devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究系统评估了多种第一性原理多体方法在计算动力学磁电响应方面的表现，并成功解释了实验观测到的激子和磁振子共振的物理起源。",
+        "en": "This study systematically evaluates multiple first-principles many-body methods for computing the dynamical magnetoelectric response, successfully explaining the physical origin of experimentally observed excitonic and magnonic resonances."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文聚焦于凝聚态物理中特定材料的磁电效应第一性原理计算与方法学对比，非常符合Physical Review B的收录范围。",
+        "en": "The paper focuses on first-principles calculations and methodological comparisons of the magnetoelectric effect in a specific condensed matter material, which fits the scope of Physical Review B perfectly."
+      }
+    },
+    "keywords": [
+      "magnetoelectric effect",
+      "chromium oxide",
+      "Bethe-Salpeter equation",
+      "TDDFT",
+      "excitons",
+      "magnons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-06T09:28:40",
+    "input_scope": "full_pdf_text"
+  }
+}

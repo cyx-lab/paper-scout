@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2608.04875v1",
+    "title": "Large nonlinear Hall effect in strained moiré structures hosting high-pseudospin fermions",
+    "authors": [
+      "Srijata Lahiri",
+      "Gourab Paul",
+      "Bilal Tanatar",
+      "Saurabh Basu"
+    ],
+    "abstract": "We investigate the linear and nonlinear Hall response of a moiré \\emph{watermill lattice}, in which stacking and twisting generate a four-band manifold near the Fermi level with suppressed group velocities at discrete magic angles. Including an inversion symmetry breaking onsite mass breaks the interlayer symmetry, opening a gap in this manifold and driving the system into a non-trivial bulk topological phase. We map the resulting phase diagram as a function of the strength of the mass and twist angle $θ$, revealing several sectors with high Chern numbers. We then introduce strain to break the residual $C_3$ symmetry of the lattice which activates a finite Berry curvature dipole and correspondingly, a nonlinear Hall response. The dipole reverses sign sharply across topological phase boundaries, producing butterfly like features when plotted against the relevant system parameters. Its magnitude substantially exceeds that reported for symmetry-broken transition metal dichalcogenides, consistent with the elevated Wilson-loop winding and enhanced quantum geometry associated with the lattice's pseudospin-$3/2$ character. We conclude by incorporating thermal effects on the Berry curvature dipole, asserting that it is an important tool for discerning topology at low temperatures.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-08-05T14:04:09Z",
+    "updated": "2026-08-05T14:04:09Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:nonlinear Hall",
+        "quantum_geometry:nonlinear Hall effect",
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.04875v1",
+      "pdf_path": "data/pdfs/2026-08-06/6_Large nonlinear Hall effect in strained moiré structures hosting high-pseudospin fermions__2608.04875v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-06T01:27:20.474477",
+    "updated_at": "2026-08-06T01:27:20.474470Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-06/6_Large nonlinear Hall effect in strained moiré structures hosting high-pseudospin fermions__2608.04875v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.04875v1",
+    "pdf_filename": "6_Large nonlinear Hall effect in strained moiré structures hosting high-pseudospin fermions__2608.04875v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，在引入单轴应变和反转对称性破缺的水车轮莫尔超晶格中，高自旋费米子特征和增强的量子几何会诱导产生巨大的非线性霍尔效应。",
+      "en": "The study demonstrates that high-pseudospin fermions and enhanced quantum geometry induce a giant nonlinear Hall effect in strained, inversion-symmetry-broken twisted bilayer watermill lattices."
+    },
+    "problem": {
+      "zh": "探索高自旋（自旋-3/2）莫尔超晶格体系中的拓扑相变，以及如何通过打破晶格对称性来激活并增强非线性霍尔响应。",
+      "en": "Exploring topological phase transitions in high-pseudospin (spin-3/2) moiré superlattices and how to activate and enhance the nonlinear Hall response by breaking lattice symmetries."
+    },
+    "approach": {
+      "zh": "采用连续区模型研究双层扭角水车轮晶格，引入质量项打破反转对称性以开启拓扑能隙，并施加单轴应变打破三重旋转对称性，进而计算其贝里曲率偶极子及非线性霍尔响应。",
+      "en": "Using a continuum model to study twisted bilayer watermill lattices, introducing a mass term to break inversion symmetry and open a topological gap, and applying uniaxial strain to break threefold rotational symmetry to calculate the Berry curvature dipole and nonlinear Hall response."
+    },
+    "main_takeaway": {
+      "zh": "应变双层水车轮晶格中的贝里曲率偶极子在拓扑相边界处会发生剧烈的符号反转，且其数值显著大于过渡金属硫族化合物，这源于其独特的自旋-3/2特征和增强的量子几何效应。",
+      "en": "The Berry curvature dipole in the strained twisted bilayer watermill lattice undergoes sharp sign reversals across topological phase boundaries and reaches magnitudes significantly larger than those in transition metal dichalcogenides, driven by its spin-3/2 character and enhanced quantum geometry."
+    },
+    "why_it_matters": {
+      "zh": "它将莫尔物理的研究从传统的自旋-1/2体系拓展到了高自旋体系，并证明了非线性霍尔效应是探测时间反演对称体系中拓扑相变的高灵敏度低能实验工具。",
+      "en": "It extends moiré physics research from conventional spin-1/2 systems to high-pseudospin systems, proving that the nonlinear Hall effect is a highly sensitive low-temperature experimental tool for detecting topological phase transitions in time-reversal symmetric systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究首次将莫尔非线性霍尔效应拓展至高自旋（自旋-3/2）水车轮晶格体系，并发现了显著增强的贝里曲率偶极子响应。",
+        "en": "This study extends the moiré nonlinear Hall effect to a high-pseudospin (spin-3/2) watermill lattice for the first time, revealing a significantly enhanced Berry curvature dipole response."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章具有系统性的理论推导与数值计算，非常符合Physical Review B关于新型拓扑材料物性研究的定位。",
+        "en": "The paper features systematic theoretical derivations and numerical calculations, perfectly aligning with Physical Review B's scope on the physical properties of novel topological materials."
+      }
+    },
+    "keywords": [
+      "moiré superlattice",
+      "nonlinear Hall effect",
+      "Berry curvature dipole",
+      "high-pseudospin fermions",
+      "watermill lattice"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-06T09:29:39",
+    "input_scope": "full_pdf_text"
+  }
+}

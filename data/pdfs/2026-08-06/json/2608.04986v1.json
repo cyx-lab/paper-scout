@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2608.04986v1",
+    "title": "Magnetic catalysis and Hall conductivity of excitonic insulators in a planar four-Fermi model",
+    "authors": [
+      "William R. Tavares",
+      "Rudnei O. Ramos",
+      "Nei Lopes"
+    ],
+    "abstract": "We study the effects of a perpendicular magnetic field on the excitonic insulator (EI) phase in the semiconductor regime using an extended planar four-Fermi model. Within the large-$N$ approximation, we determine the coupled scalar and excitonic condensates at finite temperature, chemical potential, and magnetic field. The field enhances the EI condensate and raises its critical temperature, providing an excitonic realization of magnetic catalysis, while the scalar condensate remains constant throughout the EI phase. By contrast, the critical chemical potential depends nonmonotonically on the field because of the successive occupation of Landau levels. The magnetic field also shifts the mean-field tricritical point and enlarges the first-order region of the temperature--chemical-potential phase diagram. We further analyze the Hall conductivity and find that increasing the field reduces the number of plateaus and modifies the threshold for a finite Hall response. For the parameters considered, the emergence of the EI condensate is accompanied by a characteristic change in the Hall conductivity, including a field-dependent change of slope near a continuous transition. These results show that the combined phase structure and Hall response can provide complementary signatures of excitonic ordering in planar fermionic systems.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "hep-ph"
+    ],
+    "published": "2026-08-05T15:57:58Z",
+    "updated": "2026-08-05T15:57:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.04986v1",
+      "pdf_path": "data/pdfs/2026-08-06/3_Magnetic catalysis and Hall conductivity of excitonic insulators in a planar four-Fermi model__2608.04986v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-06T01:27:20.474049",
+    "updated_at": "2026-08-06T01:27:20.474038Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-06/3_Magnetic catalysis and Hall conductivity of excitonic insulators in a planar four-Fermi model__2608.04986v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.04986v1",
+    "pdf_filename": "3_Magnetic catalysis and Hall conductivity of excitonic insulators in a planar four-Fermi model__2608.04986v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了垂直磁场对二维四费米子模型中激子绝缘体相及霍尔电导率的影响，揭示了激子磁催化效应及其输运特征。",
+      "en": "This paper studies the effects of a perpendicular magnetic field on the excitonic insulator phase and Hall conductivity in a planar four-Fermi model, revealing excitonic magnetic catalysis and its transport signatures."
+    },
+    "problem": {
+      "zh": "探讨磁场如何调制二维半导体中由相互作用驱动的激子绝缘体相，以及如何通过输运性质（如霍尔电导）来表征该相变。",
+      "en": "To investigate how a magnetic field modulates the interaction-driven excitonic insulator phase in 2D semiconductors and how to characterize this phase transition through transport properties like Hall conductivity."
+    },
+    "approach": {
+      "zh": "采用大N近似下的二维扩展Gross-Neveu模型，自洽求解有限温度、化学势和磁场下的手征与激子凝聚。",
+      "en": "Using an extended Gross-Neveu model in (2+1) dimensions within the large-N approximation to self-consistently solve for chiral and excitonic condensates at finite temperature, chemical potential, and magnetic field."
+    },
+    "main_takeaway": {
+      "zh": "垂直磁场通过朗道能级量子化增强了激子凝聚（激子磁催化），且激子相的出现伴随着霍尔电导率斜率的特征性改变。",
+      "en": "A perpendicular magnetic field enhances the excitonic condensate via Landau quantization (excitonic magnetic catalysis), and the emergence of the excitonic phase is accompanied by a characteristic slope change in the Hall conductivity."
+    },
+    "why_it_matters": {
+      "zh": "为在InAs/GaSb双层和单层WTe2等二维材料中实验寻找和验证激子绝缘体相提供了明确的热力学与输运特征依据。",
+      "en": "It provides clear thermodynamic and transport signatures for experimentally identifying and verifying the excitonic insulator phase in 2D materials such as InAs/GaSb bilayers and monolayer WTe2."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了磁催化效应在激子通道中的具体表现，并建立了激子凝聚与霍尔电导率演化之间的直接自洽关联。",
+        "en": "It clarifies the specific manifestation of magnetic catalysis in the excitonic channel and establishes a direct self-consistent link between excitonic condensation and Hall conductivity evolution."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了量子场论方法与凝聚态物理中的激子绝缘体及拓扑输运问题，非常符合PRB的定位。",
+        "en": "The study combines quantum field theory methods with excitonic insulators and topological transport in condensed matter physics, which fits PRB perfectly."
+      }
+    },
+    "keywords": [
+      "excitonic insulator",
+      "magnetic catalysis",
+      "Hall conductivity",
+      "four-Fermi model",
+      "planar systems"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-06T09:30:04",
+    "input_scope": "full_pdf_text"
+  }
+}

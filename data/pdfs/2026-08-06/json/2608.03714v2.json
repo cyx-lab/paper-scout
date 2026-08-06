@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2608.03714v2",
+    "title": "Cavity control of quantum phase transitions in a two-dimensional Kondo lattice",
+    "authors": [
+      "Jun Mochida",
+      "Atac Imamoglu",
+      "Yuto Ashida"
+    ],
+    "abstract": "Cavity quantum electrodynamics offers a route to control quantum phases by using vacuum fluctuations of confined electromagnetic fields. In particular, planar cavities based on polar van der Waals materials can generate strongly confined modes and are promising for controlling two-dimensional correlated materials. Recently, moiré materials have become central platforms for studying two-dimensional heavy-fermion systems and their quantum phase transitions. Kondo lattices provide a prototypical model for studying quantum phase boundaries, driven by competition between Kondo screening and the ordering of local magnetic moments. We show that a cavity-induced interaction can shift the quantum phase transitions between a heavy-fermion phase and an antiferromagnetic phase in a two-dimensional Kondo lattice through a momentum-dependent self-energy of the conduction bands. For the longitudinal projected field motivated by h-BN hyperbolic phonon polaritons, the self-energy favors Kondo hybridization and expands the heavy-fermion region. Transverse and circular in-plane model structures give distinct effects, with the transverse case relatively favoring the magnetically ordered phase and the circular case lying between the longitudinal and transverse cases. These results indicate that electromagnetic vacuum fluctuations can effectively modify the control parameters of strongly correlated two-dimensional Kondo materials.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-08-04T14:17:24Z",
+    "updated": "2026-08-05T02:56:55Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.03714v2",
+      "pdf_path": "data/pdfs/2026-08-06/3_Cavity control of quantum phase transitions in a two-dimensional Kondo lattice__2608.03714v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-06T01:27:20.477035",
+    "updated_at": "2026-08-06T01:27:20.477027Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-06/3_Cavity control of quantum phase transitions in a two-dimensional Kondo lattice__2608.03714v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.03714v2",
+    "pdf_filename": "3_Cavity control of quantum phase transitions in a two-dimensional Kondo lattice__2608.03714v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了平面腔真空波动如何通过动量相关的自能修正来调控二维近藤晶格的重费米子与磁有序相变。",
+      "en": "Investigates how planar cavity vacuum fluctuations control the phase transition between heavy-fermion and magnetic phases in 2D Kondo lattices via momentum-dependent self-energy."
+    },
+    "problem": {
+      "zh": "探索电磁场真空涨落如何影响二维强关联材料（如莫尔近藤晶格）中近藤效应与磁性有序之间的竞争机制。",
+      "en": "Exploring how electromagnetic vacuum fluctuations influence the competition between the Kondo effect and magnetic ordering in 2D strongly correlated materials like moiré Kondo lattices."
+    },
+    "approach": {
+      "zh": "基于耦合腔模的周期安德森模型，推导腔诱导的传导带自能，并结合平均场理论分析三角晶格近藤模型的相图。",
+      "en": "Derived cavity-induced conduction-band self-energy from a periodic Anderson model and analyzed the phase diagram of a triangular Kondo lattice using mean-field theory."
+    },
+    "main_takeaway": {
+      "zh": "腔场的极化结构决定了相边界的移动方向：纵向极化增强近藤屏蔽并扩大重费米子相区，而横向极化则相对有利于磁有序相。",
+      "en": "The cavity's polarization structure dictates the phase boundary shift: longitudinal polarization enhances Kondo screening and expands the heavy-fermion region, while transverse polarization favors the magnetically ordered phase."
+    },
+    "why_it_matters": {
+      "zh": "为在莫尔异质结等二维材料中利用量子光学手段非侵入式地调控强关联量子相变提供了理论依据。",
+      "en": "Provides a theoretical basis for non-invasively controlling strongly correlated quantum phase transitions in 2D materials like moiré heterostructures using quantum optics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在晶格模型中揭示了腔场极化对近藤相变的非平凡调控作用，并建立了明确的物理图像。",
+        "en": "First to reveal the non-trivial control of Kondo phase transitions by cavity polarization in a lattice model with a clear physical picture."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "结合了凝聚态物理（莫尔材料、近藤物理）与量子光学（腔QED）的热点领域，具有较强的普适性和创新性。",
+        "en": "Combines hot topics in condensed matter (moiré materials, Kondo physics) and quantum optics (cavity QED) with strong generality and innovation."
+      }
+    },
+    "keywords": [
+      "Cavity QED",
+      "Kondo lattice",
+      "Moiré materials",
+      "Quantum phase transition",
+      "Vacuum fluctuations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-06T09:28:01",
+    "input_scope": "full_pdf_text"
+  }
+}

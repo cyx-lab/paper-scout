@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2608.04998v1",
+    "title": "Accessing Chern Numbers From Bloch Eigenstates Singularities",
+    "authors": [
+      "Rajesh Asapanna",
+      "Rabih El Sokhen",
+      "Paolo Aceto",
+      "Patrick Popescu-Pampu",
+      "Martin Guillot",
+      "Jacqueline Bloch",
+      "Sylvain Ravets",
+      "Clément Hainaut",
+      "Alberto Amo",
+      "Pierre Delplace"
+    ],
+    "abstract": "We propose two methods to extract the Chern numbers of the Bloch bands of a two dimensional insulator, and apply them to a photonic lattice experiment. These two methods require the knowledge of the complex-valued components of the Bloch eigenvectors, or their ratios. Unlike other tomography methods relying on the approximate reconstruction of the Berry curvature and its integration over the Brillouin zone, our methods boil down to the observation of phase vorticities in the eigensates structure. Those measurements, robust to experimental noise, yield exactly quantized values. One of the two methods exploits the non-normalization of the eigenmodes, making it particularly relevant for classical wave systems.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-08-05T16:05:08Z",
+    "updated": "2026-08-05T16:05:08Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.04998v1",
+      "pdf_path": "data/pdfs/2026-08-06/3_Accessing Chern Numbers From Bloch Eigenstates Singularities__2608.04998v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-06T01:27:20.473988",
+    "updated_at": "2026-08-06T01:27:20.473943Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-06/3_Accessing Chern Numbers From Bloch Eigenstates Singularities__2608.04998v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.04998v1",
+    "pdf_filename": "3_Accessing Chern Numbers From Bloch Eigenstates Singularities__2608.04998v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了两种通过观测非归一化布洛赫本征态奇异点处的相位涡度来直接、精确提取二维绝缘体陈数的方法，并在光子晶格实验中进行了验证。",
+      "en": "This paper proposes two methods to directly and exactly extract Chern numbers from phase vorticities at the singularities of non-normalized Bloch eigenstates, demonstrated in a photonic lattice experiment."
+    },
+    "problem": {
+      "zh": "传统的拓扑陈数测量方法依赖于对贝里曲率的近似重构和在整个布里渊区上的积分，这极易受到实验噪声的影响，且只能得到近似的整数值。",
+      "en": "Traditional methods for measuring Chern numbers rely on approximate reconstruction and integration of the Berry curvature over the Brillouin zone, which is highly sensitive to experimental noise and only yields approximate integer values."
+    },
+    "approach": {
+      "zh": "利用经典波系统中波函数无需归一化的特点，提出了“零截面法”和“重言丛法”，通过识别本征态分量（或其比值）在布里渊区中的零点及周围的相位环流来提取陈数，并在时间复用的光子晶格中进行了实验重构。",
+      "en": "Leveraging the non-normalization of wavefunctions in classical wave systems, the authors propose the '0-section method' and the 'tautological bundle method' to extract Chern numbers by identifying zeros of eigenstate components (or their ratios) and their phase circulations, experimentally demonstrated in a time-multiplexed photonic lattice."
+    },
+    "main_takeaway": {
+      "zh": "陈数可以通过直接观测非归一化布洛赫本征态分量（或其比值）在布里渊区中的零点及其相位涡度来精确、鲁棒地提取，而无需进行复杂的贝里曲率积分。",
+      "en": "Chern numbers can be exactly and robustly extracted by directly observing the zeros and associated phase vorticities of non-normalized Bloch eigenstate components (or their ratios) in the Brillouin zone, bypassing the need for complex Berry curvature integration."
+    },
+    "why_it_matters": {
+      "zh": "该方法将拓扑不变量的测量从全局的贝里曲率积分简化为对少数相位奇异点的局部观测，为光子学、声学等易于进行本征态层析成像的经典波系统提供了一种高精度、抗噪声的拓扑表征新途径。",
+      "en": "This approach simplifies the measurement of topological invariants from global Berry curvature integration to local observation of a few phase singularities, providing a highly precise and noise-robust topological characterization route for classical wave systems where eigenstate tomography is accessible."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了两种无需计算贝里曲率即可直接从本征态奇异点提取陈数的全新数学方法，并在光子实验中成功验证。",
+        "en": "Proposes two novel mathematical methods to directly extract Chern numbers from eigenstate singularities without calculating Berry curvature, successfully validated in a photonic experiment."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theoretical + Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了新颖的拓扑物理理论与先进的光子晶格实验，且作者此前在PRL发表过相关工作，非常符合该期刊的定位。",
+        "en": "The study combines novel topological physics theory with advanced photonic lattice experiments, and the authors have previously published related work in PRL, making it a highly suitable fit."
+      }
+    },
+    "keywords": [
+      "Chern number",
+      "Bloch eigenstates",
+      "phase singularity",
+      "photonic lattice",
+      "topological invariant"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-06T09:30:32",
+    "input_scope": "full_pdf_text"
+  }
+}
