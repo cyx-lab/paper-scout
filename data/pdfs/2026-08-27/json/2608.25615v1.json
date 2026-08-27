@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2608.25615v1",
+    "title": "Substitution effects in RuO$_2$ single crystals",
+    "authors": [
+      "Shubhankar Paul",
+      "Kunihiko Yamauchi",
+      "Shogo Yamashita",
+      "Hisakazu Matsuki",
+      "Shuhei Iwashita",
+      "Mitsuhiko Maesato",
+      "Hiroshi Kitagawa",
+      "Chanchal Sow",
+      "Shingo Yonezawa",
+      "Yoshiteru Maeno"
+    ],
+    "abstract": "RuO$_2$ has emerged as one of the leading candidates for investigating altermagnetism. Recent quantum oscillation and angle-resolved photoemission spectroscopy measurements found the absence of altermagnetism or antiferromagnetism in pure RuO$_2$ crystals. The continuing debate over intrinsic magnetic order in RuO$_2$ may reflect its proximity to an altermagnetic instability. In this work, we grow single crystals of Ru$_{0.9}$V$_{0.1}$O$_2$ and investigate their structural, transport, and magnetic properties. X-ray photoelectron spectroscopy reveals an average V oxidation state near $+4$. The paramagnetic susceptibility remains nearly unchanged up to room temperature, with no evidence of magnetic ordering. Thus, the 10\\% V-substitution in RuO$_2$ does not induce altermagnetism. Electronic structure calculations for the V-substituted systems using two methods suggest that a higher level of V-substitution leads to a significant change in the density of states. These findings underscore the potential of nonmagnetic substitution in RuO$_2$ as an attractive candidate for probing altermagnetic transitions and their experimental signatures.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-08-26T10:31:14Z",
+    "updated": "2026-08-26T10:31:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.25615v1",
+      "pdf_path": "data/pdfs/2026-08-27/3_Substitution effects in RuO$_2$ single crystals__2608.25615v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-27T05:41:51.036458",
+    "updated_at": "2026-08-27T05:41:51.036449Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-27/3_Substitution effects in RuO$_2$ single crystals__2608.25615v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.25615v1",
+    "pdf_filename": "3_Substitution effects in RuO$_2$ single crystals__2608.25615v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了钒替代对二氧化钌单晶结构、输运和磁性的影响，发现10%的钒替代并未诱导交错磁性。",
+      "en": "Investigated the effects of vanadium substitution on the structural, transport, and magnetic properties of RuO2 single crystals, finding that 10% V-substitution does not induce altermagnetism."
+    },
+    "problem": {
+      "zh": "探究是否可以通过非磁性元素替代来稳定二氧化钌中潜在的交错磁性状态。",
+      "en": "Exploring whether altermagnetism in RuO2 can be stabilized by partially substituting ruthenium with nonmagnetic elements."
+    },
+    "approach": {
+      "zh": "制备了Ru0.9V0.1O2单晶，通过X射线衍射、光电子能谱、输运和磁化率测量进行表征，并结合第一性原理计算分析其电子结构。",
+      "en": "Grew Ru0.9V0.1O2 single crystals, characterized them using XRD, XPS, transport, and magnetic measurements, and performed first-principles electronic structure calculations."
+    },
+    "main_takeaway": {
+      "zh": "10%的钒替代使室温电阻率降低了约60%（由于电子-声子散射减弱），但材料仍保持顺磁性，未发现磁有序，表明该浓度下未诱导交错磁性。",
+      "en": "A 10% V-substitution reduces room-temperature resistivity by ~60% due to suppressed electron-phonon scattering, but the material remains paramagnetic without magnetic ordering, indicating no induced altermagnetism at this concentration."
+    },
+    "why_it_matters": {
+      "zh": "为通过化学替代调控二氧化钌的磁不稳定性提供了实验基准，并指出更高浓度的替代可能是稳定交错磁性的可行途径。",
+      "en": "Provides an experimental benchmark for tuning the magnetic instability of RuO2 via chemical substitution and suggests that higher substitution levels might stabilize altermagnetism."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了非磁性钒替代对二氧化钌单晶磁性和输运性质的影响，表明10%的替代不会诱导共线反铁磁性或交错磁性。",
+        "en": "Clarified the effects of nonmagnetic vanadium substitution on the magnetic and transport properties of RuO2 single crystals, showing that 10% substitution does not induce altermagnetism."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了详细的单晶物性表征与第一性原理计算，非常符合该期刊在凝聚态物理领域的定位。",
+        "en": "The paper combines detailed single-crystal physical characterization with first-principles calculations, aligning well with the journal's scope in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "RuO2",
+      "altermagnetism",
+      "vanadium substitution",
+      "single crystals",
+      "electronic structure"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-27T13:43:00",
+    "input_scope": "full_pdf_text"
+  }
+}

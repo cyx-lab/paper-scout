@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2608.25656v1",
+    "title": "Phase calibration of quantum oscillations in the magnetostrictive coefficient using the topological antiferromagnet YbMnBi$_2$",
+    "authors": [
+      "Qin Deng",
+      "Long Zhang",
+      "Zeyu Li",
+      "Ying Zhu",
+      "Shuai Wu",
+      "Yan Liu",
+      "Aifeng Wang",
+      "Yu Pan",
+      "Yisheng Chai"
+    ],
+    "abstract": "The Berry phase accumulated along a cyclotron orbit encodes important information about electronic band topology and is commonly inferred from the phase of quantum oscillations. Measurements of the ac magnetostrictive coefficient have recently emerged as a sensitive thermodynamic probe of quantum oscillations, but the phase offset has not been experimentally calibrated. Here, using the topological antiferromagnet YbMnBi$_2$, we calibrate this offset by directly comparing quantum oscillations in magnetization with those in the ac magnetostrictive coefficient. Measurements of both responses on the same single crystal reveal a single fundamental frequency of approximately 160 T in fields up to 14 T, enabling a direct phase comparison free from ambiguities associated with multiple frequencies. We observe an approximately $π/2$ relative phase shift between the two oscillatory responses, consistent with the Maxwell relation linking the magnetostrictive coefficient to the stress derivative of magnetization. Our results establish the appropriate phase needed to extract cyclotron-orbit phase information from quantum oscillations in the ac magnetostrictive coefficient.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-08-26T11:37:26Z",
+    "updated": "2026-08-26T11:37:26Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [],
+      "author_match": true,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.25656v1",
+      "pdf_path": "data/pdfs/2026-08-27/5_Phase calibration of quantum oscillations in the magnetostrictive coefficient using the topological antiferromagnet YbMn__2608.25656v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-27T05:41:51.036254",
+    "updated_at": "2026-08-27T05:41:51.036246Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-27/5_Phase calibration of quantum oscillations in the magnetostrictive coefficient using the topological antiferromagnet YbMn__2608.25656v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.25656v1",
+    "pdf_filename": "5_Phase calibration of quantum oscillations in the magnetostrictive coefficient using the topological antiferromagnet YbMn__2608.25656v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过对比拓扑反铁磁体YbMnBi2的磁化强度与交流磁致伸缩系数的量子振荡，首次实验校准了交流磁致伸缩系数的振荡相位。",
+      "en": "This work calibrates the phase of quantum oscillations in the ac magnetostrictive coefficient by directly comparing it with magnetization oscillations in the topological antiferromagnet YbMnBi2."
+    },
+    "problem": {
+      "zh": "交流磁致伸缩系数作为探测拓扑能带结构量子振荡的灵敏手段，其振荡相位偏移此前缺乏实验校准，限制了其在提取贝里相位等拓扑信息中的应用。",
+      "en": "The phase offset of quantum oscillations in the ac magnetostrictive coefficient has not been experimentally calibrated, limiting its use in extracting topological information like the Berry phase."
+    },
+    "approach": {
+      "zh": "在单晶YbMnBi2上同时测量磁化强度和交流磁致伸缩系数的量子振荡，利用其单一振荡频率的特点进行直接相位对比，并结合麦克斯韦关系和LK理论进行拟合分析。",
+      "en": "Measure both magnetization and ac magnetostrictive coefficient quantum oscillations on the same YbMnBi2 single crystal, perform a direct phase comparison enabled by its single oscillation frequency, and analyze the results using Maxwell relations and LK theory."
+    },
+    "main_takeaway": {
+      "zh": "实验证实交流磁致伸缩系数与磁化强度的量子振荡之间存在约九十度的相对相位差，这与热力学麦克斯韦关系相符。",
+      "en": "The experiment confirms an approximate ninety-degree relative phase shift between the quantum oscillations of the ac magnetostrictive coefficient and magnetization, consistent with the thermodynamic Maxwell relation."
+    },
+    "why_it_matters": {
+      "zh": "该研究为利用交流磁致伸缩技术精确提取拓扑材料的电子能带拓扑信息（如贝里相位）奠定了实验和理论校准基础。",
+      "en": "This study establishes the experimental and theoretical calibration necessary for using ac magnetostriction to accurately extract electronic band topology information (such as the Berry phase) in topological materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "首次通过实验和热力学关系澄清了交流磁致伸缩系数量子振荡的相位关系，解决了拓扑相位提取的关键校准问题。",
+        "en": "First to experimentally and thermodynamically clarify the phase relationship of quantum oscillations in the ac magnetostrictive coefficient, resolving a key calibration issue for topological phase extraction."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文对特定拓扑材料的量子振荡进行了细致的实验测量与物理机制分析，非常符合该期刊的发表风格。",
+        "en": "The paper presents detailed experimental measurements and physical mechanism analysis of quantum oscillations in a specific topological material, which aligns well with the journal's scope."
+      }
+    },
+    "keywords": [
+      "YbMnBi2",
+      "quantum oscillations",
+      "magnetostriction",
+      "Berry phase",
+      "phase calibration"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-27T13:43:16",
+    "input_scope": "full_pdf_text"
+  }
+}

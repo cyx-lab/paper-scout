@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2608.25482v1",
+    "title": "Parity-controlled electron-hole interference in exciton-phonon coupling",
+    "authors": [
+      "Michael O. Atambo"
+    ],
+    "abstract": "We demonstrate that exciton-phonon coupling in polar semiconductors is governed by a parity-controlled interference selection rule. By performing an exact multipole expansion of the excitonic form factor and validating it against numerical integration of hydrogenic envelope functions, we show that the long-range infrared divergence of the Fröhlich interaction is exactly canceled for elastic scattering between excitonic states of the same parity. The ground-state exciton is thereby protected from long-wavelength polar phonons by destructive electron-hole interference. In contrast, transitions between states of opposite parity exhibit constructive interference, preserving a finite, robust coupling to macroscopic polar fields independent of band-structure details. Mass asymmetry between the electron and hole activates higher-order multipole terms in the elastic channel but leaves the constructive inelastic channel essentially unaffected. The selection rule is dimensionally invariant, applying to bulk and two-dimensional systems alike, and naturally explains the anomalously weak phonon dressing observed in halide perovskites as well as the strong phonon sidebands in transition-metal dichalcogenides. Our framework provides a universal, analytically exact criterion for exciton-phonon coupling strength, offering a design principle for engineering excitonic materials with tailored phonon interactions.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-08-26T07:53:07Z",
+    "updated": "2026-08-26T07:53:07Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.25482v1",
+      "pdf_path": "data/pdfs/2026-08-27/3_Parity-controlled electron-hole interference in exciton-phonon coupling__2608.25482v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-27T05:41:51.036823",
+    "updated_at": "2026-08-27T05:41:51.036815Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-27/3_Parity-controlled electron-hole interference in exciton-phonon coupling__2608.25482v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.25482v1",
+    "pdf_filename": "3_Parity-controlled electron-hole interference in exciton-phonon coupling__2608.25482v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "证明了极性半导体中的激子-声子耦合受宇称控制的电子-空穴干涉选择定域支配，从而保护同宇称基态激子免受长波极性声子的散射。",
+      "en": "Demonstrates that exciton-phonon coupling in polar semiconductors is governed by a parity-controlled interference selection rule, protecting same-parity ground-state excitons from long-wavelength polar phonons."
+    },
+    "problem": {
+      "zh": "解释为什么中性激子在极性半导体中能免受Fröhlich相互作用的长程红外发散影响，以及不同材料中激子-声子耦合强度的差异。",
+      "en": "Explaining why neutral excitons can be protected from the long-range infrared divergence of the Fröhlich interaction in polar semiconductors, and the variation in coupling strengths across materials."
+    },
+    "approach": {
+      "zh": "对激子形状因子进行精确的多极展开，并结合氢原子包络函数的数值积分进行验证，分析不同维度和质量不对称性下的耦合行为。",
+      "en": "Performing an exact multipole expansion of the excitonic form factor combined with numerical integration of hydrogenic envelope functions across different dimensions and mass asymmetries."
+    },
+    "main_takeaway": {
+      "zh": "同宇称状态间的弹性散射因相消干涉消除红外发散，而异宇称状态间的非弹性散射因相长干涉保持强耦合；电子-空穴质量不对称性会破坏弹性通道的保护。",
+      "en": "Elastic scattering between same-parity states undergoes destructive interference that cancels the infrared divergence, while opposite-parity inelastic transitions exhibit constructive interference; mass asymmetry breaks the elastic channel protection."
+    },
+    "why_it_matters": {
+      "zh": "为理解卤化物钙钛矿的弱声子修饰和过渡金属硫族化合物的强声子旁带提供了统一的解析框架，并为设计具有特定声子相互作用的激子材料提供了指导。",
+      "en": "Provides a unified analytical framework explaining the weak phonon dressing in halide perovskites and strong sidebands in TMDs, offering design principles for engineering excitonic materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了激子-声子耦合中电子-空穴干涉的宇称选择定域，解释了不同极性材料中声子修饰强度的物理机制。",
+        "en": "Clarifies the parity selection rule of electron-hole interference in exciton-phonon coupling, explaining the physical mechanism behind varying phonon dressing strengths in polar materials."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "提出了一个关于半导体激子物理的通用且解析精确的物理机制，非常适合发表在物理学顶级期刊。",
+        "en": "Proposes a universal and analytically exact physical mechanism for semiconductor exciton physics, highly suitable for a top physics journal."
+      }
+    },
+    "keywords": [
+      "exciton-phonon coupling",
+      "Frohlich interaction",
+      "parity selection rule",
+      "electron-hole interference",
+      "polar semiconductors"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-27T13:42:24",
+    "input_scope": "full_pdf_text"
+  }
+}

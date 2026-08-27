@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2608.26102v1",
+    "title": "Viscochiral Transport: Chiral Selection of Hydrodynamic Vortices by Berry Curvature",
+    "authors": [
+      "Archisman Panigrahi",
+      "Khachatur Nazaryan"
+    ],
+    "abstract": "We predict a new \\textit{viscochiral regime} of electronic transport in which spatially varying Hall viscosity selects vortical flow patterns. Although uniform Hall viscosity cannot alter incompressible bulk flow, its spatial gradient redistributes vorticity, amplifying vortices in one chamber while suppressing the vortex in the other. We further determine the underlying mechanism to be generic to recirculating flows and insensitive to the details of the device geometry. The paper maps the resulting phase diagram and shows that the regime is experimentally accessible in valley-polarized bilayer graphene.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.flu-dyn"
+    ],
+    "published": "2026-08-26T17:59:25Z",
+    "updated": "2026-08-26T17:59:25Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.26102v1",
+      "pdf_path": "data/pdfs/2026-08-27/3_Viscochiral Transport Chiral Selection of Hydrodynamic Vortices by Berry Curvature__2608.26102v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-27T05:41:51.034588",
+    "updated_at": "2026-08-27T05:41:51.034575Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-27/3_Viscochiral Transport Chiral Selection of Hydrodynamic Vortices by Berry Curvature__2608.26102v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26102v1",
+    "pdf_filename": "3_Viscochiral Transport Chiral Selection of Hydrodynamic Vortices by Berry Curvature__2608.26102v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "预测了一种由贝里曲率梯度引起的奇粘滞度空间变化所驱动的“粘滞手性”电子输运新机制，该机制能选择性地增强或抑制流体涡旋。",
+      "en": "Predicts a new \"viscochiral\" regime of electronic transport where spatial gradients of Berry-curvature-induced Hall viscosity selectively amplify or suppress hydrodynamic vortices."
+    },
+    "problem": {
+      "zh": "研究在时间反演对称性破缺的电子流体中，空间不均匀的奇（哈尔）粘滞度如何影响和控制微观器件几何中的涡旋流动图样。",
+      "en": "Investigating how spatially varying odd (Hall) viscosity in time-reversal-broken electronic fluids affects and controls vortex flow patterns in realistic device geometries."
+    },
+    "approach": {
+      "zh": "建立包含哈尔粘滞度梯度的纳维-斯托克斯方程，并在双腔器件几何中进行数值求解，绘制输运相图，并估算双层石墨烯中的实验可行性。",
+      "en": "Formulating and numerically solving the Navier-Stokes equation modified by a Hall viscosity gradient in a two-chamber geometry, mapping the phase diagram, and estimating experimental feasibility in bilayer graphene."
+    },
+    "main_takeaway": {
+      "zh": "哈尔粘滞度的空间梯度会重新分布涡量，导致双腔器件中一个涡旋被放大而另一个被完全抑制，从而实现手性涡旋选择。",
+      "en": "A spatial gradient of Hall viscosity redistributes vorticity, amplifying the vortex in one chamber while suppressing the other, enabling chiral vortex selection."
+    },
+    "why_it_matters": {
+      "zh": "提出了一种全新的“粘滞手性”输运机制，为在双层石墨烯等拓扑材料中探测和调控奇粘滞度提供了明确的实验特征。",
+      "en": "Proposes a novel \"viscochiral\" transport regime, providing a clear experimental signature for detecting and controlling odd viscosity in topological materials like bilayer graphene."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次预测了由粘滞度梯度驱动的粘滞手性输运机制，并为实验观测奇粘滞度效应提供了切实可行的方案。",
+        "en": "First to predict the viscochiral transport regime driven by viscosity gradients, offering a feasible scheme for experimental observation of odd viscosity."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "提出了凝聚态物理中电子流体动力学的新物理效应，具有明确的实验预言，非常符合该期刊的发表标准。",
+        "en": "Presents a novel physical effect in electron hydrodynamics with concrete experimental predictions, well-suited for the journal."
+      }
+    },
+    "keywords": [
+      "electron hydrodynamics",
+      "Hall viscosity",
+      "Berry curvature",
+      "vortex selection",
+      "bilayer graphene"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-27T13:43:40",
+    "input_scope": "full_pdf_text"
+  }
+}

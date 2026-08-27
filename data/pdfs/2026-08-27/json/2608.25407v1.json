@@ -1,0 +1,124 @@
+{
+  "paper_record": {
+    "id": "2608.25407v1",
+    "title": "Dynamical development of long-range spatial coherence in non-equilibrium bosonic condensation",
+    "authors": [
+      "Bianca Rae Fabricante",
+      "Dąbrówka Biegańska",
+      "Paolo Comaron",
+      "Mateusz Król",
+      "Matthias Wurdack",
+      "Maciej Pieczarka",
+      "Mark Steger",
+      "David W. Snoke",
+      "Kenneth West",
+      "Daniele Sanvitto",
+      "Dario Ballarini",
+      "Dimitrios Trypogeorgos",
+      "Loren N. Pfeiffer",
+      "Andrew G. Truscott",
+      "Marzena Szymańska",
+      "Elena A. Ostrovskaya",
+      "Eliezer Estrecho"
+    ],
+    "abstract": "Development of spontaneous coherence is one of the hallmarks of bosonic condensation in a variety of physical systems, such as cold atoms, confined photons, and hybrid light-matter quasiparticles like exciton polaritons in semiconductors. While spatial coherence is well understood once a steady-state condensate has been established, its temporal evolution as the condensate forms is largely unexplored. Here, we explore the dynamical formation of a non-equilibrium, driven-dissipative exciton-polariton condensate through both time-resolved experiments and numerical modeling. Our study reveals that the spatial coherence is established through two distinct stages. The early-time stage is interaction-driven and features transient oscillations in spatial coherence. This stage is followed by a steady-state regime characterized by a spatially-uniform high degree of coherence that extends over the entire size of the system and persists over time. These stages of spatial coherence development occur in both free flowing and confined exciton-polariton systems that undergo a quench - rapid growth of the condensate starting from two different initial settings. Our study offers a deep insight into the process by which long-range spatial coherence is established in a non-equilibrium bosonic condensate.",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-08-26T06:09:29Z",
+    "updated": "2026-08-26T06:09:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.25407v1",
+      "pdf_path": "data/pdfs/2026-08-27/3_Dynamical development of long-range spatial coherence in non-equilibrium bosonic condensation__2608.25407v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-27T05:41:51.036993",
+    "updated_at": "2026-08-27T05:41:51.036985Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-27/3_Dynamical development of long-range spatial coherence in non-equilibrium bosonic condensation__2608.25407v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.25407v1",
+    "pdf_filename": "3_Dynamical development of long-range spatial coherence in non-equilibrium bosonic condensation__2608.25407v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了非平衡激子极化激元凝聚体形成过程中长程空间相干性的动态建立过程，发现了由模式竞争引起的瞬态相干振荡现象。",
+      "en": "This work investigates the dynamical establishment of long-range spatial coherence during the formation of non-equilibrium exciton-polariton condensates, revealing transient coherence oscillations caused by mode competition."
+    },
+    "problem": {
+      "zh": "探究非平衡驱动-耗散玻色凝聚体在快速形成（淬火）过程中，空间相干性是如何随时间动态演化并建立的。",
+      "en": "To understand how spatial coherence dynamically evolves and establishes over time during the rapid formation (quench) of non-equilibrium driven-dissipative bosonic condensates."
+    },
+    "approach": {
+      "zh": "结合时间分辨光致发光测量（利用环形脉冲和高斯连续光两种实验配置）与基于截断Wigner近似的平均场数值模拟。",
+      "en": "Combining time-resolved photoluminescence measurements (using ring-shaped pulsed and Gaussian continuous-wave excitation configurations) with mean-field numerical simulations based on the truncated Wigner approximation."
+    },
+    "main_takeaway": {
+      "zh": "空间相干性的建立分为两个阶段：早期由相互作用驱动并伴随瞬态相干振荡，随后进入空间均匀的高相干准稳态；其中相干振荡源于基态与激发态之间的动力学粒子数重分布。",
+      "en": "Spatial coherence develops in two stages: an early interaction-driven stage with transient coherence oscillations, followed by a uniform high-coherence quasi-steady state; the oscillations stem from dynamical population redistribution between the ground and excited energy states."
+    },
+    "why_it_matters": {
+      "zh": "揭示了非平衡凝聚体中的相干性建立并非简单的单调增长，而是伴随着瞬态模式竞争，为理解开放量子系统中的非平衡相变和相干性调控提供了新视角。",
+      "en": "It reveals that coherence build-up in non-equilibrium condensates is not a simple monotonic growth but involves transient mode competition, offering new insights into non-equilibrium phase transitions and coherence control in open quantum systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了非平衡玻色凝聚过程中早期空间相干性振荡的物理起源，即不同能量模式间的动力学粒子数重分布。",
+        "en": "It clarifies the physical origin of early-stage spatial coherence oscillations during non-equilibrium bosonic condensation as dynamical population redistribution among different energy modes."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究揭示了非平衡量子流体动力学中的普遍物理机制，且结合了高质量的实验与理论模拟，非常符合该期刊的定位。",
+        "en": "The study reveals a general physical mechanism in non-equilibrium quantum fluid dynamics with high-quality experimental and theoretical modeling, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "exciton-polaritons",
+      "spatial coherence",
+      "non-equilibrium condensation",
+      "quench dynamics",
+      "transient oscillations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-27T13:42:16",
+    "input_scope": "full_pdf_text"
+  }
+}

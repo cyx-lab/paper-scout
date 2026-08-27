@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2608.26099v1",
+    "title": "Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model",
+    "authors": [
+      "Isaac Tesfaye",
+      "André Eckardt"
+    ],
+    "abstract": "Quantum geometry has emerged as a guiding principle across atomic and condensed-matter physics, shaping the topological responses of Bloch bands and the stability of the correlated phases they host. Beyond two-band models, however, closed-form expressions for both the spectrum and the quantum geometry are rare. Here we provide such expressions for a paradigmatic four-band model that has recently been realized experimentally with ultracold atoms, photons and in superconducting circuits: the Harper-Hofstadter model at quarter flux, describing charged particles on a two-dimensional square lattice subjected to a uniform magnetic field. We achieve this by first showing that the model possesses a sublattice symmetry, which renders its Bloch Hamiltonian anti-block-diagonal allowing us to derive the spectrum and the eigenstates analytically. From that we also obtain closed-form expressions for the full quantum geometric tensor (QGT), including both the Berry curvature and the quantum metric, for all the bands of the model. For this purpose we first derive a general expression for the QGT for sublattice-symmetric systems in terms of contributions from the individual sublattice sectors. Finally, we evaluate fractional-Chern-insulator stability criteria analytically and quantify the lowest band of the quarter-flux Harper-Hofstadter model to be a nearly ideal Chern band.",
+    "categories": [
+      "cond-mat.quant-gas",
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-08-26T17:58:52Z",
+    "updated": "2026-08-26T17:58:52Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum geometric tensor",
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.26099v1",
+      "pdf_path": "data/pdfs/2026-08-27/3_Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model__2608.26099v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-08-27T05:41:51.034640",
+    "updated_at": "2026-08-27T05:41:51.034627Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-08-27/3_Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model__2608.26099v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.26099v1",
+    "pdf_filename": "3_Exact analytical spectrum, eigenstates, and quantum geometry of the quarter-flux Harper-Hofstadter model__2608.26099v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究通过利用子格对称性，首次给出了四分之一磁通哈珀-霍夫施塔特模型的能谱、本征态及量子几何张量的精确解析表达式。",
+      "en": "This study provides the first exact analytical expressions for the spectrum, eigenstates, and quantum geometric tensor of the quarter-flux Harper-Hofstadter model by exploiting sublattice symmetry."
+    },
+    "problem": {
+      "zh": "在多带物理模型中，解析推导能谱和量子几何张量（包括贝里曲率和量子度规）非常困难，此前四分之一磁通的哈珀-霍夫施塔特模型仅能通过数值或微扰方法求解。",
+      "en": "Deriving closed-form analytical expressions for the spectrum and quantum geometry in multiband models is challenging; previously, the quarter-flux Harper-Hofstadter model was only accessible numerically or perturbatively."
+    },
+    "approach": {
+      "zh": "采用对称的2x2磁元胞保留动量空间的子格对称性，将4x4布洛赫哈密顿量转化为反块对角形式，从而简化为2x2矩阵的奇异值分解，并推导了子格对称系统量子几何张量的通用分解方法。",
+      "en": "By using a symmetric 2x2 magnetic unit cell to preserve sublattice symmetry in momentum space, the authors render the 4x4 Bloch Hamiltonian anti-block-diagonal, reducing it to a 2x2 singular value decomposition, and derive a general QGT decomposition for sublattice-symmetric systems."
+    },
+    "main_takeaway": {
+      "zh": "获得了该模型所有能带的精确解析本征态和量子几何张量，并解析证明了其最低能带非常接近理想陈能带，有利于稳定分数陈绝缘体态。",
+      "en": "The exact analytical eigenstates and quantum geometric tensors for all bands are obtained, analytically demonstrating that the lowest band is a nearly ideal Chern band favorable for hosting fractional Chern insulators."
+    },
+    "why_it_matters": {
+      "zh": "哈珀-霍夫施塔特模型是冷原子和超导电路等量子模拟平台的核心模型，该解析解为评估分数陈绝缘体稳定性和研究多带量子几何效应提供了精确的理论基准。",
+      "en": "The Harper-Hofstadter model is a cornerstone for quantum simulation platforms like ultracold atoms and superconducting circuits; this analytical solution provides a precise theoretical benchmark for studying FCI stability and multiband quantum geometry."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "解决了拓扑多带物理中一个长期缺乏解析解的经典模型，并提出了通用的子格量子几何分解方法。",
+        "en": "Solves a classic topological multiband model that long lacked analytical solutions, and introduces a general sublattice decomposition method for quantum geometry."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对凝聚态和量子模拟领域的范式模型提供了基础性的解析突破，非常符合该期刊的定位。",
+        "en": "The work provides a fundamental analytical breakthrough for a paradigmatic model in condensed matter and quantum simulation, fitting the journal's scope perfectly."
+      }
+    },
+    "keywords": [
+      "Harper-Hofstadter model",
+      "Quantum geometry",
+      "Sublattice symmetry",
+      "Analytical solution",
+      "Fractional Chern insulators"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-08-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-08-27T13:43:30",
+    "input_scope": "full_pdf_text"
+  }
+}
