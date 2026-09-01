@@ -1,0 +1,117 @@
+{
+  "paper_record": {
+    "id": "2608.30313v1",
+    "title": "Quantum-interference metrology of dissipative Kerr solitons",
+    "authors": [
+      "Yun-Ru Fan",
+      "Yong Geng",
+      "Ji Liu",
+      "Yong-Jun Huang",
+      "Hai-Zhi Song",
+      "Hao Li",
+      "Li-Xing You",
+      "Heng Zhou",
+      "Kun Qiu",
+      "Kai Guo",
+      "Guang-Can Guo",
+      "Qiang Zhou"
+    ],
+    "abstract": "Dissipative Kerr solitons in optical microresonators underpin chip-scale frequency combs with applications ranging from coherent telecommunications to precision spectroscopy. Yet the characterization of their intrinsic femtosecond temporal structure remains challenging, as the low pulse energy and broad spectral bandwidth necessitate optical amplification and careful dispersion compensation in conventional ultrafast diagnostics, both of which can significantly distort the waveform. Here we demonstrate a quantum-interference metrology of microcomb solitons based on Hong-Ou-Mandel interference. By attenuating the soliton stream to the single-photon level and measuring fourth-order interference, we directly retrieve near transform-limited pulse durations without amplification or dispersion management, remaining accurate even after propagation through 25 km of standard fiber. The same interferogram also provides direct access to the temporal separations in multi-soliton states by converting inter-soliton separations into additional interference dips at corresponding delays, enabling sub-picosecond characterization of their intracavity temporal structure. This quantum-inspired paradigm introduces a fundamentally new metrological approach that is immune to amplification and dispersion distortions, offering a powerful tool for the characterization of complex soliton physics.",
+    "categories": [
+      "quant-ph",
+      "physics.optics"
+    ],
+    "published": "2026-08-31T06:30:04Z",
+    "updated": "2026-08-31T06:30:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2608.30313v1",
+      "pdf_path": "data/pdfs/2026-09-01/2_Quantum-interference metrology of dissipative Kerr solitons__2608.30313v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-01T02:33:01.301375",
+    "updated_at": "2026-09-01T02:33:01.301368Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-01/2_Quantum-interference metrology of dissipative Kerr solitons__2608.30313v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2608.30313v1",
+    "pdf_filename": "2_Quantum-interference metrology of dissipative Kerr solitons__2608.30313v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文演示了一种基于Hong-Ou-Mandel量子干涉的微腔色散克尔孤子测量方法，实现了无需光放大与抗色散的超快脉冲与多孤子结构表征。",
+      "en": "This work demonstrates a quantum-interference metrology of microcomb dissipative Kerr solitons based on Hong-Ou-Mandel interference, achieving optical amplification-free and dispersion-immune pulse characterization."
+    },
+    "problem": {
+      "zh": "传统超快光学诊断技术在测量微腔克尔孤子时依赖高脉冲能量，需要光放大与精确色散补偿，这容易引入波形畸变且难以可靠表征多孤子状态。",
+      "en": "Conventional ultrafast pulse characterization of microcomb solitons requires optical amplification and precise dispersion compensation, which introduce waveform distortions and limit reliable measurement of complex multi-soliton states."
+    },
+    "approach": {
+      "zh": "将克尔孤子衰减至单光子量级，利用四阶Hong-Ou-Mandel干涉直接测量脉冲重叠，从而提取孤子固有脉宽及多孤子态的腔内时间间隔。",
+      "en": "The soliton stream is attenuated to the single-photon level, and Hong-Ou-Mandel fourth-order interference is measured to directly retrieve intrinsic pulse durations and inter-soliton temporal separations."
+    },
+    "main_takeaway": {
+      "zh": "量子干涉测量可绕过放大与色散限制，直接准确提取出83.4飞秒的孤子固有脉宽（在25公里光纤传输后保持不变），并以亚皮秒精度重构多孤子分布。",
+      "en": "Quantum-interference metrology bypasses optical amplification and dispersion limits, retrieving an intrinsic soliton pulse width of 83.4 fs (unchanged after 25 km fiber propagation) and mapping multi-soliton structures with sub-picosecond resolution."
+    },
+    "why_it_matters": {
+      "zh": "该方法巧妙地将量子干涉应用于超快非线性光子学诊断，为低功率微腔光梳、孤子晶体与分子动力学研究提供了一种无畸变的高灵敏度测量手段。",
+      "en": "It bridges quantum optics and ultrafast nonlinear photonic dynamics, providing a distortion-free, highly sensitive diagnostic tool for low-power microcombs and complex soliton dynamics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了利用HOM量子干涉表征微腔孤子超快时域结构的新范式，克服了传统方法对放大和色散补偿的依赖。",
+        "en": "Presents a novel quantum metrology paradigm using HOM interference to characterize ultrafast microcomb solitons without requiring amplification or dispersion compensation."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了集成光子学、超快非线性光学与量子干涉度量，概念创新性强且实验验证充分，极契合Nature Photonics的刊发定位。",
+        "en": "The study combines integrated photonics, ultrafast optics, and quantum metrology with high novelty and solid experimental demonstration, making it highly suitable for Nature Photonics."
+      }
+    },
+    "keywords": [
+      "色散克尔孤子",
+      "Hong-Ou-Mandel干涉",
+      "量子计量",
+      "光频梳",
+      "超快测量"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-01",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-01T10:33:11",
+    "input_scope": "full_pdf_text"
+  }
+}
