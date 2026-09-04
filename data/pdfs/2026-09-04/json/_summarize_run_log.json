@@ -1,0 +1,90 @@
+{
+  "run_date": "2026-09-04",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2609.03271v1.json": 2,
+    "2609.03274v1.json": 1,
+    "2609.03555v1.json": 1,
+    "2609.03684v1.json": 1,
+    "2609.03744v1.json": 1,
+    "2609.03765v1.json": 1,
+    "2609.03795v1.json": 2,
+    "2609.03910v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2609.03271v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'invalid_grant', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+      "secs": 8.83,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03274v1.json",
+      "status": "ok",
+      "secs": 8.17,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03555v1.json",
+      "status": "ok",
+      "secs": 9.97,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03684v1.json",
+      "status": "ok",
+      "secs": 8.81,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03744v1.json",
+      "status": "ok",
+      "secs": 31.64,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03765v1.json",
+      "status": "ok",
+      "secs": 9.4,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03795v1.json",
+      "status": "fail",
+      "error": "Error code: 400 - {'error': {'message': 'invalid_grant', 'type': 'bad_response_status_code', 'param': '', 'code': 'bad_response_status_code'}}",
+      "secs": 2.47,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03910v1.json",
+      "status": "ok",
+      "secs": 13.39,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.03271v1.json",
+      "status": "ok",
+      "secs": 11.27,
+      "round": 2,
+      "attempt": 2
+    },
+    {
+      "file": "2609.03795v1.json",
+      "status": "ok",
+      "secs": 10.99,
+      "round": 2,
+      "attempt": 2
+    }
+  ]
+}

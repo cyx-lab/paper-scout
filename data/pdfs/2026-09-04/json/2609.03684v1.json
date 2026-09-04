@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2609.03684v1",
+    "title": "Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF$_3$",
+    "authors": [
+      "C. A. Crawford",
+      "C. I. Hiley",
+      "N. C. Bristowe",
+      "C. Stock",
+      "J. Gainza",
+      "C. Ritter",
+      "M. R. Lees",
+      "R. I. Walton",
+      "M. S. Senn"
+    ],
+    "abstract": "Phase transitions are typically driven by symmetry-breaking structural distortions that lift electronic degeneracies, yet in some cases, these transitions may be driven by a hidden order without conventional structural signatures. Here, we demonstrate that the 3$d$ perovskite, KFeF$_3$, hosts such a hidden instability. Using a combination of high-resolution powder diffraction, magnetometry, symmetry-based analysis and first principles calculations, we reveal that while the 90 K cubic to rhombohedral transition arises from conventional magnetostriction accompanying antiferromagnetic order, a second transition at 40 K lowers the symmetry to monoclinic without any detectable Jahn-Teller distortion or translational symmetry-breaking. Symmetry-based Landau analysis supports a hidden zone centered magnetic octupole order parameter, whose improper coupling accounts for the weak ferromagnetism and pronounced symmetry-breaking strain. Density functional calculations show that spin-orbit coupling suppresses the competing Jahn-Teller instability, and thereby favors higher rank magnetic multipolar degrees of freedom. These findings establish KFeF$_3$ as a model system in which the competing energy scales between spin-orbit coupling and orbital degeneracy result in the emergence of hidden, multipolar order. We show that the control of such magnetic, multipolar order could, in principle, provide a route to induce altermagnetism.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-03T11:20:51Z",
+    "updated": "2026-09-03T11:20:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03684v1",
+      "pdf_path": "data/pdfs/2026-09-04/3_Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF$_3$__2609.03684v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.407280",
+    "updated_at": "2026-09-04T01:57:10.407268Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/3_Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF$_3$__2609.03684v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03684v1",
+    "pdf_filename": "3_Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF$_3$__2609.03684v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究揭示了3d钙钛矿KFeF3中由自旋-轨道耦合驱动的隐藏磁八极矩序及其触发的40 K单斜相变机制。",
+      "en": "This study reveals a hidden magnetic octupolar order and monoclinic transition driven by spin-orbit coupling at 40 K in the 3d perovskite KFeF3."
+    },
+    "problem": {
+      "zh": "解释3d钙钛矿KFeF3在无明显Jahn-Teller畸变与平移对称性破缺的情况下发生低相变及产生弱铁磁性的微观驱动机制。",
+      "en": "Explaining the microscopic driving mechanism behind the low-temperature phase transition and weak ferromagnetism in 3d perovskite KFeF3 without noticeable Jahn-Teller distortions or translational symmetry breaking."
+    },
+    "approach": {
+      "zh": "结合高分辨率粉末中子与X射线衍射、磁化强度测量、朗道对称性分析以及密度泛函理论计算。",
+      "en": "Combining high-resolution powder neutron and X-ray diffraction, magnetometry, Landau symmetry analysis, and density functional theory calculations."
+    },
+    "main_takeaway": {
+      "zh": "自旋-轨道耦合能够抑制传统竞争性的Jahn-Teller不稳定性，从而在3d电子系统中稳定并凝聚出隐藏的磁八极矩序，进而诱导弱铁磁性与晶格应变。",
+      "en": "Spin-orbit coupling suppresses the competing Jahn-Teller instability, stabilizing and condensing a hidden magnetic octupolar order that drives weak ferromagnetism and strain in 3d systems."
+    },
+    "why_it_matters": {
+      "zh": "揭示了3d过渡金属化合物中消除轨道简并的新途径，证明弱自旋-轨道耦合亦可调控高阶磁多极矩，为设计交错磁性等新兴磁学现象提供了新思路。",
+      "en": "It uncovers an unrecognized route to relieving orbital degeneracy in 3d transition metal compounds and demonstrates that spin-orbit coupling can drive high-rank multipolar orders with potential for inducing altermagnetism."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了长期关于KFeF3低温结构相变驱动力的争议，确立了自旋-轨道耦合与多极矩序在3d钙钛矿中的核心作用。",
+        "en": "Clarified the longstanding puzzle regarding the driving force of low-temperature structural phase transitions in KFeF3, establishing the core role of spin-orbit coupling and multipolar order in 3d perovskites."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究针对凝聚态物理中的隐藏序与多极矩核心热点，结合了高质量中子/同步辐射衍射实验与理论分析，具有很高的物理学通用价值。",
+        "en": "The work addresses a major condensed matter physics topic (hidden order and multipoles) with combined high-quality experimental diffraction and theoretical insights suited for PRL."
+      }
+    },
+    "keywords": [
+      "KFeF3",
+      "Hidden order",
+      "Spin-orbit coupling",
+      "Magnetic octupole",
+      "Perovskite"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T09:59:02",
+    "input_scope": "full_pdf_text"
+  }
+}

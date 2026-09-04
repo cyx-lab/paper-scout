@@ -1,0 +1,122 @@
+{
+  "paper_record": {
+    "id": "2609.03765v1",
+    "title": "Coherent interaction of WS$_2$ and quasi-2D perovskite excitons over micrometer distances via a cavity field",
+    "authors": [
+      "Marti Struve",
+      "Hamid Pashaei Adl",
+      "Jamie M. Fitzgerald",
+      "Oliwia Janikowska",
+      "Maciej Śmiertka",
+      "Alessandro Surrente",
+      "Sven Stephan",
+      "Christoph Lienau",
+      "Falk Eilenberger",
+      "Zdeněk Sofer",
+      "Watcharaphol Paritmongkol",
+      "William A. Tisdale",
+      "Paulina Plochocka",
+      "Ermin Malic",
+      "Christian Schneider",
+      "Martin Esmann"
+    ],
+    "abstract": "The coherent coupling of cavity-confined photons and excitonic matter resonances leads to the formation of cavity polaritons, hybrid light-matter quasi-particles. If multiple exciton resonances couple to the same photonic mode, the resulting polariton constitutes a coherent interaction between matter resonances that can be spatially separated without any direct electronic coupling. In this work, we demonstrate the formation of such a coherent coupling at room temperature using an open optical cavity containing two distinct van der Waals materials - monolayer WS2 and layered quasi-2D halide perovskites (HaPs) - separated by $1.5 μ\\rm m$. The system forms three polariton branches, with the middle branch possessing nearly equal fractions of both excitons and the photonic mode. White-light reflectivity and luminescence measurements are in good agreement with simulations using a coupled harmonic oscillator and a microscopic Wannier-Hopfield framework. Our results lay the foundation to combine highly complementary degrees of freedom in 2D materials in an in-situ tunable fashion to enable new polaritonic functionalities.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-03T12:31:04Z",
+    "updated": "2026-09-03T12:31:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03765v1",
+      "pdf_path": "data/pdfs/2026-09-04/3_Coherent interaction of WS$_2$ and quasi-2D perovskite excitons over micrometer distances via a cavity field__2609.03765v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.406919",
+    "updated_at": "2026-09-04T01:57:10.406909Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/3_Coherent interaction of WS$_2$ and quasi-2D perovskite excitons over micrometer distances via a cavity field__2609.03765v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03765v1",
+    "pdf_filename": "3_Coherent interaction of WS$_2$ and quasi-2D perovskite excitons over micrometer distances via a cavity field__2609.03765v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究利用室温开放式光微腔，实现了相距1.5微米的单层WS₂激子与准二维卤化物钙钛矿激子之间的腔光子中介相干杂化。",
+      "en": "This study demonstrates room-temperature coherent hybridization between excitons in monolayer WS₂ and quasi-2D halide perovskite separated by 1.5 micrometers using a tunable open optical cavity."
+    },
+    "problem": {
+      "zh": "如何在避免层间直接电子接触导致的无序能量转移与荧光猝灭的前提下，实现不同二维材料激子之间的长程相干耦合与调控。",
+      "en": "How to achieve long-range coherent coupling and control between distinct 2D material excitons without incoherent energy transfer or quenching caused by direct electronic contact."
+    },
+    "approach": {
+      "zh": "构建包含单层WS₂和准二维钙钛矿晶体的微米间隙开放微腔，结合白光反射光谱、发光光谱测量以及耦合振子模型与微观Wannier-Hopfield理论分析。",
+      "en": "Constructing a micro-gapped open microcavity containing monolayer WS₂ and quasi-2D perovskite crystals, combined with reflectivity, photoluminescence measurements, coupled-oscillator modeling, and microscopic Wannier-Hopfield framework."
+    },
+    "main_takeaway": {
+      "zh": "相距1.5微米的两种激子与单一腔模式强耦合形成三个极化激元分支，中间分支表现出高混合度的三元杂化特征且组成比例原位可调。",
+      "en": "Two excitons separated by 1.5 micrometers strongly couple to a single cavity mode forming three polariton branches, with the middle branch exhibiting highly mixed tri-partite hybridization and in-situ tunable Hopfield coefficients."
+    },
+    "why_it_matters": {
+      "zh": "突破了范德华异质结必须近邻接触的限制，为原位融合过渡金属硫族化合物的谷自由度与钙钛矿的高振子强度提供了全新的极化激元器件平台。",
+      "en": "It circumvents the requirement of direct physical contact in van der Waals heterostructures, providing a novel polaritonic platform to combine valley degrees of freedom in TMDs with large oscillator strengths in perovskites."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在微米尺度上实现了TMD与钙钛矿激子的腔中介相干杂化，展示了原位可调的 Hopfield 系数及激子-声子散射调控机制。",
+        "en": "Demonstrates for the first time cavity-mediated coherent hybridization between TMD and perovskite excitons across micrometer distances with in-situ tunable Hopfield coefficients."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文给出了二维材料与极化激元领域的突破性室温实验结果，并配合了完善的微观理论分析，完全符合该期刊的接收定位。",
+        "en": "Reports breakthrough room-temperature experimental results in 2D materials and polaritonics alongside comprehensive theoretical modeling, matching the scope of this journal."
+      }
+    },
+    "keywords": [
+      "Exciton-polaritons",
+      "Open optical cavity",
+      "WS2 monolayer",
+      "Quasi-2D perovskite",
+      "Coherent coupling"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T09:59:43",
+    "input_scope": "full_pdf_text"
+  }
+}

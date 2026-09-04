@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.03744v1",
+    "title": "Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors",
+    "authors": [
+      "Sonu Verma",
+      "Bashab Dey",
+      "Akashdeep Kamra"
+    ],
+    "abstract": "The recent discovery of excitons coupled to the magnetic order, and the consequent strong magneto-optic responses, in some van der Waals magnetic semiconductors has triggered intense activity at the interface of magnetism and semiconductor optics. Here, we present an analytically tractable minimal model that describes magnetic order, electrons, holes, and excitons within a unified framework, thereby capturing a wide range of phenomena. It treats the magnetic order and itinerant carriers to be comprised by distinct electronic orbitals that are mutually coupled via orbital-dependent onsite exchange, similar to the treatment of metallic magnets using an s-d model. Investigating CrSBr bilayer as a case study, we benchmark our model and its predictions against recent experimental and ab-initio results finding good agreement as well as new insights enabled by the model's simplicity. Examining the optical selection rules, we find the conservation of a quantum number formed from a combination of spin and layer pseudospin to be a useful guiding principle, even in noncollinear magnetic configurations. Our analysis finds a series of bright and dark excitonic states in such layered A-type antiferromagnets. The presented framework should be valuable in achieving intuitive understanding of recently discovered excitonic phenomena and guiding the discovery of other excitonic states in layered magnetic semiconductors.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "physics.optics",
+      "quant-ph"
+    ],
+    "published": "2026-09-03T12:16:10Z",
+    "updated": "2026-09-03T12:16:10Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03744v1",
+      "pdf_path": "data/pdfs/2026-09-04/3_Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors__2609.03744v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.407079",
+    "updated_at": "2026-09-04T01:57:10.407072Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/3_Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors__2609.03744v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03744v1",
+    "pdf_filename": "3_Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors__2609.03744v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了用于层状磁性半导体中 Wannier-Mott 激子的推广 s-d 模型，统一描述了磁有序、电子、空穴和激子行为。",
+      "en": "This paper presents a generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors, unifying magnetic order, electrons, holes, and excitons."
+    },
+    "problem": {
+      "zh": "缺乏一个能解析处理且统一描述层状磁性半导体中磁结构、载流子能带以及激子特性的极简物理模型。",
+      "en": "Lack of an analytically tractable minimal model that unifies magnetic order, electronic band structures, and exciton properties in layered magnetic semiconductors."
+    },
+    "approach": {
+      "zh": "构建包含轨道依赖在位交换耦合的推广 s-d 紧束缚模型，利用自旋分解层奇偶性（SRLP）对称性解析求解能带与光学选择规则，并结合层分辨 Bethe-Salpeter 方程与双通道模型计算激子谱。",
+      "en": "Formulate a generalized s-d tight-binding model with orbital-dependent exchange, analyze symmetries via spin-resolved layer parity (SRLP) for optical selection rules, and solve the layer-resolved Bethe-Salpeter equation alongside a two-channel exciton model."
+    },
+    "main_takeaway": {
+      "zh": "磁倾斜过程中自旋分解层奇偶性（SRLP）保持守恒，主导了跃迁的选择规则；层间与层内库仑吸引力差异通过双通道耦合导致激子能级的回避交叉及层分布重分配。",
+      "en": "Spin-resolved layer-parity (SRLP) symmetry remains conserved during magnetic canting, governing optical selection rules, while intralayer and interlayer attraction differences couple exciton channels to drive avoided crossings and layer redistribution."
+    },
+    "why_it_matters": {
+      "zh": "为理解范德华磁性半导体（如 CrSBr）中强磁光响应、激子-磁子耦合及磁场调控激子态提供了直观且透彻的理论框架。",
+      "en": "Provides an intuitive theoretical framework for understanding strong magneto-optic responses, exciton-magnon interactions, and magnetic control of excitons in van der Waals magnetic semiconductors like CrSBr."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了描述层状磁性半导体激子特性的推广 s-d 理论框架，成功重现并物理澄清了双层 CrSBr 中的激子光谱与磁场调控规律。",
+        "en": "Proposes a generalized s-d theoretical framework for excitons in layered magnetic semiconductors, successfully benchmarking and clarifying exciton spectra and magnetic control in CrSBr bilayers."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文为凝聚态物理领域的理论与数值计算研究，包含详细的对称性分析、紧束缚模型与 Bethe-Salpeter 方程计算，高度匹配 Physical Review B 的发文标准。",
+        "en": "The manuscript presents detailed theoretical analysis, tight-binding modeling, and BSE numerical calculations in condensed matter physics, fitting Physical Review B perfectly."
+      }
+    },
+    "keywords": [
+      "s-d model",
+      "layered magnetic semiconductors",
+      "CrSBr",
+      "Wannier-Mott excitons",
+      "Bethe-Salpeter equation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T09:59:34",
+    "input_scope": "full_pdf_text"
+  }
+}

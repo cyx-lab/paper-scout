@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.03271v1",
+    "title": "Moiré-induced altermagnetism from nonmagnetic constituents",
+    "authors": [
+      "Jingtian Shi",
+      "Maxim Khodas",
+      "Ivar Martin"
+    ],
+    "abstract": "We propose a mechanism for nonmagnetic materials to develop altermagnetic order by moiré interference with nonmagnetic substrate, which is driven by structural relaxation and spontaneous twirls in moiré domain walls of lattice-mismatched moiré square lattices. When doped with one electron per moiré domain, a correlated insulating gap is opened by electron interaction. Depending on the location of the moiré potential minima, the moiré bands can show d-wave or g-wave altermagnetic splitting. The former can be enhanced by a finite twist angle; the latter is sensitive to strains that drive a transition to d-wave.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-03T02:01:14Z",
+    "updated": "2026-09-03T02:01:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03271v1",
+      "pdf_path": "data/pdfs/2026-09-04/6_Moiré-induced altermagnetism from nonmagnetic constituents__2609.03271v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.408230",
+    "updated_at": "2026-09-04T01:57:10.408221Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/6_Moiré-induced altermagnetism from nonmagnetic constituents__2609.03271v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03271v1",
+    "pdf_filename": "6_Moiré-induced altermagnetism from nonmagnetic constituents__2609.03271v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了利用非磁性材料组成的方格摩尔超晶格中的结构弛豫与畴壁漩涡诱导交叠磁性（altermagnetism）的新机制。",
+      "en": "Proposes a mechanism to induce altermagnetism in nonmagnetic square moire lattices via structural relaxation and domain-wall twirls."
+    },
+    "problem": {
+      "zh": "如何在不使用任何固有磁性材料的情况下，在人工摩尔材料中设计并调控交叠磁性状态。",
+      "en": "How to design and tune altermagnetic states in artificial moire platforms composed entirely of nonmagnetic materials."
+    },
+    "approach": {
+      "zh": "结合连续介质弹性理论模拟晶格弛豫与畴壁自发漩涡，并结合自洽哈特里-福克平均场理论计算电子关联效应及自旋能带分裂。",
+      "en": "Combines continuum elasticity theory for structural relaxation and spontaneous twirls with self-consistent Hartree-Fock mean-field theory for electronic correlation and band splitting."
+    },
+    "main_takeaway": {
+      "zh": "方格摩尔畴壁的自发手性漩涡破坏了空间对称性，结合电子超交换相互作用，可在非磁性前驱体中诱发出由扭角和应变可调控的 d 波或 g 波交叠磁性。",
+      "en": "Spontaneous chiral twirls in moire domain walls combined with electronic superexchange generate d-wave or g-wave altermagnetism tunable by twist angle and strain."
+    },
+    "why_it_matters": {
+      "zh": "开辟了在无磁性材料中通过结构工程人工制造交叠磁体的新途径，极大拓宽了摩尔自旋电子学的材料选择与器件设计空间。",
+      "en": "Opens a route to engineer altermagnets without magnetic constituents, significantly expanding the scope of moire spintronics and functional quantum devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "首次提出由非磁性摩尔超晶格结构弛豫驱动交叠磁性的理论模型，并给出了清晰的对称性分析与应变/扭角调控机制。",
+        "en": "Proposes a novel theoretical model demonstrating that lattice relaxation in nonmagnetic moire systems can induce altermagnetism with clear tuning mechanisms."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "物理概念新颖，提出了摩尔材料与交叠磁性交叉领域的首创性机制，非常符合 PRL 的定位。",
+        "en": "Presents a highly novel concept intersecting moire materials and altermagnetism, fitting well with the scope of PRL."
+      }
+    },
+    "keywords": [
+      "摩尔超晶格",
+      "交叠磁性",
+      "晶格弛豫",
+      "自旋分裂",
+      "电子关联"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T10:00:11",
+    "input_scope": "full_pdf_text"
+  }
+}

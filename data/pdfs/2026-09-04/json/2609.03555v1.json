@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.03555v1",
+    "title": "Spectral Function Method and Janus Quantum Numbers in Quasiperiodic Systems",
+    "authors": [
+      "Tian-Le Wu",
+      "Shi-Ping Ding",
+      "Miao Liang",
+      "Jing-Tao Lü",
+      "Jin-Hua Gao"
+    ],
+    "abstract": "The absence of translational symmetry in quasiperiodic systems invalidates conventional band theory, posing the central challenge in the field. Building upon the incommensurate energy band (IEB) concept, we establish a unified spectral theory for quasiperiodic systems by introducing two key advances. First, we develop an efficient spectral function method that calculates $A(k,ω)$ using a small truncated Hamiltonian matrix, bypassing full diagonalization. It converges via a distinctive successive locking of energy moments, yielding exact thermodynamic-limit results without finite-size scaling. Second, we introduce that quasiperiodic eigenstates possess Janus quantum numbers: a single eigenstate, continuously tracked across localization transitions, carries dual labels in momentum and real space, which naturally reduce to the familiar Bloch momentum and band index in the commensurate limit. Together with IEB, these advances constitute a ``band theory'' for quasiperiodic systems, enabling us to define, compute, and label states with the same facility as in periodic ones.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-03T08:56:32Z",
+    "updated": "2026-09-03T08:56:32Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03555v1",
+      "pdf_path": "data/pdfs/2026-09-04/4_Spectral Function Method and Janus Quantum Numbers in Quasiperiodic Systems__2609.03555v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.407590",
+    "updated_at": "2026-09-04T01:57:10.407580Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/4_Spectral Function Method and Janus Quantum Numbers in Quasiperiodic Systems__2609.03555v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03555v1",
+    "pdf_filename": "4_Spectral Function Method and Janus Quantum Numbers in Quasiperiodic Systems__2609.03555v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了适用于准周期系统的谱函数计算方法与雅努斯量子数概念，构建了类似于传统晶体能带理论的统一理论框架。",
+      "en": "This paper establishes a unified theoretical framework for quasiperiodic systems akin to conventional band theory by introducing an efficient spectral function method and Janus quantum numbers."
+    },
+    "problem": {
+      "zh": "准周期系统因缺乏平移对称性导致经典能带理论失效，且现有数值模拟方法存在计算量大、无法有效描述局域化或丢失动量空间信息等局限。",
+      "en": "The lack of translational symmetry in quasiperiodic systems invalidates conventional band theory, while existing numerical methods suffer from severe limitations in handling localization or preserving momentum-space insights."
+    },
+    "approach": {
+      "zh": "基于非相称能带概念，利用能量矩逐级锁定特性从小尺寸截断矩阵直接高效计算谱函数，并通过绝热跟踪相变过程中的本征态建立了兼具实空间与动量空间双重标记的雅努斯量子数。",
+      "en": "Building upon the incommensurate energy band concept, the authors compute spectral functions from small truncated matrices via energy-moment locking, and introduce Janus quantum numbers carrying dual space labels across localization transitions."
+    },
+    "main_takeaway": {
+      "zh": "准周期体系的量子数本质源于参数空间中的定位而非平移对称性；借助谱函数方法与雅努斯量子数，可以像研究常规晶体一样高效计算与标记准周期系统。",
+      "en": "Good quantum numbers in quasiperiodic systems stem from parameter-space localization rather than translation symmetry, enabling quasiperiodic states to be calculated and labeled with the same ease as periodic ones."
+    },
+    "why_it_matters": {
+      "zh": "该研究克服了无平移对称性体系在能谱计算与状态标记方面的根本困难，为莫尔超晶格和准晶等复杂非相称体系的研究提供了高效且无尺寸效应的通用理论工具。",
+      "en": "It overcomes fundamental obstacles in calculating and describing non-periodic systems, providing a powerful, scaling-free theoretical tool for moire superlattices, quasicrystals, and related incommensurate platforms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "解决了准周期系统长期缺乏高效计算能谱方法与完备量子数描述的瓶颈问题，完善了非相称能带理论体系。",
+        "en": "It resolves long-standing bottlenecks in computing spectra and defining complete quantum numbers for quasiperiodic systems, significantly advancing the incommensurate band theory framework."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文篇幅与结构为典型PRL格式，针对凝聚态物理中的基础理论问题提出了概念性突破与高效算法，通用性强。",
+        "en": "The manuscript adopts a classic PRL letter format and presents a breakthrough theoretical concept and efficient algorithm addressing a fundamental problem in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "准周期系统",
+      "谱函数方法",
+      "雅努斯量子数",
+      "非相称能带",
+      "AAH模型"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T09:58:54",
+    "input_scope": "full_pdf_text"
+  }
+}

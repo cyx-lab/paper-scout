@@ -1,0 +1,120 @@
+{
+  "paper_record": {
+    "id": "2609.03910v1",
+    "title": "Spin-to-polarization mapping with a coherent quantum dot-cavity receiver",
+    "authors": [
+      "Adrià Medeiros",
+      "Vincent Vinel",
+      "Eliott Rambeau",
+      "Petr Steindl",
+      "Elham Mehdi",
+      "Manuel Gundín",
+      "Clément Millet",
+      "Petr Stepanov",
+      "Niccolo Somaschi",
+      "Aristide Lemaître",
+      "Isabelle Sagnes",
+      "Olivier Krebs",
+      "Pascale Senellart",
+      "Dario A. Fioretto",
+      "Loïc Lanco"
+    ],
+    "abstract": "Coherent light-matter interfaces controllably modifying the state of a photon upon interaction with a stationary qubit are a key resource for implementing deterministic entangling gates for optical quantum technologies. This requires a one-to-one mapping between the state of the scattered photon and that of the embedded qubit. Here, we present an experimental signature of such a bijection by leveraging the spin-induced Kerr rotation present in a low-noise charged quantum dot-micropillar cavity device. Through time-resolved polarization measurements, we project the electron spin to one of its eigenstates with $95\\pm2\\%$ fidelity with a single reflected photon detection, and follow the subsequent spin relaxation through the detection of a second reflected photon. We demonstrate that, after a transient regime governed by the trion radiative lifetime, two orthogonal polarization states can be produced, each associated to a given spin eigenstate. While the current results are limited by a timescale competition between electron spin relaxation and trion radiative lifetime, they could be improved using hole spins displaying increased relaxation times. Our work paves the way towards deterministic logic gates exploiting this one-to-one mapping between a spin and the polarization of a scattered photon.",
+    "categories": [
+      "quant-ph",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-03T14:27:33Z",
+    "updated": "2026-09-03T14:27:33Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:trion"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03910v1",
+      "pdf_path": "data/pdfs/2026-09-04/3_Spin-to-polarization mapping with a coherent quantum dot-cavity receiver__2609.03910v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.406323",
+    "updated_at": "2026-09-04T01:57:10.406282Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/3_Spin-to-polarization mapping with a coherent quantum dot-cavity receiver__2609.03910v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03910v1",
+    "pdf_filename": "3_Spin-to-polarization mapping with a coherent quantum dot-cavity receiver__2609.03910v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究利用带电量子点-微柱腔系统中的克尔旋转，首次实验验证了单个电子自旋与反射光子偏振态之间的一对一映射。",
+      "en": "This work experimentally demonstrates a one-to-one spin-to-polarization mapping of reflected photons using a low-noise single-electron quantum dot-micropillar cavity receiver."
+    },
+    "problem": {
+      "zh": "确定性光量子逻辑门需要将自旋量子比特的正交态一对一映射到反射光子的正交偏振态上，但此前缺乏直接的实验证据证明这种映射关系。",
+      "en": "Deterministic photonic quantum gates require a one-to-one mapping between orthogonal spin states and orthogonal photon polarization states, which had lacked direct experimental evidence."
+    },
+    "approach": {
+      "zh": "利用低噪声单电子量子点-微柱腔系统的克尔旋转进行时间分辨偏振层析测定，用单个反射光子以95%的保真度投影自旋，并用第二个光子探测后续自旋弛豫与偏振映射关系。",
+      "en": "Leveraged Kerr rotations in a low-noise charged quantum dot-micropillar cavity for time-resolved polarization measurements, using a first photon to project spin with 95% fidelity and a second photon to track spin relaxation and polarization mapping."
+    },
+    "main_takeaway": {
+      "zh": "经过三元激子辐射寿命控制的瞬态建联过程（约1纳秒）后，两个正交的自旋本征态可产生庞加莱球上相互对抗的正交偏振态，目前性能受限于电子自旋弛豫时间。",
+      "en": "Following an optical transient regime (~1 ns) set by the trion radiative lifetime, two orthogonal spin eigenstates yield opposite orthogonal photon polarization states, currently constrained by electron spin relaxation."
+    },
+    "why_it_matters": {
+      "zh": "该结果证明了利用自旋-偏振映射构建确定性逻辑门（如CNOT门）及生成多维纠缠簇态的可行性，对可扩展光子量子技术具有重要意义。",
+      "en": "It validates the feasibility of using spin-to-polarization mapping to build deterministic photonic logic gates (such as CNOT gates) and generate multi-dimensional entangled cluster states for quantum computing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "论文首次提供了固态系统中自旋到光子偏振单对单映射的直接实验证据，实现了高保真度的单光子自旋投影与时间分辨层析。",
+        "en": "It provides the first direct experimental evidence of a one-to-one spin-to-polarization mapping in a solid-state system, achieving high-fidelity single-photon spin projection and time-resolved tomography."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作展示了固态量子光学和自旋-光子界面领域的重大实验突破，具有广泛的学术关注度。",
+        "en": "The work presents a significant experimental breakthrough in solid-state quantum optics and spin-photon interfaces with broad impact."
+      }
+    },
+    "keywords": [
+      "Quantum Dot",
+      "Micropillar Cavity",
+      "Spin-Photon Interface",
+      "Kerr Rotation",
+      "Polarization Tomography"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T09:59:59",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2609.03795v1",
+    "title": "Exciton multipolarity controls coherent and squeezed phonons in van der Waals heterostructures",
+    "authors": [
+      "Indrajit Maity",
+      "Arash A. Mostofi",
+      "Johannes Lischner",
+      "Ángel Rubio"
+    ],
+    "abstract": "Photoexcitation-driven changes in the electronic distribution displace atoms, generating coherent phonons on ultrafast timescales. Two-dimensional (2D) materials and their heterostructures offer a powerful platform for engineering these phonons. Yet, despite the widespread observation of photoexcited coherent phonons, a design principle for controlling their character remains elusive. Here, using detailed atomistic simulations of multilayers of alternating MoSe$_2$ and WSe$_2$, we reveal exciton multipolarity as a design principle for tuning photoinduced phonons from coherent to squeezed. These phonons are interlayer breathing modes, with dipolar excitons coupling linearly to generate coherent states and quadrupolar excitons coupling quadratically to produce squeezed states. Moreover, an out-of-plane electric field enables switch-like control, converting quadrupolar excitons into dipolar excitons and switching the phonon state from squeezed to coherent. For example, in trilayer WSe$_2$/MoSe$_2$/WSe$_2$, the photoexcited 1.04-THz breathing mode switches from a squeezed state at zero field to a coherent state under an applied vertical field. Experimentally, these phonon states can be directly probed by ultrafast X-ray or electron diffraction and indirectly through transient reflectivity. Our results open new avenues for ultrafast control of lattice and electronic dynamics on picosecond timescales, with implications for THz quantum phononics, nanophotonic technologies, and quantum-noise-limited sensing.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-03T13:02:27Z",
+    "updated": "2026-09-03T13:02:27Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03795v1",
+      "pdf_path": "data/pdfs/2026-09-04/3_Exciton multipolarity controls coherent and squeezed phonons in van der Waals heterostructures__2609.03795v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.406767",
+    "updated_at": "2026-09-04T01:57:10.406760Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/3_Exciton multipolarity controls coherent and squeezed phonons in van der Waals heterostructures__2609.03795v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03795v1",
+    "pdf_filename": "3_Exciton multipolarity controls coherent and squeezed phonons in van der Waals heterostructures__2609.03795v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了激子多极性是调控范德华异质结中光诱导声子从相干态转变为挤压态的核心设计原理。",
+      "en": "This paper reveals exciton multipolarity as a design principle for tuning photoinduced phonons from coherent to squeezed states in van der Waals heterostructures."
+    },
+    "problem": {
+      "zh": "缺乏调控光激发声子量子态特征（从相干态到挤压态）的通用设计原理。",
+      "en": "Lacking a general design principle to control the quantum state character (coherent vs. squeezed) of photoinduced phonons."
+    },
+    "approach": {
+      "zh": "基于第一性原理计算、自旋贝特-萨尔皮特方程（spinor-BSE）和冻结声子方法，对MoSe2/WSe2交替多层膜在外加垂直电场下的激子-声子耦合进行原子级模拟。",
+      "en": "Atomistic exciton-phonon coupling simulations on MoSe2/WSe2 multilayers under out-of-plane electric fields using density functional theory, spinor Bethe-Salpeter equation, and frozen-phonon methods."
+    },
+    "main_takeaway": {
+      "zh": "偶极激子通过线性耦合产生相干声子，四极激子通过二次耦合产生挤压声子；外加垂直电场可实现声子态在挤压态与相干态之间的开关式切换。",
+      "en": "Dipolar excitons couple linearly to generate coherent phonons, whereas quadrupolar excitons couple quadratically to produce squeezed phonons, enabling electric-field-driven switching between the two quantum states."
+    },
+    "why_it_matters": {
+      "zh": "为太赫兹量子声子学、纳米光子学及突破标准量子极限的高精度传感开辟了皮秒时间尺度上电控晶格动力学的新途径。",
+      "en": "Opens new avenues for ultrafast electrical control of lattice dynamics on picosecond timescales, with key implications for THz quantum phononics and precision sensing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了激子多极性如何决定激子-声子耦合阶数及声子量子态，并提出通过电场调控激子构型以实现声子态转换的具体机制。",
+        "en": "Clarifies how exciton multipolarity dictates the order of exciton-phonon coupling and phonon quantum states, providing a clear mechanism for electrical switching."
+      }
+    },
+    "paper_type": {
+      "zh": "理论与计算",
+      "en": "Theory and Computation"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "提出了二维范德华异质结中量子声子态调控的全新通用物理概念，兼具深厚理论深度与明确的超快实验可验证性。",
+        "en": "Introduces a broad concept for controlling quantum phonon states in 2D materials with high interest for ultrafast condensed matter physics."
+      }
+    },
+    "keywords": [
+      "exciton multipolarity",
+      "coherent phonons",
+      "squeezed phonons",
+      "van der Waals heterostructures",
+      "Stark effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T10:00:22",
+    "input_scope": "full_pdf_text"
+  }
+}

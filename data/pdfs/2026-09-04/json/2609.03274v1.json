@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.03274v1",
+    "title": "Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape",
+    "authors": [
+      "Tianxiao Liang",
+      "Fanhan Kong",
+      "Jijun Zhao",
+      "Xue Jiang"
+    ],
+    "abstract": "Rutile RuO2 is a prominent candidate for altermagnetism, yet its magnetic ground state remains highly controversial, with experiments reporting either a nonmagnetic state or altermagnetic order. Here, we develop a generalized environment-dependent spin-lattice framework that unifies localized Heisenberg exchange, itinerant Stoner magnetism via Landau spin fluctuations, and spin-orbit-coupling-mediated spin-lattice interactions. Parameterized from a high-throughput first-principles database using machine-learning and solved by large-scale Monte Carlo simulations, the framework reveals an exceptionally flat magnetic energy landscape in RuO2, where the nonmagnetic state lies nearly degenerate with multiple altermagnetic configurations. We find that material perturbations, exemplified by intrinsic defects, select distinct magnetic ground states primarily by modifying the localized Heisenberg exchange, with perturbation-induced itinerant Stoner polarization provides an essential secondary contribution. Spin-orbit coupling controls the orientation and stability of the Néel vector, but does not determine the emergence of long-range magnetic order. These results provide a unified explanation for the conflicting experimental observations and establish a general microscopic framework for understanding how material perturbations select competing magnetic ground states in systems with nearly flat magnetic energy landscapes.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-03T02:05:04Z",
+    "updated": "2026-09-03T02:05:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.03274v1",
+      "pdf_path": "data/pdfs/2026-09-04/3_Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape__2609.03274v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-04T01:57:10.408195",
+    "updated_at": "2026-09-04T01:57:10.408186Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-04/3_Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape__2609.03274v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.03274v1",
+    "pdf_filename": "3_Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape__2609.03274v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了RuO2极其平坦的磁能景致，证明缺陷等材料微扰调控的海森堡交换作用是引发其实验上非磁性与交错磁性争议的微观机制。",
+      "en": "This work reveals an exceptionally flat magnetic energy landscape in RuO2, demonstrating that perturbation-induced modulation of Heisenberg exchange drives the experimental controversy between nonmagnetic and altermagnetic states."
+    },
+    "problem": {
+      "zh": "解决RuO2基态磁性在实验上存在非磁性与交错磁性严重矛盾的长期争议，并厘清样品微扰如何选择磁基态。",
+      "en": "To resolve the long-standing controversy over whether the magnetic ground state of RuO2 is nonmagnetic or altermagnetic, and to clarify how sample perturbations select competing magnetic states."
+    },
+    "approach": {
+      "zh": "结合高通量第一性原理计算与机器学习构建环境自恰的自旋-晶格哈密顿量，并通过大规模蒙特卡洛模拟探究微扰和自旋轨道耦合对磁态的选择作用。",
+      "en": "Combined high-throughput DFT calculations with machine learning to build an environment-dependent spin-lattice Hamiltonian, solved via large-scale Monte Carlo simulations to investigate perturbation and spin-orbit coupling effects."
+    },
+    "main_takeaway": {
+      "zh": "RuO2具有近简并的平坦磁能景致，缺陷微扰主要通过改变海森堡交换作用来选择磁基态，而自旋轨道耦合仅控制奈尔矢量取向而非磁有序的产生。",
+      "en": "RuO2 possesses a nearly degenerate flat magnetic energy landscape where perturbations select the magnetic ground state primarily by modifying Heisenberg exchange, while spin-orbit coupling controls Néel vector orientation rather than the emergence of magnetic order."
+    },
+    "why_it_matters": {
+      "zh": "统一解释了RuO2中大量互相矛盾的实验观测，并为理解和调控平坦能量景致材料中的竞争磁相提供了通用理论框架。",
+      "en": "It provides a unified microscopic explanation for contradictory experimental reports in RuO2 and establishes a general framework for understanding competing magnetic phases in materials with flat energy landscapes."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了RuO2磁性争议的微观起源，提出了平坦能量景致下微扰选态的通用机制。",
+        "en": "It clarifies the microscopic origin of the magnetic ground-state controversy in RuO2 and introduces a general mechanism for perturbation-induced state selection on flat energy landscapes."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文针对凝聚态物理当前热点争议（RuO2交错磁性）给出了简洁明确的微观机制，符合PRL的快报格式与广泛影响力要求。",
+        "en": "The paper addresses a high-profile controversy in altermagnetism with a concise microscopic solution, matching the format and broad impact criteria of Physical Review Letters."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "RuO2",
+      "Magnetic energy landscape",
+      "Spin-lattice Hamiltonian",
+      "Monte Carlo simulation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-04T09:58:44",
+    "input_scope": "full_pdf_text"
+  }
+}
