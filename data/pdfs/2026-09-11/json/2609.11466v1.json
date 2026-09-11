@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.11466v1",
+    "title": "Topological band structure of excitons in octochlore KTb$_{3}$F$_{10}$: an analog of the Luttinger Semimetal",
+    "authors": [
+      "Olivier Demortier",
+      "Françoise Damay",
+      "Paul McClarty",
+      "Stéphane Raymond",
+      "Jacques Ollivier",
+      "Sylvain Petit"
+    ],
+    "abstract": "Understanding the symmetry and topology of band structures in crystalline solids has been among the defining themes of a generation of condensed matter physicists, with implications across many different platforms including electronic bands, photonic crystals, phonons and magnetic excitations. In the latter systems, there is usually magnetic long-range order and time reversal symmetry breaking. Here we further enrich the possible band structures available to magnetic systems by examining dispersive crystal field excitations above a ground state that is a simple product of singlets. In these systems, there is an interplay of magnetic interactions and band topology with both crystal and time reversal symmetries. Using high-resolution neutron spectroscopy we reveal the dispersion relations of bosonic excitons in KTb$_{3}$F$_{10}$, an experimental realization of the octochlore lattice. We show that there are pinch point features in the scattering intensity. The dominant coupling in this system is the long-range magnetostatic dipolar interaction, whose singularity at the zone center is passed onto the scattering intensity. However, the pinch points survive when the range of the dipoles is truncated to finite shell number in the form of a three-band quadratic band touching protected by cubic symmetry. This model, which is related to the Luttinger semi-metal, provides a general long wavelength model for the emergence of pinch point scattering intensity encompassing also the true long-range dipolar model.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-10T12:36:36Z",
+    "updated": "2026-09-10T12:36:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11466v1",
+      "pdf_path": "data/pdfs/2026-09-11/3_Topological band structure of excitons in octochlore KTb$_{3}$F$_{10}$ an analog of the Luttinger Semimetal__2609.11466v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.659095",
+    "updated_at": "2026-09-11T01:59:34.659089Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/3_Topological band structure of excitons in octochlore KTb$_{3}$F$_{10}$ an analog of the Luttinger Semimetal__2609.11466v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11466v1",
+    "pdf_filename": "3_Topological band structure of excitons in octochlore KTb$_{3}$F$_{10}$ an analog of the Luttinger Semimetal__2609.11466v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过中子散射实验，揭示了 KTb3F10 中晶体场激发形成的类 Luttinger 半金属能带结构及奇异的“捏点”散射特征。",
+      "en": "Inelastic neutron scattering reveals a Luttinger-like quadratic band touching and pinch-point scattering features in the crystal field excitons of KTb3F10."
+    },
+    "problem": {
+      "zh": "在非磁有序的范弗莱克顺磁体中，理解晶体场激发形成的能带拓扑结构及其散射强度中“捏点”特征的物理起源。",
+      "en": "Understanding the topological band structure and the physical origin of pinch-point scattering features in dispersive crystal field excitations of a Van Vleck paramagnet."
+    },
+    "approach": {
+      "zh": "利用高分辨率非弹性中子散射技术测量能谱，并结合长程偶极相互作用模型及有效哈密顿量分析。",
+      "en": "High-resolution inelastic neutron scattering combined with long-range dipolar interaction modeling and effective Hamiltonian analysis."
+    },
+    "main_takeaway": {
+      "zh": "KTb3F10 中的“捏点”特征源于晶体场激发形成的类 Luttinger 三带二次能带接触点，而非仅仅是偶极相互作用的奇异性。",
+      "en": "The pinch-point features in KTb3F10 arise from a Luttinger-like three-band quadratic band touching, rather than being solely a consequence of dipolar interaction singularities."
+    },
+    "why_it_matters": {
+      "zh": "该研究将拓扑能带理论从电子系统扩展至磁性激发，并展示了在原子单重态基态背景下也能产生奇异的拓扑物理。",
+      "en": "It extends topological band theory to magnetic excitations and demonstrates that exotic topological physics can emerge from simple atomic singlet ground states."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作在磁性激发领域发现了一种罕见的类 Luttinger 半金属模型，为理解磁性系统中的拓扑能带提供了新视角。",
+        "en": "The work identifies a rare Luttinger-like semimetal model in magnetic excitations, providing a new perspective on topological bands in magnetic systems."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了高质量的中子散射实验与深刻的拓扑物理分析，符合顶级物理期刊的发表标准。",
+        "en": "The paper combines high-quality neutron scattering experiments with profound topological physics analysis, fitting the standards of top-tier physics journals."
+      }
+    },
+    "keywords": [
+      "KTb3F10",
+      "Inelastic neutron scattering",
+      "Luttinger semimetal",
+      "Pinch points",
+      "Crystal field excitations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:00:47",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.11089v1",
+    "title": "Detecting one-dimensional bosonic SPT phases via twisted entropic order parameter",
+    "authors": [
+      "Kosei Fujiki",
+      "Tsubasa Oishi",
+      "Soichiro Shimamori"
+    ],
+    "abstract": "Entanglement asymmetry, introduced by F. Ares, S. Murciano and P. Calabrese, provides a density-matrix diagnostic of symmetry breaking and successfully captures the Landau data associated with a broken symmetry pattern. However, it is by now well established that gapped quantum many-body systems can exhibit phases which are not characterized solely by Landau symmetry breaking. A fundamental example is a symmetry-protected topological (SPT) phase, and the ordinary definition of entanglement asymmetry is insensitive to this topological information. In this work we introduce a refined quantity, which we call the twisted entropic order parameter, designed to detect SPT phases from reduced density matrices, particularly focusing on one-dimensional bosonic systems. The key ingredient in our construction is an ancilla degrees of freedom that coherently records the untwisted state and the twisted state associated to a one-ended topological defect of unbroken symmetry, so that the enlarged density matrix retains the charge carried by the defect endpoint. We demonstrate our proposal in concrete lattice models and further generalize it beyond ordinary group symmetries, establishing its ability to diagnose SPT phases. This provides a first step toward a unified entanglement-asymmetry framework for diagnosing quantum phases of matter.",
+    "categories": [
+      "hep-th",
+      "cond-mat.str-el",
+      "quant-ph"
+    ],
+    "published": "2026-09-10T04:57:29Z",
+    "updated": "2026-09-10T04:57:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11089v1",
+      "pdf_path": "data/pdfs/2026-09-11/2_Detecting one-dimensional bosonic SPT phases via twisted entropic order parameter__2609.11089v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.659887",
+    "updated_at": "2026-09-11T01:59:34.659880Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/2_Detecting one-dimensional bosonic SPT phases via twisted entropic order parameter__2609.11089v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11089v1",
+    "pdf_filename": "2_Detecting one-dimensional bosonic SPT phases via twisted entropic order parameter__2609.11089v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种名为“扭曲熵序参量”的新型密度矩阵诊断工具，用于检测一维玻色子对称保护拓扑（SPT）相。",
+      "en": "This paper introduces a new diagnostic tool called the \"twisted entropic order parameter\" to detect one-dimensional bosonic symmetry-protected topological (SPT) phases."
+    },
+    "problem": {
+      "zh": "现有的纠缠不对称性只能探测朗道范式下的对称性破缺，无法区分具有相同对称性破缺模式但属于不同 SPT 相的量子物态。",
+      "en": "Existing entanglement asymmetry can only detect Landau-type symmetry breaking and fails to distinguish quantum phases that share the same symmetry-breaking pattern but belong to different SPT phases."
+    },
+    "approach": {
+      "zh": "通过引入辅助自由度记录未扭曲态与部分对称性缺陷态之间的相干性，并利用对中心化子对称性的扫描字符进行操作，从而提取缺陷端点的对称性电荷。",
+      "en": "The authors introduce an ancilla degree of freedom to record coherence between untwisted and partially twisted states, and apply a twirling operation using scanning characters of the centralizer to extract the symmetry charge of defect endpoints."
+    },
+    "main_takeaway": {
+      "zh": "通过扫描辅助空间的参考表示，扭曲熵序参量能够识别对称性缺陷端点携带的电荷，从而有效区分普通纠缠不对称性无法分辨的 SPT 相。",
+      "en": "By scanning over reference representations in the ancilla space, the twisted entropic order parameter identifies the charge carried by symmetry-defect endpoints, effectively distinguishing SPT phases invisible to ordinary entanglement asymmetry."
+    },
+    "why_it_matters": {
+      "zh": "该方法将量子信息论中的纠缠度量与拓扑物态的缺陷物理相结合，为诊断 SPT 相提供了一个统一且可扩展的框架，甚至可推广至非可逆对称性。",
+      "en": "This method bridges entanglement measures from quantum information with defect physics in topological matter, providing a unified and scalable framework for diagnosing SPT phases, including extensions to non-invertible symmetries."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作提出了一种通用的、基于密度矩阵的 SPT 相诊断方法，并成功将其推广至非可逆对称性，具有很高的理论价值。",
+        "en": "The work proposes a general, density-matrix-based diagnostic for SPT phases and successfully extends it to non-invertible symmetries, offering significant theoretical value."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "JHEP",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文内容符合该期刊在高能物理与凝聚态物理交叉领域的定位。",
+        "en": "The content aligns well with the journal's focus on the intersection of high-energy and condensed matter physics."
+      }
+    },
+    "keywords": [
+      "SPT phases",
+      "entanglement asymmetry",
+      "symmetry defects",
+      "non-invertible symmetry",
+      "quantum information"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:00:03",
+    "input_scope": "full_pdf_text"
+  }
+}

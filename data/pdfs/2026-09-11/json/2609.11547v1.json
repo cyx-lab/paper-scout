@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2609.11547v1",
+    "title": "Néel-Vector-Dependent Altermagnetic Spin Splitting in the One-Dimensional Limit",
+    "authors": [
+      "Xin Chen",
+      "Duo Wang"
+    ],
+    "abstract": "Altermagnetism is normally identified by nonrelativistic spin-split bands in a compensated collinear magnet. Under one-dimensional confinement, however, this diagnostic can disappear: a boundary-compatible sublattice-exchange operation may leave the only Bloch momentum unchanged, forcing the nonrelativistic spin-up and spin-down spectra to coincide. We show that nonrelativistic spin degeneracy can coexist with relativistic spin splitting in a compensated one-dimensional magnet. In a Lieb-based construction, confinement along the diagonal cancels the projected $d$-wave spin splitting while preserving the real-space sublattice-exchange motif. Spin-orbit coupling (SOC) then locks spin to the lattice, so the Néel-vector orientation selects a magnetic line group that can reveal spin-split bands. Using fully compensated $[110]$ Ta$_2$TeSeO nanoribbons as a prototype, we find spin-degenerate nonrelativistic bands and sizable SOC splitting in the inherited easy-axis domain, $\\mathbf N\\parallel[100]$ or $[010]$. For sufficiently wide ribbons that retain the parent easy-axis order, this splitting is an equilibrium property. The easy-axis ribbon also supports a right-moving-mode spin polarization of about $35\\%$ at finite ideal conductance. Our results establish one-dimensional fully compensated altermagnetic functionality hidden inside apparently conventional antiferromagnetic bands.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-10T13:41:51Z",
+    "updated": "2026-09-10T13:41:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11547v1",
+      "pdf_path": "data/pdfs/2026-09-11/3_Néel-Vector-Dependent Altermagnetic Spin Splitting in the One-Dimensional Limit__2609.11547v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.659000",
+    "updated_at": "2026-09-11T01:59:34.658993Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/3_Néel-Vector-Dependent Altermagnetic Spin Splitting in the One-Dimensional Limit__2609.11547v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11547v1",
+    "pdf_filename": "3_Néel-Vector-Dependent Altermagnetic Spin Splitting in the One-Dimensional Limit__2609.11547v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了一维受限磁性体系中，非相对论能带简并与自旋轨道耦合诱导的自旋劈裂可以共存，从而实现一维交错磁性功能。",
+      "en": "This paper demonstrates that nonrelativistic spin degeneracy and SOC-induced spin splitting can coexist in one-dimensional confined magnets, enabling 1D altermagnetic functionality."
+    },
+    "problem": {
+      "zh": "在一维受限条件下，交错磁性材料中通常会导致能带自旋劈裂的对称性操作失效，使得体系在非相对论极限下表现为普通的自旋简并反铁磁体。",
+      "en": "In one-dimensional confinement, the symmetry operations that typically cause spin splitting in altermagnets become trivial, making the system appear as a spin-degenerate antiferromagnet in the nonrelativistic spectrum."
+    },
+    "approach": {
+      "zh": "通过构建基于Lieb晶格的Ta2TeSeO纳米带模型，利用自旋轨道耦合（SOC）锁定自旋与晶格，通过改变尼尔矢量方向来打破简并，并结合第一性原理计算验证。",
+      "en": "Constructing a Lieb-lattice-based Ta2TeSeO nanoribbon model, using SOC to lock spin to the lattice, breaking degeneracy via Néel vector orientation, and validating with first-principles calculations."
+    },
+    "main_takeaway": {
+      "zh": "一维交错磁性可以通过SOC诱导的能带劈裂实现，且其自旋响应高度依赖于尼尔矢量的取向。",
+      "en": "1D altermagnetic functionality can be realized through SOC-induced band splitting, with spin responses highly dependent on the Néel vector orientation."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了即使在非相对论能带表现为简并的一维体系中，依然可以挖掘出隐藏的交错磁性，为一维自旋电子学器件提供了新思路。",
+      "en": "It proves that hidden altermagnetism can be exploited in 1D systems even when nonrelativistic bands appear degenerate, offering new possibilities for 1D spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了一维受限下交错磁性与自旋轨道耦合相互作用的物理机制。",
+        "en": "It clarifies the physical mechanism of the interaction between altermagnetism and spin-orbit coupling under 1D confinement."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域典型的理论与材料计算研究，符合PRB的发表范畴。",
+        "en": "Typical theoretical and computational material research in this field, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "交错磁性",
+      "一维受限",
+      "自旋轨道耦合",
+      "纳米带",
+      "自旋电子学"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:00:53",
+    "input_scope": "full_pdf_text"
+  }
+}

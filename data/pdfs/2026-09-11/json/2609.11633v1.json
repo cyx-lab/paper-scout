@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.11633v1",
+    "title": "Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions",
+    "authors": [
+      "Hao Dong",
+      "Xun-Jiang Luo",
+      "Xiao-Hong Pan",
+      "Xin Liu"
+    ],
+    "abstract": "We exploit facet-dependent Andreev phase shifts to control topological superconductivity with a phase bias in a three-dimensional altermagnetic topological-insulator Josephson junction. In the weak link between two conventional s-wave superconductors, the d-wave altermagnetic order produces facet-dependent momentum shifts of the surface Dirac cones. The resulting net momentum of the states involved in Andreev reflection generates additional propagation phases that differ between facets. Consequently, the facet-resolved Andreev spectra exhibit gap closings at distinct phase biases, giving rise to topological superconducting regimes that host Majorana zero modes(MZMs). We further show that tuning the phase bias controls the spatial localization of these modes. The associated topological superconducting transitions are only weakly affected by moderate variations in the chemical potential, obviating the need for fine-tuning to the Dirac point. Our results establish a platform for realizing and spatially controlling MZMs by tuning the superconducting phase bias in altermagnetic topological-insulator Josephson junctions.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-09-10T14:42:26Z",
+    "updated": "2026-09-10T14:42:26Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11633v1",
+      "pdf_path": "data/pdfs/2026-09-11/3_Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions__2609.11633v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.658681",
+    "updated_at": "2026-09-11T01:59:34.658671Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/3_Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions__2609.11633v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11633v1",
+    "pdf_filename": "3_Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions__2609.11633v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种利用交错磁性（altermagnetic）拓扑绝缘体约瑟夫森结，通过超导相位差实现Majorana零能模空间调控的方案。",
+      "en": "Proposes a scheme to realize and spatially control Majorana zero modes in altermagnetic topological-insulator Josephson junctions by tuning the superconducting phase bias."
+    },
+    "problem": {
+      "zh": "如何在不依赖精细调节化学势的情况下，实现并空间操控拓扑超导态中的Majorana零能模。",
+      "en": "How to realize and spatially manipulate Majorana zero modes in topological superconductivity without requiring fine-tuning of the chemical potential."
+    },
+    "approach": {
+      "zh": "利用交错磁性导致的各向异性表面狄拉克锥位移，在约瑟夫森结中产生面依赖的Andreev相位偏移，从而通过调节超导相位差来控制拓扑相变和Majorana模的空间位置。",
+      "en": "Exploits facet-dependent momentum shifts of surface Dirac cones induced by altermagnetic order to generate facet-resolved Andreev phase shifts, enabling phase-controlled topological transitions and spatial relocation of Majorana modes."
+    },
+    "main_takeaway": {
+      "zh": "交错磁性拓扑绝缘体中的面依赖Andreev谱使得超导相位差成为调控Majorana零能模空间分布的有效手段，且该机制对化学势变化具有鲁棒性。",
+      "en": "Facet-dependent Andreev spectra in altermagnetic topological insulators allow the superconducting phase bias to control the spatial distribution of Majorana zero modes, with robustness against chemical potential variations."
+    },
+    "why_it_matters": {
+      "zh": "为拓扑量子计算提供了一种无需精细调控化学势的Majorana模操控平台，并揭示了交错磁性在拓扑超导异质结构中的新应用。",
+      "en": "Provides a platform for Majorana mode manipulation in topological quantum computing that avoids stringent chemical potential fine-tuning and highlights new applications of altermagnetism in topological superconducting heterostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一种利用交错磁性材料特性进行拓扑相调控的新颖物理机制。",
+        "en": "Proposes a novel physical mechanism for topological phase control by leveraging the unique properties of altermagnetic materials."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作涉及拓扑超导与交错磁性的前沿交叉，符合PRL对新颖物理机制的偏好。",
+        "en": "The work addresses the frontier intersection of topological superconductivity and altermagnetism, aligning with PRL's preference for novel physical mechanisms."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Topological Insulator",
+      "Josephson Junction",
+      "Majorana Zero Modes",
+      "Andreev Bound States"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:01:00",
+    "input_scope": "full_pdf_text"
+  }
+}

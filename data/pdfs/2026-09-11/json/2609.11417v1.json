@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2609.11417v1",
+    "title": "Gauss Law, Monodromy Defect, Magnetic Lattice Translation, and Lattice Duality",
+    "authors": [
+      "Pengcheng Wei",
+      "Yunqin Zheng"
+    ],
+    "abstract": "In a Hamiltonian lattice gauge theory, the physical Hilbert space is fixed by the Gauss law, by choosing an eigenspace of the Gauss law operator which generates the gauge transformation. Choosing a non-trivial eigenspace is referred to as the modified Gauss law. In 2+1d dynamical U(1) pure gauge theory, we show that these physical Hilbert spaces are defect Hilbert spaces associated with non-topological monodromy defects for monopole operators and topological defects for U(1) 1-form symmetry, inserted along the time direction. We also construct the corresponding lattice translation operators. Under a nontrivially modified Gauss law, these translations obey a magnetic translation algebra. Finally, we discuss how the modified Gauss laws are manifested in 2+1d compact bosons, via exact duality on the lattice.",
+    "categories": [
+      "hep-th",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-10T11:48:19Z",
+    "updated": "2026-09-10T11:48:19Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11417v1",
+      "pdf_path": "data/pdfs/2026-09-11/2_Gauss Law, Monodromy Defect, Magnetic Lattice Translation, and Lattice Duality__2609.11417v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.659354",
+    "updated_at": "2026-09-11T01:59:34.659345Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/2_Gauss Law, Monodromy Defect, Magnetic Lattice Translation, and Lattice Duality__2609.11417v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11417v1",
+    "pdf_filename": "2_Gauss Law, Monodromy Defect, Magnetic Lattice Translation, and Lattice Duality__2609.11417v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了2+1维U(1)晶格规范理论中修改高斯定律的物理意义，将其解释为单值缺陷和拓扑缺陷的插入，并构建了相应的磁平移算符。",
+      "en": "This paper investigates the physical interpretation of modified Gauss laws in 2+1d U(1) lattice gauge theory, identifying them as insertions of monodromy and topological defects, and constructs the corresponding magnetic translation operators."
+    },
+    "problem": {
+      "zh": "在哈密顿晶格规范理论中，修改高斯定律（即选择非平凡本征空间）对应的物理Hilbert空间及其物理意义尚不明确。",
+      "en": "The physical interpretation and the nature of the Hilbert spaces associated with modified Gauss laws (choosing non-trivial eigenspaces) in Hamiltonian lattice gauge theory remain unclear."
+    },
+    "approach": {
+      "zh": "通过分析U(1)规范理论的模空间，将修改的高斯定律与单值缺陷（monodromy defects）和拓扑缺陷联系起来，并利用晶格平移算符的代数结构进行验证。",
+      "en": "By analyzing the moduli space of U(1) gauge theory, the authors relate modified Gauss laws to monodromy and topological defects, and verify this through the algebraic structure of lattice translation operators."
+    },
+    "main_takeaway": {
+      "zh": "修改后的高斯定律对应于在时空方向插入单值缺陷和拓扑缺陷，且在非平凡修改下，晶格平移算符满足磁平移代数。",
+      "en": "Modified Gauss laws correspond to the insertion of monodromy and topological defects along the time direction, and under non-trivial modifications, lattice translation operators satisfy a magnetic translation algebra."
+    },
+    "why_it_matters": {
+      "zh": "该工作深化了对晶格规范理论中约束条件与缺陷之间关系的理解，为研究规范理论的对称性及对偶性提供了新的视角。",
+      "en": "This work deepens the understanding of the relationship between constraints and defects in lattice gauge theory, providing new insights into the symmetries and dualities of gauge theories."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章清晰地阐明了修改高斯定律与缺陷插入之间的对应关系，并统一了相关物理图像。",
+        "en": "The paper clearly clarifies the correspondence between modified Gauss laws and defect insertions, unifying the associated physical picture."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Journal of High Energy Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域（广义对称性、晶格规范理论）的典型高水平投稿期刊。",
+        "en": "A typical high-level journal for this field (generalized symmetries, lattice gauge theory)."
+      }
+    },
+    "keywords": [
+      "Lattice Gauge Theory",
+      "Gauss Law",
+      "Monodromy Defect",
+      "Magnetic Translation",
+      "Duality"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:00:31",
+    "input_scope": "full_pdf_text"
+  }
+}

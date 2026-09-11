@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.11138v1",
+    "title": "Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas",
+    "authors": [
+      "Jakob Wolff",
+      "Silvana Botti",
+      "Lucia Reining",
+      "Matteo Gatti"
+    ],
+    "abstract": "The two-dimensional homogeneous electron gas (2D HEG) is a prototype system of fundamental interest that can be realized experimentally over a wide range of densities. Here, we investigate its collective charge excitations at low densities, using time-dependent density functional theory. We demonstrate that, beyond traditional plasmons, new collective excitonic modes emerge for a Wigner-Seitz radius larger than $r_{\\mathrm s} \\approx 1$. These excitonic modes leave characteristic fingerprints in experimentally accessible quantities, namely, asymmetric peak structures in the loss function and very strong Friedel-like oscillations in the static linear density response that increase when the system approaches a regime of instability. Indeed, at low enough densities the collective modes cross the zero energy axis, indicating an instability of the paramagnetic 2D HEG towards the formation of a charge-density-wave phase with excitonic origin. These findings provide valuable insights for the experimental detection of excitonic collective modes in tunable 2D electron systems and contribute to the fundamental understanding of many-body effects in low-density electron gases.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-10T06:29:57Z",
+    "updated": "2026-09-10T06:29:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11138v1",
+      "pdf_path": "data/pdfs/2026-09-11/3_Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas__2609.11138v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.659805",
+    "updated_at": "2026-09-11T01:59:34.659798Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/3_Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas__2609.11138v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11138v1",
+    "pdf_filename": "3_Fingerprints of Excitonic Collective Modes in the Two-Dimensional Electron Gas__2609.11138v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过含时密度泛函理论研究发现，二维均匀电子气在低密度下存在除等离激元外的激子型集体模式，并揭示了其作为电荷密度波不稳定性前兆的实验特征。",
+      "en": "This study uses time-dependent density functional theory to demonstrate the emergence of excitonic collective modes in the low-density 2D homogeneous electron gas, identifying their experimental signatures as precursors to charge-density-wave instabilities."
+    },
+    "problem": {
+      "zh": "在低密度二维均匀电子气中，传统的等离激元理论无法解释复杂的强关联效应，且该体系向电荷密度波等奇异相转变的微观机制尚不明确。",
+      "en": "Traditional plasmon theory fails to capture strong correlation effects in low-density 2D homogeneous electron gases, and the microscopic mechanisms underlying transitions to exotic phases like charge-density waves remain unclear."
+    },
+    "approach": {
+      "zh": "采用含时密度泛函理论（TDDFT），结合量子蒙特卡洛计算得到的交换关联核，分析二维电子气的集体激发谱及静态线性密度响应。",
+      "en": "The study employs time-dependent density functional theory (TDDFT) with exchange-correlation kernels derived from quantum Monte Carlo data to analyze collective excitation spectra and static linear density responses."
+    },
+    "main_takeaway": {
+      "zh": "低密度二维电子气中存在激子型集体模式，其在损失函数中的非对称峰结构及静态密度响应中的强振荡，可作为探测电荷密度波不稳定性临近的实验指纹。",
+      "en": "Excitonic collective modes emerge in low-density 2D electron gases, manifesting as asymmetric peaks in the loss function and strong oscillations in static density response, which serve as experimental fingerprints for approaching charge-density-wave instabilities."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解低维强关联量子系统中的多体效应提供了新视角，并为在可调控二维材料中实验探测激子集体模式提供了明确的理论预测。",
+      "en": "This work provides new insights into many-body effects in low-dimensional strongly correlated quantum systems and offers concrete theoretical predictions for experimentally detecting excitonic collective modes in tunable 2D materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作揭示了二维电子气中此前未被充分认识的集体激发模式，并建立了其与相变不稳定性之间的直接联系。",
+        "en": "The work reveals previously underappreciated collective excitation modes in the 2D electron gas and establishes a direct link to phase transition instabilities."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文研究了凝聚态物理中基础模型的重要物理现象，符合该期刊对基础物理机制发现的偏好。",
+        "en": "The paper investigates fundamental physical phenomena in a cornerstone model of condensed matter physics, aligning with the journal's focus on foundational discoveries."
+      }
+    },
+    "keywords": [
+      "2D electron gas",
+      "excitonic collective modes",
+      "TDDFT",
+      "charge-density-wave",
+      "many-body effects"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:00:14",
+    "input_scope": "full_pdf_text"
+  }
+}

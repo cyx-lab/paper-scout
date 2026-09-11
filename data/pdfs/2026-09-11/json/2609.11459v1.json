@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2609.11459v1",
+    "title": "Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene",
+    "authors": [
+      "David Kaiser",
+      "Guobin Jia",
+      "Janis Köster",
+      "Sadegh Ghaderzadeh",
+      "Christian E. Halbig",
+      "Siegfried Eigler",
+      "Andrey Turchanin",
+      "Benjamin Dietzek-Ivanšić",
+      "Arkady V. Krasheninnikov",
+      "Jonathan Plentz",
+      "Elena Besley",
+      "Ute Kaiser"
+    ],
+    "abstract": "Copper(I) iodide (CuI) is a wide-bandgap semiconductor crystallizing in the 3D $γ$-phase under ambient conditions; its layered van der Waals bulk phase $β$-CuI is stable only between 643 and 673 K. The two-dimensional (2D) h-CuI form has been obtained via liquid-phase exfoliation of mechanochemically prepared precursors and via encapsulation between graphene sheets, whereas bottom-up growth of 2D h-CuI on open surfaces has not yet been demonstrated. Here, we report a vapor-phase synthesis of h-CuI directly on low-defect, large-area monolayer and within bilayer reduced oxo-graphene (r-oxo-G) at low temperatures. Using a copper TEM grid as the solid-state precursor for copper, HI-vapor exposure at 40 $°$C initiates nucleation, while annealing at 180 $°$C promotes the growth of extended h-CuI domains. Aberration-corrected HRTEM resolves the atomic structure, local twist angles, and lattice anisotropy of the CuI/r-oxo-G nanohybrid, while STEM-EDX yields a Cu:I ratio consistent with 1:1. First-principles calculations show that van der Waals adhesion to graphene stabilizes the supported hexagonal layer. Under the presented low-temperature precursor conditions, pathways for nucleation of the $γ$-phase are not available, allowing the hexagonal phase to form selectively at the graphene interface. Ab initio molecular dynamics simulations show that the heterostructure retains its hexagonal lattice order at 600 K, including on an open monolayer graphene support. The lateral extent of the growth is limited mainly by remaining interfacial adsorbates. These results establish a route to metastable 2D h-CuI on a chemically inert graphene template, which may be useful for wide-bandgap electronic and optoelectronic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall",
+      "physics.app-ph"
+    ],
+    "published": "2026-09-10T12:32:32Z",
+    "updated": "2026-09-10T12:32:32Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11459v1",
+      "pdf_path": "data/pdfs/2026-09-11/3_Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene__2609.11459v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.659223",
+    "updated_at": "2026-09-11T01:59:34.659215Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/3_Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene__2609.11459v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11459v1",
+    "pdf_filename": "3_Bottom-up Synthesis of Metastable 2D Hexagonal Copper(I) Iodide on Monolayer and within Bilayer Graphene__2609.11459v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文报道了在石墨烯模板上通过气相沉积法成功合成亚稳态二维六方相碘化亚铜（h-CuI）的方法。",
+      "en": "This paper reports the bottom-up vapor-phase synthesis of metastable 2D hexagonal copper(I) iodide (h-CuI) on monolayer and within bilayer graphene templates."
+    },
+    "problem": {
+      "zh": "碘化亚铜在常温下通常呈三维立方相，二维六方相（h-CuI）仅在特定高温范围稳定，且此前难以在开放表面上直接生长。",
+      "en": "Copper(I) iodide typically adopts a 3D cubic phase at ambient conditions, while the 2D hexagonal phase (h-CuI) is only stable in a narrow high-temperature range and has been difficult to grow on open surfaces."
+    },
+    "approach": {
+      "zh": "利用铜TEM网格作为铜源，在氢碘酸（HI）蒸气环境下于低温（40°C）引发成核，随后通过退火（180°C）促进晶体生长。",
+      "en": "Using a copper TEM grid as the copper source, the authors initiated nucleation via HI vapor exposure at 40 °C, followed by annealing at 180 °C to promote the growth of extended h-CuI domains."
+    },
+    "main_takeaway": {
+      "zh": "通过范德华相互作用和低温气相合成，可以在石墨烯表面选择性地稳定亚稳态的二维六方相碘化亚铜。",
+      "en": "Metastable 2D hexagonal CuI can be selectively stabilized on graphene templates through van der Waals interactions using a low-temperature vapor-phase synthesis route."
+    },
+    "why_it_matters": {
+      "zh": "该方法为在化学惰性模板上合成亚稳态二维材料提供了新路径，对于开发新型宽带隙光电器件具有重要意义。",
+      "en": "This route provides a new method for synthesizing metastable 2D materials on chemically inert templates, which is significant for developing wide-bandgap optoelectronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次实现了在开放石墨烯表面上直接生长亚稳态二维h-CuI，并揭示了其生长机制与稳定性。",
+        "en": "It demonstrates the first bottom-up growth of metastable 2D h-CuI on open graphene surfaces and provides insights into the growth mechanism and stability."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值模拟",
+      "en": "Experimental + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了先进的电子显微学表征与DFT计算，符合该期刊对材料科学领域高质量研究的偏好。",
+        "en": "The study combines advanced electron microscopy characterization with DFT calculations, fitting the journal's preference for high-quality research in materials science."
+      }
+    },
+    "keywords": [
+      "2D materials",
+      "Copper(I) iodide",
+      "Graphene",
+      "Vapor-phase synthesis",
+      "Van der Waals epitaxy"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:00:42",
+    "input_scope": "full_pdf_text"
+  }
+}

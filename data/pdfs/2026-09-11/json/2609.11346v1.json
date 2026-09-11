@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2609.11346v1",
+    "title": "Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb",
+    "authors": [
+      "Charmi Bhalani",
+      "Banasree Sadhukhan"
+    ],
+    "abstract": "Altermagnets (AMs) exhibit momentum-dependent spin splitting without net magnetization, making them promising platforms for spintronic applications. While the symmetry and multipolar origins of nonrelativistic altermagnetic spin splitting (NRASS) are well established, the role of electronic correlations and spin-lattice coupling (SLC) in controlling NRASS remain unexplored. In particular, SLC provides a direct pathway for tuning altermagnetism through lattice degrees of freedom. Here we first investigate the role of electronic correlations on altermagnetic strength in NiAs-type material CrSb using density functional theory (DFT), DFT+$U$, and dynamical mean-field theory (DMFT). We find that increasing electronic correlations substantially enhance NRASS and drive the stabilization of an incommensurate spin-spiral (SS) state, while dynamical correlations further amplify the spin splitting through quasiparticle renormalization of the Cr-$3d$ states. We find that the NRASS remains 12.5\\% larger in DFT+DMFT than in DFT. By evaluating SLC in next step, we establish its direct connection to the evolution of NRASS and identify SLC as a microscopic descriptor between electronic correlation and enhanced altermagnetism in CrSb. Investigating it in another NiAs-type compound MnTe, we show that the SLC-NRASS correlation is generic across AMs and establish SLC as a microscopic descriptor of altermagnetic strength. Our results provide a unified framework for tuning altermagnetism through the interplay between the electronic correlations and lattice degrees of freedom.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-10T10:25:44Z",
+    "updated": "2026-09-10T10:25:44Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.11346v1",
+      "pdf_path": "data/pdfs/2026-09-11/3_Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb__2609.11346v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-11T01:59:34.659511",
+    "updated_at": "2026-09-11T01:59:34.659504Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-11/3_Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb__2609.11346v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.11346v1",
+    "pdf_filename": "3_Correlation enhanced altermagnetism mediated by spin-lattice coupling in CrSb__2609.11346v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了电子关联与自旋-晶格耦合（SLC）在调控 CrSb 等交错磁体（Altermagnet）自旋劈裂中的协同作用。",
+      "en": "This paper reveals the synergistic role of electronic correlations and spin-lattice coupling (SLC) in tuning the spin splitting of altermagnets like CrSb."
+    },
+    "problem": {
+      "zh": "电子关联和自旋-晶格耦合如何共同影响交错磁体中动量依赖的自旋劈裂（NRASS）及其磁基态的稳定性尚不明确。",
+      "en": "The role of electronic correlations and spin-lattice coupling in determining the momentum-dependent spin splitting (NRASS) and the stability of the magnetic ground state in altermagnets remains unexplored."
+    },
+    "approach": {
+      "zh": "结合密度泛函理论（DFT+U）与动力学平均场理论（DMFT），通过计算磁交换相互作用和自旋-晶格耦合，分析 CrSb 和 MnTe 的电子结构与磁性演化。",
+      "en": "Combined DFT+U and DMFT calculations were used to analyze the electronic structure and magnetic evolution of CrSb and MnTe by evaluating magnetic exchange interactions and spin-lattice coupling."
+    },
+    "main_takeaway": {
+      "zh": "电子关联显著增强了交错磁体的自旋劈裂，且自旋-晶格耦合是连接电子关联与自旋劈裂强度的微观描述符。",
+      "en": "Electronic correlations significantly enhance altermagnetic spin splitting, and spin-lattice coupling serves as a microscopic descriptor linking electronic correlations to the strength of spin splitting."
+    },
+    "why_it_matters": {
+      "zh": "该研究为通过晶格工程（如应变、压力）和电子关联调控交错磁体的自旋电子学功能提供了一个统一的理论框架。",
+      "en": "This study provides a unified framework for controlling the spintronic functionalities of altermagnets through lattice engineering (e.g., strain, pressure) and electronic correlation tuning."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章明确了电子关联与自旋-晶格耦合在交错磁体中的相互作用机制，并将其确立为调控自旋劈裂的通用描述符。",
+        "en": "The paper clarifies the interaction mechanism between electronic correlations and spin-lattice coupling in altermagnets, establishing it as a universal descriptor for tuning spin splitting."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表此类基于 DFT 和 DMFT 的磁性材料理论研究的标准场所。",
+        "en": "This journal is the standard venue for theoretical research on magnetic materials based on DFT and DMFT in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Electronic correlations",
+      "Spin-lattice coupling",
+      "CrSb",
+      "DFT+DMFT"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-11T10:00:26",
+    "input_scope": "full_pdf_text"
+  }
+}
