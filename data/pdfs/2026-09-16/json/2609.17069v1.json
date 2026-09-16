@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.17069v1",
+    "title": "Interplay of dimerization and quasiperiodicity in the superconducting proximity effect of a one-dimensional hybrid ring",
+    "authors": [
+      "Sourav Karmakar",
+      "Santanu K. Maiti"
+    ],
+    "abstract": "Recent studies of the superconducting proximity effect in quasicrystalline and topological systems have opened up a new research direction for exploring how quasiperiodicity and topology influence proximity induced superconductivity. In this work, we investigate spatial variation of the proximity induced pairing amplitude in a hybrid ring composed of a spin singlet superconductor and a normal region described by three different lattice models using the self-consistent Bogoliubov-de Gennes formalism. We first consider the normal region described by the diagonal Aubry-André-Harper (AAH) model. Increasing the quasiperiodic potential enhances spatial fluctuations in the induced order parameter, while progressively suppressing its magnitude in the normal region. Beyond the localization transition, proximity-induced pairing is strongly diminished due to the localized nature of the underlying electronic states. The normal region is then modeled by the Su-Schrieffer-Heeger (SSH) chain to investigate the effect of hopping dimerization. Weak dimerization introduces oscillatory modulations in the induced pairing that extend deep into the normal region, whereas strong dimerization confines these oscillations and significantly reduces the penetration of superconducting correlations. Finally, we study the combined SSH-AAH model to explore the interplay between the dimerized hopping and quasiperiodicity. The results show that the SSH dimerization determines the oscillatory behavior and penetration of the induced pairing, while the AAH potential enhances spatial inhomogeneity and further reduces its magnitude. Together, these two effects provide a versatile means of controlling proximity-induced superconductivity in quasiperiodic hybrid systems.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-15T12:11:04Z",
+    "updated": "2026-09-15T12:11:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasicrystal",
+        "quasicrystal:quasicrystalline",
+        "quasicrystal:quasiperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.17069v1",
+      "pdf_path": "data/pdfs/2026-09-16/4_Interplay of dimerization and quasiperiodicity in the superconducting proximity effect of a one-dimensional hybrid ring__2609.17069v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.495817",
+    "updated_at": "2026-09-16T02:16:24.495801Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/4_Interplay of dimerization and quasiperiodicity in the superconducting proximity effect of a one-dimensional hybrid ring__2609.17069v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.17069v1",
+    "pdf_filename": "4_Interplay of dimerization and quasiperiodicity in the superconducting proximity effect of a one-dimensional hybrid ring__2609.17069v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了在一维混合环中，准周期势与晶格二聚化对超导近邻效应的协同调控机制。",
+      "en": "Investigated the interplay between quasiperiodicity and lattice dimerization in controlling the superconducting proximity effect within a one-dimensional hybrid ring."
+    },
+    "problem": {
+      "zh": "准周期势（AAH模型）和拓扑二聚化（SSH模型）如何分别及共同影响超导配对在非超导区域的渗透与空间分布。",
+      "en": "How quasiperiodic potential (AAH model) and topological dimerization (SSH model) individually and collectively influence the penetration and spatial distribution of superconducting pairing in non-superconducting regions."
+    },
+    "approach": {
+      "zh": "使用自洽 Bogoliubov-de Gennes (BdG) 形式，在零温下计算一维混合环中超导序参量的空间分布。",
+      "en": "Utilized the self-consistent Bogoliubov-de Gennes (BdG) formalism to compute the spatial distribution of the superconducting order parameter in a 1D hybrid ring at zero temperature."
+    },
+    "main_takeaway": {
+      "zh": "二聚化决定了近邻配对的振荡行为与渗透深度，而准周期势则通过增强空间不均匀性来抑制配对幅度。",
+      "en": "Dimerization dictates the oscillatory behavior and penetration depth of proximity-induced pairing, while quasiperiodicity suppresses its magnitude by enhancing spatial inhomogeneity."
+    },
+    "why_it_matters": {
+      "zh": "为工程化设计具有可调超导特性的低维混合量子器件提供了理论依据与调控手段。",
+      "en": "Provides a theoretical basis and control mechanisms for engineering low-dimensional hybrid quantum devices with tunable superconducting properties."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "系统阐明了两种不同物理机制（准周期性与拓扑二聚化）在近邻效应中的竞争与协同作用。",
+        "en": "Systematically clarifies the competition and synergy between two distinct physical mechanisms (quasiperiodicity and topological dimerization) in the proximity effect."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域研究低维系统、超导近邻效应及准周期模型的标准投稿去向。",
+        "en": "This journal is the standard venue for research on low-dimensional systems, superconducting proximity effects, and quasiperiodic models in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "Superconducting proximity effect",
+      "Quasiperiodicity",
+      "SSH model",
+      "AAH model",
+      "Bogoliubov-de Gennes formalism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:18:50",
+    "input_scope": "full_pdf_text"
+  }
+}

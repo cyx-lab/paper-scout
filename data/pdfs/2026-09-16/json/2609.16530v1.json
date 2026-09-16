@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2609.16530v1",
+    "title": "Orbital-resolved superexchange and topological magnon bands in MXene Fe$_2$C",
+    "authors": [
+      "Qiang Gao",
+      "Wei Wang",
+      "Shaojin Qi",
+      "Guimei Shi",
+      "Anbang Guo",
+      "Xin Jin",
+      "Chen Shen",
+      "Xing-Qiu Chen"
+    ],
+    "abstract": "Magnetic MXenes are promising candidates for future spintronics due to their intriguing properties. Nevertheless, the topological properties of magnon bands and superexchange mechanism remain relatively underexplored. In this work, we have calculated the spin wave dispersions for MXene Fe$_2$C using the linear spin wave method, with the exchange coupling parameters obtained from first-principles calculations. Owing to the staggered stacking of two Fe sub-lattices, the interlayer exchange coupling lifts the degeneracy of the ferromagnetic magnon modes. A Dirac point is identified in the magnon bands at the $K$ point. The topological properties of magnon bands, including Berry curvature, valley Chern number and edge states, are further computed by means of a two-band model. We also derive an effective Hamiltonian to explain the magnonic topology, which is protected by the $C_{3v}$ rotational symmetry. To understand the microscopic origin of the exchange couplings that govern the magnon bands, we then construct a refined model integrating perturbation theory and the tight-binding approach. The ferromagnetic superexchange coupling is mediated by the virtual hopping between the d orbitals of two distinct Fe sites via a pair of orthogonal p orbitals at the bridging C site. In detail, the intralayer exchange coupling is governed by the in-plane $p_x$ and $p_y$ orbitals, while the out-of-plane $p_z$ orbital is responsible for the interlayer exchange coupling. Our results establish a direct link between the orbital-resolved anisotropic superexchange and topological properties of the magnon bands in magnetic MXene Fe$_2$C, providing theoretical guidance for future spintronics applications.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el",
+      "physics.comp-ph"
+    ],
+    "published": "2026-09-15T02:22:16Z",
+    "updated": "2026-09-15T02:22:16Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.16530v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Orbital-resolved superexchange and topological magnon bands in MXene Fe$_2$C__2609.16530v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.496929",
+    "updated_at": "2026-09-16T02:16:24.496921Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Orbital-resolved superexchange and topological magnon bands in MXene Fe$_2$C__2609.16530v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.16530v1",
+    "pdf_filename": "3_Orbital-resolved superexchange and topological magnon bands in MXene Fe$_2$C__2609.16530v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了二维磁性 MXene Fe2C 的磁子能带拓扑性质及其轨道分辨的超交换相互作用机制。",
+      "en": "This paper investigates the topological properties of magnon bands and the orbital-resolved superexchange mechanism in the 2D magnetic MXene Fe2C."
+    },
+    "problem": {
+      "zh": "磁性 MXene Fe2C 中磁子能带的拓扑起源及其微观超交换相互作用机制尚不明确。",
+      "en": "The topological origin of magnon bands and the microscopic superexchange mechanism in the magnetic MXene Fe2C remain unclear."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算、线性自旋波理论和基于微扰论的有效哈密顿量模型进行分析。",
+      "en": "Combined first-principles calculations, linear spin-wave theory, and an effective Hamiltonian model based on perturbation theory."
+    },
+    "main_takeaway": {
+      "zh": "Fe2C 的磁子能带在 K 点存在受 C3 旋转对称性保护的狄拉克点，其超交换机制由 Fe 的 d 轨道与 C 的 p 轨道通过虚拟跃迁介导。",
+      "en": "The magnon bands of Fe2C exhibit a Dirac point at the K point protected by C3 rotational symmetry, and the superexchange mechanism is mediated by virtual hopping between Fe d-orbitals and C p-orbitals."
+    },
+    "why_it_matters": {
+      "zh": "揭示了磁性 MXene 中拓扑磁子与轨道分辨超交换的直接联系，为未来磁子谷电子学器件设计提供了理论指导。",
+      "en": "Establishes a direct link between topological magnons and orbital-resolved superexchange in magnetic MXenes, providing theoretical guidance for future magnonic valleytronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过微扰论详细阐明了 Fe2C 中磁相互作用的微观轨道起源，并解释了其拓扑能带的对称性保护机制。",
+        "en": "Clarifies the microscopic orbital origin of magnetic interactions in Fe2C via perturbation theory and explains the symmetry-protected mechanism of its topological bands."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表磁性材料理论研究和能带拓扑分析的标准平台。",
+        "en": "This journal is a standard platform for theoretical research on magnetic materials and band topology in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "MXene",
+      "Fe2C",
+      "magnon topology",
+      "superexchange",
+      "valleytronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:17:20",
+    "input_scope": "full_pdf_text"
+  }
+}

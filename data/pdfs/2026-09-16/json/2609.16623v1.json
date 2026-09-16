@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2609.16623v1",
+    "title": "Terahertz two-dimensional coherent spectroscopy: unlocking coherent quantum intraband nonlinear dynamics",
+    "authors": [
+      "Se Jin Park",
+      "In Hyeok Choi",
+      "Jeong Woo Han"
+    ],
+    "abstract": "Quantum materials host a rich spectrum of low-energy collective excitations- phonons, magnons, plasmons, polaritons, and Higgs modes- that fundamentally govern their emergent properties, but remain inaccessible to conventional linear THz spectroscopy when nonlinear pathways overlap or non-perturbative dynamics emerge. Terahertz two-dimensional coherent spectroscopy (THz-2DCS), realized through phase-stable high-field THz pulse sequences, directly resolves this challenge by delivering phase-resolved multidimensional spectra that uniquely disentangle coherent intraband nonlinear quantum dynamics from incoherent backgrounds. Here, we establish a unified theoretical framework by using density-matrix formalism combined with the optical Bloch equations, from which nonlinear pathways are systematically derived and visualized on the Bloch sphere. This framework provides insight into low-energy nonlinear dynamics exhibiting homogeneous or inhomogeneous broadening depending on the scattering mechanism, enabling the interpretation of nonlinear signals in both the perturbative regime, described by a susceptibility expansion, and the non-perturbative regime. Building on this foundation, we comprehensively survey THz-2DCS investigations of nonlinear plasmon, phonon, magnon, and polariton. Finally, we outline future opportunities, including integration with optical-pump THz-probe platforms for nonequilibrium quantum control.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-09-15T04:34:43Z",
+    "updated": "2026-09-15T04:34:43Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.16623v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Terahertz two-dimensional coherent spectroscopy unlocking coherent quantum intraband nonlinear dynamics__2609.16623v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.496675",
+    "updated_at": "2026-09-16T02:16:24.496670Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Terahertz two-dimensional coherent spectroscopy unlocking coherent quantum intraband nonlinear dynamics__2609.16623v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.16623v1",
+    "pdf_filename": "3_Terahertz two-dimensional coherent spectroscopy unlocking coherent quantum intraband nonlinear dynamics__2609.16623v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文综述了太赫兹二维相干光谱（THz-2DCS）技术，阐述了其在解析量子材料中低能集体激发非线性动力学方面的原理与应用。",
+      "en": "This review article provides a comprehensive overview of terahertz two-dimensional coherent spectroscopy (THz-2DCS), detailing its principles and applications in resolving nonlinear quantum dynamics of low-energy collective excitations in quantum materials."
+    },
+    "problem": {
+      "zh": "传统线性太赫兹光谱难以区分量子材料中重叠的非线性过程，且无法有效分离相干量子动力学与非相干背景。",
+      "en": "Conventional linear THz spectroscopy fails to disentangle overlapping nonlinear processes and cannot effectively distinguish coherent quantum dynamics from incoherent backgrounds in quantum materials."
+    },
+    "approach": {
+      "zh": "利用相位稳定的高场太赫兹脉冲序列，结合密度矩阵形式和光学布洛赫方程，通过二维傅里叶变换在频域解析非线性响应。",
+      "en": "The approach employs phase-stable high-field THz pulse sequences, utilizing density-matrix formalism and optical Bloch equations to resolve nonlinear responses in the frequency domain via 2D Fourier transform."
+    },
+    "main_takeaway": {
+      "zh": "THz-2DCS 通过相位分辨的多维光谱，能够精确解耦重叠的非线性路径，并区分均匀与非均匀展宽，从而揭示微观散射机制。",
+      "en": "THz-2DCS provides phase-resolved multidimensional spectra that uniquely disentangle overlapping nonlinear pathways and distinguish between homogeneous and inhomogeneous broadening, revealing microscopic scattering mechanisms."
+    },
+    "why_it_matters": {
+      "zh": "该技术为研究量子材料中的非平衡态、多体相互作用及相干量子控制提供了强大的实验平台。",
+      "en": "This technique offers a powerful experimental platform for investigating nonequilibrium states, many-body interactions, and coherent quantum control in quantum materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "本文系统梳理了 THz-2DCS 的理论框架与实验分析方法，为理解复杂量子材料的非线性动力学提供了清晰的物理图像。",
+        "en": "The paper systematically organizes the theoretical framework and analytical methods of THz-2DCS, providing a clear physical picture for understanding nonlinear dynamics in complex quantum materials."
+      }
+    },
+    "paper_type": {
+      "zh": "综述",
+      "en": "Review"
+    },
+    "likely_venue": {
+      "journal": "Nature Reviews Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章内容涵盖了该领域的基础理论、实验实现及前沿应用，符合顶级综述期刊的定位。",
+        "en": "The article covers fundamental theory, experimental implementation, and frontier applications, aligning with the scope of top-tier review journals."
+      }
+    },
+    "keywords": [
+      "THz-2DCS",
+      "nonlinear dynamics",
+      "quantum materials",
+      "collective excitations",
+      "optical Bloch equations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:17:44",
+    "input_scope": "full_pdf_text"
+  }
+}

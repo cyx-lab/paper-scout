@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.16780v1",
+    "title": "Topological spin textures in 2D altermagnetic chromium chalcogenides: Interplay between magnetic frustration and Dzyaloshinskii-Moriya interaction",
+    "authors": [
+      "Zirui Zhang",
+      "Shiwei Zhu",
+      "Ruixiao Ma",
+      "Qiuyao Zhang",
+      "Xiaoping Wu",
+      "Changsheng Song"
+    ],
+    "abstract": "Altermagnetism has recently emerged as a distinct magnetic paradigm, yet the exploration of topological spin textures within two-dimensional (2D) altermagnets remains limited. Using first-principles calculations and atomistic spin simulations, we investigate monolayer $\\mathrm{Cr_2X_2}$ and Janus monolayer $\\mathrm{Cr_2XY}$ altermagnets ($\\mathrm{X, Y}=\\mathrm{O, S, Se, Te}$, and $\\mathrm{X \\neq Y}$). Both systems exhibit strong intrinsic exchange frustration arising from competition between nearest-neighbor and further-neighbor exchange interactions. In Janus $\\mathrm{Cr_2XY}$, breaking the out-of-plane mirror symmetry additionally activates a substantial in-plane Dzyaloshinskii-Moriya interaction (DMI), mediated by the strong spin-orbit coupling of heavy chalcogen ligands. The interplay between exchange frustration and DMI gives rise to distinct frustration- and DMI-dominated regimes, while magnetic anisotropy determines the preferred spin orientation, leading to a diverse range of non-collinear states. Systematic phase-space scans and geodesic nudged elastic band (GNEB) calculations reveal two distinct mechanisms governing this interplay: a synergistic effect, in which frustration lowers the critical DMI for the onset of non-collinear states, and a competitive effect, in which frustration favors high-topological-charge states while DMI favors low-charge states. Our results establish a general framework for understanding the interplay between frustration and DMI and guiding the design of topological spin textures in two-dimensional altermagnets.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-15T07:50:20Z",
+    "updated": "2026-09-15T07:50:20Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.16780v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Topological spin textures in 2D altermagnetic chromium chalcogenides Interplay between magnetic frustration and Dzyalosh__2609.16780v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.496290",
+    "updated_at": "2026-09-16T02:16:24.496285Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Topological spin textures in 2D altermagnetic chromium chalcogenides Interplay between magnetic frustration and Dzyalosh__2609.16780v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.16780v1",
+    "pdf_filename": "3_Topological spin textures in 2D altermagnetic chromium chalcogenides Interplay between magnetic frustration and Dzyalosh__2609.16780v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了二维交错磁体（altermagnets）中磁挫折与Dzyaloshinskii-Moriya相互作用（DMI）的相互作用，揭示了其对拓扑自旋织构的调控机制。",
+      "en": "This paper investigates the interplay between magnetic frustration and Dzyaloshinskii-Moriya interaction (DMI) in 2D altermagnets, revealing their role in governing topological spin textures."
+    },
+    "problem": {
+      "zh": "在二维交错磁体中，磁挫折与DMI如何共同作用以稳定拓扑自旋织构（如斯格明子和双子）尚不明确。",
+      "en": "The interplay between magnetic frustration and DMI in stabilizing topological spin textures (such as skyrmions and bimerons) within 2D altermagnets remains poorly understood."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算与原子自旋动力学模拟，系统分析了Cr2X2及Janus型Cr2XY单层的磁相互作用参数及拓扑态。",
+      "en": "Combining first-principles calculations and atomistic spin-dynamics simulations to systematically analyze magnetic interaction parameters and topological states in monolayer Cr2X2 and Janus Cr2XY."
+    },
+    "main_takeaway": {
+      "zh": "磁挫折与DMI存在协同与竞争效应：挫折降低了形成拓扑态所需的DMI阈值，但挫折倾向于高拓扑荷态，而DMI倾向于低拓扑荷态。",
+      "en": "There is a synergistic and competitive interplay: frustration lowers the critical DMI threshold for topological states, while frustration favors high-topological-charge states and DMI favors low-charge states."
+    },
+    "why_it_matters": {
+      "zh": "为在无外场条件下设计和调控二维交错磁体中的拓扑自旋织构提供了通用的物理框架。",
+      "en": "It establishes a general physical framework for designing and tuning topological spin textures in 2D altermagnets under zero external field."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章系统阐明了磁挫折与DMI在交错磁体中竞争与协同的微观机制，并建立了相图。",
+        "en": "The paper systematically clarifies the microscopic mechanism of competition and synergy between magnetic frustration and DMI in altermagnets and establishes phase diagrams."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域典型的计算物理研究，符合PRB的收录范围。",
+        "en": "Typical computational physics research in this field, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Topological spin textures",
+      "Magnetic frustration",
+      "Dzyaloshinskii-Moriya interaction",
+      "Janus monolayers"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:18:11",
+    "input_scope": "full_pdf_text"
+  }
+}

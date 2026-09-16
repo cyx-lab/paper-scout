@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2609.16577v1",
+    "title": "Nonlinear Photocurrent Spectroscopy and Polarization-Tunable Shift Current in the Layered Semiconductor $\\mathrm{CuScP_2S_6}$",
+    "authors": [
+      "Alexander M. Blackston",
+      "Md Kazi Rokunuzzaman",
+      "Ryan P. Siebenaller",
+      "Shashu Tomar",
+      "Enam Chowdhury",
+      "Michael A. Susner",
+      "Roberto C. Myers"
+    ],
+    "abstract": "The class of layered metal thiophosphates and selenophosphates are emerging as promising candidates for non-linear photonic and optoelectronic applications. Here we report one-photon absorption (1PA) and two-photon absorption (2PA) induced photocurrents in $CuScP_2S_6$, establishing it as an optoelectronically-active non-centrosymmetric semiconductor. Spectrally-resolved 1PA and 2PA photoresponsivity paired with photoluminescence and differential reflectance measurements reveal a band gap of 2.35 eV, several higher energy interband transitions, and sub-band gap multiphoton excitonic transitions. Vertical graphite/$CuScP_2S_6$/graphite devices exhibit zero-bias photocurrent with a polarity controlled by both photon energy and optical polarization orientation within the ab-plane. This sign-dependence combined with a characteristic power-law transition from linear to square-root scaling are consistent with a shift-current origin to this bulk photovoltaic effect (BPVE). These findings establish $CuScP_2S_6$ as a multi-functional platform for polarization-sensitive non-linear optoelectronics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-15T03:20:00Z",
+    "updated": "2026-09-15T03:20:00Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.16577v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Nonlinear Photocurrent Spectroscopy and Polarization-Tunable Shift Current in the Layered Semiconductor $mathrm{CuScP_2S__2609.16577v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.496789",
+    "updated_at": "2026-09-16T02:16:24.496784Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Nonlinear Photocurrent Spectroscopy and Polarization-Tunable Shift Current in the Layered Semiconductor $mathrm{CuScP_2S__2609.16577v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.16577v1",
+    "pdf_filename": "3_Nonlinear Photocurrent Spectroscopy and Polarization-Tunable Shift Current in the Layered Semiconductor $mathrm{CuScP_2S__2609.16577v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了层状半导体 CuScP2S6 的非线性光学与光电特性，证实了其作为偏振敏感光电器件平台的潜力。",
+      "en": "Investigated the nonlinear optical and optoelectronic properties of layered semiconductor CuScP2S6, establishing it as a platform for polarization-sensitive optoelectronics."
+    },
+    "problem": {
+      "zh": "需要探索 CuScP2S6 在非线性光电应用中的潜力，特别是其在光伏效应和多光子吸收方面的机制。",
+      "en": "The need to explore the potential of CuScP2S6 for nonlinear optoelectronic applications, specifically its mechanisms in photovoltaic effects and multiphoton absorption."
+    },
+    "approach": {
+      "zh": "通过光谱分辨的单光子和双光子吸收光电流谱、光致发光及微分反射测量，结合垂直异质结器件的偏振依赖光电流测试。",
+      "en": "Utilized spectrally-resolved one-photon and two-photon absorption photocurrent spectroscopy, photoluminescence, and differential reflectance measurements, combined with polarization-dependent photocurrent testing in vertical heterostructure devices."
+    },
+    "main_takeaway": {
+      "zh": "CuScP2S6 表现出显著的体光伏效应（BPVE）和双光子吸收，其光电流极性可通过光子能量和偏振方向动态调控。",
+      "en": "CuScP2S6 exhibits significant bulk photovoltaic effect (BPVE) and two-photon absorption, with photocurrent polarity dynamically tunable via photon energy and optical polarization."
+    },
+    "why_it_matters": {
+      "zh": "该材料为开发超快、偏振敏感的近红外及紫外-可见光探测器提供了一个多功能量子几何光电平台。",
+      "en": "This material provides a multifunctional quantum-geometric optoelectronic platform for developing ultrafast, polarization-sensitive near-infrared and UV-visible photodetectors."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次系统揭示了该材料的非线性光电响应机制，并展示了其在偏振敏感器件中的应用前景。",
+        "en": "Systematically reveals the nonlinear optoelectronic response mechanisms of this material for the first time and demonstrates its potential for polarization-sensitive devices."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Advanced Functional Materials",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该期刊关注功能材料的非线性光学与光电应用，符合论文的研究主题。",
+        "en": "The journal focuses on nonlinear optical and optoelectronic applications of functional materials, which aligns with the paper's research theme."
+      }
+    },
+    "keywords": [
+      "CuScP2S6",
+      "Bulk Photovoltaic Effect",
+      "Two-photon Absorption",
+      "Polarization-sensitive",
+      "Optoelectronics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:17:37",
+    "input_scope": "full_pdf_text"
+  }
+}

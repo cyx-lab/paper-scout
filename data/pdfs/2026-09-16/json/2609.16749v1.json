@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2609.16749v1",
+    "title": "Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework",
+    "authors": [
+      "Hongjing Wang",
+      "Xiuling Li",
+      "Xiaojun Wu"
+    ],
+    "abstract": "Altermagnetism combines vanishing net magnetization with momentum-dependent spin splitting. While altermagnetic signatures have been identified in metal-organic frameworks (MOFs), non-invasive reversible control remains challenging. Here we report a route to electric-field-switchable altermagnetism in a flexible d0-MOF, in which polar substituents couple the external field to ligand rotation. In the planar ground state, pz orbitals mediate 180-degree ligand-metal-ligand superexchange (J2), stabilizing antiferromagnetic order. Rotating ligands out of plane activates px/py orbitals, enhances 90-degree pathways (J1), and reverses J1/J2 competition. The antiferromagnetic-to-altermagnetic crossover occurs at approx. 34 degrees, with spin splitting of 84 meV at 90 degrees. The 90-degree altermagnetic state is switched on by the electric field and switched off upon field removal, as the constrained-rotation landscape decreases monotonically back toward 0 degrees, enabling barrierless relaxation to the antiferromagnetic state and reversible on/off operation. Ab initio molecular dynamics at 300 K shows thermal fluctuations alone cannot synchronize ligand rotation. Polar substituents provide the required coupling for electric-field control; for fluorinated substituents, the critical field is approx. 0.22 V/Angstrom, comparable to field-effect devices. This work establishes ligand p orbitals, rather than transition-metal d orbitals, as the origin of altermagnetic order and shows that polar substituents enable electric-field control for organic spintronics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-15T07:24:07Z",
+    "updated": "2026-09-15T07:24:07Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.16749v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework__2609.16749v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.496380",
+    "updated_at": "2026-09-16T02:16:24.496375Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework__2609.16749v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.16749v1",
+    "pdf_filename": "3_Electric-Field-Switchable Altermagnetism via Ligand Rotation in a d0 Metal-Organic Framework__2609.16749v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过电场驱动金属有机框架（MOF）中配体的旋转，实现反铁磁态与交错磁态（Altermagnetism）的可逆切换。",
+      "en": "Electric-field-driven ligand rotation in a d0-MOF enables reversible switching between antiferromagnetic and altermagnetic states."
+    },
+    "problem": {
+      "zh": "现有的交错磁材料多为静态设计，缺乏一种非侵入式、可逆的外部手段来动态控制其磁性状态。",
+      "en": "Existing altermagnetic materials are typically static, lacking a non-invasive and reversible external mechanism for dynamic control of their magnetic states."
+    },
+    "approach": {
+      "zh": "利用d0金属中心MOF的结构灵活性，通过电场诱导有机配体旋转，改变配体π轨道的取向，从而调控超交换相互作用路径。",
+      "en": "Leveraging the structural flexibility of a d0-metal MOF, an electric field is used to induce ligand rotation, reorienting π-orbitals to modulate superexchange pathways."
+    },
+    "main_takeaway": {
+      "zh": "配体旋转可作为一种动态自由度，通过改变轨道重叠模式实现磁基态的切换，且该过程可通过电场同步锁定。",
+      "en": "Ligand rotation serves as a dynamic degree of freedom to switch magnetic ground states by altering orbital overlap, with electric fields providing the necessary synchronization and locking."
+    },
+    "why_it_matters": {
+      "zh": "该研究为有机自旋电子学提供了一种新的范式，利用MOF的化学可调性和结构灵活性实现低功耗、可重构的磁性开关。",
+      "en": "This work establishes a new paradigm for organic spintronics, utilizing MOF chemical tunability and structural flexibility for low-power, reconfigurable magnetic switching."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一种基于配体构象动态调控交错磁性的新机制，并验证了其电场可控性。",
+        "en": "It proposes a novel mechanism for dynamically controlling altermagnetism via ligand conformation and demonstrates its electric-field switchability."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Journal of the American Chemical Society",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文聚焦于MOF材料的磁性设计与功能化，符合JACS在材料化学与物理交叉领域的关注点。",
+        "en": "The paper focuses on magnetic design and functionalization of MOFs, aligning with JACS's interest in materials chemistry and physics."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Metal-Organic Frameworks",
+      "Electric-field switching",
+      "Ligand rotation",
+      "Superexchange"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:17:49",
+    "input_scope": "full_pdf_text"
+  }
+}

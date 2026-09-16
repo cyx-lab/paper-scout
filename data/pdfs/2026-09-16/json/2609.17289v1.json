@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.17289v1",
+    "title": "Self-balancing luminescence kinetics of charged excitons in WS$_2$ monolayer",
+    "authors": [
+      "A. I. Veretennikov",
+      "A. I. Galimov",
+      "M. M. Glazov",
+      "T. V. Shubina"
+    ],
+    "abstract": "Two-dimensional tungsten-based transition metal dichalcogenides exhibit a rich emission spectrum with distinct lines of exciton and biexciton states, neutral and charged, which are typically considered as independent entities. Here, we present a study of the emission kinetics of a WS$_2$ monolayer, demonstrating that these states together form a single interacting ensemble, with their population and depletion mutually coordinated with temperature. Dark trions make a long-lived contribution to the bright trion on a time scale of 200-300 picoseconds, and replenishment from dark states promotes intense luminescence of charged biexcitons. The developed self-consistent rate equation model reproduces the temperature dependence of the kinetics well, opening the way to controlling exciton states in such materials.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-15T15:04:11Z",
+    "updated": "2026-09-15T15:04:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:trion",
+        "exciton:biexciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.17289v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Self-balancing luminescence kinetics of charged excitons in WS$_2$ monolayer__2609.17289v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.495563",
+    "updated_at": "2026-09-16T02:16:24.495557Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Self-balancing luminescence kinetics of charged excitons in WS$_2$ monolayer__2609.17289v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.17289v1",
+    "pdf_filename": "3_Self-balancing luminescence kinetics of charged excitons in WS$_2$ monolayer__2609.17289v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过建立自洽速率方程模型，揭示了WS2单层中带电激子、暗激子和带电双激子之间相互关联的动力学机制。",
+      "en": "A self-consistent rate equation model reveals the interconnected population dynamics of charged excitons, dark excitons, and charged biexcitons in WS2 monolayers."
+    },
+    "problem": {
+      "zh": "WS2单层中不同激子态（如带电激子和带电双激子）的发射动力学通常被视为独立过程，但实验观察到的复杂衰减行为及其对温度的依赖性尚缺乏统一的物理解释。",
+      "en": "The emission kinetics of various excitonic states in WS2 monolayers are often treated as independent, failing to explain the complex, temperature-dependent decay behaviors observed experimentally."
+    },
+    "approach": {
+      "zh": "通过变温时间分辨光致发光光谱（TRPL）测量，并结合包含暗激子库效应的自洽速率方程模型进行数值模拟。",
+      "en": "Temperature-dependent time-resolved photoluminescence (TRPL) spectroscopy combined with numerical simulations using a self-consistent rate equation model that accounts for dark exciton reservoirs."
+    },
+    "main_takeaway": {
+      "zh": "WS2单层中的激子态构成了一个相互作用的整体，其中暗三子作为关键的“库”，通过热激活过程调节亮三子和带电双激子的长寿命衰减动力学。",
+      "en": "Excitonic states in WS2 monolayers form an interacting ensemble where dark trions act as reservoirs, regulating the long-lived decay kinetics of bright trions and charged biexcitons via thermal activation."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解二维过渡金属硫族化合物中复杂的激子多体物理提供了定量框架，对光电和量子光子学器件的设计具有指导意义。",
+      "en": "This study provides a quantitative framework for understanding complex many-body exciton physics in 2D transition metal dichalcogenides, guiding the design of optoelectronic and quantum photonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过实验与模型结合，成功解释了此前未被理解的带电激子长寿命衰减分量及其温度依赖性。",
+        "en": "The combination of experiment and modeling successfully explains previously unexplained long-lived decay components of charged excitons and their temperature dependence."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+数值模拟",
+      "en": "Experimental + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中激子动力学的定量建模与实验验证，符合该期刊的定位。",
+        "en": "The paper focuses on quantitative modeling and experimental verification of exciton dynamics in condensed matter physics, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "WS2 monolayer",
+      "exciton kinetics",
+      "charged biexciton",
+      "dark trions",
+      "time-resolved photoluminescence"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:19:05",
+    "input_scope": "full_pdf_text"
+  }
+}

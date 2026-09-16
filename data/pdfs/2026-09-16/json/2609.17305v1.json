@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.17305v1",
+    "title": "Multiproperty Atomistic Characterization of a Synthesized Pyrazinic Nitrogen-Doped Porous Armchair Graphene Nanoribbon",
+    "authors": [
+      "Cicera M. V. de Araújo",
+      "Isaac de M. Félix",
+      "Willian F. Radel",
+      "Raphael B. de Oliveira",
+      "Guilherme da S. L. Fabris",
+      "Douglas S. Galvão",
+      "Marcelo L. Pereira Junior"
+    ],
+    "abstract": "Graphene nanoribbons (GNRs) obtained by on-surface synthesis combine a width-controlled band gap with atomic precision, making chemical decoration of their edges and interiors a practical route to designed electronic and optical behavior. Ullmann coupling of a phenazine-bearing precursor yields a nine-atom-wide armchair ribbon that is periodically perforated and carries two two-coordinated nitrogen atoms at every pore rim. Here we characterize this ribbon across the properties relevant to device operation, alongside the pristine and undoped porous ribbon, disentangling the roles of pore formation and nitrogen incorporation. Perforation primarily governs mechanical and thermal response, whereas nitrogen substitution predominantly controls electronic and optical properties. Perforation removes the atomic row carrying frontier states, opening the gap into the range measured by tunneling spectroscopy while substantially reducing stiffness and thermal conductivity. Substitution leaves the mechanical response essentially unchanged and contributes a secondary conductivity reduction through phonon spectrum reweighting. Its primary effect is electronic: it selectively narrows the conduction band, binds the lowest exciton by 414 meV, and displaces the absorption edge into the red. The effective phonon mean free path we obtain, 9.9 nm, matches the length to which the synthesis presently limits these ribbons, placing reported samples at the ballistic-to-diffusive crossover. Adsorption on Au(111), Ag(111), and Cu(111) is energetically nearly indistinguishable and remains van der Waals in character, accounting for the substrate tolerance observed experimentally. Finally, graphitic rather than pyrazinic nitrogen would make the ribbon metallic, except when two atoms occupy pore-rim sites, yielding a ferromagnetic semiconducting state having a magnetic moment of 2 mu_B per unit cell.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-15T15:15:51Z",
+    "updated": "2026-09-15T15:15:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.17305v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Multiproperty Atomistic Characterization of a Synthesized Pyrazinic Nitrogen-Doped Porous Armchair Graphene Nanoribbon__2609.17305v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.495463",
+    "updated_at": "2026-09-16T02:16:24.495458Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Multiproperty Atomistic Characterization of a Synthesized Pyrazinic Nitrogen-Doped Porous Armchair Graphene Nanoribbon__2609.17305v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.17305v1",
+    "pdf_filename": "3_Multiproperty Atomistic Characterization of a Synthesized Pyrazinic Nitrogen-Doped Porous Armchair Graphene Nanoribbon__2609.17305v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过密度泛函理论研究了合成的含吡嗪氮的多孔扶手椅型石墨烯纳米带的物理性质，揭示了孔隙与氮掺杂在机械、热学及电子光学性能中的不同作用。",
+      "en": "This study uses density functional theory to characterize the physical properties of synthesized pyrazinic nitrogen-doped porous armchair graphene nanoribbons, disentangling the distinct roles of pore formation and nitrogen substitution."
+    },
+    "problem": {
+      "zh": "明确多孔结构和氮掺杂在石墨烯纳米带中对电子、机械和热学性质的独立贡献，以及它们如何共同影响器件性能。",
+      "en": "Disentangling the individual contributions of pore formation and nitrogen doping to the electronic, mechanical, and thermal properties of graphene nanoribbons, and understanding their combined impact on device performance."
+    },
+    "approach": {
+      "zh": "采用基于密度泛函理论（DFT）的从头算方法，结合杂化泛函计算电子结构，利用非平衡分子动力学分析热导率，并求解Bethe-Salpeter方程研究光学激发。",
+      "en": "Ab initio density functional theory (DFT) calculations, including hybrid functional for electronic structure, reverse non-equilibrium molecular dynamics for thermal conductivity, and solving the Bethe-Salpeter equation for optical excitations."
+    },
+    "main_takeaway": {
+      "zh": "孔隙主要决定了纳米带的机械刚度和热导率，而氮掺杂则主要调控电子结构和光学吸收，且氮掺杂能显著增强激子结合能。",
+      "en": "Pore formation primarily governs mechanical stiffness and thermal conductivity, while nitrogen substitution predominantly controls electronic and optical properties, including a significant enhancement of exciton binding energy."
+    },
+    "why_it_matters": {
+      "zh": "该研究为通过原子级精确的化学设计来定制石墨烯纳米带的电子和光学器件功能提供了理论指导，并解释了实验中观察到的衬底兼容性。",
+      "en": "Provides theoretical guidance for tailoring the electronic and optical functionality of graphene nanoribbons through atomic-precision chemical design and explains the substrate tolerance observed in experiments."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过对比实验与理论，清晰地解耦了多孔结构与氮掺杂对纳米带多物理场性质的影响。",
+        "en": "The paper clearly decouples the effects of porous structure and nitrogen doping on the multi-physical properties of nanoribbons by comparing experimental and theoretical results."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "ACS Nano",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊非常关注石墨烯纳米带的原子级精确合成与多物理性质表征，符合文章内容。",
+        "en": "The journal focuses heavily on the atomic-precision synthesis and multi-physical characterization of graphene nanoribbons, which aligns with the paper's content."
+      }
+    },
+    "keywords": [
+      "Graphene nanoribbons",
+      "Nitrogen doping",
+      "Porous carbon",
+      "Density functional theory",
+      "Excitons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:19:26",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2609.16771v1",
+    "title": "Interplay between Interlayer Shift and Twist: Twisted van der Waals Nanowires Driven by Rotational Twinning",
+    "authors": [
+      "Dong-gyu Kim",
+      "Kisung Kang",
+      "Hani Kang",
+      "Kihyun Lee",
+      "Yangjin Lee",
+      "Jinsub Park",
+      "Joong-Eon Jung",
+      "Min Kim",
+      "Myeongjin Jang",
+      "Aloysius Soon",
+      "Kwanpyo Kim"
+    ],
+    "abstract": "In van der Waals(vdW) layered materials, interlayer shift and twist have enabled the control of material properties through polytype and moire engineering. Various approaches, including bottom-up synthesis and manual layer-by-layer stacking, have been utilized to engineer targeted stacking configurations. However, the interplay between interlayer shift and twist, as well as reliable mechanisms for fine-tuning these parameters, remains largely unexplored. Here, we report a previously unrecognized twisting mechanism arising from preferred tilted stacking and twinning in vdW crystals. Electron diffraction and atomic-resolution scanning transmission electron microscopy(STEM) imaging reveal that the lattice planes of group-IV chalcogenide GeSe_{2-x}Te_x rotate continuously along the nanowire growth axis, with twist rates depending systematically on nanowire radius. Atomic-scale imaging further identifies a continuous rotational twin boundary extending along the central region of the nanowire. First-principles calculations and structural relaxation simulations confirm that the twisting deformation originates from energetic competition between the preferred interlayer stacking registry and the strain cost imposed by rotational twinning. These findings establish rotational twinning as an intrinsic route to spontaneous twist formation and provide a design principle for realizing twist-engineered vdW crystals with compatible crystal symmetries and stacking motifs.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-15T07:41:11Z",
+    "updated": "2026-09-15T07:41:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:moire"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.16771v1",
+      "pdf_path": "data/pdfs/2026-09-16/3_Interplay between Interlayer Shift and Twist Twisted van der Waals Nanowires Driven by Rotational Twinning__2609.16771v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.496323",
+    "updated_at": "2026-09-16T02:16:24.496318Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Interplay between Interlayer Shift and Twist Twisted van der Waals Nanowires Driven by Rotational Twinning__2609.16771v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.16771v1",
+    "pdf_filename": "3_Interplay between Interlayer Shift and Twist Twisted van der Waals Nanowires Driven by Rotational Twinning__2609.16771v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现范德华纳米线中旋转孪晶界可驱动晶格自发连续扭转，无需螺位错。",
+      "en": "Rotational twin boundaries in van der Waals nanowires are identified as a structural mechanism driving spontaneous, continuous lattice twisting without screw dislocations."
+    },
+    "problem": {
+      "zh": "范德华材料中层间滑移与扭转的相互作用机制尚不明确，且缺乏对非螺位错驱动的连续扭转机制的理解。",
+      "en": "The interplay between interlayer shift and twist in van der Waals materials remains largely unexplored, and the mechanisms for continuous lattice twisting beyond the classical Eshelby screw-dislocation model are poorly understood."
+    },
+    "approach": {
+      "zh": "通过气液固生长法合成 GeSeTe 纳米线，利用电子衍射、原子分辨率 STEM 成像及密度泛函理论计算，分析旋转孪晶界与层间堆叠能的竞争关系。",
+      "en": "Synthesized GeSeTe nanowires via VLS growth and employed electron diffraction, atomic-resolution STEM imaging, and DFT calculations to analyze the energetic competition between rotational twin boundaries and interlayer stacking registry."
+    },
+    "main_takeaway": {
+      "zh": "旋转孪晶界作为一种结构元素，通过约束层间滑移产生扭转力矩，从而在低对称性范德华纳米线中诱导自发且半径相关的连续扭转。",
+      "en": "Rotational twin boundaries act as structural elements that generate twisting torque by constraining interlayer sliding, inducing spontaneous, radius-dependent continuous lattice rotation in low-symmetry van der Waals nanowires."
+    },
+    "why_it_matters": {
+      "zh": "该发现揭示了一种通用的扭转工程设计原则，为在范德华纳米结构中实现手性及可控扭转提供了新途径。",
+      "en": "This discovery establishes a generalized design principle for twist-engineered van der Waals nanostructures, offering a new pathway to realize spontaneous chirality and controlled twisting."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作发现了一种全新的非螺位错扭转机制，并验证了其在多种低对称性材料中的普适性。",
+        "en": "The work identifies a novel non-screw-dislocation twisting mechanism and demonstrates its generality across various low-symmetry materials."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论 + 数值模拟",
+      "en": "Experimental + Theoretical + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及范德华材料的结构工程与基础物理机制，符合顶级材料科学期刊的定位。",
+        "en": "The research addresses structural engineering and fundamental physical mechanisms in van der Waals materials, fitting the scope of top-tier materials science journals."
+      }
+    },
+    "keywords": [
+      "范德华纳米线",
+      "旋转孪晶",
+      "晶格扭转",
+      "堆叠工程",
+      "GeSeTe"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:18:05",
+    "input_scope": "full_pdf_text"
+  }
+}

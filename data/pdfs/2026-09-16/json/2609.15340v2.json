@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2609.15340v2",
+    "title": "Optical properties of single-crystal As2Se3 from first principles",
+    "authors": [
+      "Juan J. Meléndez"
+    ],
+    "abstract": "Crystalline As2Se3 is a promising layered chalcogenide for mid-infrared photonics and optoelectronic applications, yet its fundamental electronic and optical properties remain debated. This paper combines density functional theory with G0W0 quasiparticle corrections and Bethe-Salpeter equation (BSE) calculations to deliver a robust description of its band structure and optical response. The G0W0 results reveal an indirect band gap of 2.31 eV with nearly degenerate direct transitions at Gamma, while the BSE spectra exhibit strong polarization-dependent anisotropy and pronounced excitonic effects. Several bound excitons are identified near the absorption onset, clarifying the role of electron-hole interactions and resolving previous controversies regarding the nature of the optical gap and the contribution of lone-pair states. This work provides a unified and quantitatively accurate picture of As2Se3, reinforcing its potential for next-generation infrared and anisotropic photonic devices.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-14T10:27:31Z",
+    "updated": "2026-09-15T10:30:01Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.15340v2",
+      "pdf_path": "data/pdfs/2026-09-16/3_Optical properties of single-crystal As2Se3 from first principles__2609.15340v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.498234",
+    "updated_at": "2026-09-16T02:16:24.498228Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/3_Optical properties of single-crystal As2Se3 from first principles__2609.15340v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.15340v2",
+    "pdf_filename": "3_Optical properties of single-crystal As2Se3 from first principles__2609.15340v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过第一性原理计算，揭示了晶体三硒化二砷（As2Se3）的电子结构、光学各向异性及激子效应，解决了长期存在的实验争议。",
+      "en": "First-principles calculations reveal the electronic structure, optical anisotropy, and excitonic effects of crystalline As2Se3, resolving long-standing experimental controversies."
+    },
+    "problem": {
+      "zh": "关于As2Se3能带结构（直接与间接带隙）、价带顶电子态性质（孤对电子与杂化）以及光学吸收边缘本质的长期学术争议。",
+      "en": "Long-standing controversies regarding the nature of the band gap (direct vs. indirect), the character of valence band states (lone pairs vs. hybridization), and the fundamental absorption edge of As2Se3."
+    },
+    "approach": {
+      "zh": "结合密度泛函理论（DFT）、GW准粒子修正及Bethe-Salpeter方程（BSE）求解，对晶体结构进行优化并计算其电子能带与光学响应。",
+      "en": "Combined density functional theory (DFT), GW quasiparticle corrections, and the Bethe-Salpeter equation (BSE) to compute the band structure and optical response of the crystal."
+    },
+    "main_takeaway": {
+      "zh": "As2Se3是间接带隙半导体（2.31 eV），其光学性质受强各向异性和激子效应主导，且价带顶由As-p与Se-s/p轨道杂化构成，而非孤对电子主导。",
+      "en": "As2Se3 is an indirect-gap semiconductor (2.31 eV) dominated by strong anisotropy and excitonic effects, with a valence band maximum formed by As-p and Se-s/p hybridization rather than lone-pair states."
+    },
+    "why_it_matters": {
+      "zh": "为红外光子学和光电器件应用提供了统一且精确的理论基础，澄清了该材料在基础物理层面的认知偏差。",
+      "en": "Provides a unified and accurate theoretical foundation for infrared photonics and optoelectronic applications, clarifying fundamental physical misconceptions about the material."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过高精度多体微扰理论解决了关于该材料电子结构和光学性质的长期争议。",
+        "en": "Resolves long-standing debates regarding the electronic and optical properties of the material using high-precision many-body perturbation theory."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值计算",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表此类第一性原理计算和电子结构研究的标准场所。",
+        "en": "This journal is the standard venue for first-principles calculations and electronic structure studies in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "As2Se3",
+      "GW approximation",
+      "Bethe-Salpeter equation",
+      "excitonic effects",
+      "optical anisotropy"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:17:02",
+    "input_scope": "full_pdf_text"
+  }
+}

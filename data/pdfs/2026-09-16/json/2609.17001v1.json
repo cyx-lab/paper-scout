@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.17001v1",
+    "title": "Nonlinear Hall Effect in Altermagnetic Warped Topological Insulators",
+    "authors": [
+      "Debashree Chowdhury"
+    ],
+    "abstract": "Low-dimensional Dirac systems offer a versatile platform for quantum-geometric non-linear transport. Hexagonal warping in topological insulator (TI) surface states generates rich momentum-space geometric textures. However, mirror and time-reversal symmetries strictly constrain both the Berry curvature and quantum metric dipoles to zero. Here, we show that proximity-coupling a hexagonally warped TI to a d-wave altermagnet lifts spatial mirror symmetry via the interplay of C_{3v} warping and d-wave spin-splitting. This symmetry breaking enables finite Berry curvature dipole components, which, however, remain heavily suppressed near charge neutrality, establishing the intrinsic quantum metric dipole as the sole driver of the non-linear Hall response. This scattering-independent response vanishes at μ= 0 and exhibits odd parity under chemical potential inversion. Importantly, rotating the altermagnetic orientation angle φcontinuously tunes quantum metric dipole and induces a sign reversal, peaking near φ=0 and vanishing at φ= π/4. Our findings highlight TI-altermagnet interfaces as ideal candidates for gate- and orientation-tunable quantum metric spintronics.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-09-15T11:09:49Z",
+    "updated": "2026-09-15T11:09:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:nonlinear Hall",
+        "quantum_geometry:nonlinear Hall effect",
+        "quantum_geometry:quantum metric dipole",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.17001v1",
+      "pdf_path": "data/pdfs/2026-09-16/6_Nonlinear Hall Effect in Altermagnetic Warped Topological Insulators__2609.17001v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-16T02:16:24.495985",
+    "updated_at": "2026-09-16T02:16:24.495980Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-16/6_Nonlinear Hall Effect in Altermagnetic Warped Topological Insulators__2609.17001v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.17001v1",
+    "pdf_filename": "6_Nonlinear Hall Effect in Altermagnetic Warped Topological Insulators__2609.17001v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了拓扑绝缘体与d波交错磁体异质结中，量子度规偶极矩驱动的非线性霍尔效应及其电学调控机制。",
+      "en": "Investigates the nonlinear Hall effect driven by the quantum metric dipole in topological insulator-altermagnet heterostructures, highlighting gate and orientation-tunable responses."
+    },
+    "problem": {
+      "zh": "在非线性霍尔效应中，如何区分并利用纯粹的量子度规贡献，以及如何通过对称性破缺实现对该效应的有效调控。",
+      "en": "The challenge of disentangling intrinsic quantum metric contributions from extrinsic scattering in nonlinear Hall transport and the need for symmetry-breaking mechanisms to control these responses."
+    },
+    "approach": {
+      "zh": "通过将六角翘曲拓扑绝缘体与d波交错磁体邻近耦合，利用交错磁序的取向角连续调控空间镜像对称性，并进行解析与数值计算。",
+      "en": "Proximity-coupling hexagonally warped topological insulators with d-wave altermagnets to break spatial mirror symmetry, using analytical and numerical calculations to tune the quantum metric dipole via the altermagnetic orientation angle."
+    },
+    "main_takeaway": {
+      "zh": "量子度规偶极矩是该体系非线性霍尔响应的主要驱动力，其大小和符号可通过旋转交错磁体的取向角进行连续调控与反转。",
+      "en": "The quantum metric dipole is the primary driver of the nonlinear Hall response, which can be continuously tuned and sign-reversed by rotating the altermagnetic orientation angle."
+    },
+    "why_it_matters": {
+      "zh": "为开发基于量子几何效应的低功耗非线性自旋电子学和光电器件提供了明确的材料设计与调控方案。",
+      "en": "Provides concrete guidelines for designing low-power nonlinear spintronic and optoelectronic devices based on quantum geometric effects in TI-altermagnet heterostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了拓扑绝缘体与交错磁体界面中量子度规偶极矩的对称性起源及其调控规律。",
+        "en": "Clarifies the symmetry-based origin and control mechanism of the quantum metric dipole in TI-altermagnet interfaces."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域关于非线性输运与量子几何的理论研究通常发表在PRB或PRL上。",
+        "en": "Theoretical studies on nonlinear transport and quantum geometry are standard for PRB or PRL."
+      }
+    },
+    "keywords": [
+      "非线性霍尔效应",
+      "量子度规",
+      "拓扑绝缘体",
+      "交错磁体",
+      "对称性破缺"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-16",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-16T10:18:32",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "run_date": "2026-09-16",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2609.15340v2.json": 1,
+    "2609.16530v1.json": 1,
+    "2609.16577v1.json": 1,
+    "2609.16623v1.json": 1,
+    "2609.16749v1.json": 1,
+    "2609.16771v1.json": 1,
+    "2609.16780v1.json": 1,
+    "2609.17001v1.json": 1,
+    "2609.17069v1.json": 1,
+    "2609.17289v1.json": 1,
+    "2609.17305v1.json": 1,
+    "2609.17313v1.json": 1,
+    "2609.17500v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2609.15340v2.json",
+      "status": "ok",
+      "secs": 5.12,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.16530v1.json",
+      "status": "ok",
+      "secs": 18.77,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.16577v1.json",
+      "status": "ok",
+      "secs": 16.69,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.16623v1.json",
+      "status": "ok",
+      "secs": 6.86,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.16749v1.json",
+      "status": "ok",
+      "secs": 5.41,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.16771v1.json",
+      "status": "ok",
+      "secs": 15.11,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.16780v1.json",
+      "status": "ok",
+      "secs": 6.89,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.17001v1.json",
+      "status": "ok",
+      "secs": 20.45,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.17069v1.json",
+      "status": "ok",
+      "secs": 17.97,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.17289v1.json",
+      "status": "ok",
+      "secs": 14.78,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.17305v1.json",
+      "status": "ok",
+      "secs": 21.49,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.17313v1.json",
+      "status": "ok",
+      "secs": 7.75,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.17500v1.json",
+      "status": "ok",
+      "secs": 6.38,
+      "round": 1,
+      "attempt": 1
+    }
+  ]
+}
