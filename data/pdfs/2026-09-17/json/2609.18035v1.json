@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.18035v1",
+    "title": "Unconventional linear transverse exciton transport in valley-layer coupling two-dimensional materials",
+    "authors": [
+      "Ci Li"
+    ],
+    "abstract": "Valley-layer coupling (VLC) two-dimensional (2D) materials define a distinct class of quantum systems in which valleys are related by crystal, rather than time-reversal ($\\mathcal{T}$) symmetry, enabling gate-controlled valley-contrasted layer polarization. Here we extend this concept to excitons. Using TiSiCo as a prototype VLC material, we show that a perpendicular electric field $E_{\\perp}$ controls exciton- dispersion anisotropy and thereby generates unconventional linear transverse exciton transport in both monolayer and twisted bilayer structures. In the monolayer, this response is characterized by anisotropy-induced transverse conductivities, arising from the antisymmetric combination of diagonal elements in the conductivity tensor and strongly tunable by $E_{\\perp}$. In the twisted bilayer, symmetry additionally permits transverse responses from the symmetric part of the conductivity tensor. Since intralayer excitons in different layers are connected by the Förster coupling, these symmetric and antisymmetric responses coexist and compete with the recently proposed $\\mathcal{T}$-even layer Hall and Nernst exciton counterflow. This interplay is highly tunable by twisted angle, temperature, and the direction of the in-plane driving force, providing a route to disentangle distinct transverse exciton transport signals experimentally. Our results establish $E_{\\perp}$ as a powerful knob for controlling exciton transport via VLC and identify VLC 2D materials as a promising platform for engineered excitonic phenomena.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-09-16T02:37:30Z",
+    "updated": "2026-09-16T02:37:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "moire:twisted angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.18035v1",
+      "pdf_path": "data/pdfs/2026-09-17/6_Unconventional linear transverse exciton transport in valley-layer coupling two-dimensional materials__2609.18035v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-17T02:20:23.235420",
+    "updated_at": "2026-09-17T02:20:23.235414Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-17/6_Unconventional linear transverse exciton transport in valley-layer coupling two-dimensional materials__2609.18035v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.18035v1",
+    "pdf_filename": "6_Unconventional linear transverse exciton transport in valley-layer coupling two-dimensional materials__2609.18035v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究表明在谷-层耦合二维材料TiSiCo中，外加垂直电场可直接调控激子色散各向异性，从而在单层和转角双层结构中驱动非传统的线性横向激子输运。",
+      "en": "This study demonstrates that a perpendicular electric field controls exciton-dispersion anisotropy in valley-layer coupling TiSiCo to induce unconventional linear transverse exciton transport in monolayer and twisted bilayer structures."
+    },
+    "problem": {
+      "zh": "探索如何在缺少贝里曲率驱动的谷-层耦合二维材料及其转角结构中，通过外加垂直电场调控激子输运并分离不同的横向输运机制。",
+      "en": "To explore how out-of-plane electric fields can control exciton transport and disentangle distinct transverse transport channels in valley-layer coupling 2D materials and their twisted bilayers."
+    },
+    "approach": {
+      "zh": "基于单层与转角双层TiSiCo的有效激子哈密顿量模型，结合包含弗斯特偶极耦合的半经典玻尔兹曼输运理论与弛豫时间近似进行数值计算。",
+      "en": "Constructed effective exciton Hamiltonians incorporating interlayer Förster coupling for monolayer and twisted bilayer TiSiCo, analyzed via semiclassical Boltzmann transport theory under the relaxation-time approximation."
+    },
+    "main_takeaway": {
+      "zh": "垂直电场可有效调控谷-层耦合材料的激子色散各向异性，在单层中诱导各向异性驱动的横向激子电导，在转角双层中则控制该效应与时间反演对称层霍尔/内斯特激子反向流的竞争与共存。",
+      "en": "A perpendicular electric field directly modulates exciton dispersion anisotropy, inducing anisotropic transverse conductivities in monolayers and tuning their interplay with T-even layer Hall/Nernst exciton counterflow in twisted bilayers."
+    },
+    "why_it_matters": {
+      "zh": "该研究开辟了不依赖于贝里曲率的电控激子输运新路径，为利用转角角度、温度和电场多维度操控二维谷-层耦合材料中的激子器件提供了理论基础。",
+      "en": "It provides a Berry-curvature-independent route for electric-field-controlled exciton transport, offering new opportunities for engineering excitonic devices using twist angle, temperature, and electric fields."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "将谷-层耦合概念推广至激子输运领域，提出了由垂直电场调控激子各向异性引发横向输运的新机制，并给出了转角双层中多通道竞争的完整物理图景。",
+        "en": "Extends the concept of valley-layer coupling to exciton dynamics, uncovering a novel mechanism of electric-field-tuned anisotropy-driven transverse transport and its interplay with layer counterflow in twisted bilayers."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章提出了新颖且普适的激子输运调控机制，物理概念清晰，紧扣二维材料与转角物理前沿，符合PRL的接收标准。",
+        "en": "Proposes a novel and general mechanism for controlling exciton transport with clear physical insight and timely relevance to 2D materials and twistronics."
+      }
+    },
+    "keywords": [
+      "Valley-layer coupling",
+      "Exciton transport",
+      "TiSiCo",
+      "Förster coupling",
+      "Twisted bilayer"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-17T10:20:42",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.18398v1",
+    "title": "Altermagnetic Magnons in Dipolar Nanomagnet Arrays",
+    "authors": [
+      "Rhea Hoyer",
+      "Ephraim Spindler",
+      "Lukas Körber",
+      "Tobias Wagner",
+      "Mathias Weiler",
+      "Alexander Mook"
+    ],
+    "abstract": "Altermagnetism is conventionally understood in a spin-conserving framework, where symmetry-enforced momentum-dependent spin splitting emerges in collinear magnets with vanishing net magnetization. Here, we show that its defining signatures persist in nanomagnet arrays coupled exclusively by dipolar interactions, despite the intrinsic breaking of spin conservation. Using a macrospin theory of dipolar-coupled ferromagnetic nanoislands, corroborated by micromagnetic simulations, we demonstrate that arrays engineered with altermagnetic symmetries exhibit spin-split magnon bands whose eigenstates can partially remain strongly spin polarized. The resulting spin expectation value displays the characteristic $d$-wave pattern throughout the Brillouin zone, establishing a mesoscopic realization of altermagnetic magnons beyond the conventional spin-conserving paradigm. As a consequence, spin-wave propagation becomes strongly direction dependent, providing a highly tunable platform for anisotropic magnon transport and synthetic altermagnetic functionality.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-16T09:54:16Z",
+    "updated": "2026-09-16T09:54:16Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.18398v1",
+      "pdf_path": "data/pdfs/2026-09-17/3_Altermagnetic Magnons in Dipolar Nanomagnet Arrays__2609.18398v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-17T02:20:23.234910",
+    "updated_at": "2026-09-17T02:20:23.234904Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-17/3_Altermagnetic Magnons in Dipolar Nanomagnet Arrays__2609.18398v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.18398v1",
+    "pdf_filename": "3_Altermagnetic Magnons in Dipolar Nanomagnet Arrays__2609.18398v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明，仅通过偶极相互作用耦合的铁磁纳米岛阵列能够产生具有特征性 d 波自旋极化的合成交磁磁振子。",
+      "en": "The study demonstrates that arrays of dipolar-coupled ferromagnetic nanoislands can realize synthetic altermagnetic magnons with d-wave spin polarization."
+    },
+    "problem": {
+      "zh": "探索传统上依赖自旋守恒的交磁性特征，能否在仅由自旋不守恒的偶极相互作用支配的介观纳米阵列中存在。",
+      "en": "Exploring whether characteristic signatures of altermagnetism can persist in mesoscopic arrays governed solely by spin-nonconserving dipolar interactions."
+    },
+    "approach": {
+      "zh": "结合偶极耦合纳米岛阵列的宏观自旋理论与微磁学数值模拟，分析椭圆纳米岛的对称性与磁子能带结构。",
+      "en": "Combining a macrospin theory of dipolar-coupled nanoisland arrays with micromagnetic simulations to analyze symmetry and magnon band structures of elliptical nanoislands."
+    },
+    "main_takeaway": {
+      "zh": "打破自旋守恒的介观偶极耦合阵列在特定的几何对称性下，仍能产生GHz频段的交磁磁子能带裂分与动量相关的 d 波自旋极化。",
+      "en": "Even in spin-nonconserving dipolar arrays, specific geometric symmetries induce GHz-range altermagnetic magnon band splittings and momentum-dependent d-wave spin polarization."
+    },
+    "why_it_matters": {
+      "zh": "该研究将交磁性概念从原子晶体拓展至人工介观超材料，为设计各向异性磁子传输与GHz微波器件提供了高度可调的新平台。",
+      "en": "It extends altermagnetism from atomic crystals to mesoscopic metamaterials, providing a highly tunable platform for anisotropic magnon transport and GHz devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在无自旋守恒的纯偶极耦合介观系统中验证了交磁磁振子的存在，拓展了交磁性的物理内涵与应用载体。",
+        "en": "It proves for the first time that pure dipolar interactions can generate altermagnetic magnons at the mesoscopic scale, expanding the scope of altermagnetism."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文提出了关于合成交磁性的全新理论机制并给出微磁学验证，概念新颖且篇幅紧凑，符合PRL的选题要求。",
+        "en": "The paper introduces a novel theoretical concept of synthetic altermagnetism backed by micromagnetic simulations, matching PRL standards."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "magnonics",
+      "dipolar interaction",
+      "nanoisland array",
+      "spin splitting"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-17T10:20:53",
+    "input_scope": "full_pdf_text"
+  }
+}
