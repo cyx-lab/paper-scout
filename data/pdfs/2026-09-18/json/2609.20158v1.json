@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.20158v1",
+    "title": "Plasmons in twisted bilayer graphene across dispersive and flat bands",
+    "authors": [
+      "Antonio Palamara",
+      "Michele Pisarra",
+      "Antonello Sindona"
+    ],
+    "abstract": "The dynamical dielectric response of twisted bilayer graphene is explored in large-angle dispersive-band and small-angle quasi-flat-band regimes using time-dependent density-functional theory within the random-phase approximation. At the reference bilayer-graphene interlayer distance, weak coupling in the largest-angle structures preserves Dirac dispersions and the intrinsic $π$ plasmon. Electron doping activates a two-dimensional Dirac plasmon with energies obeying approximate geometric twist-angle scaling, while acoustic-like branches remain embedded in the single-particle continuum. The prohibitively large first-magic-angle supercell is represented by a tractable cell with its interlayer separation reduced to the angle-dependent magic distance, where four quasi-flat bands emerge around the Fermi level. Their partial occupation produces a dispersive low-energy plasmon-like excitation without a clear dielectric zero at resonance. A distinct interband plasmon is instead identified, supported by transitions involving the quasi-flat manifold and neighboring high-density-of-states regions. Band-energy rescaling places its characteristic energy in the mid-infrared range of interband collective excitations measured near the magic angle.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-17T12:48:15Z",
+    "updated": "2026-09-17T12:48:15Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist-angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.20158v1",
+      "pdf_path": "data/pdfs/2026-09-18/3_Plasmons in twisted bilayer graphene across dispersive and flat bands__2609.20158v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-18T02:06:06.332401",
+    "updated_at": "2026-09-18T02:06:06.332394Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-18/3_Plasmons in twisted bilayer graphene across dispersive and flat bands__2609.20158v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.20158v1",
+    "pdf_filename": "3_Plasmons in twisted bilayer graphene across dispersive and flat bands__2609.20158v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文利用含时密度泛函理论研究了扭转双层石墨烯在色散带和准平带体系中的介电响应与等离激元特性。",
+      "en": "This paper investigates the dielectric response and plasmonic excitations in twisted bilayer graphene across dispersive and flat-band regimes using time-dependent density-functional theory."
+    },
+    "problem": {
+      "zh": "在原子尺度上理解扭转双层石墨烯从大角度色散带到小角度魔角准平带演化过程中的集体电荷激发机制。",
+      "en": "Understanding the collective charge excitation mechanisms in twisted bilayer graphene as it evolves from large-angle dispersive bands to small-angle quasi-flat bands at the atomistic level."
+    },
+    "approach": {
+      "zh": "采用基于第一性原理的含时密度泛函理论（TDDFT）及随机相近似（RPA），对比研究了不同扭转角和层间距下的电子能量损失谱。",
+      "en": "Employing first-principles time-dependent density-functional theory (TDDFT) within the random-phase approximation (RPA) to compare electron energy-loss spectra across different twist angles and interlayer distances."
+    },
+    "main_takeaway": {
+      "zh": "大角度体系表现出类石墨烯的狄拉克等离激元，而魔角附近的准平带体系则展现出由带间跃迁主导的独特光学等离激元模式。",
+      "en": "Large-angle systems exhibit graphene-like Dirac plasmons, whereas quasi-flat-band systems near the magic angle display distinct optical plasmon modes driven by interband transitions."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解魔角扭转双层石墨烯中电子关联效应及潜在的等离激元介导超导机制提供了微观动力学基础。",
+      "en": "This study provides a microscopic dynamical foundation for understanding electronic correlations and potential plasmon-mediated superconductivity in magic-angle twisted bilayer graphene."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过第一性原理计算明确了不同扭转角下等离激元模式的演化规律，澄清了准平带中集体激发的物理本质。",
+        "en": "It clarifies the evolution of plasmon modes across different twist angles and identifies the physical nature of collective excitations in quasi-flat bands using first-principles calculations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表此类第一性原理计算及等离激元动力学研究的标准平台。",
+        "en": "This journal is the standard venue for first-principles calculations and plasmonic dynamics research in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "twisted bilayer graphene",
+      "plasmonics",
+      "TDDFT",
+      "flat bands",
+      "dielectric response"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-18T10:07:26",
+    "input_scope": "full_pdf_text"
+  }
+}

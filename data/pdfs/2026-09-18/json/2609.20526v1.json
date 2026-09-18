@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.20526v1",
+    "title": "Multiconfigurational Analysis of Local Electronic Structure of $\\mathrm{RuO_2}$ Using Relativistic Embedded Clusters",
+    "authors": [
+      "Zhosan I. A.",
+      "Lomachuk Yu. V.",
+      "Maltsev D. A.",
+      "Moiseev I. A.",
+      "Andreev O. Yu"
+    ],
+    "abstract": "We present a multiconfigurational, relativistic embedded-cluster study of the local electronic structure of ruthenium dioxide ($\\mathrm{RuO_2}$), a candidate altermagnetic material. Starting from free $\\mathrm{Ru}$ ions, we progressively build up the local environment through a $\\mathrm{Ru+Q_6}$ electrostatic model, a bare $\\mathrm{[RuO_6]^{8-}}$ ligand model, and finally a high-accuracy $\\mathrm{RuO_6}$@CTEP embedded cluster that reproduces the crystalline surroundings. All systems are treated at the SA-CASSCF and NEVPT2+SOC levels of theory to capture strong electron correlation and spin-orbit coupling on an equal footing. While the formal local site symmetry of the $\\mathrm{Ru}$ sites in $\\mathrm{RuO_2}$ is orthorhombic ($D_{2h}$), we find that the calculated $4d$-orbital energy spectrum and its splitting pattern behave much closer to the higher tetragonal ($D_{4h}$) symmetry, preserving a strong quasi-degeneracy among the relevant $4d$ orbitals. Since the local $xy$ quadrupolar order responsible for altermagnetic spin splitting in independent-particle models relies on this symmetry reduction, its suppression by orbital quasi-degeneracy offers a natural explanation for why altermagnetism is not observed in bulk $\\mathrm{RuO_2}$ experiments, in contrast to the robust altermagnetic signatures reported in strained thin films.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-17T15:02:59Z",
+    "updated": "2026-09-17T15:02:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.20526v1",
+      "pdf_path": "data/pdfs/2026-09-18/3_Multiconfigurational Analysis of Local Electronic Structure of $mathrm{RuO_2}$ Using Relativistic Embedded Clusters__2609.20526v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-18T02:06:06.331672",
+    "updated_at": "2026-09-18T02:06:06.331664Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-18/3_Multiconfigurational Analysis of Local Electronic Structure of $mathrm{RuO_2}$ Using Relativistic Embedded Clusters__2609.20526v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.20526v1",
+    "pdf_filename": "3_Multiconfigurational Analysis of Local Electronic Structure of $mathrm{RuO_2}$ Using Relativistic Embedded Clusters__2609.20526v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过多构型嵌入簇计算揭示了RuO2中轨道准简并性对反铁磁性（altermagnetism）的抑制作用。",
+      "en": "Multiconfigurational embedded-cluster calculations reveal that orbital quasi-degeneracy suppresses altermagnetism in bulk RuO2."
+    },
+    "problem": {
+      "zh": "RuO2中是否存在反铁磁性存在实验争议，且传统DFT方法难以准确描述其强电子关联和局部对称性。",
+      "en": "The existence of altermagnetism in RuO2 is experimentally debated, and standard DFT methods struggle to capture strong electron correlation and local symmetry."
+    },
+    "approach": {
+      "zh": "采用多构型自洽场（CASSCF）和二阶微扰理论（NEVPT2），结合复合可调嵌入势（CTEP）方法处理RuO2的局部电子结构。",
+      "en": "Used multiconfigurational CASSCF and NEVPT2 methods combined with the Compound-Tunable Embedding Potential (CTEP) to model the local electronic structure of RuO2."
+    },
+    "main_takeaway": {
+      "zh": "RuO2的局部电子结构表现出接近四方对称性（D4h）的强轨道准简并，这抑制了反铁磁性所需的四极矩序，解释了为何块体材料中难以观测到该效应。",
+      "en": "The local electronic structure of RuO2 exhibits strong orbital quasi-degeneracy closer to tetragonal (D4h) symmetry, which suppresses the quadrupolar order required for altermagnetism, explaining its absence in bulk samples."
+    },
+    "why_it_matters": {
+      "zh": "该研究通过高精度从头算方法澄清了RuO2磁性基态的争议，并指出应变工程是调控其反铁磁性的关键。",
+      "en": "This study clarifies the controversy over the magnetic ground state of RuO2 using high-accuracy ab initio methods and highlights strain engineering as a key to tuning its altermagnetic properties."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过高精度计算解释了实验观测结果的矛盾，为理解RuO2的反铁磁性提供了理论依据。",
+        "en": "The study resolves experimental contradictions through high-accuracy calculations, providing a theoretical basis for understanding altermagnetism in RuO2."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表此类电子结构与磁性机制研究的标准平台。",
+        "en": "This journal is the standard venue for research on electronic structure and magnetic mechanisms in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "RuO2",
+      "altermagnetism",
+      "multiconfigurational analysis",
+      "orbital quasi-degeneracy",
+      "embedded cluster"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-18T10:07:50",
+    "input_scope": "full_pdf_text"
+  }
+}

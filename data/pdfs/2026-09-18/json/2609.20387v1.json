@@ -1,0 +1,122 @@
+{
+  "paper_record": {
+    "id": "2609.20387v1",
+    "title": "Ultralow-Tensile Strain Enables Exciton Funneling and Energy Transfer to Boost MoSe2 Photoluminescence Quantum Yield",
+    "authors": [
+      "Gayatri",
+      "Mehdi Arfaoui",
+      "Debashish Das",
+      "Mateusz Raczyński",
+      "Marta Bilska",
+      "Piotr Tatarczak",
+      "Aleksandra Krystyna Dąbrowska",
+      "Tomasz Kazimierczuk",
+      "Takashi Taniguchi",
+      "Kenji Watanabe",
+      "Piotr Kossacki",
+      "Andrzej Wysmołek",
+      "Saroj Kumar Nayak",
+      "Adam Babiński",
+      "Johannes Binder",
+      "Maciej R. Molas",
+      "Arka Karmakar"
+    ],
+    "abstract": "Strain engineering is a powerful route for controlling the exciton dynamics in van der Waals (vdW) heterostructures (HSs). The interlayer energy transfer (ET) process is another key factor in controlling the photocarrier relaxation pathways in vdW HSs. In this work, we combine these two processes to achieve an 8-fold enhancement to the relative photoluminescence (PL) quantum yield (QY) in a HS formed from monolayers of ReS2 and MoSe2, separated by a thin hBN interlayer, placed onto an hBN bubble. We achieve this enhancement by applying only 0.1% biaxial tensile strain, which results in efficient exciton funneling and an increased transition dipole moment. Our experimental data are supported by first-principles density-functional theory and coherent transfer-matrix method calculations, ruling out optical interference as the dominant origin of the enhancement. This work provides an innovative route for enhancing the PL QY of vdW materials via interplay between the tensile strain and the ET process.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-17T13:40:58Z",
+    "updated": "2026-09-17T13:40:58Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.20387v1",
+      "pdf_path": "data/pdfs/2026-09-18/3_Ultralow-Tensile Strain Enables Exciton Funneling and Energy Transfer to Boost MoSe2 Photoluminescence Quantum Yield__2609.20387v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-18T02:06:06.332204",
+    "updated_at": "2026-09-18T02:06:06.332196Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-18/3_Ultralow-Tensile Strain Enables Exciton Funneling and Energy Transfer to Boost MoSe2 Photoluminescence Quantum Yield__2609.20387v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.20387v1",
+    "pdf_filename": "3_Ultralow-Tensile Strain Enables Exciton Funneling and Energy Transfer to Boost MoSe2 Photoluminescence Quantum Yield__2609.20387v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过在 ReS2/hBN/MoSe2 异质结中引入微小拉伸应变，实现了激子漏斗效应并显著提升了光致发光量子产率。",
+      "en": "Ultralow tensile strain in ReS2/hBN/MoSe2 heterostructures enables exciton funneling and enhances photoluminescence quantum yield by approximately 8-fold."
+    },
+    "problem": {
+      "zh": "如何通过应变工程和层间能量转移来调控范德华异质结中的激子动力学，以提升光电器件的光致发光效率。",
+      "en": "How to control exciton dynamics in van der Waals heterostructures via strain engineering and interlayer energy transfer to improve photoluminescence efficiency."
+    },
+    "approach": {
+      "zh": "将异质结转移至六方氮化硼（hBN）气泡上产生约 0.1% 的双轴拉伸应变，结合光致发光光谱、拉曼光谱、第一性原理计算及传输矩阵模拟进行分析。",
+      "en": "Applying ~0.1% biaxial tensile strain via hBN bubbles in a ReS2/hBN/MoSe2 heterostructure, supported by PL/Raman spectroscopy, DFT calculations, and transfer-matrix modeling."
+    },
+    "main_takeaway": {
+      "zh": "仅 0.1% 的微小拉伸应变即可通过激子漏斗效应和增强的偶极-偶极耦合，将 MoSe2 的相对光致发光量子产率提升约 8 倍。",
+      "en": "A minimal ~0.1% tensile strain induces exciton funneling and enhances dipole-dipole coupling, leading to an ~8-fold increase in the relative photoluminescence quantum yield of MoSe2."
+    },
+    "why_it_matters": {
+      "zh": "证明了微小应变是调控范德华材料光电性能的一种高效、可控且实用的手段，为高性能光子器件设计提供了新思路。",
+      "en": "It demonstrates that ultralow strain is a practical and controllable route for tuning optoelectronic properties, providing a new strategy for high-performance photonic device design."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了微小应变如何通过激子漏斗和能量转移机制协同提升发光效率，并排除了光学干涉的影响。",
+        "en": "It clarifies how minimal strain synergistically enhances emission via exciton funneling and energy transfer, while ruling out optical interference as the primary cause."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论+数值模拟",
+      "en": "Experimental + Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "ACS Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊高度关注范德华异质结的光学特性、应变工程及激子动力学研究。",
+        "en": "The journal focuses heavily on optical properties, strain engineering, and exciton dynamics in van der Waals heterostructures."
+      }
+    },
+    "keywords": [
+      "van der Waals heterostructures",
+      "strain engineering",
+      "exciton funneling",
+      "energy transfer",
+      "photoluminescence"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-18T10:07:30",
+    "input_scope": "full_pdf_text"
+  }
+}

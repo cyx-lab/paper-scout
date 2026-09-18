@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2609.19941v1",
+    "title": "Power-Bandwidth Scaling of Resonantly Coupled Soliton Microcombs",
+    "authors": [
+      "Xinrui Luo",
+      "Kaixuan Zhu",
+      "Yuanlei Wang",
+      "Yinke Cheng",
+      "Haoyang Luo",
+      "Junqi Wang",
+      "Yiwen Yang",
+      "Zhenyu Xie",
+      "Bei-Bei Li",
+      "Qihuang Gong",
+      "Qi-Fan Yang"
+    ],
+    "abstract": "A soliton microcomb requires increasing pump power as its optical bandwidth is broadened. Resonant pumping through an auxiliary microresonator can reduce the power required to sustain a soliton, but simultaneously increases the power required for soliton formation. We show that this competition leads to optimal inter-resonator coupling, and the predicted minimum input pump power scales as the two-thirds power of the comb bandwidth, in contrast to the quadratic scaling under direct pumping. Experiments support the opposing power trends, providing a design rule for power-efficient, ultra-broadband soliton microcombs.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-09-17T09:16:04Z",
+    "updated": "2026-09-17T09:16:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.19941v1",
+      "pdf_path": "data/pdfs/2026-09-18/2_Power-Bandwidth Scaling of Resonantly Coupled Soliton Microcombs__2609.19941v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-18T02:06:06.332868",
+    "updated_at": "2026-09-18T02:06:06.332859Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-18/2_Power-Bandwidth Scaling of Resonantly Coupled Soliton Microcombs__2609.19941v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.19941v1",
+    "pdf_filename": "2_Power-Bandwidth Scaling of Resonantly Coupled Soliton Microcombs__2609.19941v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种通过辅助谐振器实现孤子微梳功率高效扩展的设计规则，将泵浦功率与带宽的缩放关系从二次方优化至三次方。",
+      "en": "This paper presents a design rule for power-efficient soliton microcomb scaling using an auxiliary resonator, improving the power-bandwidth scaling from quadratic to two-thirds power."
+    },
+    "problem": {
+      "zh": "传统直接泵浦方案中，孤子微梳的带宽扩展需要极高的泵浦功率，其缩放关系呈二次方增长，限制了超宽带微梳的实现。",
+      "en": "In conventional direct pumping, the pump power required to broaden the soliton microcomb bandwidth scales quadratically, limiting the realization of ultra-broadband microcombs."
+    },
+    "approach": {
+      "zh": "引入辅助谐振器与非线性谐振器耦合，通过动态调节耦合强度和共振频率，平衡孤子形成与维持所需的泵浦功率。",
+      "en": "Introducing an auxiliary resonant coupler coupled to the nonlinear resonator and dynamically tuning the coupling strength and resonance frequencies to balance the pump power requirements for soliton formation and sustainment."
+    },
+    "main_takeaway": {
+      "zh": "通过优化谐振耦合，孤子微梳的最小泵浦功率与带宽的缩放关系可优化至三分之二次方，显著降低了宽带微梳的功率需求。",
+      "en": "By optimizing resonant coupling, the minimum pump power for soliton microcombs scales as the two-thirds power of the bandwidth, significantly reducing power requirements for broadband operation."
+    },
+    "why_it_matters": {
+      "zh": "该方法为实现片上超宽带、高相干性频率梳提供了低功耗设计准则，对于光钟、精密测量和微波合成等应用具有重要价值。",
+      "en": "This approach provides a low-power design rule for on-chip ultra-broadband, coherent frequency combs, which is critical for applications like optical clocks, precision metrology, and microwave synthesis."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作通过理论与实验结合，解决了微梳带宽扩展中的核心功率瓶颈，并给出了明确的设计规则。",
+        "en": "This work combines theory and experiment to solve the core power bottleneck in microcomb bandwidth expansion and provides clear design rules."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域的高水平研究，且论文展示了完整的理论模型、数值模拟与实验验证。",
+        "en": "High-level research in this field, featuring a complete theoretical model, numerical simulations, and experimental validation."
+      }
+    },
+    "keywords": [
+      "孤子微梳",
+      "非线性光学",
+      "谐振耦合",
+      "功率缩放",
+      "光频梳"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-18T10:06:59",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2609.20471v1",
+    "title": "Disorder-induced modulation of the nonlinear Hall effect in Weyl semimetals",
+    "authors": [
+      "Juan A. Cañas",
+      "Daniel A. Bonilla",
+      "A. Martín-Ruiz"
+    ],
+    "abstract": "We study the effects of impurity scattering on the nonlinear Hall response of Weyl semimetals within the semiclassical Boltzmann approach. We derive the rectified and second-harmonic conductivity tensors for a general momentum-dependent transport relaxation time and evaluate this quantity microscopically for short-range, Gaussian, screened Coulomb, and magnetic impurities. For scalar disorder, the relaxation time is isotropic and chirality independent. The nonlinear Hall response is then determined by the anomalous velocity associated with the Berry curvature, and a finite net response requires energetically inequivalent Weyl nodes to avoid cancellation between opposite chiralities. Polarized magnetic impurities lead to a qualitatively different behavior. We find that interference between the first- and second-order Born amplitudes generates a helicity-dependent anisotropic correction to the relaxation time. This anisotropy changes the tensor structure of the nonlinear Hall conductivity and gives rise to a finite second-harmonic current for suitable orientations of the electric field relative to the impurity polarization. For representative parameters, however, the anisotropic contribution is several orders of magnitude smaller than the dominant isotropic response. These results establish how the microscopic form of impurity scattering enters the nonlinear Hall response of Weyl semimetals through the transport relaxation time.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.dis-nn",
+      "cond-mat.mtrl-sci",
+      "cond-mat.other"
+    ],
+    "published": "2026-09-17T14:28:37Z",
+    "updated": "2026-09-17T14:28:37Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:nonlinear Hall",
+        "quantum_geometry:nonlinear Hall effect"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.20471v1",
+      "pdf_path": "data/pdfs/2026-09-18/3_Disorder-induced modulation of the nonlinear Hall effect in Weyl semimetals__2609.20471v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-18T02:06:06.331959",
+    "updated_at": "2026-09-18T02:06:06.331951Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-18/3_Disorder-induced modulation of the nonlinear Hall effect in Weyl semimetals__2609.20471v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.20471v1",
+    "pdf_filename": "3_Disorder-induced modulation of the nonlinear Hall effect in Weyl semimetals__2609.20471v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了杂质散射对Weyl半金属非线性霍尔效应的影响，揭示了弛豫时间在其中的核心作用。",
+      "en": "This paper investigates the effects of impurity scattering on the nonlinear Hall response of Weyl semimetals, highlighting the central role of the transport relaxation time."
+    },
+    "problem": {
+      "zh": "Weyl半金属中非线性霍尔响应的微观机制尚不明确，特别是杂质散射如何通过动量依赖的弛豫时间影响该响应。",
+      "en": "The microscopic mechanisms underlying the nonlinear Hall response in Weyl semimetals remain unclear, specifically how impurity scattering influences this response through a momentum-dependent relaxation time."
+    },
+    "approach": {
+      "zh": "基于半经典玻尔兹曼输运理论，将杂质散射效应完全编码在动量依赖的输运弛豫时间中，并针对不同杂质模型（标量与磁性）进行了微观计算。",
+      "en": "Using the semiclassical Boltzmann transport framework, the effects of impurity scattering are encoded entirely into a momentum-dependent transport relaxation time, evaluated microscopically for various impurity models (scalar and magnetic)."
+    },
+    "main_takeaway": {
+      "zh": "非线性霍尔响应由几何Berry曲率和微观弛豫时间共同决定；磁性杂质引入了各向异性弛豫，但其对响应的修正量级极小。",
+      "en": "The nonlinear Hall response is determined by both the geometric Berry curvature and the microscopic relaxation time; magnetic impurities introduce anisotropic relaxation, though their correction to the response is numerically small."
+    },
+    "why_it_matters": {
+      "zh": "该工作建立了一个统一框架，能够系统分析不同杂质类型对拓扑半金属非线性输运的影响，为实验观测提供了理论基础。",
+      "en": "This work establishes a unified framework to systematically analyze the impact of different impurity types on the nonlinear transport of topological semimetals, providing a theoretical basis for experimental observations."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过严谨的半经典推导，澄清了杂质散射在非线性霍尔效应中的具体作用机制。",
+        "en": "The paper clarifies the specific mechanism of impurity scattering in the nonlinear Hall effect through rigorous semiclassical derivation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表此类输运理论研究的标准场所。",
+        "en": "This journal is the standard venue for publishing such transport theory research in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "Weyl semimetals",
+      "Nonlinear Hall effect",
+      "Boltzmann transport",
+      "Impurity scattering",
+      "Berry curvature"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-18T10:07:40",
+    "input_scope": "full_pdf_text"
+  }
+}

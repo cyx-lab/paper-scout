@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.20767v1",
+    "title": "Spacetime Dynamics of Altermagnetic Magnons",
+    "authors": [
+      "Ali Emami Kopaei",
+      "Karthik Subramaniam Eswaran",
+      "Krzysztof Wohlfeld"
+    ],
+    "abstract": "Distinguishing altermagnetism from conventional ferromagnetism and antiferromagnetism typically relies on momentum-space probes. Here, we show that the real-space spreading of a localized spin excitation provides a distinctive dynamical fingerprint of altermagnetic order. Using linear spin-wave theory on a two-dimensional checkerboard lattice with nearest-neighbor and next-nearest-neighbor couplings J_1 and J_2, we demonstrate that finite J_2 produces direction-dependent magnon group velocities and splits the two magnon branches. The resulting propagation remains closer to that of an antiferromagnet than a ferromagnet, retaining an approximately circular outer wavefront, while the direction-dependent magnon velocities produce a pronounced cross-like spatial structure inside this front. We further show that changing the sign of J_2 to enter the unfrustrated regime (J_2<0) increases the characteristic propagation velocities and interchanges the diagonal directions of enhanced propagation, corresponding to a pi/2 rotation of the anisotropic spatial pattern. These results establish spacetime dynamics as a complementary probe of altermagnetic magnons, providing a route to identifying unconventional magnetic order through real-space propagation patterns in solid-state and synthetic quantum systems.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci",
+      "cond-mat.quant-gas"
+    ],
+    "published": "2026-09-17T17:46:01Z",
+    "updated": "2026-09-17T17:46:01Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.20767v1",
+      "pdf_path": "data/pdfs/2026-09-18/3_Spacetime Dynamics of Altermagnetic Magnons__2609.20767v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-18T02:06:06.331244",
+    "updated_at": "2026-09-18T02:06:06.331231Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-18/3_Spacetime Dynamics of Altermagnetic Magnons__2609.20767v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.20767v1",
+    "pdf_filename": "3_Spacetime Dynamics of Altermagnetic Magnons__2609.20767v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了交错磁体（altermagnet）中局域自旋激发在实空间的动力学特征，即通过实空间传播模式可区分其与铁磁体和反铁磁体。",
+      "en": "This paper demonstrates that the real-space spreading of localized spin excitations provides a distinctive dynamical fingerprint for identifying altermagnetic order."
+    },
+    "problem": {
+      "zh": "交错磁体虽具有非零自旋劈裂，但其磁矩为零，传统的动量空间探测手段（如 ARPES）在强关联体系中面临挑战，且缺乏实空间动力学特征的系统研究。",
+      "en": "Altermagnets lack net magnetization and are difficult to probe via conventional momentum-space techniques in correlated systems, necessitating complementary real-space dynamical signatures."
+    },
+    "approach": {
+      "zh": "基于二维棋盘格海森模型，利用线性自旋波理论计算局域自旋翻转激发后的实空间密度演化，并分析不同交换耦合参数下的传播模式。",
+      "en": "Using linear spin-wave theory on a 2D checkerboard Heisenberg lattice, the authors calculate the real-space density evolution of a single-site spin-flip excitation to analyze propagation patterns."
+    },
+    "main_takeaway": {
+      "zh": "交错磁体中自旋激发的实空间传播呈现出“反铁磁状的圆形波前”与“内部十字形各向异性结构”共存的特征，且该结构随交换耦合参数的变化而旋转。",
+      "en": "Altermagnetic magnons exhibit a characteristic real-space signature: a circular outer wavefront (resembling antiferromagnets) with a direction-dependent, cross-like internal structure that rotates with exchange parameters."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在实空间（如量子气体显微镜或超快光谱）中识别交错磁序提供了理论依据，补充了动量空间探测的不足。",
+      "en": "It establishes real-space dynamics as a powerful, complementary probe for altermagnetism, bridging the gap between momentum-space spectroscopy and real-time imaging in quantum simulators."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作明确了交错磁体中自旋动力学的实空间表现，为实验观测提供了清晰的理论指引。",
+        "en": "The work clarifies the real-space manifestation of altermagnetic spin dynamics, providing clear theoretical guidance for experimental observations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于自旋波理论和磁性材料的动力学性质，符合 PRB 的研究范畴。",
+        "en": "The paper focuses on spin-wave theory and dynamical properties of magnetic materials, which fits the scope of PRB."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "magnon dynamics",
+      "spin-wave theory",
+      "real-space propagation",
+      "checkerboard lattice"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-18T10:07:57",
+    "input_scope": "full_pdf_text"
+  }
+}

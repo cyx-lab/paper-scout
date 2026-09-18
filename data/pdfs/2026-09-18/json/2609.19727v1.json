@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2609.19727v1",
+    "title": "Vortex-mediated spin current injection into two-dimensional superconductor NbSe2",
+    "authors": [
+      "Meng Yang",
+      "Xiaolong Yin",
+      "Jingjing Liu",
+      "Yifeng Chen",
+      "Qinwu Gao",
+      "Hongxing Zhu",
+      "Danni Huang",
+      "Lang Chen",
+      "Shuo-Ying Yang",
+      "Junxue Li"
+    ],
+    "abstract": "Injection of pure spin current into superconductors remains a major challenge in superconducting spintronics. Previous studies have primarily focused on spin-polarized quasiparticles and spin-triplet supercurrents, while vortices, ubiquitous topological defects in type-2 superconductors, have been theoretically proposed as alternative carriers of spin angular momentum, yet direct experimental evidence is still lacking. Here, we report the vortex-mediated spin current injection in NbSe2/LiAl2Fe3O8(LAFO) bilayer, an Ising superconductor/ferrimagnetic insulator heterostructure. Under an out-of-plane temperature gradient and an in-plane magnetic field, the NbSe2/LAFO bilayer shows a pronounced thermoelectric peak near the upper critical magnetic field, which has the opposite sign to the conventional vortex Nernst signal observed in a single-layer NbSe2. The sign reversal suggests that the vortex flow induced by spin current injection is opposite to the flow driven by the temperature gradient, which is consistent with theoretical mechanisms including spin-vorticity transmutation and the inverse vortex spin Hall effect. By mapping the field temperature phase diagram, we reveal that the spin current injection occurs exclusively in the vortex liquid phase of NbSe2. Absence of the thermoelectric signal above the superconducting transition temperature further rules out the quasiparticle contribution. Our results establish vortices as efficient carriers of spin information in superconductors, opening a new route towards vortex-mediated superconducting spintronic devices.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-17T05:35:29Z",
+    "updated": "2026-09-17T05:35:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.19727v1",
+      "pdf_path": "data/pdfs/2026-09-18/2_Vortex-mediated spin current injection into two-dimensional superconductor NbSe2__2609.19727v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-18T02:06:06.333333",
+    "updated_at": "2026-09-18T02:06:06.333325Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-18/2_Vortex-mediated spin current injection into two-dimensional superconductor NbSe2__2609.19727v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.19727v1",
+    "pdf_filename": "2_Vortex-mediated spin current injection into two-dimensional superconductor NbSe2__2609.19727v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在超导体/铁磁绝缘体异质结中，实验证实了涡旋可以作为自旋电流的载体，并表现出与热驱动涡旋运动相反的电热响应。",
+      "en": "Experimental demonstration of vortex-mediated spin current injection in superconductor/ferromagnetic insulator heterostructures, evidenced by a sign-reversed thermoelectric response compared to the conventional vortex Nernst effect."
+    },
+    "problem": {
+      "zh": "在超导体中实现长距离自旋传输具有挑战性，且涡旋作为自旋角动量载体的实验证据尚不明确。",
+      "en": "Realizing long-distance spin transport in superconductors is challenging, and direct experimental evidence for vortices as carriers of spin angular momentum is lacking."
+    },
+    "approach": {
+      "zh": "构建NbSe2/LAFO异质结，通过施加面外温度梯度和面内磁场，对比测量其与纯NbSe2薄膜的电热响应（Nernst效应）。",
+      "en": "Fabricating NbSe2/LAFO heterostructures and comparing their thermoelectric response (Nernst effect) with pristine NbSe2 thin films under an out-of-plane temperature gradient and in-plane magnetic field."
+    },
+    "main_takeaway": {
+      "zh": "在涡旋液体态下，注入的自旋电流会驱动涡旋运动，产生与热驱动涡旋运动符号相反的电热信号，证明了涡旋可作为高效的自旋信息载体。",
+      "en": "In the vortex liquid state, injected spin current drives vortex motion, producing a thermoelectric signal with opposite polarity to the thermally driven vortex Nernst effect, establishing vortices as efficient spin information carriers."
+    },
+    "why_it_matters": {
+      "zh": "该发现为超导自旋电子学开辟了新路径，利用涡旋的拓扑稳定性和高迁移率实现低耗散的自旋信息传输。",
+      "en": "This finding opens a new route for superconducting spintronics, utilizing the topological stability and high mobility of vortices for low-dissipation spin information transport."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次提供了涡旋介导自旋电流注入的明确实验证据，填补了该领域的重要空白。",
+        "en": "Provides the first clear experimental evidence for vortex-mediated spin current injection, filling a significant gap in the field."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作涉及超导与自旋电子学的交叉前沿，具有较高的物理深度和实验创新性。",
+        "en": "The work addresses a frontier intersection of superconductivity and spintronics with high physical depth and experimental innovation."
+      }
+    },
+    "keywords": [
+      "超导自旋电子学",
+      "涡旋动力学",
+      "NbSe2",
+      "自旋电流注入",
+      "Nernst效应"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-18",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-18T10:06:30",
+    "input_scope": "full_pdf_text"
+  }
+}
