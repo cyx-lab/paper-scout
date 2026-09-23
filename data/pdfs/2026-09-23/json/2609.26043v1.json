@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2609.26043v1",
+    "title": "Surface-bulk hybridization enhances the Berry curvature dipole in GaAs(110)",
+    "authors": [
+      "Gastón Blatter",
+      "Jorge I. Facio",
+      "Jeroen van den Brink"
+    ],
+    "abstract": "Symmetry breaking at crystalline boundaries can enable electronic responses that are forbidden in the bulk. Here, we investigate the Berry curvature dipole (BCD) at GaAs(110) surfaces using first-principles calculations. While the BCD vanishes in bulk GaAs due to symmetry constraints, the reduced surface symmetry permits a finite dipole. We show that surface relaxation promotes hybridization between bulk and surface states, which strongly influences the surface BCD. Specifically, in unrelaxed slabs, the BCD arises predominantly from interband coupling among exponentially localized surface states lying within the projected bulk band gap. Surface relaxation shifts these states into the energy range of the bulk continuum, transforming them into surface resonances and promoting hybridization with bulk-like states. This hybridization generates pronounced Berry-curvature hot spots, resulting in an overall enhancement of the BCD. Our results highlight the importance of surface relaxation for accurately describing surface--bulk hybridization, which in turn plays a key role in Berry-curvature-driven responses at crystalline boundaries.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-22T11:47:30Z",
+    "updated": "2026-09-22T11:47:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.26043v1",
+      "pdf_path": "data/pdfs/2026-09-23/3_Surface-bulk hybridization enhances the Berry curvature dipole in GaAs(110)__2609.26043v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-23T02:20:48.461191",
+    "updated_at": "2026-09-23T02:20:48.461184Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-23/3_Surface-bulk hybridization enhances the Berry curvature dipole in GaAs(110)__2609.26043v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.26043v1",
+    "pdf_filename": "3_Surface-bulk hybridization enhances the Berry curvature dipole in GaAs(110)__2609.26043v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现 GaAs(110) 表面弛豫通过促进表面态与体态的杂化，显著增强了 Berry 曲率偶极矩。",
+      "en": "Surface relaxation in GaAs(110) enhances the Berry curvature dipole by promoting hybridization between surface states and bulk-like states."
+    },
+    "problem": {
+      "zh": "体相 GaAs 因对称性限制导致 Berry 曲率偶极矩为零，需探索表面对称性破缺如何诱导并调控非线性霍尔效应。",
+      "en": "The Berry curvature dipole vanishes in bulk GaAs due to symmetry constraints, necessitating an investigation into how surface symmetry breaking can induce and tune nonlinear Hall responses."
+    },
+    "approach": {
+      "zh": "利用第一性原理计算和 Wannier 函数投影方法，对比分析了 GaAs(110) 表面在弛豫与未弛豫状态下的电子结构及 Berry 曲率贡献。",
+      "en": "Using first-principles calculations and a Wannier function projection scheme, the authors compared the electronic structure and Berry curvature contributions of GaAs(110) surfaces in both unrelaxed and relaxed configurations."
+    },
+    "main_takeaway": {
+      "zh": "表面弛豫将表面态移入体能带连续谱，诱导强烈的表面-体态杂化，从而在动量空间产生 Berry 曲率热点并大幅增强偶极矩。",
+      "en": "Surface relaxation shifts surface states into the bulk continuum, inducing strong surface-bulk hybridization that creates Berry curvature hotspots in momentum space and significantly enhances the dipole."
+    },
+    "why_it_matters": {
+      "zh": "该研究揭示了表面结构重构对拓扑输运性质的关键影响，为利用半导体表面工程调控非线性霍尔效应提供了理论依据。",
+      "en": "This work highlights the critical role of surface reconstruction in governing topological transport properties, providing a theoretical basis for tuning nonlinear Hall effects via surface engineering in semiconductors."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了表面弛豫诱导的表面-体态杂化是增强 GaAs(110) 非线性霍尔响应的微观机制。",
+        "en": "It clarifies the microscopic mechanism—surface-bulk hybridization induced by relaxation—responsible for enhancing the nonlinear Hall response in GaAs(110)."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中电子结构与拓扑输运的理论计算，符合 PRB 的发表范畴。",
+        "en": "The paper focuses on theoretical calculations of electronic structure and topological transport in condensed matter physics, which aligns well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Berry curvature dipole",
+      "GaAs(110)",
+      "surface-bulk hybridization",
+      "nonlinear Hall effect",
+      "first-principles calculations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-23T10:21:31",
+    "input_scope": "full_pdf_text"
+  }
+}

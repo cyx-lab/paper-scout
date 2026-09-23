@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2609.26632v1",
+    "title": "Berry-Landau Fermi-liquid theory: transport in presence of quantum geometry",
+    "authors": [
+      "Shuai A. Chen",
+      "Roderich Moessner"
+    ],
+    "abstract": "Landau Fermi-liquid theory characterizes interacting metals through quasiparticles and their residual interactions. It is a challenge to incorporate non-trivial quantum geometry -- as encoded by Berry phases and the quantum metric -- as a fundamental ingredient. We formulate a Berry-Landau Fermi-liquid theory for spinless fermions within an isolated band crossing the Fermi surface and derive the Landau functional through the Nozières--Luttinger construction. The instantaneous response to a perturbation of the Bloch waves generates both an anomalous Berry-connection potential in the action and an interaction-induced quantum-geometric contribution to the quasiparticle current. The conserved physical charge current is then obtained via the electromagnetic Ward identity as a combinati of this quantum-geometric current and the bare drift current. Therefore, the intrinsic anomalous Hall conductivity is fixed by the Berry-curvature integral of the dressed quasiparticle band while the Drude weight contains both conventional and quantum-geometric contributions. In the presence of Galilean symmetry, the Drude weight is protected against interaction renormalization. In the flat/narrow-band limit, transport is dominantly quantum-geometric and can be thermally enhanced. These results establish quasiparticle occupations, Landau interactions, and the quantum geometry carried by quasiparticles as the fundamental low-energy ingredients of a Berry-Landau Fermi liquid.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-22T16:06:23Z",
+    "updated": "2026-09-22T16:06:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:geometric contribution"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.26632v1",
+      "pdf_path": "data/pdfs/2026-09-23/3_Berry-Landau Fermi-liquid theory transport in presence of quantum geometry__2609.26632v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-23T02:20:48.460485",
+    "updated_at": "2026-09-23T02:20:48.460478Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-23/3_Berry-Landau Fermi-liquid theory transport in presence of quantum geometry__2609.26632v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.26632v1",
+    "pdf_filename": "3_Berry-Landau Fermi-liquid theory transport in presence of quantum geometry__2609.26632v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文建立了贝里-朗道费米液体理论，将能带量子几何自然融入朗道费米液体框架中，统一刻画了相互作用、准粒子占据与量子几何输运。",
+      "en": "The authors formulate a Berry-Landau Fermi-liquid theory that naturally integrates band quantum geometry into Landau theory, unifying interactions, quasiparticle occupations, and quantum-geometric transport."
+    },
+    "problem": {
+      "zh": "如何在包含残余相互作用的费米液体理论中自洽地引入能带量子几何，并明确量子几何与朗道相互作用对纵向及横向输运的重缀机制。",
+      "en": "How to self-consistently incorporate band quantum geometry into Fermi-liquid theory and clarify how quantum geometry and Landau interactions modify longitudinal and transverse transport."
+    },
+    "approach": {
+      "zh": "基于Nozières-Luttinger构造将相互作用多轨道模型投影至单能带，导出包含反常贝里联络势和量子几何电流的能量泛函，并结合威尔逊-狄拉克模型的有限温哈特里-福克数值计算进行验证。",
+      "en": "Projected an interacting multi-orbital model onto an isolated band via Nozières-Luttinger construction to derive the energy functional with anomalous Berry-connection potential and geometric current, validated by finite-temperature Hartree-Fock calculations on a Wilson-Dirac model."
+    },
+    "main_takeaway": {
+      "zh": "内禀反常霍尔电导完全由被重缀准粒子的贝里曲率积分决定且无朗道回流修正，而德鲁德权重则包含相互作用诱导的量子几何电流，该效应在平带或窄带中主导输运并表现出热增强特征。",
+      "en": "The intrinsic anomalous Hall conductivity is uniquely fixed by the Berry-curvature integral of the dressed quasiparticle band without backflow corrections, while the Drude weight contains an interaction-induced quantum-geometric current that dominates transport in flat/narrow bands and exhibits thermal enhancement."
+    },
+    "why_it_matters": {
+      "zh": "该工作填补了低能费米液体理论处理强量子几何系统（如摩尔纹材料和拓扑平带）的理论空白，为理解强关联拓扑输运现象提供了统一的有效微观框架。",
+      "en": "It bridges the foundational gap between Fermi-liquid theory and quantum geometry, offering a unified low-energy framework for transport in strongly correlated topological and moiré materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了朗道相互作用在横向拓扑输运与纵向量子几何输运中的不同作用机制，明确了守恒物理电流与电磁 Ward 等式的对应关系。",
+        "en": "It clarifies how interaction-induced Landau dynamics differentially affect transverse topological and longitudinal quantum-geometric transport under electromagnetic Ward identities."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "对凝聚态物理基本理论框架作出了重要扩展，形式简洁且兼具理论推导与数值验证，高度契合 Physical Review Letters 的发表标准。",
+        "en": "Extends fundamental condensed matter theory in a concise format combining analytical formulation and numerical validation, matching Physical Review Letters criteria."
+      }
+    },
+    "keywords": [
+      "Berry-Landau Fermi-liquid theory",
+      "quantum geometry",
+      "anomalous Hall effect",
+      "Drude weight",
+      "flat bands"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-23T10:33:07",
+    "input_scope": "full_pdf_text"
+  }
+}

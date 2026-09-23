@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.25613v1",
+    "title": "Momentum-Space Planar Optics for Long-Range Spin Hamiltonians",
+    "authors": [
+      "Huaqiang Li",
+      "Junxu Liu",
+      "Guangfeng Wang",
+      "Erez Hasman",
+      "Xianfeng Chen",
+      "Bo Wang"
+    ],
+    "abstract": "Evaluating spin Hamiltonians with dense, long-range interactions requires repeated global summation over many pairwise couplings, making energy evaluation costly on conventional electronic hardware. Here, we realize a planar optical architecture that evaluates such interaction energies directly in momentum space. For translationally structured couplings, the interaction kernel is encoded in the spatial transmission of a subwavelength-thick planar optical element placed in the Fourier plane. Pointwise spectral weighting followed by total-power detection reduces the quadratic spin Hamiltonian to a single optical signal, avoiding repeated digital multiply-accumulate operations during energy evaluation. We experimentally apply this approach to frustrated finite-range models and fully connected spin systems with oscillatory long-range couplings. The measured energies agree closely with numerical calculations, while optical annealing reproduces low-energy configurations and landscape statistics, reaching a normalized solution quality of 99.9%. These results establish momentum-space planar optics as a compact physical computing primitive for global-interaction problems in statistical physics and optimization.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-09-22T03:21:53Z",
+    "updated": "2026-09-22T03:21:53Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [],
+      "author_match": true,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.25613v1",
+      "pdf_path": "data/pdfs/2026-09-23/5_Momentum-Space Planar Optics for Long-Range Spin Hamiltonians__2609.25613v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-23T02:20:48.462239",
+    "updated_at": "2026-09-23T02:20:48.462231Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-23/5_Momentum-Space Planar Optics for Long-Range Spin Hamiltonians__2609.25613v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.25613v1",
+    "pdf_filename": "5_Momentum-Space Planar Optics for Long-Range Spin Hamiltonians__2609.25613v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究在傅里叶动量空间中利用平面光学元件成功实现了长程及受挫自旋哈密顿量能量的高效并行评估与光学退火。",
+      "en": "This work demonstrates efficient parallel evaluation and optical annealing of long-range and frustrated spin Hamiltonians using planar optical elements in momentum space."
+    },
+    "problem": {
+      "zh": "在传统电子计算硬件上评估密集或全连接长程自旋系统的哈密顿量时，计算复杂度随自旋规模呈二次方增长，且受制于频繁的内存访问瓶颈。",
+      "en": "Evaluating dense or fully connected long-range spin Hamiltonians on conventional hardware scales quadratically with system size and suffers from severe memory bandwidth bottlenecks."
+    },
+    "approach": {
+      "zh": "将自旋组态加载于空间光调制器上并透射至傅里叶动量空间，通过微纳加工的超薄平面光学元件对相互作用核进行点对点光谱加权，利用光电探测器收集总光强完成全局能量计算。",
+      "en": "Spin configurations loaded on a spatial light modulator are transformed to momentum space, pointwise weighted by a micro-fabricated planar optical element encoding the interaction kernel, and integrated by a photodetector to directly yield system energy."
+    },
+    "main_takeaway": {
+      "zh": "通过将相互作用核物理编码于被动平面光学元件中，单次光传播即可完成全局能量累加，实现了与自旋规模无关的常数级复杂度哈密顿量评估。",
+      "en": "Physically encoding interaction kernels into passive planar optical elements enables single-pass optical accumulation of global energy with scale-independent evaluation complexity."
+    },
+    "why_it_matters": {
+      "zh": "该方法规避了传统电子计算的数字乘累加与内存读取瓶颈，为统计物理复杂模型模拟与组合优化难题提供了一种超紧凑、高并行、低功耗的光学模拟计算新平台。",
+      "en": "It avoids traditional digital MAC and memory-access bottlenecks, providing a compact, highly parallel, and low-power optical analog platform for complex physical simulations and combinatorial optimization."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次将平面光学元件成功应用于动量空间中全连接及长程自旋相互作用核的硬件编码，实现了高精度的自旋退火与低能量态曲面的忠实重现。",
+        "en": "Demonstrates the first physical encoding of fully connected and long-range spin interaction kernels using momentum-space planar optics, achieving high-fidelity spin annealing and energy landscape reproduction."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental and theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了平面超构表面/微纳光学与光学Ising机/模拟计算前沿方向，具有很高的概念创新度与完备的实验验证。",
+        "en": "Combines metasurface/planar optics with photonic Ising machines and optical computing, featuring strong conceptual novelty and complete experimental validation."
+      }
+    },
+    "keywords": [
+      "planar optical element",
+      "metasurface",
+      "optical analog computing",
+      "photonic Ising machine",
+      "momentum space",
+      "spin Hamiltonian"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-23T10:29:12",
+    "input_scope": "full_pdf_text"
+  }
+}

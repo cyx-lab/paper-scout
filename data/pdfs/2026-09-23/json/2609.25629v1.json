@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2609.25629v1",
+    "title": "Orbital Optical Chirality as the Origin of Vortex Dichroism",
+    "authors": [
+      "Yoshito Y. Tanaka",
+      "Keiji Sasaki"
+    ],
+    "abstract": "Optical chirality quantifies the geometrical twisting of electromagnetic fields and underlies chiral light-matter interactions, yet its conventional formulation captures only the spin-associated chiral geometry of light. We introduce orbital optical chirality and derive its continuity equation, revealing physical properties distinct from those of angular momentum. For vortex beams, spin and orbital optical chiralities follow the spin and orbital indices, respectively. Applied to a twisted nanorod dimer, orbital optical chirality gives rise to vortex dichroism through quadrupolar hybridized modes, while dipolar modes exhibit only circular dichroism. These results establish a unified framework for optical chirality and provide access to chiral geometries beyond those resolved by spin optical chirality alone.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-09-22T03:38:16Z",
+    "updated": "2026-09-22T03:38:16Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.25629v1",
+      "pdf_path": "data/pdfs/2026-09-23/3_Orbital Optical Chirality as the Origin of Vortex Dichroism__2609.25629v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-23T02:20:48.462185",
+    "updated_at": "2026-09-23T02:20:48.462178Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-23/3_Orbital Optical Chirality as the Origin of Vortex Dichroism__2609.25629v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.25629v1",
+    "pdf_filename": "3_Orbital Optical Chirality as the Origin of Vortex Dichroism__2609.25629v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了“轨道光学手性”概念，将其作为传统自旋光学手性的补充，并解释了涡旋二色性的物理起源。",
+      "en": "This paper introduces the concept of 'orbital optical chirality' as a complement to conventional spin optical chirality and identifies it as the physical origin of vortex dichroism."
+    },
+    "problem": {
+      "zh": "传统光学手性框架仅依赖于光的自旋自由度，无法描述由光的轨道角动量（涡旋光）引起的手性相互作用。",
+      "en": "The conventional optical chirality framework is restricted to the spin degree of freedom of light, failing to describe chiral interactions governed by the orbital angular momentum of light (vortex beams)."
+    },
+    "approach": {
+      "zh": "通过构建电磁场空间分布的几何扭曲相关函数，推导了轨道光学手性的连续性方程，并分析了其与扭曲纳米棒二聚体四极模式的耦合。",
+      "en": "By constructing correlation functions for the geometric twisting of electromagnetic field distributions, the authors derived the continuity equation for orbital optical chirality and analyzed its coupling with quadrupolar modes in twisted nanorod dimers."
+    },
+    "main_takeaway": {
+      "zh": "轨道光学手性是描述涡旋光与物质相互作用的物理量，它与自旋光学手性共同构成了完整的光学手性统一框架。",
+      "en": "Orbital optical chirality is the physical quantity governing the interaction between vortex light and matter, forming a unified framework for optical chirality alongside spin optical chirality."
+    },
+    "why_it_matters": {
+      "zh": "该研究填补了光学手性理论在轨道自由度上的空白，为利用涡旋光精确操控复杂手性物质提供了理论基础。",
+      "en": "This work fills a theoretical gap in optical chirality regarding orbital degrees of freedom and provides a foundation for precisely manipulating complex chiral matter using vortex light."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作通过引入新的物理量成功解释了长期存在的涡旋二色性实验现象，并完善了光学手性的理论体系。",
+        "en": "The work successfully explains long-standing experimental observations of vortex dichroism by introducing a new physical quantity and completes the theoretical framework of optical chirality."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提出了基础物理概念的扩展，且具有明确的实验解释力和理论深度，符合 PRL 的定位。",
+        "en": "The paper proposes an extension of fundamental physical concepts with clear experimental explanatory power and theoretical depth, fitting the scope of PRL."
+      }
+    },
+    "keywords": [
+      "Optical chirality",
+      "Vortex dichroism",
+      "Orbital angular momentum",
+      "Chiral light-matter interaction",
+      "Nanophotonics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-23T10:29:17",
+    "input_scope": "full_pdf_text"
+  }
+}

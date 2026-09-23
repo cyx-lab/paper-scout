@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2609.25922v1",
+    "title": "Fractional Quantum Geometry in Topological Mott Regime",
+    "authors": [
+      "Junyu Tang",
+      "Hongquan Lv",
+      "Gang v. Chen"
+    ],
+    "abstract": "Inspired by recent interests in quantum geometry in electronic bands, we consider a two-dimensional topological Mott insulator, i.e. chiral spin liquid, whose spinon bands develop nontrivial band topological and quantum geometry. The virtual polarization of the gapped charge sector transfers the electromagnetic drive to the charge-neutral spinons through the emergent U(1) gauge field, producing a tensor Ioffe-Larkin response and enabling two complementary optical protocols for measurements. In the off-shell (low-frequency) regime, a self-calibrated ratio of the physical longitudinal and Hall conductivities yields the spinon Chern number without the microscopic knowledge of the charge response. In the on-shell (resonant) regime, combining the inverse Ioffe-Larkin response with the Kramers-Kronig relation enables reconstruction of the quantum-metric and Berry-curvature spectral densities. Our approach directly applies to the triangular lattice Hofstadter-Hubbard model in Moiré systems, can be well adapted to other triangular lattice antiferromagnets such as Nb$_3$Br$_8$ with appropriate modifications. We establish a unified framework for quantitatively probing the quantum geometry of fractionalized quasiparticles in topological Mott regime.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-22T09:29:51Z",
+    "updated": "2026-09-22T09:29:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.25922v1",
+      "pdf_path": "data/pdfs/2026-09-23/3_Fractional Quantum Geometry in Topological Mott Regime__2609.25922v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-23T02:20:48.461540",
+    "updated_at": "2026-09-23T02:20:48.461533Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-23/3_Fractional Quantum Geometry in Topological Mott Regime__2609.25922v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.25922v1",
+    "pdf_filename": "3_Fractional Quantum Geometry in Topological Mott Regime__2609.25922v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种通过光学测量提取手性自旋液体中中性自旋子量子几何的定量框架。",
+      "en": "This paper establishes a quantitative optical framework to extract the quantum geometry of neutral spinons in chiral spin liquids."
+    },
+    "problem": {
+      "zh": "在拓扑莫特绝缘体中，电荷输运被冻结，导致无法直接通过电磁探针测量中性自旋子的量子几何。",
+      "en": "In topological Mott insulators, charge transport is frozen, preventing direct electromagnetic probing of the quantum geometry of neutral spinons."
+    },
+    "approach": {
+      "zh": "利用张量Ioffe-Larkin响应，通过低频电导率比值提取Chern数，并结合Kramers-Kronig关系重构量子几何谱密度。",
+      "en": "Using tensor Ioffe-Larkin response, the authors extract the Chern number via low-frequency conductivity ratios and reconstruct geometric spectral densities using Kramers-Kronig relations."
+    },
+    "main_takeaway": {
+      "zh": "通过测量物理电磁响应，无需微观电荷响应知识，即可定量重构莫特绝缘体中分数化准粒子的量子几何。",
+      "en": "Physical electromagnetic responses can quantitatively reconstruct the quantum geometry of fractionalized quasiparticles in Mott insulators without requiring microscopic knowledge of the charge sector."
+    },
+    "why_it_matters": {
+      "zh": "该方法为实验探测量子自旋液体等强关联拓扑物态中的隐藏几何性质提供了可行的定量工具。",
+      "en": "This method provides a viable quantitative tool for experimentally probing hidden geometric properties in strongly correlated topological states like quantum spin liquids."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作为探测强关联系统中的分数化激发提供了一个严谨且具有实验可行性的理论框架。",
+        "en": "The work provides a rigorous and experimentally feasible theoretical framework for probing fractionalized excitations in strongly correlated systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提出了凝聚态物理中关于量子几何探测的重要理论方法，符合PRL的发表标准。",
+        "en": "The paper proposes a significant theoretical method for probing quantum geometry in condensed matter physics, fitting the standards of PRL."
+      }
+    },
+    "keywords": [
+      "Chiral Spin Liquid",
+      "Quantum Geometry",
+      "Mott Insulator",
+      "Ioffe-Larkin Response",
+      "Topological Order"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-23T10:29:30",
+    "input_scope": "full_pdf_text"
+  }
+}

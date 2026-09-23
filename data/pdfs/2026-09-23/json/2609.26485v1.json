@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2609.26485v1",
+    "title": "Extraordinary Lifetime Enhancement of Coherent Phonon-Amplitude Modes in the Excitonic Insulator Phase of Ta2Pd3Te5",
+    "authors": [
+      "Anjan Kumar N M",
+      "Shuhan Wang",
+      "Snehashish Chatterjee",
+      "Yan Zhu",
+      "MinJae Kim",
+      "Tobias Ritschel",
+      "Elaheh Sadrollahi",
+      "Jochen Geck",
+      "Achim Rosch",
+      "Chandra Shekhar",
+      "Claudia Felser",
+      "Stefan Kaiser"
+    ],
+    "abstract": "The excitonic insulator (EI) is an electronic phase of condensed excitons. However, in many prototypical materials the presence of a concurrent structural transition complicates the identification of a purely electronic origin of the ordered state. Here, we investigate Ta2Pd3Te5, in which an EI phase develops below TC ~ 100 K in the absence of a detectable structural transition. We characterize the excitonic condensate via its coherent phonon-amplitude response. Most strikingly, an extraordinarily strong lifetime enhancement of these modes sets in below TC which we establish as a new and robust fingerprint linked to exciton condensation. We discuss possibilities to capture the enhancement when taking into account a coupling of excitonic and lattice effects in line with the coupled phonon-amplitude response. Within an order-parameter polaron picture coupling to the excitonic state may dress the phonon mode and thereby suppress its relaxation and a phenomenological model combines the anharmonic phonon response and a reduced electronic scattering due to the gap opening in the EI phase.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-22T14:23:30Z",
+    "updated": "2026-09-22T14:23:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:exciton condensation"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.26485v1",
+      "pdf_path": "data/pdfs/2026-09-23/3_Extraordinary Lifetime Enhancement of Coherent Phonon-Amplitude Modes in the Excitonic Insulator Phase of Ta2Pd3Te5__2609.26485v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-23T02:20:48.460838",
+    "updated_at": "2026-09-23T02:20:48.460830Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-23/3_Extraordinary Lifetime Enhancement of Coherent Phonon-Amplitude Modes in the Excitonic Insulator Phase of Ta2Pd3Te5__2609.26485v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.26485v1",
+    "pdf_filename": "3_Extraordinary Lifetime Enhancement of Coherent Phonon-Amplitude Modes in the Excitonic Insulator Phase of Ta2Pd3Te5__2609.26485v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在无结构相变的激子绝缘体 Ta2Pd3Te5 中，观测到了相干声子振幅模式寿命的显著增强，并将其确立为激子凝聚的新特征。",
+      "en": "Extraordinary lifetime enhancement of coherent phonon-amplitude modes is observed in the excitonic insulator Ta2Pd3Te5, establishing a new fingerprint for exciton condensation in the absence of structural phase transitions."
+    },
+    "problem": {
+      "zh": "在激子绝缘体候选材料中，难以区分电子驱动的激子凝聚与伴随的结构相变，且缺乏明确的实验指纹来表征纯电子起源的激子态。",
+      "en": "Distinguishing between electronic excitonic insulator states and concurrent structural transitions is difficult, and identifying robust experimental fingerprints for purely electronic exciton condensation remains a challenge."
+    },
+    "approach": {
+      "zh": "利用非简并泵浦-探测反射光谱技术研究 Ta2Pd3Te5 的相干声子动力学，并结合极化子模型与唯象模型分析寿命增强机制。",
+      "en": "Using non-degenerate pump-probe reflectivity spectroscopy to investigate coherent phonon dynamics in Ta2Pd3Te5, supported by order-parameter polaron and phenomenological models."
+    },
+    "main_takeaway": {
+      "zh": "Ta2Pd3Te5 在激子绝缘体相中表现出相干声子模式寿命的异常增强，证明了即使没有宏观结构不稳定性，激子-晶格耦合依然存在。",
+      "en": "Ta2Pd3Te5 exhibits an extraordinary enhancement of coherent phonon mode lifetimes in the excitonic insulator phase, demonstrating that strong exciton-lattice coupling persists even without macroscopic structural instability."
+    },
+    "why_it_matters": {
+      "zh": "该研究为激子绝缘体提供了一种新的动力学特征，并表明激子凝聚可以诱导长寿命的相干激发，为研究量子材料中的多体相互作用提供了新平台。",
+      "en": "This study provides a new dynamical signature for excitonic insulators and shows that exciton condensation can induce long-lived coherent excitations, offering a new platform for studying many-body interactions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作在无结构相变的材料中发现了激子凝聚的新动力学指纹，并提出了合理的物理模型解释寿命增强现象。",
+        "en": "The work identifies a novel dynamical fingerprint of exciton condensation in a material without structural phase transitions and provides plausible physical models to explain the lifetime enhancement."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及量子材料中的激子绝缘体相，具有较高的物理深度和实验创新性，符合顶级物理期刊的定位。",
+        "en": "The study addresses the excitonic insulator phase in quantum materials with significant physical depth and experimental innovation, fitting the scope of top-tier physics journals."
+      }
+    },
+    "keywords": [
+      "激子绝缘体",
+      "相干声子",
+      "超快光谱",
+      "Ta2Pd3Te5",
+      "激子-晶格耦合"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-23T10:21:44",
+    "input_scope": "full_pdf_text"
+  }
+}
