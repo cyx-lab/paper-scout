@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2609.29226v1",
+    "title": "Valley Berry curvature dipole induced nonlinear valley Hall effect",
+    "authors": [
+      "Lulu Xiong",
+      "Xue-Jin Zhang",
+      "Zeying Zhang",
+      "Yinning Zhou",
+      "Jin Cao",
+      "Cong Xiao",
+      "Shengyuan A. Yang"
+    ],
+    "abstract": "Valley Hall effect is a signature effect in the field of valleytronics, and recent studies have pushed this effect into the nonlinear regime. Here, we reveal a previously unexplored type of nonlinear valley Hall effect which arises from a valley Berry curvature dipole (vBCD) mechanism. We show this nonlinear valley Hall effect is forbidden for conventional time-reversal-connected valleys, but is supported in the class of valleytronic systems featuring time-reversal-invariant valleys. The candidate layer groups and detailed symmetry constraints on vBCD are obtained. It shows the nonlinear valley Hall response, as well as the nonlinear charge Hall response, can be well controlled by tuning the driving field direction. We demonstrate our proposal in an effective model study and in a concrete material example, strained Nb$_{3}$SBr$_{7}$, by first-principles calculations. The nonlocal transport signature of this vBCD induced nonlinear valley Hall effect is also discussed.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-24T08:33:48Z",
+    "updated": "2026-09-24T08:33:48Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.29226v1",
+      "pdf_path": "data/pdfs/2026-09-25/3_Valley Berry curvature dipole induced nonlinear valley Hall effect__2609.29226v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-25T02:25:33.731131",
+    "updated_at": "2026-09-25T02:25:33.731124Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-25/3_Valley Berry curvature dipole induced nonlinear valley Hall effect__2609.29226v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.29226v1",
+    "pdf_filename": "3_Valley Berry curvature dipole induced nonlinear valley Hall effect__2609.29226v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种由谷贝里曲率偶极子（vBCD）驱动的新型非线性谷霍尔效应，并指出其可在时间反演不变谷（TRIV）系统中实现。",
+      "en": "This paper proposes a novel nonlinear valley Hall effect driven by valley Berry curvature dipole (vBCD) in systems with time-reversal-invariant valleys (TRIVs)."
+    },
+    "problem": {
+      "zh": "现有的非线性谷霍尔效应研究主要集中在时间反演对称性相关的谷，而对于具有时间反演不变谷（TRIV）的系统，其非线性谷输运机制尚不明确。",
+      "en": "Existing studies on nonlinear valley Hall effects primarily focus on time-reversal-connected valleys, leaving the nonlinear valley transport mechanisms in systems with time-reversal-invariant valleys (TRIVs) unexplored."
+    },
+    "approach": {
+      "zh": "通过对称性分析确定支持 vBCD 的层群，利用有效模型研究其物理特性，并结合第一性原理计算验证单层 Nb3SBr7 在应变下的响应。",
+      "en": "The authors identify layer groups supporting vBCD via symmetry analysis, investigate the physics using an effective model, and verify the response in strained monolayer Nb3SBr7 using first-principles calculations."
+    },
+    "main_takeaway": {
+      "zh": "vBCD 机制在 TRIV 系统中诱导非线性谷霍尔效应，且 vBCD 与电荷贝里曲率偶极子相互垂直，可通过调节驱动电场方向实现谷电流与电荷电流的选择性控制。",
+      "en": "The vBCD mechanism induces a nonlinear valley Hall effect in TRIV systems; since vBCD and charge BCD are mutually perpendicular, one can selectively control valley or charge Hall currents by tuning the driving field direction."
+    },
+    "why_it_matters": {
+      "zh": "该研究揭示了谷电子学中一种全新的非线性输运机制，拓宽了谷自由度调控的应用范围，并为实验探测提供了明确的非局域输运标度律。",
+      "en": "This work uncovers a novel nonlinear transport mechanism in valleytronics, broadens the scope of valley degree of freedom manipulation, and provides clear scaling laws for experimental nonlocal transport detection."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作在理论上提出了一种全新的谷输运机制，并给出了具体的材料实现方案，对谷电子学领域具有显著的推动作用。",
+        "en": "The work theoretically proposes a novel valley transport mechanism and provides a concrete material realization, significantly advancing the field of valleytronics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提出了全新的物理效应和机制，且包含具体的材料预测，符合 PRL 的发表标准。",
+        "en": "The paper proposes a novel physical effect and mechanism, supported by concrete material predictions, which aligns with the standards of PRL."
+      }
+    },
+    "keywords": [
+      "Valleytronics",
+      "Nonlinear Hall effect",
+      "Berry curvature dipole",
+      "Time-reversal-invariant valleys",
+      "Nb3SBr7"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-25T10:26:14",
+    "input_scope": "full_pdf_text"
+  }
+}

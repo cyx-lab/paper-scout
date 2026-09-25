@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.29789v1",
+    "title": "Unified description of exciton, phonon and plasmon dispersions in 2D materials from an optical conductivity approximation",
+    "authors": [
+      "Alberto Guandalini",
+      "Andrea Ferretti",
+      "Daniele Varsano",
+      "Paolo Barone",
+      "Francesco Mauri"
+    ],
+    "abstract": "The modified Coulomb interaction in two-dimensional (2D) materials gives rise to unique, non-analytic low-momentum dispersions of excitons, phonons, and plasmons. Here, we describe the 2D dispersion of longitudinal excitations by introducing the optical conductivity approximation (OCA), a unified framework that evaluates the finite-q longitudinal response probed by electron energy-loss spectroscopy (q-EELS) by only using the q = 0 optical conductivity. By doing so, the approach demonstrates that the linear dispersion of all the above mentioned excitations is mainly due to the form of the 2D macroscopic Coulomb interaction rather than to the dispersion of the underlying band structure. Applying this approach to hexagonal boron nitride and graphene we accurately reproduce the energy and intensity dispersions of the hBN longitudinal-optical phonon and low-energy bright excitons, along with the graphene pi-plasmon. Our work also provides an efficient computational scheme to describe low momentum EELS data without the need to calculate the response functions at dense moment",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-24T13:28:39Z",
+    "updated": "2026-09-24T13:28:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.29789v1",
+      "pdf_path": "data/pdfs/2026-09-25/3_Unified description of exciton, phonon and plasmon dispersions in 2D materials from an optical conductivity approximatio__2609.29789v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-25T02:25:33.730082",
+    "updated_at": "2026-09-25T02:25:33.730074Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-25/3_Unified description of exciton, phonon and plasmon dispersions in 2D materials from an optical conductivity approximatio__2609.29789v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.29789v1",
+    "pdf_filename": "3_Unified description of exciton, phonon and plasmon dispersions in 2D materials from an optical conductivity approximatio__2609.29789v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种光学电导率近似（OCA）框架，仅利用 q=0 时的光学电导率即可统一描述二维材料中激子、声子和等离激元的低动量色散。",
+      "en": "Introduces the Optical Conductivity Approximation (OCA), a unified framework that describes the low-momentum dispersion of excitons, phonons, and plasmons in 2D materials using only the q=0 optical conductivity."
+    },
+    "problem": {
+      "zh": "二维材料中长程库仑相互作用导致激子、声子和等离激元在低动量下表现出非解析的线性色散，传统计算方法需要在大动量网格上进行昂贵的响应函数计算。",
+      "en": "The modified long-range Coulomb interaction in 2D materials leads to non-analytic linear dispersions of excitons, phonons, and plasmons at low momentum, requiring computationally expensive response function calculations on dense grids."
+    },
+    "approach": {
+      "zh": "通过建立有限动量纵向响应与 q=0 光学电导率之间的解析联系，利用光学电导率近似（OCA）绕过对复杂动量依赖响应函数的直接计算。",
+      "en": "Establishes a formal link between the finite-q longitudinal response and the q=0 optical conductivity, using the Optical Conductivity Approximation (OCA) to bypass the need for calculating response functions on dense momentum grids."
+    },
+    "main_takeaway": {
+      "zh": "二维材料中这些元激发的线性色散主要源于二维宏观库仑相互作用的形式，而非底层能带结构的色散。",
+      "en": "The linear dispersion of these excitations in 2D materials is primarily driven by the form of the 2D macroscopic Coulomb interaction rather than the dispersion of the underlying band structure."
+    },
+    "why_it_matters": {
+      "zh": "该方法提供了一种高效的计算方案，并能通过反演实验数据提取光学电导率，为研究二维材料的低动量激发提供了统一且简便的工具。",
+      "en": "Provides an efficient computational scheme and an inverse method to extract optical conductivity from EELS data, offering a unified and simplified tool for studying low-momentum excitations in 2D materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作明确了二维材料中多种元激发色散的物理起源，并提供了一个简洁的近似框架。",
+        "en": "The work clarifies the physical origin of the dispersion of various elementary excitations in 2D materials and provides a concise approximation framework."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中的基本激发及其计算方法，符合 PRB 的发表范畴。",
+        "en": "The paper focuses on fundamental excitations in condensed matter physics and their computational methods, which fits the scope of PRB."
+      }
+    },
+    "keywords": [
+      "2D materials",
+      "EELS",
+      "excitons",
+      "phonons",
+      "plasmons",
+      "optical conductivity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-25T10:26:37",
+    "input_scope": "full_pdf_text"
+  }
+}

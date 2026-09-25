@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2609.30084v1",
+    "title": "Ultrafast Electron Microscopy: A Quantitative Platform for Nonequilibrium Materials Research",
+    "authors": [
+      "David J. Flannigan",
+      "Swarit Ahmed Shadman"
+    ],
+    "abstract": "Macroscopic materials function is determined not merely by equilibrium structure, but by how carriers, phonons, fields, defects, interfaces, and collective order dynamically evolve after perturbation. Ultrafast electron microscopy (UEM) uniquely bridges this gap, coupling femtosecond-to-nanosecond timing with real-space, reciprocal-space, and energy-resolved contrast. Here, we review how these integrated capabilities now quantitatively map energy flow and conversion in electronic materials, decode electronic-structural coupling in quantum and correlated systems, and isolate the localized propagation of carriers, polaritons, strain, and phonons across optoelectronic and nanomechanical architectures. We emphasize the predictive design rules now emerging from direct metrology of carrier-lattice coupling, momentum-resolved phonon thermalization, defect-controlled phase transformations, and authentic operando switching. We critically assess UEM's ongoing maturation from a qualitative, proof-of-concept experiment into a rigorous, quantitative materials platform. This paradigm shift is actively driven by integrated multimodal detection, advanced energy-resolved spectroscopy, high-repetition-rate sources, multidimensional (4D and 5D) acquisition, and physically constrained forward modeling. Ultimately, the central opportunity lies in establishing a complete, causal link from initial excitation to localized energy flow, transient structure, and macroscopic device function. By prioritizing quantitative reproducibility and robust mechanistic interpretation, UEM is positioned to engineer materials in functional states that equilibrium thermodynamics simply cannot describe.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.chem-ph",
+      "physics.ins-det"
+    ],
+    "published": "2026-09-24T16:33:27Z",
+    "updated": "2026-09-24T16:33:27Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.30084v1",
+      "pdf_path": "data/pdfs/2026-09-25/3_Ultrafast Electron Microscopy A Quantitative Platform for Nonequilibrium Materials Research__2609.30084v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-25T02:25:33.729209",
+    "updated_at": "2026-09-25T02:25:33.729200Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-25/3_Ultrafast Electron Microscopy A Quantitative Platform for Nonequilibrium Materials Research__2609.30084v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.30084v1",
+    "pdf_filename": "3_Ultrafast Electron Microscopy A Quantitative Platform for Nonequilibrium Materials Research__2609.30084v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文综述了超快电子显微镜（UEM）从定性演示向定量材料科学研究平台的演进。",
+      "en": "This review examines the maturation of ultrafast electron microscopy (UEM) from a qualitative proof-of-concept tool into a quantitative platform for nonequilibrium materials research."
+    },
+    "problem": {
+      "zh": "功能材料在受到激发后的非平衡态演化过程难以通过单一平衡态描述，且现有表征手段在时空分辨率与多模态关联上存在局限。",
+      "en": "Functional materials evolve through nonequilibrium states after excitation that are inaccessible to equilibrium descriptions, and existing characterization techniques face limitations in correlating spatiotemporal, energy, and momentum scales."
+    },
+    "approach": {
+      "zh": "利用超快激光泵浦与同步电子脉冲探测，结合成像、衍射、能量损失谱及近场显微等多种模态，通过正向建模与多模态数据关联进行定量分析。",
+      "en": "The approach utilizes synchronized laser-pump/electron-probe configurations, integrating imaging, diffraction, EELS, and PINEM, while employing forward modeling and multimodal data triangulation for quantitative analysis."
+    },
+    "main_takeaway": {
+      "zh": "UEM的核心价值在于通过多模态关联，将纳米尺度的瞬态动力学与宏观器件功能建立因果联系，实现对非平衡态材料的定量工程化设计。",
+      "en": "The core value of UEM lies in establishing causal links between nanoscale transient dynamics and macroscopic device function through multimodal integration, enabling the quantitative engineering of nonequilibrium materials."
+    },
+    "why_it_matters": {
+      "zh": "它标志着超快电子显微学从“观察现象”转向“定量测量”，为设计和控制传统热力学无法描述的材料功能态提供了关键的实验与方法论基础。",
+      "en": "It marks a paradigm shift in ultrafast electron microscopy from observation to quantitative metrology, providing the experimental and methodological foundation for designing functional states beyond equilibrium thermodynamics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该综述系统梳理了UEM领域从定性到定量的范式转移，为未来非平衡态材料的定量表征与工程化提供了明确的路线图。",
+        "en": "The review systematically outlines the paradigm shift in UEM from qualitative to quantitative research, providing a clear roadmap for future characterization and engineering of nonequilibrium materials."
+      }
+    },
+    "paper_type": {
+      "zh": "综述",
+      "en": "Review"
+    },
+    "likely_venue": {
+      "journal": "Nature Reviews Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章深度与广度符合顶级综述期刊对前沿技术方法论的定位。",
+        "en": "The depth and breadth of the article align with the standards of top-tier review journals for frontier methodological developments."
+      }
+    },
+    "keywords": [
+      "ultrafast electron microscopy",
+      "nonequilibrium dynamics",
+      "multimodal characterization",
+      "operando metrology",
+      "structural dynamics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-25T10:26:51",
+    "input_scope": "full_pdf_text"
+  }
+}

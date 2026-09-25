@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2609.30202v1",
+    "title": "Incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene",
+    "authors": [
+      "Derek Waleffe",
+      "Aryana Bhattacharyya",
+      "Manish Kumar",
+      "Eric Maginnis",
+      "Anna Okounkova",
+      "Tobias Faehndrich",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Joshua Folk",
+      "Matthew Yankowitz"
+    ],
+    "abstract": "Moiré superlattices assembled by twisting Bernal and rhombohedral multilayer graphene host a rich set of interaction-driven magnetic and topological states, yet superconductivity has not been observed in these systems except in proximity to a transition-metal dichalcogenide. Here we report incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene encapsulated by hexagonal boron nitride. Across twist angles from $θ= 1.05^\\circ$ to $1.50^\\circ$, Chern insulators form at integer and fractional moiré fillings for electron doping, with Chern numbers up to |C| = 3 set by twist angle and tuned by doping. At $θ= 1.18^\\circ$, a symmetry-broken metallic region forms for hole doping and hosts a trivial insulator at band filling $ν= -2$. Displacement field alone drives this insulator into a pocket of incipient superconductivity with a sharp transition, a well-defined critical current, and a critical temperature that peaks near the insulating boundary, although the resistance does not fall to zero. In-plane magnetic field expands the pocket, which persists to more than four times the weak-coupling Pauli limit, and stabilizes a second pocket in which Fraunhofer-like modulation of the critical current signals phase-coherent pairing. Twisted Bernal bilayer-trilayer graphene thus offers a single gate-tunable system in which pairing can be interfaced with Chern insulators whose topology is itself an adjustable parameter.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-09-24T17:37:46Z",
+    "updated": "2026-09-24T17:37:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.30202v1",
+      "pdf_path": "data/pdfs/2026-09-25/3_Incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene__2609.30202v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-25T02:25:33.728701",
+    "updated_at": "2026-09-25T02:25:33.728693Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-25/3_Incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene__2609.30202v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.30202v1",
+    "pdf_filename": "3_Incipient superconductivity and tunable Chern insulators in twisted Bernal bilayer-trilayer graphene__2609.30202v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在扭转Bernal双层-三层石墨烯中发现了门控可调的Chern绝缘体与初生超导电性。",
+      "en": "Incipient superconductivity and gate-tunable Chern insulators are reported in twisted Bernal bilayer-trilayer graphene."
+    },
+    "problem": {
+      "zh": "在范德华异质结中，超导电性、磁性和拓扑态的共存与相互作用机制尚不明确，且扭转多层石墨烯系统中超导电性的观测非常罕见。",
+      "en": "The interplay between superconductivity, magnetism, and topology in van der Waals heterostructures remains poorly understood, and superconductivity is rarely observed in twisted multilayer graphene systems."
+    },
+    "approach": {
+      "zh": "通过堆叠扭转的Bernal双层和三层石墨烯，利用双栅极结构独立调节载流子密度和位移场，并结合低温输运测量进行表征。",
+      "en": "Assembling twisted Bernal bilayer and trilayer graphene, using dual-gate structures to independently tune carrier density and displacement field, and characterizing the system via low-temperature transport measurements."
+    },
+    "main_takeaway": {
+      "zh": "该系统在同一门控相图中展现了Chern绝缘体和初生超导电性，且超导电性表现出对位移场的强依赖性，并能抵抗远超Pauli极限的平行磁场。",
+      "en": "The system hosts both Chern insulators and incipient superconductivity in the same gate-tunable phase diagram, with superconductivity showing strong displacement-field dependence and persistence beyond the Pauli limit in parallel magnetic fields."
+    },
+    "why_it_matters": {
+      "zh": "该平台允许在单一器件中原位调节拓扑性质，为研究强关联、配对与拓扑态的相互作用提供了理想的实验模型。",
+      "en": "This platform allows for in-situ tuning of topological properties in a single device, providing an ideal model for studying the interplay between strong correlations, pairing, and topology."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在扭转Bernal双层-三层石墨烯中同时观测到可调Chern绝缘体和超导电性，为拓扑超导研究提供了新平台。",
+        "en": "It reports the simultaneous observation of tunable Chern insulators and superconductivity in twisted Bernal bilayer-trilayer graphene for the first time, offering a new platform for topological superconductivity research."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及扭转石墨烯领域的重大发现，符合顶级期刊的发表标准。",
+        "en": "The study reports significant findings in the field of twisted graphene, aligning with the standards of top-tier journals."
+      }
+    },
+    "keywords": [
+      "扭转石墨烯",
+      "Chern绝缘体",
+      "超导电性",
+      "莫尔超晶格",
+      "强关联电子系统"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-25T10:27:23",
+    "input_scope": "full_pdf_text"
+  }
+}

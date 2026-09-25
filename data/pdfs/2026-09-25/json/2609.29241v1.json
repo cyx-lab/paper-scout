@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2609.29241v1",
+    "title": "Mixed-Valent Magnetism in CeFe$_2$ from Multi-Impurity DFT+DMFT",
+    "authors": [
+      "Basile Herzog",
+      "Vladislav Borisov",
+      "Olle Eriksson"
+    ],
+    "abstract": "The microscopic origin of magnetism in CeFe$_2$ has remained unresolved for almost forty years, where polarized-neutron diffraction and x-ray magnetic circular dichroism infer markedly different Ce $4f$ spin and orbital moments, that also are in disagreement with theory. We show here that within a relativistic multi-impurity DFT+DMFT framework, where the Fe $3d$ states are treated by spin-polarized T-matrix fluctuation exchange and Ce $4f$ orbitals by a bath-coupled configuration-interaction solver, this long standing problem is resolved. This level of theory is exclusive in reproducing magnetic moments (spin and orbital) for both the Ce and Fe atoms, yielding a total moment in agreement with the measured saturation moment. The theory put forth here is much closer to the atom specific moments reported from XMCD, compared to values from polarized-neutron diffraction. The occupation $\\langle n_f\\rangle=0.85$ and charge variance $δn_f^2=0.27$ establish substantial valence fluctuations, while the spectral function simultaneously recovers significant weight at the Fermi level together with separate incoherent structures. These results identify bath-mediated polarization and configuration mixing as the essential ingredients governing the electronic structure and magnetism of CeFe$_2$.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-24T08:48:57Z",
+    "updated": "2026-09-24T08:48:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.29241v1",
+      "pdf_path": "data/pdfs/2026-09-25/3_Mixed-Valent Magnetism in CeFe$_2$ from Multi-Impurity DFT+DMFT__2609.29241v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-25T02:25:33.731038",
+    "updated_at": "2026-09-25T02:25:33.731031Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-25/3_Mixed-Valent Magnetism in CeFe$_2$ from Multi-Impurity DFT+DMFT__2609.29241v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.29241v1",
+    "pdf_filename": "3_Mixed-Valent Magnetism in CeFe$_2$ from Multi-Impurity DFT+DMFT__2609.29241v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过多杂质 DFT+DMFT 方法，解决了 CeFe2 中长期存在的磁性起源争议，成功重现了实验观测到的混合价态和磁矩。",
+      "en": "The long-standing mystery of magnetism in CeFe2 is resolved using a multi-impurity DFT+DMFT framework, which successfully reproduces experimental magnetic moments and mixed-valence behavior."
+    },
+    "problem": {
+      "zh": "CeFe2 的磁性起源争议已持续近四十年，中子衍射与 XMCD 实验测得的 Ce 磁矩存在显著差异，且传统理论无法同时解释实验观测到的总磁矩与原子磁矩。",
+      "en": "The microscopic origin of magnetism in CeFe2 has been unresolved for decades, with polarized-neutron diffraction and XMCD yielding conflicting Ce magnetic moments that previous theories failed to reconcile."
+    },
+    "approach": {
+      "zh": "采用相对论性多杂质 DFT+DMFT 框架，其中 Fe 3d 态使用自旋极化 T 矩阵涨落交换处理，Ce 4f 轨道使用耦合浴的构型相互作用（CLIC）求解器。",
+      "en": "A relativistic multi-impurity DFT+DMFT framework was employed, treating Fe 3d states with spin-polarized T-matrix fluctuation exchange and Ce 4f orbitals with a bath-coupled configuration-interaction (CLIC) solver."
+    },
+    "main_takeaway": {
+      "zh": "浴介导的极化和构型混合是决定 CeFe2 电子结构和磁性的关键，该方法统一了 XMCD 和中子衍射的实验结果。",
+      "en": "Bath-mediated polarization and configuration mixing are the essential ingredients governing the electronic structure and magnetism of CeFe2, providing a unified framework consistent with both XMCD and neutron diffraction data."
+    },
+    "why_it_matters": {
+      "zh": "该研究不仅解决了 CeFe2 的磁性难题，还展示了 DMFT 在处理复杂混合价态系统中的强大预测能力，对理解稀土-过渡金属化合物具有重要意义。",
+      "en": "This work resolves a long-standing magnetic puzzle and demonstrates the predictive power of DMFT in complex mixed-valent systems, offering critical insights into rare-earth transition-metal compounds."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究通过先进的计算方法澄清了 CeFe2 中长期存在的实验数据矛盾，揭示了其混合价态磁性的微观机制。",
+        "en": "The study clarifies a long-standing discrepancy in experimental data for CeFe2 by revealing the underlying microscopic mechanism of its mixed-valent magnetism."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于电子结构理论和强关联系统的磁性计算，符合 PRB 的研究范畴。",
+        "en": "The paper focuses on electronic structure theory and magnetic calculations in strongly correlated systems, which aligns well with the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "CeFe2",
+      "DMFT",
+      "Mixed-valence",
+      "Magnetism",
+      "Electronic structure"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-25T10:26:32",
+    "input_scope": "full_pdf_text"
+  }
+}

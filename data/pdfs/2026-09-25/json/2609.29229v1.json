@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.29229v1",
+    "title": "Adiabatic Theory Data on Strongly Chirped Dissipative Solitons of the Cubic-Quintic Nonlinear Ginzburg-Landau Equation",
+    "authors": [
+      "V. L. Kalashnikov",
+      "E. Sorokin",
+      "A. Rudenkov",
+      "I. T. Sorokina"
+    ],
+    "abstract": "This data article provides the datasets, symbolic derivations, and scripts used to reproduce master diagrams, stationary-phase spectra, windowed first-order coherence functions, and quantum-noise stability maps for strongly chirped dissipative solitons of the cubic-quintic complex Ginzburg-Landau equation in normal and anomalous group-delay dispersion regimes. The repository includes node-regularized normal-dispersion spectra and energies; small-parameter expansions of the branch roots; cavity-map gain-loss update relations; Airy uniformization at the normal-dispersion spectral edge; anomalous-dispersion spectra and coherence calculations; and processed tables for plotting and stability analysis. OriginLab projects are accompanied by open-format .csv/.txt numerical tables to support reuse without proprietary plotting software. Data and code repository: https://doi.org/10.5281/zenodo.22690899.",
+    "categories": [
+      "nlin.PS",
+      "math-ph",
+      "physics.optics"
+    ],
+    "published": "2026-09-24T08:34:41Z",
+    "updated": "2026-09-24T08:34:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.29229v1",
+      "pdf_path": "data/pdfs/2026-09-25/2_Adiabatic Theory Data on Strongly Chirped Dissipative Solitons of the Cubic-Quintic Nonlinear Ginzburg-Landau Equation__2609.29229v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-25T02:25:33.731093",
+    "updated_at": "2026-09-25T02:25:33.731084Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-25/2_Adiabatic Theory Data on Strongly Chirped Dissipative Solitons of the Cubic-Quintic Nonlinear Ginzburg-Landau Equation__2609.29229v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.29229v1",
+    "pdf_filename": "2_Adiabatic Theory Data on Strongly Chirped Dissipative Solitons of the Cubic-Quintic Nonlinear Ginzburg-Landau Equation__2609.29229v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提供了一套用于复现三次-五次复金兹堡-朗道方程中强啁啾耗散孤子特性的计算代码、符号推导及数据集。",
+      "en": "This article provides a repository of computational scripts, symbolic derivations, and datasets for reproducing the properties of strongly chirped dissipative solitons in the cubic-quintic complex Ginzburg-Landau equation."
+    },
+    "problem": {
+      "zh": "在强啁啾耗散孤子研究中，解析推导与数值模拟过程复杂，缺乏标准化的复现工具和数据，限制了对孤子稳定性及相干性的深入分析。",
+      "en": "The complexity of analytical derivations and numerical simulations for strongly chirped dissipative solitons lacks standardized reproducibility tools and datasets, hindering in-depth analysis of soliton stability and coherence."
+    },
+    "approach": {
+      "zh": "通过符号代数推导、参数网格扫描、傅里叶变换及随机分步传播方法，构建了包含解析解、相干函数及量子噪声稳定性映射的完整计算工作流。",
+      "en": "Constructed a comprehensive computational workflow using symbolic algebra, parameter-grid scanning, Fourier transforms, and stochastic split-step propagation to generate analytical solutions, coherence functions, and quantum-noise stability maps."
+    },
+    "main_takeaway": {
+      "zh": "该数据集实现了对强啁啾耗散孤子在正常和反常色散区域内存在条件、谱特性及噪声稳定性的完全数值复现。",
+      "en": "The dataset enables full numerical reproduction of the existence conditions, spectral properties, and noise stability of strongly chirped dissipative solitons in both normal and anomalous dispersion regimes."
+    },
+    "why_it_matters": {
+      "zh": "为非线性耗散系统研究提供了标准化的基准测试工具，支持研究人员在不同环境下验证孤子模型并扩展至其他驱动-耗散非线性波系统。",
+      "en": "Provides standardized benchmarking tools for nonlinear dissipative systems, allowing researchers to verify soliton models across different environments and extend them to other driven-dissipative nonlinear wave systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "该工作通过公开标准化的计算工作流和数据集，显著提升了复杂非线性孤子研究的可重复性和可扩展性。",
+        "en": "By open-sourcing a standardized computational workflow and dataset, this work significantly enhances the reproducibility and extensibility of complex nonlinear soliton research."
+      }
+    },
+    "paper_type": {
+      "zh": "数据论文 / 理论+数值",
+      "en": "Data paper / Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Data in Brief",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章结构完全符合数据期刊的规范，旨在支持相关物理研究论文的复现。",
+        "en": "The article structure strictly follows the standards of data journals, aiming to support the reproducibility of related physics research papers."
+      }
+    },
+    "keywords": [
+      "dissipative solitons",
+      "Ginzburg-Landau equation",
+      "numerical reproducibility",
+      "strongly chirped pulses",
+      "nonlinear dynamics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-25T10:26:22",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2609.29190v1",
+    "title": "Antisymmetric breathing in altermagnetic skyrmions",
+    "authors": [
+      "Yunxi Jiang",
+      "Chen Xuan",
+      "Xi Chen",
+      "Zhikai Wang",
+      "Qinfeng Zhu",
+      "Hao Yu"
+    ],
+    "abstract": "A skyrmion in an altermagnet with \\(d\\) wave symmetry consists of two elliptical sublattice textures with perpendicular long axes. For each sublattice component $η=A,B$, we define an effective skyrmion radius $R_η=\\sqrt{a_ηb_η}$, where $a_η$ and $b_η$ are the distances from the skyrmion center to its boundary along $y$ and $x$, respectively. For the anisotropic exchange parameters studied, the equilibrium radius at zero field is smaller than in a reference with parallel sublattice textures and otherwise identical parameters. A magnetic field perpendicular to the film expands one sublattice skyrmion and contracts the other, generating a radius difference $\\dR=R_A-R_B$ and a net magnetic moment. The exchange modulation used to represent uniaxial strain also produces a nonzero radius difference at zero field. Because the strong and weak exchange directions are interchanged between the two sublattices, a common directional change of the exchange couplings increases one radius and decreases the other. Unlike the magnetic coupling, this mechanism vanishes when the two sublattice exchange tensors become identical. The radius difference also supports an antisymmetric breathing mode. After a short field pulse, it oscillates in quadrature with the uniform helicity, the common rotation of the wall magnetization within the film plane, at \\(49.5\\,\\mathrm{GHz}\\) for the reference parameters.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-24T08:01:59Z",
+    "updated": "2026-09-24T08:01:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.29190v1",
+      "pdf_path": "data/pdfs/2026-09-25/3_Antisymmetric breathing in altermagnetic skyrmions__2609.29190v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-25T02:25:33.731219",
+    "updated_at": "2026-09-25T02:25:33.731210Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-25/3_Antisymmetric breathing in altermagnetic skyrmions__2609.29190v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.29190v1",
+    "pdf_filename": "3_Antisymmetric breathing in altermagnetic skyrmions__2609.29190v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了交错磁体中斯格明子半径差的静态控制及其引起的反对称呼吸模式。",
+      "en": "Investigated the static control of radius difference in altermagnetic skyrmions and the resulting antisymmetric breathing mode."
+    },
+    "problem": {
+      "zh": "交错磁体中两个子晶格斯格明子半径如何随外场或应变变化，以及这种不对称性如何影响动力学模式。",
+      "en": "How the radii of the two sublattice skyrmions in an altermagnet change with external fields or strain, and how this asymmetry affects dynamical modes."
+    },
+    "approach": {
+      "zh": "基于d波交错磁体模型，通过数值最小化能量计算静态半径，并利用朗道-利夫希茨-吉尔伯特方程模拟脉冲场驱动下的动力学。",
+      "en": "Based on a d-wave altermagnet model, calculated static radii via numerical energy minimization and simulated pulse-driven dynamics using the Landau-Lifshitz-Gilbert equation."
+    },
+    "main_takeaway": {
+      "zh": "交错磁体斯格明子存在一种反对称呼吸模式，其中两个子晶格半径反向振荡，并与均匀螺旋度耦合，频率约为50 GHz。",
+      "en": "Altermagnetic skyrmions support an antisymmetric breathing mode where the two sublattice radii oscillate in opposite directions, coupled to uniform helicity at ~50 GHz."
+    },
+    "why_it_matters": {
+      "zh": "揭示了交错磁体中斯格明子独特的内部自由度，为微波频率下的磁共振器件提供了潜在应用基础。",
+      "en": "Reveals unique internal degrees of freedom in altermagnetic skyrmions, providing a basis for potential applications in microwave-frequency magnetic resonant elements."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "阐明了交错磁体几何结构如何导致斯格明子半径的不对称性及其动力学响应。",
+        "en": "Clarified how the altermagnetic geometry leads to skyrmion radius asymmetry and its dynamical response."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域关于磁性斯格明子动力学的标准投稿期刊。",
+        "en": "Standard journal for research on magnetic skyrmion dynamics in this field."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "skyrmion",
+      "breathing mode",
+      "spin dynamics",
+      "radius difference"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-25",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-25T10:26:08",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "run_date": "2026-09-25",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2609.29089v1.json": 1,
+    "2609.29190v1.json": 1,
+    "2609.29226v1.json": 1,
+    "2609.29229v1.json": 1,
+    "2609.29241v1.json": 1,
+    "2609.29789v1.json": 1,
+    "2609.30084v1.json": 1,
+    "2609.30128v1.json": 2,
+    "2609.30202v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2609.29089v1.json",
+      "status": "ok",
+      "secs": 12.05,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.29190v1.json",
+      "status": "ok",
+      "secs": 8.34,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.29226v1.json",
+      "status": "ok",
+      "secs": 6.23,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.29229v1.json",
+      "status": "ok",
+      "secs": 7.65,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.29241v1.json",
+      "status": "ok",
+      "secs": 9.83,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.29789v1.json",
+      "status": "ok",
+      "secs": 5.5,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.30084v1.json",
+      "status": "ok",
+      "secs": 13.56,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.30128v1.json",
+      "status": "fail",
+      "error": "No JSON object found in model output",
+      "secs": 4.59,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.30202v1.json",
+      "status": "ok",
+      "secs": 27.41,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2609.30128v1.json",
+      "status": "ok",
+      "secs": 5.43,
+      "round": 2,
+      "attempt": 2
+    }
+  ]
+}
