@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.37142v1",
+    "title": "Second-order coherence properties of ultrafast polariton dynamics in plasmonic lattices",
+    "authors": [
+      "Evgeny A. Mamonov",
+      "Lukas Freter",
+      "Sioneh Eyvazi",
+      "Elliot W. Lloyd",
+      "Päivi Törmä"
+    ],
+    "abstract": "The first-order coherence properties of strongly coupled systems supporting polariton lasing and Bose-Einstein condensation (BEC) have been thoroughly studied and show consistent results. In contrast, second-order coherence properties have been found to vary for different systems, and the second-order coherence function can deviate from the value of one, typical for atomic BEC, revealing super-Poissonian fluctuations even above the BEC/polariton lasing threshold. This calls for a deeper understanding of the emission statistics and dynamics in light-based condensates, especially in the non-equilibrium regime. Here we demonstrate a coherent state of polariton emission from a plasmonic lattice measured as the second-order coherence function value separately for $\\mathrmΓ$- and non-$\\mathrmΓ$-point radiation (ground state and high-energy tail). We observe a high degree of coherence with the value $g^{(2)}(τ=0)-1<10^{-4}$. We also demonstrate the ultrafast ($>$1 THz) nature of the dynamics. The process can be interpreted as a BEC with ultrafast, sub-50-fs thermalization, but we also suggest an alternative explanation as superradiance in a system where the emitters have vibrational degrees of freedom.",
+    "categories": [
+      "cond-mat.quant-gas",
+      "physics.optics",
+      "quant-ph"
+    ],
+    "published": "2026-09-29T09:41:27Z",
+    "updated": "2026-09-29T09:41:27Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.37142v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Second-order coherence properties of ultrafast polariton dynamics in plasmonic lattices__2609.37142v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.988984",
+    "updated_at": "2026-09-30T02:55:07.988980Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Second-order coherence properties of ultrafast polariton dynamics in plasmonic lattices__2609.37142v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37142v1",
+    "pdf_filename": "3_Second-order coherence properties of ultrafast polariton dynamics in plasmonic lattices__2609.37142v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过测量等离激元晶格中极化激元发射的二阶相干函数，揭示了其超快动力学特性，并提出该现象可能源于超辐射而非传统的玻色-爱因斯坦凝聚。",
+      "en": "This paper investigates the second-order coherence of ultrafast polariton emission in plasmonic lattices, suggesting superradiance as an alternative interpretation to Bose-Einstein condensation."
+    },
+    "problem": {
+      "zh": "极化激元凝聚体在非平衡态下的发射统计特性尚不明确，且实验中观察到的二阶相干函数偏离理想玻色-爱因斯坦凝聚的特征，需要更深入的理解。",
+      "en": "The emission statistics of polariton condensates in non-equilibrium regimes are not fully understood, and observed deviations in the second-order coherence function from ideal BEC behavior require further investigation."
+    },
+    "approach": {
+      "zh": "通过脉冲间波动测量法，在亚皮秒时间尺度上测量了等离激元晶格极化激元发射的二阶相干函数，并结合Holstein-Tavis-Cummings模型进行理论模拟。",
+      "en": "The authors measured the second-order coherence function of polariton emission in plasmonic lattices on a sub-picosecond timescale using pulse-to-pulse fluctuation analysis, complemented by theoretical simulations based on the Holstein-Tavis-Cummings model."
+    },
+    "main_takeaway": {
+      "zh": "极化激元发射表现出极高的相干性（g(2)(0)-1 < 10^-4），且其超快动力学既可解释为玻色-爱因斯坦凝聚，也可解释为振动耦合分子系统中的超辐射。",
+      "en": "Polariton emission exhibits a high degree of coherence (g(2)(0)-1 < 10^-4), and its ultrafast dynamics can be interpreted either as a BEC or as superradiance in vibrationally dressed molecular systems."
+    },
+    "why_it_matters": {
+      "zh": "该研究挑战了对强耦合系统中极化激元凝聚的传统理解，为理解非平衡态光-物质凝聚体中的集体发射机制提供了新视角。",
+      "en": "This study challenges the conventional understanding of polariton condensation in strongly coupled systems and provides new insights into collective emission mechanisms in non-equilibrium light-matter condensates."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过实验与理论对比，为极化激元发射的物理本质提供了超辐射这一替代性解释。",
+        "en": "The paper provides a compelling alternative interpretation (superradiance) for polariton emission through a combination of experimental data and theoretical modeling."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊经常发表关于极化激元、超快动力学及光-物质相互作用的高质量研究。",
+        "en": "The journal frequently publishes high-quality research on polaritons, ultrafast dynamics, and light-matter interactions."
+      }
+    },
+    "keywords": [
+      "polariton",
+      "Bose-Einstein condensation",
+      "superradiance",
+      "second-order coherence",
+      "plasmonic lattice"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:56:23",
+    "input_scope": "full_pdf_text"
+  }
+}

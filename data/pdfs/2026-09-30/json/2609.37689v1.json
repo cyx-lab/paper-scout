@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2609.37689v1",
+    "title": "Switching Anomalous Hall and Nernst Responses by Nonmagnetic N Occupation at Fixed Noncoplanar Mn Antiferromagnetic Order",
+    "authors": [
+      "Xin Liu",
+      "Jiyuan Xu",
+      "Li Ma",
+      "Guoke Li",
+      "Dewei Zhao",
+      "Congmian Zhen",
+      "Denglu Hou"
+    ],
+    "abstract": "Nonmagnetic atomic occupation can control anomalous transverse transport by modifying magnetic symmetry without changing the underlying magnetic order. We demonstrate this effect using controlled $γ$-Mn, Mn$_4$N, and MnN reference states with the same lattice constant and identical noncoplanar all-in-all-out Mn magnetic configurations, while varying only the occupation of the N sublattice. The anomalous Hall and anomalous Nernst responses exhibit a pronounced zero--finite--zero evolution across the series despite the unchanged Mn spin order. In $γ$-Mn and MnN, the high magnetic symmetry enforces complete cancellation of the Brillouin-zone-integrated Berry curvature. In Mn$_4$N, N occupation lowers the magnetic symmetry while preserving inversion and breaking the relevant twofold rotational symmetries, thereby lifting the cancellation constraint and permitting an uncompensated Berry-curvature contribution along the [111] direction. The resulting finite anomalous Hall conductivity reaches $-126$~S/cm near the Fermi level. These results establish nonmagnetic sublattice occupation as a symmetry-control parameter for Berry-curvature-driven transport in compensated antiferromagnets, independent of changes in the magnetic order.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-29T14:33:23Z",
+    "updated": "2026-09-29T14:33:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.37689v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Switching Anomalous Hall and Nernst Responses by Nonmagnetic N Occupation at Fixed Noncoplanar Mn Antiferromagnetic Orde__2609.37689v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.988328",
+    "updated_at": "2026-09-30T02:55:07.988323Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Switching Anomalous Hall and Nernst Responses by Nonmagnetic N Occupation at Fixed Noncoplanar Mn Antiferromagnetic Orde__2609.37689v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37689v1",
+    "pdf_filename": "3_Switching Anomalous Hall and Nernst Responses by Nonmagnetic N Occupation at Fixed Noncoplanar Mn Antiferromagnetic Orde__2609.37689v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过改变非磁性氮原子的占位，在保持锰磁序不变的情况下，实现了反铁磁体中反常霍尔和能斯特效应的开关控制。",
+      "en": "Nonmagnetic N-sublattice occupation controls anomalous Hall and Nernst responses in compensated antiferromagnets while keeping the Mn magnetic order fixed."
+    },
+    "problem": {
+      "zh": "在补偿反铁磁体中，如何通过非磁性原子占位调节晶体对称性，从而在不改变磁序的前提下控制反常横向输运。",
+      "en": "How to control anomalous transverse transport in compensated antiferromagnets by manipulating crystallographic symmetry via nonmagnetic atomic occupation, independent of magnetic order."
+    },
+    "approach": {
+      "zh": "利用第一性原理计算，对比 γ-Mn、Mn4N 和 MnN 三种参考态，在固定晶格常数和非共面全进全出磁序的条件下，分析氮占位对磁点群对称性及贝里曲率抵消机制的影响。",
+      "en": "First-principles calculations comparing γ-Mn, Mn4N, and MnN reference states with fixed lattice constants and noncoplanar AIAO magnetic order to analyze how N-occupation modulates magnetic point group symmetry and Berry-curvature cancellation."
+    },
+    "main_takeaway": {
+      "zh": "非磁性亚晶格占位可作为一种独立的对称性调控参数，通过破坏特定的旋转对称性来解除贝里曲率的抵消约束，从而诱导产生宏观反常横向输运。",
+      "en": "Nonmagnetic sublattice occupation serves as an independent symmetry-control parameter that lifts Berry-curvature cancellation constraints by breaking specific rotational symmetries, enabling macroscopic anomalous transverse transport."
+    },
+    "why_it_matters": {
+      "zh": "该研究提供了一种无需改变磁序即可调控反铁磁自旋电子学器件输运性质的新途径，揭示了晶体对称性在几何输运中的核心作用。",
+      "en": "It provides a new route to tune transport properties in antiferromagnetic spintronics without altering magnetic order, highlighting the critical role of crystal symmetry in geometric transport."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "明确了非磁性原子占位如何通过改变磁点群对称性来控制贝里曲率的抵消，为反铁磁输运调控提供了清晰的物理图像。",
+        "en": "It clarifies how nonmagnetic atomic occupation controls Berry-curvature cancellation via magnetic point group symmetry, providing a clear physical picture for tuning antiferromagnetic transport."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于基于DFT的对称性分析和输运计算，符合PRB的发表范式。",
+        "en": "The paper focuses on DFT-based symmetry analysis and transport calculations, which fits the standard scope of PRB."
+      }
+    },
+    "keywords": [
+      "Antiferromagnetism",
+      "Anomalous Hall effect",
+      "Berry curvature",
+      "Symmetry control",
+      "Nonmagnetic occupation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:56:44",
+    "input_scope": "full_pdf_text"
+  }
+}

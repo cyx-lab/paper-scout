@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2609.36703v1",
+    "title": "Interlayer coupling between twisted graphenes through atomically-precise barriers",
+    "authors": [
+      "Yueyang Wang",
+      "Ben Fuller",
+      "Hongxia Xue",
+      "Tianyu Zhang",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Vladimir Falko",
+      "Dong-Keun Ki"
+    ],
+    "abstract": "Understanding and controlling interlayer coupling in van der Waals (vdW) materials is crucial for engineering novel electronic phenomena, including correlated states, topological phases, and superconductivity. Twisted bilayer graphene (TBG) offers a highly tunable platform to explore how interlayer orientation and separation influence quantum transport and moiré physics. Here, we introduce a method for achieving precise, atomic-scale control of interlayer coupling in TBG using dual-gated devices separated by ultrathin, thickness-tunable hBN spacers. This approach enables systematic control of interlayer interactions, demonstrating that the critical displacement field required for electron-hole bilayer behavior decreases as the layer separation increases at a fixed twist angle. Remarkably, at small twist angles, moiré-related side peaks persist even when layers are separated by tetralayers of hBN (approximately 1.3 nm), indicating robust interlayer band hybridization. By combining atomic-layer-precise control of interlayer coupling with independent twist angle tunability, our platform opens new avenues for discovering novel moiré physics governed by engineered interlayer coupling and moiré patterns.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-29T04:42:10Z",
+    "updated": "2026-09-29T04:42:10Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.36703v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Interlayer coupling between twisted graphenes through atomically-precise barriers__2609.36703v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.989629",
+    "updated_at": "2026-09-30T02:55:07.989624Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Interlayer coupling between twisted graphenes through atomically-precise barriers__2609.36703v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.36703v1",
+    "pdf_filename": "3_Interlayer coupling between twisted graphenes through atomically-precise barriers__2609.36703v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过在扭转双层石墨烯层间插入原子级厚度可控的六方氮化硼薄膜，实现了对层间耦合强度的精确调控。",
+      "en": "Achieved precise control of interlayer coupling in twisted bilayer graphene by inserting atomically thin, thickness-tunable hBN spacers."
+    },
+    "problem": {
+      "zh": "扭转双层石墨烯的层间耦合通常由扭转角固定，难以在固定角度下独立调节层间相互作用，限制了对莫尔物理的系统研究。",
+      "en": "Interlayer coupling in twisted bilayer graphene is typically fixed by the twist angle, making it difficult to independently tune interlayer interactions and isolate moiré effects."
+    },
+    "approach": {
+      "zh": "利用原子级平整的六方氮化硼作为层间间隔层，通过改变其层数系统性地调节层间耦合，并结合双栅极电压控制载流子密度。",
+      "en": "Used atomically thin hBN flakes as spacers to tune interlayer coupling in twisted bilayer graphene, combined with dual-gate control to tune carrier density."
+    },
+    "main_takeaway": {
+      "zh": "层间耦合强度随间隔层厚度增加而减弱，但莫尔超晶格效应和层间能带杂化在一定厚度内依然存在。",
+      "en": "Interlayer coupling weakens with increasing spacer thickness, yet moiré-related effects and interlayer band hybridization persist within certain thicknesses."
+    },
+    "why_it_matters": {
+      "zh": "该平台为研究层间耦合如何影响量子相变和关联电子态提供了一个高度可调的实验模型。",
+      "en": "This platform provides a highly tunable framework to study the impact of interlayer coupling on quantum phases and correlated electronic states."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出了一种全新的、原子级精确的层间耦合调控方法，为扭转电子学研究提供了重要的实验自由度。",
+        "en": "Introduces a novel, atomically precise method for tuning interlayer coupling, providing a significant new experimental degree of freedom for twistronics research."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作涉及范德华异质结的精密制备与量子输运测量，符合该期刊对二维材料物理研究的关注。",
+        "en": "The work involves precise fabrication of van der Waals heterostructures and quantum transport measurements, aligning with the journal's focus on 2D material physics."
+      }
+    },
+    "keywords": [
+      "扭转双层石墨烯",
+      "层间耦合",
+      "六方氮化硼",
+      "莫尔物理",
+      "量子输运"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:55:51",
+    "input_scope": "full_pdf_text"
+  }
+}

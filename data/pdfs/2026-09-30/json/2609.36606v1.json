@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.36606v1",
+    "title": "Magnetic-field-activated transport from band geometry in gapped nodal-line semimetals",
+    "authors": [
+      "L. Medel Onofre",
+      "L. E. Sosa-Arias",
+      "A. Martín-Ruiz"
+    ],
+    "abstract": "We develop a nonperturbative semiclassical theory of magnetotransport in gapped nodal-line semimetals, retaining the full magnetic-field dependence of Berry-curvature and orbital-magnetic-moment corrections. Starting from a minimal two-band model, we derive exact expressions for both the intrinsic Hall response and the dissipative Fermi-surface conductivity, valid to all orders in the magnetic field within the semiclassical regime. We show that the orbital magnetic moment reconstructs the geometrically active Fermi surface, breaking the azimuthal cancellation imposed by the nodal-line geometry and thereby activating an intrinsic Hall current that is absent at zero magnetic field. The Hall response exhibits a pronounced nonmonotonic dependence on the chemical potential and a strongly nonlinear magnetic-field evolution, reflecting the redistribution of geometrically active states around the nodal ring. We further demonstrate that the Fermi-surface conductivities recover the conventional Drude behavior in the weak-field limit, while acquiring quadratic and ultimately nonperturbative magnetic-field corrections together with a field-induced transport anisotropy that gives rise to a measurable planar Hall effect at intermediate fields. Both the intrinsic and dissipative responses are strongly enhanced when the Fermi level lies close to the nodal ring, where Berry curvature and orbital magnetic moment are largest. Our results identify magnetic-field-activated geometric transport as a characteristic signature of nodal-line semimetals and provide a unified framework for describing magnetotransport beyond perturbative magnetic-field expansions, together with experimentally accessible signatures of orbital-magnetic-moment physics.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cond-mat.other"
+    ],
+    "published": "2026-09-29T03:22:20Z",
+    "updated": "2026-09-29T03:22:20Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.36606v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Magnetic-field-activated transport from band geometry in gapped nodal-line semimetals__2609.36606v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.989867",
+    "updated_at": "2026-09-30T02:55:07.989862Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Magnetic-field-activated transport from band geometry in gapped nodal-line semimetals__2609.36606v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.36606v1",
+    "pdf_filename": "3_Magnetic-field-activated transport from band geometry in gapped nodal-line semimetals__2609.36606v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种针对带隙节点线半导体的非微扰半经典磁输运理论，揭示了轨道磁矩如何通过重构费米面激活本征霍尔效应和平面霍尔效应。",
+      "en": "This paper develops a nonperturbative semiclassical theory of magnetotransport in gapped nodal-line semimetals, revealing how the orbital magnetic moment reconstructs the Fermi surface to activate intrinsic Hall and planar Hall effects."
+    },
+    "problem": {
+      "zh": "现有的节点线半导体磁输运研究多依赖于弱场微扰展开，无法捕捉强磁场下贝里曲率、轨道磁矩与费米面重构之间的非线性相互作用。",
+      "en": "Existing studies on magnetotransport in nodal-line semimetals rely on weak-field perturbative expansions, failing to capture the nonlinear interplay between Berry curvature, orbital magnetic moment, and Fermi surface reconstruction at higher fields."
+    },
+    "approach": {
+      "zh": "构建了一个包含贝里曲率和轨道磁矩修正的非微扰半经典玻尔兹曼输运框架，推导了在磁场下对所有阶数有效的本征霍尔电导和费米面电导解析表达式。",
+      "en": "Constructed a nonperturbative semiclassical Boltzmann transport framework incorporating Berry curvature and orbital magnetic moment corrections, deriving exact analytical expressions for intrinsic Hall and Fermi-surface conductivities valid to all orders in the magnetic field."
+    },
+    "main_takeaway": {
+      "zh": "磁场通过轨道磁矩重构费米面，打破了节点线半导体原有的方位角对称性，从而在零场下不存在的条件下激活了本征霍尔电流和平面霍尔效应。",
+      "en": "The magnetic field reconstructs the Fermi surface via the orbital magnetic moment, breaking the azimuthal cancellation inherent to nodal-line semimetals and activating intrinsic Hall currents and planar Hall effects that are absent at zero field."
+    },
+    "why_it_matters": {
+      "zh": "该工作提供了一个统一的非微扰描述框架，解释了节点线半导体中磁场诱导的几何输运现象，并为实验探测轨道磁矩物理提供了明确的信号。",
+      "en": "This work provides a unified nonperturbative framework for magnetic-field-activated geometric transport in nodal-line semimetals and identifies experimentally accessible signatures of orbital magnetic moment physics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究通过非微扰方法澄清了轨道磁矩在节点线半导体磁输运中的核心作用，解释了非线性响应的几何起源。",
+        "en": "The study clarifies the central role of the orbital magnetic moment in the magnetotransport of nodal-line semimetals using a nonperturbative approach, explaining the geometric origin of nonlinear responses."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中拓扑半导体的输运理论推导，符合 PRB 的发表范畴。",
+        "en": "The paper focuses on theoretical derivations of transport in topological semimetals within condensed matter physics, which aligns well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "节点线半导体",
+      "轨道磁矩",
+      "磁输运",
+      "贝里曲率",
+      "平面霍尔效应"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:55:37",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2609.36981v1",
+    "title": "From Bellissard's gap labeling to atomistic quasiperiodic bilayers",
+    "authors": [
+      "Thomas D. Kühne",
+      "Vladislav Efremkin",
+      "Emil Prodan"
+    ],
+    "abstract": "Bellissard's framework uses covariant observables to describe aperiodic solids. We examine how butterfly-like spectra in twisted bilayers can be related to bulk gap labels and topological response. A bulk gap permits a spectral projector and an integrated density of states. A topological response requires an additional pairing of that projector. In an illustrative finite honeycomb bilayer, an exact second-moment identity isolates the interlayer contribution to spectral variance. Angle-resolved spectra, finite state counts, an uncoupled reference, and size and broadening checks show how coupling redistributes spectral weight without assigning a bulk gap label. We then examine the requirements for atomistic electronic-structure calculations, including nonorthogonal orbitals, projected densities of states, and basis functions that move during relative sliding. The resulting framework specifies the steps needed to connect atomistic spectra with bulk state counting and topological response.",
+    "categories": [
+      "physics.comp-ph",
+      "cond-mat.dis-nn",
+      "cond-mat.mes-hall",
+      "cond-mat.str-el",
+      "math-ph"
+    ],
+    "published": "2026-09-29T08:16:07Z",
+    "updated": "2026-09-29T08:16:07Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer",
+        "quasicrystal:quasiperiodic",
+        "quasicrystal:aperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 7,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.36981v1",
+      "pdf_path": "data/pdfs/2026-09-30/7_From Bellissard's gap labeling to atomistic quasiperiodic bilayers__2609.36981v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.989231",
+    "updated_at": "2026-09-30T02:55:07.989227Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/7_From Bellissard's gap labeling to atomistic quasiperiodic bilayers__2609.36981v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.36981v1",
+    "pdf_filename": "7_From Bellissard's gap labeling to atomistic quasiperiodic bilayers__2609.36981v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文探讨了如何将Bellissard的非交换几何框架应用于原子级准周期双层体系，以区分谱重构与拓扑响应。",
+      "en": "This paper examines the application of Bellissard’s noncommutative geometry framework to atomistic quasiperiodic bilayers, distinguishing spectral reconstruction from topological response."
+    },
+    "problem": {
+      "zh": "准周期双层体系中，谱图（如蝴蝶谱）的出现并不直接等同于拓扑能隙或量子化响应，现有研究常混淆谱重构与拓扑分类。",
+      "en": "In quasiperiodic bilayers, the emergence of spectral patterns (like butterfly spectra) does not directly imply topological gaps or quantized responses, and existing studies often conflate spectral reconstruction with topological classification."
+    },
+    "approach": {
+      "zh": "利用非交换几何中的迹（trace）和投影算符理论，结合有限双层模型中的谱矩恒等式，并开发了适用于原子级计算的移动基组重叠分析方法。",
+      "en": "Utilizing trace and projection operator theory from noncommutative geometry, combined with spectral moment identities in finite bilayer models, and developing a moving-basis overlap analysis method for atomistic calculations."
+    },
+    "main_takeaway": {
+      "zh": "谱图的视觉特征不能替代严格的拓扑分析；要确定拓扑响应，必须建立规范的块体投影算符并进行参数空间的Berry几何计算。",
+      "en": "Visual features of spectral plots cannot replace rigorous topological analysis; to determine topological response, one must establish formal bulk projectors and perform Berry geometry calculations in parameter space."
+    },
+    "why_it_matters": {
+      "zh": "为从第一性原理计算中可靠地提取准周期体系的拓扑不变量提供了严谨的数学框架和操作指南。",
+      "en": "It provides a rigorous mathematical framework and operational guide for reliably extracting topological invariants of quasiperiodic systems from first-principles calculations."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章澄清了准周期体系中谱重构与拓扑响应的本质区别，纠正了领域内常见的概念误用。",
+        "en": "The paper clarifies the fundamental distinction between spectral reconstruction and topological response in quasiperiodic systems, correcting common conceptual misuses in the field."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理中处理电子结构、拓扑物态及计算方法论的权威阵地。",
+        "en": "This journal is a premier venue for condensed matter physics dealing with electronic structure, topological states, and computational methodology."
+      }
+    },
+    "keywords": [
+      "gap labeling",
+      "quasiperiodic bilayers",
+      "noncommutative geometry",
+      "topological pumping",
+      "spectral reconstruction"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:56:17",
+    "input_scope": "full_pdf_text"
+  }
+}

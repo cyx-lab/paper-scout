@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2609.36706v1",
+    "title": "Probing the electronic structure of $\\mathrm{UTe}_2$ with ARPES and high-energy spectroscopy",
+    "authors": [
+      "Shin-ichi Fujimori"
+    ],
+    "abstract": "$\\mathrm{UTe}_2$ has emerged as one of the most intensively studied strongly correlated materials in recent years owing to its unconventional superconductivity and the possible realization of a spin-triplet, topologically nontrivial pairing state. A central open issue concerns the nature of the $\\mathrm{U}\\,5f$ electrons and their participation in low-energy quasiparticle states. In this review, we summarize recent spectroscopic studies of $\\mathrm{UTe}_2$ using momentum-resolved angle-resolved photoemission spectroscopy (ARPES) and element- and configuration-sensitive X-ray probes, including X-ray absorption spectroscopy (XAS), X-ray absorption near-edge structure (XANES), X-ray magnetic circular dichroism (XMCD), resonant X-ray emission spectroscopy (RXES), and resonant inelastic X-ray scattering (RIXS). A key finding is the pronounced technique dependence of the inferred electronic structure. We synthesize the present spectroscopic picture by integrating these results with modern electronic-structure calculations such as density functional theory plus dynamical mean-field theory (DFT+DMFT). These findings support an intermediate-valence ground state with significant admixture of $5f^2$ and $5f^3$ configurations in $\\mathrm{UTe}_2$, and they delineate key experimental and theoretical benchmarks needed to connect the normal-state electronic structure to the superconducting mechanism.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-09-29T04:45:04Z",
+    "updated": "2026-09-29T04:45:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.36706v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Probing the electronic structure of $mathrm{UTe}_2$ with ARPES and high-energy spectroscopy__2609.36706v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.989604",
+    "updated_at": "2026-09-30T02:55:07.989600Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Probing the electronic structure of $mathrm{UTe}_2$ with ARPES and high-energy spectroscopy__2609.36706v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.36706v1",
+    "pdf_filename": "3_Probing the electronic structure of $mathrm{UTe}_2$ with ARPES and high-energy spectroscopy__2609.36706v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文综述了利用ARPES和X射线谱学研究UTe2电子结构及5f电子价态的最新进展。",
+      "en": "This review summarizes recent spectroscopic studies using ARPES and X-ray probes to elucidate the electronic structure and U 5f valence state of UTe2."
+    },
+    "problem": {
+      "zh": "UTe2中U 5f电子的定域性与巡游性之争，及其与非常规超导机制的关联尚不明确。",
+      "en": "The nature of U 5f electrons in UTe2, specifically the debate between localized and itinerant descriptions, and its connection to the unconventional superconducting mechanism remain unresolved."
+    },
+    "approach": {
+      "zh": "综合分析动量分辨光电子能谱（ARPES）与多种X射线谱学（XAS/RIXS/RXES/XPS）数据，并结合DFT+DMFT计算进行对比。",
+      "en": "Synthesis of momentum-resolved ARPES and various X-ray spectroscopic techniques (XAS, RIXS, RXES, XPS), integrated with modern DFT+DMFT electronic-structure calculations."
+    },
+    "main_takeaway": {
+      "zh": "UTe2处于强关联混合价态，U 5f电子表现出明显的巡游与定域双重特征，且不同谱学手段对电子结构的探测存在显著的表面/体效应差异。",
+      "en": "UTe2 resides in a strongly correlated mixed-valence state with dual itinerant and localized 5f character, and spectroscopic results are heavily influenced by surface-versus-bulk sensitivity."
+    },
+    "why_it_matters": {
+      "zh": "理解UTe2的正常态电子结构是揭示其自旋三重态、拓扑超导配对机制的关键基础。",
+      "en": "Understanding the normal-state electronic structure is essential for identifying the pairing symmetry and potential topological nature of superconductivity in UTe2."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过对比多种谱学手段，澄清了UTe2中U 5f电子的混合价态本质，解决了实验结果间的表观矛盾。",
+        "en": "It clarifies the mixed-valence nature of U 5f electrons by reconciling conflicting experimental data across multiple spectroscopic probes."
+      }
+    },
+    "paper_type": {
+      "zh": "综述",
+      "en": "Review"
+    },
+    "likely_venue": {
+      "journal": "Journal of Physics: Condensed Matter",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊常发表凝聚态物理领域的深度综述，且论文内容与该领域高度契合。",
+        "en": "The journal frequently publishes in-depth reviews in condensed matter physics, and the content aligns perfectly with its scope."
+      }
+    },
+    "keywords": [
+      "UTe2",
+      "ARPES",
+      "5f electrons",
+      "mixed valence",
+      "unconventional superconductivity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:56:10",
+    "input_scope": "full_pdf_text"
+  }
+}

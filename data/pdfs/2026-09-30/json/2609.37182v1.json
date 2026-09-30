@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2609.37182v1",
+    "title": "Engineering Vacuum Fluctuations in Hyperbolic Heterostructures",
+    "authors": [
+      "Jie-Cheng Feng",
+      "Xinle Cheng",
+      "Itai Keren",
+      "Dante M. Kennes",
+      "Abhay N. Pasupathy",
+      "Dmitri N. Basov",
+      "Emil Vinas Bostrom",
+      "Angel Rubio"
+    ],
+    "abstract": "Vacuum fluctuations can be engineered using optical cavities, resonators, and surface-polaritonic modes, but extending such control deep inside a material remains challenging.Here we show that the vacuum field inside a hyperbolic material can be reshaped by a much thinner overlayer with opposite hyperbolicity.This effect requires overlap between the hyperbolic bands of the two materials and modifies the coupling between the vacuum field and matter excitations within the bottom material, without changing its intrinsic dielectric properties. As an application, we use Eliashberg theory to study a two-dimensional superconducting layer inside the bottom material, showing that the overlayer can remotely change its critical temperature.Our results may shed light on recent experiments reporting changes in superconductivity arising from a frequency-matched hyperbolic overlayer, and suggest an on-chip route to long-range control of matter excitations and collective material properties.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-29T10:06:02Z",
+    "updated": "2026-09-29T10:06:02Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.37182v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Engineering Vacuum Fluctuations in Hyperbolic Heterostructures__2609.37182v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.988903",
+    "updated_at": "2026-09-30T02:55:07.988891Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Engineering Vacuum Fluctuations in Hyperbolic Heterostructures__2609.37182v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37182v1",
+    "pdf_filename": "3_Engineering Vacuum Fluctuations in Hyperbolic Heterostructures__2609.37182v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过覆盖一层具有相反双曲特性的材料，可以远程调控底层材料内部的真空涨落及其与物质激发的耦合。",
+      "en": "Reshaping vacuum fluctuations inside a hyperbolic material using a thin overlayer with opposite hyperbolicity to remotely control light-matter coupling."
+    },
+    "problem": {
+      "zh": "如何突破传统腔体限制，在材料内部实现对真空涨落的动态、长程且具有方向性的调控。",
+      "en": "How to dynamically and remotely engineer vacuum fluctuations deep inside a material, overcoming the limitations of traditional external cavities."
+    },
+    "approach": {
+      "zh": "利用双曲材料（HM）的各向异性，通过堆叠具有相反双曲特性的覆盖层，诱导极化激元模式杂化，从而重塑材料内部的真空电场分布。",
+      "en": "Stacking a hyperbolic overlayer with opposite anisotropy on a bottom hyperbolic material to induce polaritonic mode hybridization and reshape the internal vacuum electric field."
+    },
+    "main_takeaway": {
+      "zh": "双曲异质结构可以将真空涨落从被动的背景转变为主动的设计元素，实现对材料内部激发（如超导配对）的长程调控。",
+      "en": "Hyperbolic heterostructures promote the electromagnetic vacuum from a passive background to an active design element, enabling long-range control over internal matter excitations like superconductivity."
+    },
+    "why_it_matters": {
+      "zh": "该方法提供了一种无需外部腔体即可在芯片尺度上调控量子材料性质的新途径，解释了近期实验中观察到的超导性质变化。",
+      "en": "It provides an on-chip route to tune quantum material properties without external cavities and explains recent experimental observations of superconductivity modulation."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过理论模型清晰地解释了双曲异质结构如何通过模式杂化实现对真空涨落的远程调控，并为实验现象提供了物理图像。",
+        "en": "The paper provides a clear theoretical mechanism for how hyperbolic heterostructures enable remote control of vacuum fluctuations via mode hybridization, explaining observed experimental phenomena."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该工作结合了量子光学与凝聚态物理，具有较强的应用导向和前沿性，符合该期刊的收录范围。",
+        "en": "The work bridges quantum optics and condensed matter physics with strong application potential, fitting the scope of the journal."
+      }
+    },
+    "keywords": [
+      "Vacuum fluctuations",
+      "Hyperbolic materials",
+      "Polaritons",
+      "Light-matter coupling",
+      "Superconductivity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:56:27",
+    "input_scope": "full_pdf_text"
+  }
+}

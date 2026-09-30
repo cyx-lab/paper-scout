@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2609.37763v1",
+    "title": "Nonrelativistic and Relativistic Contributions to Spin-Momentum Locking and Spin Photogalvanic Effect in an Altermagnetic Multiferroic",
+    "authors": [
+      "Giuseppe Cuono",
+      "Subhadeep Bandyopadhyay",
+      "Amar Fakhredine",
+      "Mathews Benny",
+      "Xujia Gong",
+      "Paolo Barone",
+      "Andrea Droghetti",
+      "Carmine Autieri",
+      "Silvia Picozzi"
+    ],
+    "abstract": "Altermagnetic multiferroics provide a platform where non-relativistic spin-momentum locking (SML) coexists with relativistic spin textures, yet disentangling their different origins remains challenging. Here, using first-principles density-functional-theory calculations and symmetry analysis of the multipolar expansion of the spin polarization, we investigate the altermagnetic multiferroic BaCuF4. Its dominant non-relativistic altermagnetic d-wave SML originates primarily from a CuF6 octahedral rotation coupled to the polar distortion and can therefore be reversed by ferroelectric switching. We show that spin-orbit coupling generates additional spin multipoles and, depending on the Neel-vector orientation, induces spin canting and weak ferromagnetism. By exploiting the group-subgroup relations between spin groups and magnetic space groups, we then distinguish non-relativistic altermagnetic, canting-associated, and purely relativistic contributions to the SML. We further show that this hierarchy is encoded in the nonlinear spin-photogalvanic response, whose spin projection selectively probes contributions of different origins. These results establish a direct connection between the microscopic spin texture and nonlinear spin transport in altermagnetic multiferroics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-29T15:06:40Z",
+    "updated": "2026-09-29T15:06:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.37763v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Nonrelativistic and Relativistic Contributions to Spin-Momentum Locking and Spin Photogalvanic Effect in an Altermagneti__2609.37763v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.988179",
+    "updated_at": "2026-09-30T02:55:07.988174Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Nonrelativistic and Relativistic Contributions to Spin-Momentum Locking and Spin Photogalvanic Effect in an Altermagneti__2609.37763v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37763v1",
+    "pdf_filename": "3_Nonrelativistic and Relativistic Contributions to Spin-Momentum Locking and Spin Photogalvanic Effect in an Altermagneti__2609.37763v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了反铁磁多铁性材料 BaCuF4 中自旋-动量锁定（SML）的微观起源，并揭示了其在非线性自旋光电流响应中的分层结构。",
+      "en": "This paper investigates the microscopic origins of spin-momentum locking (SML) in the altermagnetic multiferroic BaCuF4 and reveals its hierarchical structure encoded in nonlinear spin-photogalvanic responses."
+    },
+    "problem": {
+      "zh": "在反铁磁多铁性材料中，非相对论性的自旋-动量锁定与相对论性自旋纹理共存，如何区分它们的不同物理起源及其对自旋输运的贡献仍具挑战。",
+      "en": "Disentangling the distinct origins of nonrelativistic spin-momentum locking and relativistic spin textures in altermagnetic multiferroics, and understanding how these contributions are encoded in spin-transport responses, remains challenging."
+    },
+    "approach": {
+      "zh": "结合第一性原理密度泛函理论（DFT）计算与自旋极化多极展开的对称性分析，系统地分类并区分了 BaCuF4 中的不同自旋纹理贡献。",
+      "en": "Combining first-principles density-functional-theory (DFT) calculations with symmetry analysis of the multipolar expansion of spin polarization to systematically classify and distinguish different spin-texture contributions in BaCuF4."
+    },
+    "main_takeaway": {
+      "zh": "自旋-动量锁定由非相对论性反铁磁贡献、弱铁磁引起的共面贡献和纯相对论性自旋轨道耦合贡献组成，这种分层结构直接反映在非线性自旋光电流响应中。",
+      "en": "Spin-momentum locking consists of nonrelativistic altermagnetic, weak-ferromagnetism-induced coplanar, and purely relativistic SOC contributions, with this hierarchy directly reflected in the nonlinear spin-photogalvanic response."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解复杂磁性材料中的自旋纹理提供了系统框架，并展示了如何通过光电响应实验探测不同微观机制对自旋输运的影响。",
+      "en": "This study provides a systematic framework for understanding spin textures in complex magnetic materials and demonstrates how to probe the influence of different microscopic mechanisms on spin transport via optoelectronic responses."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过对称性分析和第一性原理计算，清晰地界定了反铁磁多铁材料中不同自旋纹理来源的层级关系。",
+        "en": "The paper clearly defines the hierarchical relationship between different spin-texture origins in altermagnetic multiferroics through symmetry analysis and first-principles calculations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中的对称性分析、DFT计算及自旋输运机制，符合该期刊的发表范畴。",
+        "en": "The paper focuses on symmetry analysis, DFT calculations, and spin-transport mechanisms in condensed matter physics, which fits the scope of this journal."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "multiferroics",
+      "spin-momentum locking",
+      "spin photogalvanic effect",
+      "density functional theory"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:56:56",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2609.37547v1",
+    "title": "Screening of Coulomb Interactions in MoS2 Nanoribbons: Enhanced Coulomb interactions, Antiscreening, and Edge Magnetism",
+    "authors": [
+      "A. Montaghemi",
+      "H. Hadipour",
+      "A. Khademi",
+      "A. Yazdani"
+    ],
+    "abstract": "MoS2 has attracted significant attention for its promising applications in optoelectronics, owing to the remarkable stability of its excitons and trions. These quasiparticles have large binding energies that arise from the MoS2 moderate band gap and the unconventional screening of Coulomb interactions in low dimensions. Here, we investigate the screening of long-range Coulomb interactions in the 1H and 1T' phases of MoS2 across different dimensionalities, with particular emphasis on nanoribbons. Our analysis is based on first-principles calculations combined with the constrained random-phase approximation. This work presents a comparative study of MoS2, h-BN, black phosphorene, and graphene nanoribbons, with emphasis on the role of Coulomb interactions in shaping their electronic and magnetic properties. In one-dimensional nanoribbons, quantum confinement leads to a substantial enhancement of Coulomb interactions relative to 2D MoS2. Calculations show that the Hubbard U increases from 2.6 eV in the 2D system to nearly 3.5 eV in the semiconducting nanoribbons. In these systems, the Coulomb interaction is long-ranged, with its tail extending over more than 100 A, nearly twice of that in the 2D structure. The presence of asymmetric edge states involving d and p orbitals in non-hydrogen-passivated zigzag MoS2 nanoribbons, in contrast to phosphorene, h-BN, and graphene nanoribbons, results in a finite net magnetization.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-09-29T13:24:48Z",
+    "updated": "2026-09-29T13:24:48Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:trion"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.37547v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Screening of Coulomb Interactions in MoS2 Nanoribbons Enhanced Coulomb interactions, Antiscreening, and Edge Magnetism__2609.37547v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.988499",
+    "updated_at": "2026-09-30T02:55:07.988444Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Screening of Coulomb Interactions in MoS2 Nanoribbons Enhanced Coulomb interactions, Antiscreening, and Edge Magnetism__2609.37547v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37547v1",
+    "pdf_filename": "3_Screening of Coulomb Interactions in MoS2 Nanoribbons Enhanced Coulomb interactions, Antiscreening, and Edge Magnetism__2609.37547v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过第一性原理计算研究了MoS2纳米带中库仑相互作用的屏蔽效应，揭示了其长程特性及边缘磁性机制。",
+      "en": "This paper investigates the screening of Coulomb interactions in MoS2 nanoribbons using first-principles calculations, revealing their long-range nature and edge magnetism mechanisms."
+    },
+    "problem": {
+      "zh": "MoS2在低维结构中表现出显著的激子和三子效应，但其库仑相互作用的屏蔽机制及其对边缘磁性的影响尚需深入评估。",
+      "en": "MoS2 exhibits significant excitonic and trionic effects in low-dimensional structures, but the screening mechanism of Coulomb interactions and its impact on edge magnetism require further evaluation."
+    },
+    "approach": {
+      "zh": "结合密度泛函理论（DFT）与约束随机相近似（cRPA），对比研究了MoS2不同维度及相（1H和1T'）的库仑相互作用，并分析了边缘态对磁性的贡献。",
+      "en": "Combining density functional theory (DFT) with the constrained random-phase approximation (cRPA), the study performs a comparative analysis of Coulomb interactions in MoS2 across different dimensions and phases (1H and 1T'), while analyzing the contribution of edge states to magnetism."
+    },
+    "main_takeaway": {
+      "zh": "MoS2纳米带中的库仑相互作用具有极强的长程特性，且非氢钝化锯齿型边缘由于d和p轨道的混合表现出独特的净磁矩。",
+      "en": "Coulomb interactions in MoS2 nanoribbons are highly long-ranged, and non-hydrogen-passivated zigzag edges exhibit a unique net magnetic moment due to the mixing of d and p orbitals."
+    },
+    "why_it_matters": {
+      "zh": "该研究阐明了低维MoS2中非传统屏蔽效应的物理本质，为理解其激子特性及开发自旋电子学器件提供了理论基础。",
+      "en": "This study clarifies the physical nature of unconventional screening effects in low-dimensional MoS2, providing a theoretical foundation for understanding its excitonic properties and developing spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章详细解析了MoS2纳米带中库仑相互作用的屏蔽行为及其与边缘磁性的关联，填补了该领域对轨道混合效应认识的空白。",
+        "en": "The paper provides a detailed analysis of Coulomb interaction screening and its correlation with edge magnetism in MoS2 nanoribbons, filling a gap in the understanding of orbital mixing effects."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值计算",
+      "en": "Theory + Numerical calculation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域关于低维材料电子结构和多体相互作用研究的主要阵地。",
+        "en": "This journal is a primary venue for research on the electronic structure and many-body interactions of low-dimensional materials in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "MoS2 nanoribbons",
+      "Coulomb screening",
+      "cRPA",
+      "edge magnetism",
+      "excitons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:56:37",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2609.37767v1",
+    "title": "Multistate Torsion in Zitterbewegung",
+    "authors": [
+      "Wojciech J. Jankowski"
+    ],
+    "abstract": "We derive nonlinear Zitterbewegung velocity of electrons augmented by band torsion in crystals. The equation of motion with multistate quantum geometric tensors and torsion culminates in transient nonlinear photocurrent responses distinct from the recently measured resonant steady-state photovoltaic effects induced by circularly polarized light. Tomography protocols for measuring the multistate quantum geometric torsion tensors are proposed.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "physics.optics",
+      "quant-ph"
+    ],
+    "published": "2026-09-29T15:09:29Z",
+    "updated": "2026-09-29T15:09:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometric tensor"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.37767v1",
+      "pdf_path": "data/pdfs/2026-09-30/3_Multistate Torsion in Zitterbewegung__2609.37767v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-09-30T02:55:07.988154",
+    "updated_at": "2026-09-30T02:55:07.988150Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-09-30/3_Multistate Torsion in Zitterbewegung__2609.37767v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.37767v1",
+    "pdf_filename": "3_Multistate Torsion in Zitterbewegung__2609.37767v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文推导了晶体中电子在电场驱动下的非线性 Zitterbewegung 速度，并证明了其与多态能带扭转（band torsion）的直接联系。",
+      "en": "This paper derives the nonlinear Zitterbewegung velocity of electrons in crystals under electric fields and demonstrates its direct connection to multistate band torsion."
+    },
+    "problem": {
+      "zh": "如何通过半经典动力学框架理解多态量子几何张量（QGTs）和能带扭转在电子运动中的作用，以及如何直接探测这些高阶几何量。",
+      "en": "Understanding the role of multistate quantum geometric tensors (QGTs) and band torsion in semiclassical electron dynamics, and identifying ways to directly probe these higher-order geometric quantities."
+    },
+    "approach": {
+      "zh": "基于量子刘维尔方程，在清洁晶体极限下推导了二阶电场驱动下的多模 Zitterbewegung 速度，并提出了通过瞬态光电流进行层析成像的协议。",
+      "en": "Deriving the second-order field-induced multimode Zitterbewegung velocity in the clean crystal limit using the quantum Liouville equation, and proposing a tomography protocol based on transient photocurrents."
+    },
+    "main_takeaway": {
+      "zh": "二阶 Zitterbewegung 电流是探测能带扭转的直接“确凿证据”，且无需依赖共振测量。",
+      "en": "Second-order Zitterbewegung currents serve as a direct smoking-gun probe for band torsion, bypassing the need for resonant measurements."
+    },
+    "why_it_matters": {
+      "zh": "该研究为探测难以直接测量的多态量子几何量提供了新途径，并揭示了非线性瞬态响应中隐藏的几何信息。",
+      "en": "This work provides a new pathway to probe elusive multistate quantum geometric quantities and reveals hidden geometric information in nonlinear transient responses."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章明确了能带扭转在非线性动力学中的物理表现，并建立了其与瞬态电流的直接数学联系。",
+        "en": "The paper clarifies the physical manifestation of band torsion in nonlinear dynamics and establishes a direct mathematical link to transient currents."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域（量子几何与非线性响应）的典型高影响力投稿去向，且内容符合该期刊对新物理机制的偏好。",
+        "en": "A typical high-impact venue for this field (quantum geometry and nonlinear response), and the content aligns with the journal's preference for new physical mechanisms."
+      }
+    },
+    "keywords": [
+      "Zitterbewegung",
+      "Quantum Geometry",
+      "Band Torsion",
+      "Nonlinear Photocurrent",
+      "Multiband Dynamics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-09-30",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-09-30T10:57:02",
+    "input_scope": "full_pdf_text"
+  }
+}
