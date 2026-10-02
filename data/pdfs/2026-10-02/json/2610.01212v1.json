@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.01212v1",
+    "title": "Vector solitons in nonlinear lattices with competing SPM and XPM terms",
+    "authors": [
+      "Liangwei Zeng",
+      "Boris A. Malomed",
+      "Dumitru Mihalache",
+      "Xing Zhu"
+    ],
+    "abstract": "We demonstrate that two-component photonic nonlinear lattices with opposite signs of the out-of-phase spatially modulated SPM and XPM coefficients can support two types of optical vector solitons (VSs), the fundamental and mixed ones. The fundamental VSs are composed of two Gaussian-like components, while the mixed ones combine Gaussian-like and dipole components. The structures and stability of both types of the VSs are investigated. The VSs are stable, except for narrow intervals at small values of the propagation constant.",
+    "categories": [
+      "physics.optics",
+      "nlin.PS"
+    ],
+    "published": "2026-10-01T07:18:48Z",
+    "updated": "2026-10-01T07:18:48Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.01212v1",
+      "pdf_path": "data/pdfs/2026-10-02/2_Vector solitons in nonlinear lattices with competing SPM and XPM terms__2610.01212v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.942018",
+    "updated_at": "2026-10-02T03:03:56.942003Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/2_Vector solitons in nonlinear lattices with competing SPM and XPM terms__2610.01212v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.01212v1",
+    "pdf_filename": "2_Vector solitons in nonlinear lattices with competing SPM and XPM terms__2610.01212v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了在无线性势的非线性晶格中，由自相位调制和交叉相位调制竞争支持的两种稳定光学矢量孤子。",
+      "en": "This paper demonstrates the existence and stability of two types of optical vector solitons in nonlinear lattices without linear potentials, supported by competing SPM and XPM effects."
+    },
+    "problem": {
+      "zh": "在缺乏线性势的情况下，如何利用空间调制的非线性效应来产生并维持稳定的多组分矢量孤子。",
+      "en": "How to generate and maintain stable multi-component vector solitons using spatially modulated nonlinear effects in the absence of a linear potential."
+    },
+    "approach": {
+      "zh": "通过耦合非线性薛定谔方程建模，利用数值迭代法求解定态，并结合线性稳定性分析与数值模拟验证孤子的存在性与稳定性。",
+      "en": "Modeling via coupled nonlinear Schrödinger equations, solving for stationary states using numerical iteration, and verifying existence and stability through linear stability analysis and numerical simulations."
+    },
+    "main_takeaway": {
+      "zh": "在自相位调制和交叉相位调制系数符号相反的非线性晶格中，可以支持稳定的基态和混合态矢量孤子。",
+      "en": "Nonlinear lattices with competing SPM and XPM coefficients support stable fundamental and mixed vector solitons."
+    },
+    "why_it_matters": {
+      "zh": "该研究揭示了纯非线性调制在光子系统中构建鲁棒多组分光波导模式的新机制，为光信号处理提供了理论基础。",
+      "en": "The study reveals a new mechanism for constructing robust multi-component optical waveguide modes using purely nonlinear modulation, providing a theoretical basis for optical signal processing."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章系统阐述了非线性晶格中矢量孤子的形成机制及其稳定性边界，为相关非线性光学研究提供了清晰的物理图像。",
+        "en": "The paper systematically elucidates the formation mechanism and stability boundaries of vector solitons in nonlinear lattices, providing a clear physical picture for related nonlinear optics research."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review E",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊长期关注非线性动力学、孤子理论及非线性薛定谔方程的相关研究，符合本文的研究范畴。",
+        "en": "The journal frequently publishes research on nonlinear dynamics, soliton theory, and the nonlinear Schrödinger equation, which aligns with the scope of this paper."
+      }
+    },
+    "keywords": [
+      "矢量孤子",
+      "非线性晶格",
+      "自相位调制",
+      "交叉相位调制",
+      "非线性薛定谔方程"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:04:31",
+    "input_scope": "full_pdf_text"
+  }
+}

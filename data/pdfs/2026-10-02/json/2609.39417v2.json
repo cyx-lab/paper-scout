@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2609.39417v2",
+    "title": "Quantum Well Resonant Tunneling Diode Probe of Correlated States in Twisted Bilayer MoS$_2$",
+    "authors": [
+      "Chengjie Zhou",
+      "Jin-Xin Hu",
+      "Sihong Xu",
+      "Zijing Jin",
+      "Hui Li",
+      "Kam Tuen Law",
+      "Jiannong Wang"
+    ],
+    "abstract": "Moiré superlattices formed in transition metal dichalcogenides (TMDs) offer a versatile platform for exploring emergent quantum phases arising from strong electronic correlations. In this work, we develop a new experimental platform, the quantum well resonant tunneling diode (QWRTD), to probe the electronic landscape of $\\approx 57^\\circ$ twisted bilayer MoS$_2$ (tMoS$_2$). By measuring the differential conductance ($dI/dV_{\\text{Probe}}$) as a function of filling factor $ν$ and displacement field $D$, we observe a robust integer correlated insulating state at $ν= 1$ that persists across the measured displacement field range. Furthermore, we identify a displacement-field-induced fractional insulating state at $ν= 3/4$ for $D < -75$~mV/nm. Temperature- and magnetic-field-dependent measurements characterize this $ν= 3/4$ state as a potential generalized Wigner crystal. These correlated states are also observed in another device with a similar twist angle ($\\approx 56.5^\\circ$). Our results provide direct evidence of correlated states in near-AB-stacked tMoS$_2$ and establish QWRTD as a powerful experimental tool for investigating strong correlations and topology in van der Waals heterostructures.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-09-30T09:56:53Z",
+    "updated": "2026-10-01T04:48:34Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2609.39417v2",
+      "pdf_path": "data/pdfs/2026-10-02/3_Quantum Well Resonant Tunneling Diode Probe of Correlated States in Twisted Bilayer MoS$_2$__2609.39417v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.944312",
+    "updated_at": "2026-10-02T03:03:56.944305Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/3_Quantum Well Resonant Tunneling Diode Probe of Correlated States in Twisted Bilayer MoS$_2$__2609.39417v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2609.39417v2",
+    "pdf_filename": "3_Quantum Well Resonant Tunneling Diode Probe of Correlated States in Twisted Bilayer MoS$_2$__2609.39417v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究开发了一种量子井谐振隧穿二极管局域谱学探测平台，在转角双层MoS2的导带中观察到了鲁棒的1填充Mott绝缘态以及电位移场诱导的3/4填充广义维格纳晶体。",
+      "en": "The authors developed a quantum well resonant tunneling diode local probe to reveal a robust integer Mott insulator at filling factor 1 and a displacement-field-induced fractional Wigner crystal state at filling factor 3/4 in twisted bilayer MoS2."
+    },
+    "problem": {
+      "zh": "在电子掺杂的转角过渡金属硫化物（TMD）莫尔超晶格中，由于肖特基接触势垒高、宏观样品不均匀，传统输运测量难以探测导带扁平带关联态，而扫场探针又缺乏独立的双栅极电位移场调控能力。",
+      "en": "Probing flat-band correlated states in electron-doped twisted TMD moire superlattices is severely hindered by high Schottky contact barriers and spatial inhomogeneity in macroscopic transport, while standard scanning probes lack dual-gate displacement field tunability."
+    },
+    "approach": {
+      "zh": "设计并制造了结合刻蚀h-BN边缘隔离与石墨烯探测层的垂直量子井谐振隧穿二极管（QWRTD）器件，在双栅极控制下实现无接触、高分辨率的局域垂直隧穿电导（dI/dV）测量与相图绘制。",
+      "en": "Fabricated a vertical quantum well resonant tunneling diode (QWRTD) device with a patterned h-BN isolation layer and graphene probe, enabling contact-free, high-resolution local tunneling conductance (dI/dV) spectroscopy under continuous dual-gate control."
+    },
+    "main_takeaway": {
+      "zh": "QWRTD成功绕过了欧姆接触难题，证实近AB堆叠转角MoS2导带处于强关联区，并首次观测到了电位移场驱动的3/4分数填充广义维格纳晶体绝缘态。",
+      "en": "The QWRTD technique bypasses Ohmic contact challenges, establishing near-AB stacked twisted MoS2 conduction bands as strongly correlated and directly capturing a displacement-field-induced fractional insulating state at filling 3/4."
+    },
+    "why_it_matters": {
+      "zh": "该研究为研究范德华异质结中高电子掺杂区的多能谷关联物理与拓扑物相提供了一种非侵入式、兼具局域空间分辨率与双栅调控能力的通用探针技术。",
+      "en": "It offers a non-invasive, localized spectroscopic platform with full dual-gate control, opening up broad opportunities for exploring multi-flavor electronic correlation and topology in electron-doped van der Waals moire heterostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "开发了新型QWRTD局域谱学测量平台，并首次在电子掺杂转角TMD系统中观测到了位移场调控的分数填充关联绝缘态。",
+        "en": "Demonstrates an innovative QWRTD local probe technique and presents the first spectroscopic observation of field-induced fractional correlated states in electron-doped twisted TMDs."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文提出了创新的实验方法（QWRTD），并在新兴的转角TMD材料体系中发现了关键的强关联物相，非常符合PRL的发表标准。",
+        "en": "The combination of an innovative experimental technique (QWRTD) and the discovery of novel correlated phases in moire materials aligns closely with the scope of PRL."
+      }
+    },
+    "keywords": [
+      "Twisted bilayer MoS2",
+      "Resonant tunneling diode",
+      "Mott insulator",
+      "Generalized Wigner crystal",
+      "Moire superlattice"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:04:18",
+    "input_scope": "full_pdf_text"
+  }
+}

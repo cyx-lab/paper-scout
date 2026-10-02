@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.01714v1",
+    "title": "Complex magnetic phase diagrams in Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$",
+    "authors": [
+      "Karolina Gornicka",
+      "Matthew S. Cook",
+      "Brenden R. Ortiz",
+      "Andrew D. Christianson",
+      "Andrew F. May"
+    ],
+    "abstract": "We report the synthesis and comprehensive investigation of single-crystalline Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$, the first Ir-based members of the $Ln_2M$Al$_4$Ge$_2$ family. Both compounds crystallize in the tetragonal Tb$_2$NiAl$_4$Ge$_2$-type structure (space group $I4/mmm$) and exhibit easy-axis magnetic anisotropy with the crystallographic $c$ axis as the preferred magnetization direction. Tb$_2$IrAl$_4$Ge$_2$ undergoes antiferromagnetic ordering below $T_N = 25$ K and develops a sequence of field-induced metamagnetic transitions accompanied by pronounced magnetotransport anomalies, including a nonlinear Hall response. In contrast, Er$_2$IrAl$_4$Ge$_2$ exhibits three successive zero-field magnetic transitions and a substantially richer low-temperature magnetic phase diagram comprising multiple competing field-induced phases confined to relatively modest magnetic fields. The differences between the Tb- and Er-based compounds demonstrate the wide range of magnetic behavior that can be realized within the \\ce{Tb2NiAl4Ge2}-type structure. More broadly, the successful realization of Ir-based $Ln_2M$Al$_4$Ge$_2$ compounds considerably expands the accessible chemical space of this family and opens a route toward the exploration of related $4d$- and $5d$-based aluminogermanides.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-01T13:55:25Z",
+    "updated": "2026-10-01T13:55:25Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:nonlinear Hall"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.01714v1",
+      "pdf_path": "data/pdfs/2026-10-02/3_Complex magnetic phase diagrams in Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$__2610.01714v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.940955",
+    "updated_at": "2026-10-02T03:03:56.940949Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/3_Complex magnetic phase diagrams in Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$__2610.01714v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.01714v1",
+    "pdf_filename": "3_Complex magnetic phase diagrams in Tb$_2$IrAl$_4$Ge$_2$ and Er$_2$IrAl$_4$Ge$_2$__2610.01714v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文报道了首批铱基Ln2IrAl4Ge2四元金属间化合物的合成及其复杂的磁相图。",
+      "en": "This paper reports the synthesis and complex magnetic phase diagrams of the first Ir-based Ln2IrAl4Ge2 quaternary intermetallic compounds."
+    },
+    "problem": {
+      "zh": "Ln2MAl4Ge2家族中此前仅有3d过渡金属成员，缺乏对5d过渡金属成员的磁性及物理性质研究。",
+      "en": "The Ln2MAl4Ge2 family was previously limited to 3d transition metals, lacking investigation into the magnetic and physical properties of 5d transition metal members."
+    },
+    "approach": {
+      "zh": "采用铝锗自熔剂法生长单晶，通过X射线衍射、磁化率、比热及电输运测量进行综合表征。",
+      "en": "Single crystals were grown using the Al-Ge self-flux method and characterized via X-ray diffraction, magnetic susceptibility, heat capacity, and magnetotransport measurements."
+    },
+    "main_takeaway": {
+      "zh": "Tb2IrAl4Ge2和Er2IrAl4Ge2表现出强磁各向异性及丰富的场致磁相变，证明了5d元素引入能显著扩展该结构的磁性空间。",
+      "en": "Tb2IrAl4Ge2 and Er2IrAl4Ge2 exhibit strong magnetic anisotropy and rich field-induced phase transitions, demonstrating that 5d element substitution significantly expands the magnetic landscape of this structure."
+    },
+    "why_it_matters": {
+      "zh": "该研究为探索4d和5d基铝锗化物提供了新平台，并揭示了晶体电场效应与RKKY相互作用在复杂磁性中的竞争。",
+      "en": "This work provides a new platform for exploring 4d and 5d-based aluminogermanides and reveals the competition between crystal-electric-field effects and RKKY interactions in complex magnetism."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次成功合成并系统表征了该系列铱基化合物，揭示了比3d类似物更丰富的磁相图。",
+        "en": "It reports the first successful synthesis and systematic characterization of this Ir-based series, revealing richer magnetic phase diagrams than their 3d counterparts."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+表征",
+      "en": "Experimental + Characterization"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊专注于新型材料的合成与物理性质表征，符合本文内容。",
+        "en": "The journal focuses on the synthesis and characterization of physical properties of new materials, which aligns with the paper's content."
+      }
+    },
+    "keywords": [
+      "quaternary intermetallics",
+      "magnetic phase diagrams",
+      "metamagnetic transitions",
+      "magnetic anisotropy",
+      "5d transition metals"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:05:28",
+    "input_scope": "full_pdf_text"
+  }
+}

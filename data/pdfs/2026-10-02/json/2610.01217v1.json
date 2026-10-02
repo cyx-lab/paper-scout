@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2610.01217v1",
+    "title": "Composite fermions in ideal Chern bands",
+    "authors": [
+      "Songyang Pu",
+      "Liangtao Peng",
+      "Shaffique Adam"
+    ],
+    "abstract": "The composite-fermion framework maps the strongly correlated fractional quantum Hall state onto a weakly interacting integer quantum Hall state in a reduced effective magnetic field. We ask how this framework is modified for fractional Chern insulators, where the role of a uniform magnetic field is replaced by the nonuniform Berry curvature of a Chern band. Specifically, we construct composite-fermion wave functions for Jain states and their quasiparticles and quasiholes in Aharonov-Casher bands, a widely used model for ideal Chern bands. We find that these states overlap closely with exact eigenstates over a broad range of field modulation. Using these wave functions, we demonstrate that the emergent composite-fermion band structure goes beyond the conventional picture of effective Landau levels, correctly capturing the quasiparticle dispersion. Remarkably, we find that an isolated quasiparticle band carries a total Berry flux that is different from a Landau level. These results establish a composite-fermion description for mobile fractional Chern insulator anyons and provide a framework to understand their stability.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-01T07:23:05Z",
+    "updated": "2026-10-01T07:23:05Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.01217v1",
+      "pdf_path": "data/pdfs/2026-10-02/3_Composite fermions in ideal Chern bands__2610.01217v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.941983",
+    "updated_at": "2026-10-02T03:03:56.941973Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/3_Composite fermions in ideal Chern bands__2610.01217v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.01217v1",
+    "pdf_filename": "3_Composite fermions in ideal Chern bands__2610.01217v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文将复合费米子理论推广至理想陈能带，揭示了分数陈绝缘体中带电准粒子形成色散布洛赫能带且其孤立能带具有量子化陈数 C_QP = 2pn + 1 的机制。",
+      "en": "This work extends composite fermion theory to ideal Chern bands, showing that charged excitations in fractional Chern insulators form dispersive Bloch bands with an isolated quasiparticle Chern number C_QP = 2pn + 1."
+    },
+    "problem": {
+      "zh": "复合费米子框架在面临非均匀Berry曲率的分数陈绝缘体时如何被修正，以及移动任意子（准粒子/准孔）的色散与拓扑性质由什么决定。",
+      "en": "How the composite fermion framework is modified for fractional Chern insulators with nonuniform Berry curvature, and what governs the dispersion and topological features of mobile anyons."
+    },
+    "approach": {
+      "zh": "在 Aharonov-Casher 理想陈能带模型中构造 Jain 态及其准粒子与准孔的复合费米子试探波函数，结合动量投影、精确对角化与 Berry 通量数值计算进行验证。",
+      "en": "Constructing composite fermion trial wavefunctions for Jain states and their quasiparticle/quasihole excitations in Aharonov-Casher ideal Chern bands, validated via momentum projection, exact diagonalization, and Berry flux calculations."
+    },
+    "main_takeaway": {
+      "zh": "分数陈绝缘体中的准粒子即便在电子能带完全平坦时也会形成色散能带，且孤立准粒子能带承载的总 Berry 通量为 2π(2pn+1)（即陈数等于母态 Jain 序列的分母 2pn+1）。",
+      "en": "Quasiparticles in fractional Chern insulators form dispersive bands even when the underlying electronic band is flat, and an isolated quasiparticle band carries a total Berry flux of 2π(2pn+1), matching the denominator of the parent Jain state."
+    },
+    "why_it_matters": {
+      "zh": "建立了可定量描述移动分数陈绝缘体任意子的复合费米子微观理论，为研究摩尔材料（如双层 MoTe2）中 FCI 的稳定性、任意子分子及任意子超导提供了关键理论工具。",
+      "en": "It establishes a quantitative composite fermion framework for mobile fractional Chern insulator anyons, providing a theoretical foundation to study FCI stability, anyon molecules, and anyon superconductivity in moiré materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "成功将经典的复合费米子理论扩展到理想陈能带，发现并证明了准粒子能带色散与非平凡陈数 C_QP = 2pn + 1。",
+        "en": "Successfully generalizes composite fermion theory to ideal Chern bands, discovering and proving quasiparticle band dispersion and the nontrivial Chern number C_QP = 2pn + 1."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文正文明确写有“In this Letter”，且提出了关于分数陈绝缘体与复合费米子理论的重要概念突破，非常符合 PRL 投稿定位。",
+        "en": "The manuscript explicitly states 'In this Letter' and presents a key conceptual advance in strongly correlated topological physics suited for Physical Review Letters."
+      }
+    },
+    "keywords": [
+      "Composite Fermions",
+      "Fractional Chern Insulators",
+      "Aharonov-Casher Bands",
+      "Anyon Dispersion",
+      "Chern Number"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:04:41",
+    "input_scope": "full_pdf_text"
+  }
+}

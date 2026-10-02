@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2610.02080v1",
+    "title": "Thin-capping layer epitaxial quantum dots for near-field quantum photonics",
+    "authors": [
+      "Yuting Guo",
+      "Jonathan Bar-David",
+      "Pasquale Cilibrizzi",
+      "Sung-Yul L. Park",
+      "Jin Dong Song",
+      "Luca Sapienza"
+    ],
+    "abstract": "Epitaxial quantum dots (QDs) are widely recognised as one of the best quantum light sources, given their good stability, brightness, quantum efficiency and coherence. To reach such properties, QDs are protected from potentially detrimental surface states by a relatively thick capping layer, typically exceeding 50nm. This prevents the implementation of near-field effects, like plasmonic-based ones, that can dramatically increase the light-matter interaction, since the control of the spontaneous emission dynamics and directionality of the emission can only occur if the emitter is in close proximity (typically tens of nanometers or less) from the metallic structures. In this work, we report the growth and optical characterisation of InAs/GaAs QDs with GaAs capping layer thickness of 10nm, 20nm, and a more standard 95nm. Remarkably, we observe emission linewidths up to 5 times smaller than previously reported, with unperturbed excitonic lifetimes. These results demonstrate that the epitaxial QD's high optical quality can be maintained even when the emitters are at reduced distances from the surface, opening the path for the exploration of near-field light-matter interactions with coherent and stable emitters, suitable for quantum technology applications.",
+    "categories": [
+      "physics.optics",
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "physics.app-ph",
+      "quant-ph"
+    ],
+    "published": "2026-10-01T17:16:43Z",
+    "updated": "2026-10-01T17:16:43Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.02080v1",
+      "pdf_path": "data/pdfs/2026-10-02/3_Thin-capping layer epitaxial quantum dots for near-field quantum photonics__2610.02080v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.940436",
+    "updated_at": "2026-10-02T03:03:56.940429Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/3_Thin-capping layer epitaxial quantum dots for near-field quantum photonics__2610.02080v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.02080v1",
+    "pdf_filename": "3_Thin-capping layer epitaxial quantum dots for near-field quantum photonics__2610.02080v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过优化外延生长工艺，实现了在极薄覆盖层（10-20nm）下仍保持高质量光学性能的InAs/GaAs量子点。",
+      "en": "Demonstration of high-quality epitaxial InAs/GaAs quantum dots with ultra-thin capping layers (10-20nm) by optimizing growth and thermal treatment."
+    },
+    "problem": {
+      "zh": "传统外延量子点需要厚覆盖层（>50nm）以避免表面态导致的性能退化，但这限制了量子点与近场等离激元结构的耦合。",
+      "en": "Epitaxial quantum dots typically require thick capping layers (>50nm) to preserve optical quality, which prevents efficient coupling to near-field plasmonic structures."
+    },
+    "approach": {
+      "zh": "采用分子束外延技术，通过在部分覆盖后进行原位热处理，诱导应变重分布和组分互混，从而在减薄覆盖层的同时保持激子寿命和线宽。",
+      "en": "Utilizing molecular beam epitaxy with an in-situ thermal treatment after partial capping to induce strain redistribution and compositional intermixing, allowing for thin capping layers while maintaining optical performance."
+    },
+    "main_takeaway": {
+      "zh": "InAs/GaAs量子点在仅10-20nm的覆盖层下仍能保持与厚覆盖层相当的激子寿命和窄线宽，为近场量子光子学应用提供了可能。",
+      "en": "InAs/GaAs quantum dots can maintain comparable excitonic lifetimes and narrow linewidths even with capping layers as thin as 10-20nm, enabling integration with near-field photonic devices."
+    },
+    "why_it_matters": {
+      "zh": "该研究打破了量子点光学质量与近场耦合距离之间的权衡，为构建高效的量子等离激元器件铺平了道路。",
+      "en": "This work overcomes the trade-off between optical quality and near-field coupling distance, paving the way for efficient quantum plasmonic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该方法解决了外延量子点在近场应用中的核心瓶颈，显著提升了其与纳米结构集成的潜力。",
+        "en": "This approach addresses a critical bottleneck for near-field applications of epitaxial quantum dots, significantly enhancing their potential for integration with nanostructures."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Applied Physics Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文侧重于外延生长工艺改进及光学表征，符合该期刊关注半导体材料与器件物理的定位。",
+        "en": "The paper focuses on epitaxial growth optimization and optical characterization, which aligns well with the journal's scope on semiconductor materials and device physics."
+      }
+    },
+    "keywords": [
+      "Quantum dots",
+      "Epitaxial growth",
+      "Near-field photonics",
+      "Plasmonics",
+      "InAs/GaAs"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:05:33",
+    "input_scope": "full_pdf_text"
+  }
+}

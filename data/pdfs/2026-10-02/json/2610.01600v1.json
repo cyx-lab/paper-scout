@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2610.01600v1",
+    "title": "Why polar excitons stay sharp: parity protection of the center-of-mass recoil channel in exciton-phonon scattering",
+    "authors": [
+      "Michael O. Atambo"
+    ],
+    "abstract": "In polar semiconductors the Fröhlich interaction is the dominant electron--phonon coupling, yet excitonic resonances in materials such as halide perovskites remain anomalously sharp. We show that standard frozen-center-of-mass treatments of the exciton--phonon problem miss the decisive kinematic degree of freedom: restoring the exact center-of-mass (COM) recoil reveals a universally open, parameter-free $1s\\to1s$ absorption channel at recoil momentum $q_*=\\sqrt{2M_{\\rm ex}\\hbarω_{\\rm LO}}/\\hbar$, whose rate scales as $N_{\\rm LO}(T)$. We prove that this recoil channel is controlled by destructive electron--hole interference: the recoil linewidth vanishes with the mass asymmetry as $γ_{\\rm LO}^{\\rm recoil}\\propto\\mathcal{F}_{1s,1s}(q_*)^2$, and the elastic dressing obeys the exact suppression law $S_X/S_{\\rm ind}=η^2(6-η^2)/5$ within the hydrogenic Fröhlich model. The theory establishes a hierarchy of scattering regimes. In mass-asymmetric materials (GaAs, $η=-0.74$) the recoil channel is active ($γ_{\\rm LO}^{\\rm recoil}=2.2$~meV); in mass-symmetric materials (FAPbI$_3$, $η=0$; MAPbI$_3$, $η=-0.11$) it is killed by interference (0.00 and 0.12 meV), showing that the observed 27--40 meV perovskite linewidths cannot be accounted for by COM recoil and therefore require internal-state-changing and other inelastic channels, of which the constructive, $η$-robust $1s\\to np$ resonance is the leading candidate within the present model. The Fröhlich constant $α$ alone is therefore insufficient as a figure of merit: after projection onto the correlated exciton, the controlling parameters are $η$, $q_*a_X$, and the Rydberg detuning.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-01T12:46:46Z",
+    "updated": "2026-10-01T12:46:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.01600v1",
+      "pdf_path": "data/pdfs/2026-10-02/3_Why polar excitons stay sharp parity protection of the center-of-mass recoil channel in exciton-phonon scattering__2610.01600v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.941063",
+    "updated_at": "2026-10-02T03:03:56.941056Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/3_Why polar excitons stay sharp parity protection of the center-of-mass recoil channel in exciton-phonon scattering__2610.01600v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.01600v1",
+    "pdf_filename": "3_Why polar excitons stay sharp parity protection of the center-of-mass recoil channel in exciton-phonon scattering__2610.01600v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了激子-声子散射中质心反冲通道的宇称保护机制，解释了极性半导体中激子线宽为何保持尖锐。",
+      "en": "This paper reveals a parity-protection mechanism for the center-of-mass recoil channel in exciton-phonon scattering, explaining why excitonic resonances remain sharp in polar semiconductors."
+    },
+    "problem": {
+      "zh": "传统理论无法解释卤化物钙钛矿等材料在强电子-声子耦合下为何仍表现出异常尖锐的激子线宽。",
+      "en": "Standard theories fail to explain why materials like halide perovskites exhibit anomalously sharp excitonic linewidths despite strong electron-phonon coupling."
+    },
+    "approach": {
+      "zh": "通过恢复激子质心运动的动力学自由度，推导了激子-声子散射的宇称选择定则，并分析了质量不对称性对散射通道的影响。",
+      "en": "By restoring the kinematic degrees of freedom of the exciton center-of-mass, the authors derive parity selection rules for exciton-phonon scattering and analyze the impact of mass asymmetry on scattering channels."
+    },
+    "main_takeaway": {
+      "zh": "激子质心反冲通道受宇称保护，在质量对称材料中被完全抑制；激子线宽主要由内部态跃迁（如1s到np）而非质心反冲决定。",
+      "en": "The exciton center-of-mass recoil channel is parity-protected and vanishes in mass-symmetric materials; excitonic linewidths are primarily governed by internal-state-changing transitions (e.g., 1s to np) rather than center-of-mass recoil."
+    },
+    "why_it_matters": {
+      "zh": "该研究证明了弗勒利希常数不足以作为衡量激子-声子散射的唯一指标，并为设计相干光电材料提供了新的物理判据。",
+      "en": "The study demonstrates that the Fröhlich constant is insufficient as a sole metric for exciton-phonon scattering and provides new physical criteria for designing coherent optoelectronic materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过解析模型澄清了激子线宽保持尖锐的物理机制，并纠正了对质心反冲通道的传统认识。",
+        "en": "The paper clarifies the physical mechanism behind sharp excitonic linewidths using analytical models and corrects traditional misconceptions regarding the center-of-mass recoil channel."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中激子-声子相互作用的解析理论推导，符合PRB的发表范畴。",
+        "en": "The paper focuses on analytical theoretical derivations of exciton-phonon interactions in condensed matter physics, which fits the scope of PRB."
+      }
+    },
+    "keywords": [
+      "exciton-phonon scattering",
+      "parity protection",
+      "polar semiconductors",
+      "center-of-mass recoil",
+      "halide perovskites"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:04:56",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2610.01594v1",
+    "title": "Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model",
+    "authors": [
+      "Michael O. Atambo"
+    ],
+    "abstract": "In a polar material, a neutral exciton couples to phonons through the sum of the electron and hole deformation potentials. Because the total source vanishes by charge neutrality, the elastic exciton-phonon vertex is regularized by electron-hole interference. Here we determine the non-perturbative fate of this interference by exact diagonalization of a Holstein-exciton model. By parameterizing the mass asymmetry to decouple it from the small-polaron atomic limit, we map a regime map comprising an internal dressing crossover and a dissociation boundary. We prove analytically and verify numerically that for equal masses, the symmetric exciton ground state is protected from phonon dressing by an exact exchange selection rule, provided the phonon source is odd under electron-hole exchange (the neutral case). As mass asymmetry increases, this selection rule is broken and the exciton acquires a strong local polaronic cloud. We show that the dissociation boundary, conversely, is set by a global energy balance between Coulomb binding and polaronic stabilization, and is nearly independent of the internal dressing. Paradoxically, the very symmetry that protects the exciton from dressing denies it polaronic stabilization, driving it toward dissociation at strong coupling. We discuss these results in the context of lattice exciton-polaron models and their implications for sharp versus broad excitonic lines in mass-symmetric versus mass-asymmetric polar semiconductors.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-01T12:44:52Z",
+    "updated": "2026-10-01T12:44:52Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.01594v1",
+      "pdf_path": "data/pdfs/2026-10-02/3_Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model__2610.01594v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.941135",
+    "updated_at": "2026-10-02T03:03:56.941128Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/3_Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model__2610.01594v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.01594v1",
+    "pdf_filename": "3_Mass-asymmetry-controlled exciton dressing and dissociation in a quantum lattice model__2610.01594v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了激子-声子耦合中质量不对称性如何通过破坏交换选择定则来控制激子的极化子修饰与解离。",
+      "en": "This paper reveals how mass asymmetry controls exciton-polaron dressing and dissociation by breaking an exchange selection rule in a quantum lattice model."
+    },
+    "problem": {
+      "zh": "在极性材料中，激子是否会像单个载流子一样形成极化子（被声子修饰）或保持为裸激子，以及质量不对称性如何影响这一过程。",
+      "en": "Whether a bound exciton inherits the polaronic clouds of its constituents or remains a bare excitation, and how constituent mass asymmetry governs this behavior."
+    },
+    "approach": {
+      "zh": "使用一维 Holstein-激子模型的精确对角化方法，通过参数化质量不对称性并结合对称性控制计算，分析激子修饰与解离边界。",
+      "en": "Exact diagonalization of a 1D Holstein-exciton model, using a mass-asymmetry parameterization and control calculations to isolate symmetry effects from polaronic localization."
+    },
+    "main_takeaway": {
+      "zh": "质量对称激子受交换选择定则保护而不被修饰，但这种保护同时剥夺了其极化子稳定能，导致其在强耦合下更容易解离。",
+      "en": "Mass-symmetric excitons are protected from phonon dressing by an exchange selection rule, but this same symmetry denies them polaronic stabilization, making them prone to dissociation at strong coupling."
+    },
+    "why_it_matters": {
+      "zh": "该研究解释了为何质量对称的钙钛矿激子线宽较窄，而质量不对称的氧化物激子线宽较宽，并揭示了激子修饰与热力学稳定性之间的内在矛盾。",
+      "en": "It explains the dichotomy between sharp excitonic lines in mass-symmetric perovskites and broad lines in asymmetric oxides, while highlighting the paradox between protection from dressing and thermodynamic stability."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过精确对角化明确了质量不对称性在激子-声子耦合中的核心作用，并提出了一个解释激子修饰与解离的统一框架。",
+        "en": "It clarifies the role of mass asymmetry in exciton-phonon coupling using exact diagonalization and provides a unified framework for understanding exciton dressing and dissociation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文研究的是凝聚态物理中的经典模型（Holstein模型）及其在极性材料中的应用，符合PRB的范畴。",
+        "en": "The paper focuses on fundamental lattice models in condensed matter physics and their application to polar materials, which is a standard scope for PRB."
+      }
+    },
+    "keywords": [
+      "exciton-polaron",
+      "mass asymmetry",
+      "Holstein model",
+      "exchange symmetry",
+      "exciton dissociation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:04:52",
+    "input_scope": "full_pdf_text"
+  }
+}

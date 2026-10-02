@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.01473v1",
+    "title": "Engineering photonic crystal slab modes for strong exciton-photon coupling and polariton dispersion control",
+    "authors": [
+      "Natalia Salakhova",
+      "Andrey Demenev",
+      "Vladimir Kulakovskii",
+      "Nikolay Gippius"
+    ],
+    "abstract": "We numerically study exciton-photon coupling in a hybrid structure composed of a period-doubled Si3N4 photonic crystal slab and an hBN-encapsulated MoSe2 monolayer. Period doubling folds quasi-guided modes into the light cone and produces spectrally separated photonic branches whose radiative character is controlled by the symmetry of the doubled unit cell, resulting in one bright and one bound state in the continuum (BIC)-like mode at normal incidence. We then use the hBN thickness as an independent tuning parameter for the vertical field profile. Increasing the hBN thickness redistributes the resonant field toward the MoSe2 monolayer and enhances the Rabi splitting from about 3-4 meV to 8.5 meV, corresponding to an increase in the coupling strength from approximately 1.5-1.7 meV to 4.3-4.4 meV. Comparison between bright and BIC-like configurations shows that the quality factor primarily determines radiative visibility and linewidth, whereas the coupling strength is mainly governed by the field amplitude at the monolayer. We further show that the hBN layer controls the hybridization of folded TE-like modes at finite momentum, leading to an additional photonic gap whose size can be tuned by the hBN thickness and closes at an hBN thickness of approximately 113 nm. In the hybrid structure, we observe finite-momentum exciton-polariton states that, depending on the hBN thickness, form either through coupling to an isolated photonic branch or through coupling to two nearly degenerate photonic modes. These results identify period-doubled photonic crystal slabs as a flexible platform for controlling radiative coupling, exciton-photon overlap, and polariton dispersion in hybrid structures based on transition-metal dichalcogenide monolayers.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-10-01T11:14:17Z",
+    "updated": "2026-10-01T11:14:17Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.01473v1",
+      "pdf_path": "data/pdfs/2026-10-02/3_Engineering photonic crystal slab modes for strong exciton-photon coupling and polariton dispersion control__2610.01473v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.941412",
+    "updated_at": "2026-10-02T03:03:56.941405Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/3_Engineering photonic crystal slab modes for strong exciton-photon coupling and polariton dispersion control__2610.01473v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.01473v1",
+    "pdf_filename": "3_Engineering photonic crystal slab modes for strong exciton-photon coupling and polariton dispersion control__2610.01473v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种基于周期加倍光子晶体板的混合结构，通过调节六方氮化硼（hBN）厚度实现了对激子-光子耦合强度及极化激元色散的精确调控。",
+      "en": "This paper presents a hybrid structure based on period-doubled photonic crystal slabs, enabling precise control over exciton-photon coupling strength and polariton dispersion by tuning the hBN encapsulation thickness."
+    },
+    "problem": {
+      "zh": "如何在混合光子晶体-TMD结构中独立调控辐射可见性、激子-光子重叠以及极化激元色散，以克服传统微腔在强耦合调控上的局限性。",
+      "en": "How to independently tune radiative visibility, exciton-photon overlap, and polariton dispersion in hybrid photonic crystal-TMD structures to overcome limitations in strong coupling control found in traditional microcavities."
+    },
+    "approach": {
+      "zh": "利用周期加倍的光子晶体板设计对称性，通过改变hBN封装层的总厚度来调节垂直方向的电场分布，并结合傅里叶模态法进行数值模拟。",
+      "en": "Utilizing symmetry design in period-doubled photonic crystal slabs and tuning the vertical electric field profile via the total thickness of hBN encapsulation layers, analyzed using the Fourier modal method."
+    },
+    "main_takeaway": {
+      "zh": "光子晶体板的对称性决定了辐射特性（亮态或类BIC态），而hBN厚度作为光学调控参数，主要通过改变激子层处的电场强度来控制耦合强度。",
+      "en": "The symmetry of the photonic crystal slab dictates radiative characteristics (bright or BIC-like), while the hBN thickness acts as an optical tuning parameter that primarily controls coupling strength by modulating the electric field amplitude at the exciton layer."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在TMD基混合结构中实现可调谐的非线性极化激元物理（如超固态相位研究）提供了一个灵活的平台。",
+      "en": "This research provides a flexible platform for achieving tunable nonlinear polariton physics (such as supersolid phase studies) in TMD-based hybrid structures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章清晰阐明了光子晶体对称性与hBN厚度在调控极化激元强耦合中的不同物理作用。",
+        "en": "The paper clearly elucidates the distinct physical roles of photonic crystal symmetry and hBN thickness in modulating strong exciton-polariton coupling."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于光子晶体与激子耦合的数值模拟与物理机制分析，符合PRB的发表范畴。",
+        "en": "The paper focuses on numerical simulations and physical mechanism analysis of photonic crystal-exciton coupling, which aligns well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "photonic crystal slabs",
+      "exciton-polaritons",
+      "strong coupling",
+      "bound states in the continuum",
+      "TMD monolayers"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:04:47",
+    "input_scope": "full_pdf_text"
+  }
+}

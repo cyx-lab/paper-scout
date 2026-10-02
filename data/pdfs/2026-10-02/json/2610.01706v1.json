@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.01706v1",
+    "title": "Analogue black hole lightring and its resonances in an optical fiber",
+    "authors": [
+      "R. Terrier",
+      "J. Fatome",
+      "B. Kibler",
+      "T. Torres"
+    ],
+    "abstract": "We demonstrate the complete observation of a black-hole lightring resonance in an optical analogue. To do so, we generalize the concept of the photon sphere to non-stationnary systems by showing that the lightring is associated to a spatiotemporal caustic and that its complex frequency is determined by the propagation and divergence of this caustic. For an optical soliton acting as an analogue black-hole potential, we predict a characteristic spectral plateau whose boundaries are set by the real part of the lightring frequency, while its spectral decay is governed by the imaginary part. Using a pump-probe experiment in a 5-km-long dispersion-shifted fiber, we observe these signatures for two distinct pump wavelengths. The measured spectra agree with numerical simulations and with the predicted lightring-mode profile, providing direct access to both the oscillatory and decay properties of the resonance. Our results establish a direct experimental connection between black-hole lightrings, spacetime caustics, and quasinormal-mode spectroscopy in a dispersive analogue system.",
+    "categories": [
+      "gr-qc",
+      "physics.optics"
+    ],
+    "published": "2026-10-01T13:51:39Z",
+    "updated": "2026-10-01T13:51:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.01706v1",
+      "pdf_path": "data/pdfs/2026-10-02/2_Analogue black hole lightring and its resonances in an optical fiber__2610.01706v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-02T03:03:56.941000",
+    "updated_at": "2026-10-02T03:03:56.940987Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-02/2_Analogue black hole lightring and its resonances in an optical fiber__2610.01706v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.01706v1",
+    "pdf_filename": "2_Analogue black hole lightring and its resonances in an optical fiber__2610.01706v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文在光纤系统中通过实验观测到了类比黑洞的光环共振现象，并将其与时空焦散联系起来。",
+      "en": "The authors demonstrate the experimental observation of black-hole lightring resonances in an optical fiber system and establish their connection to spatiotemporal caustics."
+    },
+    "problem": {
+      "zh": "黑洞准正规模式的全局特性使其难以在实验中直接观测，且现有类比系统缺乏对非稳态系统中光环共振的完整描述。",
+      "en": "The global nature of black-hole quasinormal modes makes them difficult to observe experimentally, and there is a lack of description for lightring resonances in non-stationary analogue systems."
+    },
+    "approach": {
+      "zh": "利用光纤中的光孤子作为类比黑洞势场，通过泵浦-探测实验观测光脉冲散射，并结合时空焦散理论分析其光谱特征。",
+      "en": "Using optical solitons in a fiber as an analogue black-hole potential, the authors perform pump-probe experiments and analyze the spectral signatures through the framework of spatiotemporal caustics."
+    },
+    "main_takeaway": {
+      "zh": "光环共振与时空焦散直接相关，其光谱特征（平台及衰减）由光环频率的实部和虚部共同决定。",
+      "en": "Lightring resonances are directly associated with spatiotemporal caustics, with their spectral signatures (plateau and decay) determined by the real and imaginary parts of the lightring frequency."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在实验室环境下利用色散介质模拟和研究黑洞光谱学提供了一种直观且可行的实验平台。",
+      "en": "This work provides a direct and accessible experimental platform for studying black-hole spectroscopy using dispersive media in a laboratory setting."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在实验中完整观测到了类比黑洞的光环共振，并成功建立了其与时空焦散的理论联系。",
+        "en": "It provides the first complete experimental observation of analogue black-hole lightring resonances and successfully establishes a theoretical link to spatiotemporal caustics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及类比引力与非线性光学，符合该期刊对基础物理现象实验验证的偏好。",
+        "en": "The research involves analogue gravity and nonlinear optics, aligning with the journal's focus on experimental verification of fundamental physical phenomena."
+      }
+    },
+    "keywords": [
+      "analogue gravity",
+      "lightring",
+      "quasinormal modes",
+      "optical fiber",
+      "spatiotemporal caustics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-02",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-02T11:05:01",
+    "input_scope": "full_pdf_text"
+  }
+}
