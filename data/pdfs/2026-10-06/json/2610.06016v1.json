@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.06016v1",
+    "title": "Nonthermal nonlinear many-body excitonic dynamics in high-purity silicon",
+    "authors": [
+      "Patrick Pilch",
+      "Siyu Duan",
+      "Yang Liu",
+      "Manfred Bayer",
+      "Marc Assmann",
+      "Zhe Wang"
+    ],
+    "abstract": "We report time-resolved optical pump-terahertz third-harmonic generation spectroscopy of picosecond nonthermal many-body charge dynamics in high-purity silicon at room temperature. Although in thermal equilibrium excitons in silicon are unstable due to a lower binding energy than the thermal energy at room temperature, following pulsed non-resonant optical pumping we can identify the formation of transient excitonic states on the picosecond time scale in our high-resolution nonlinear spectroscopic measurements. In contrast to unbound electron-hole pairs, the nonthermal many-body excitonic dynamics feature a characteristic time-dependent evolution, a distinct dependence on charge density, and a nonperturbative nonlinear terahertz response.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-05T09:13:50Z",
+    "updated": "2026-10-05T09:13:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.06016v1",
+      "pdf_path": "data/pdfs/2026-10-06/3_Nonthermal nonlinear many-body excitonic dynamics in high-purity silicon__2610.06016v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-06T03:46:44.041023",
+    "updated_at": "2026-10-06T03:46:44.041014Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-06/3_Nonthermal nonlinear many-body excitonic dynamics in high-purity silicon__2610.06016v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.06016v1",
+    "pdf_filename": "3_Nonthermal nonlinear many-body excitonic dynamics in high-purity silicon__2610.06016v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过时间分辨太赫兹三次谐波光谱，在室温硅中观测到了非平衡态下的激子动力学及其莫特交叉行为。",
+      "en": "Time-resolved terahertz third-harmonic generation spectroscopy reveals nonthermal excitonic dynamics and Mott crossover in room-temperature silicon."
+    },
+    "problem": {
+      "zh": "在室温下，硅中的激子因热涨落而不稳定，难以通过传统线性光谱在非平衡态下有效探测其形成与演化过程。",
+      "en": "Excitons in silicon are thermally unstable at room temperature, making it challenging to probe their formation and many-body dynamics in far-from-equilibrium conditions using conventional linear spectroscopy."
+    },
+    "approach": {
+      "zh": "利用光学泵浦-太赫兹三次谐波产生（THG）光谱技术，通过区分等离子体和激子贡献的非线性响应，研究强相互作用电子-空穴系统的动力学。",
+      "en": "Employing time-resolved optical pump-terahertz third-harmonic generation (THG) spectroscopy to distinguish between plasma and excitonic nonlinear responses in a strongly interacting electron-hole system."
+    },
+    "main_takeaway": {
+      "zh": "激子在室温下表现出独特的非微扰太赫兹非线性响应，且其形成受载流子密度调控，在超过临界密度时会发生向等离子体的莫特交叉。",
+      "en": "Excitons exhibit a distinct nonperturbative THz nonlinear response at room temperature, with their formation suppressed by Coulomb screening at high carrier densities, manifesting as a Mott-type crossover."
+    },
+    "why_it_matters": {
+      "zh": "该研究展示了非线性太赫兹光谱在探测超快多体量子态方面的强大能力，为在室温半导体中操控激子动力学提供了新视角。",
+      "en": "This work demonstrates the power of nonlinear THz spectroscopy for probing ultrafast many-body quantum states, offering new insights into manipulating excitonic dynamics in room-temperature semiconductors."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在室温硅中通过非线性太赫兹光谱解析出激子动力学，并清晰观测到了莫特交叉现象。",
+        "en": "It provides the first resolution of excitonic dynamics in room-temperature silicon using nonlinear THz spectroscopy and clearly observes the Mott crossover."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域的高影响力成果，且论文引用了多篇 PRL 相关文献。",
+        "en": "High-impact results in the field, with multiple citations to relevant PRL papers."
+      }
+    },
+    "keywords": [
+      "Silicon",
+      "Excitons",
+      "Terahertz spectroscopy",
+      "Third-harmonic generation",
+      "Mott crossover"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-06T11:47:16",
+    "input_scope": "full_pdf_text"
+  }
+}

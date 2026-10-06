@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.06131v1",
+    "title": "An \\textit{ab initio} based compact analytical formula for inelastic x-ray scattering from spatially localized excitons",
+    "authors": [
+      "Joris Sturm",
+      "Duc Anh Truong",
+      "Andrei Benediktovitch",
+      "Nina Rohringer",
+      "Andreas Knorr$^{1}$"
+    ],
+    "abstract": "In this contribution we provide a compact model for the description of inelastic x-ray scattering of spatially localized excitons. We combine our analytical theory with first principles calculations and apply it to the material lithium fluoride (LiF). A comparison of two different approaches for the underlying single-particle wave functions to calculate the spectrum yield a qualitatively good agreement with experimental data but also shows that a detailed description of the wave functions is essential to obtain qualitative results.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "quant-ph"
+    ],
+    "published": "2026-10-05T11:05:23Z",
+    "updated": "2026-10-05T11:05:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.06131v1",
+      "pdf_path": "data/pdfs/2026-10-06/3_An textit{ab initio} based compact analytical formula for inelastic x-ray scattering from spatially localized excitons__2610.06131v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-06T03:46:44.040765",
+    "updated_at": "2026-10-06T03:46:44.040758Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-06/3_An textit{ab initio} based compact analytical formula for inelastic x-ray scattering from spatially localized excitons__2610.06131v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.06131v1",
+    "pdf_filename": "3_An textit{ab initio} based compact analytical formula for inelastic x-ray scattering from spatially localized excitons__2610.06131v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文推导了一个用于描述空间局域激子非弹性 X 射线散射的紧凑解析公式，并以氟化锂（LiF）为例进行了验证。",
+      "en": "The paper derives a compact analytical formula for describing inelastic X-ray scattering from spatially localized excitons and validates it using lithium fluoride (LiF) as a model system."
+    },
+    "problem": {
+      "zh": "现有的非弹性 X 射线散射理论多针对离域激子，缺乏针对空间局域激子（如 Frenkel 或电荷转移激子）的简洁解析描述模型。",
+      "en": "Existing theories for inelastic X-ray scattering primarily focus on delocalized excitons, lacking a compact analytical model for spatially localized excitons such as Frenkel or charge-transfer excitons."
+    },
+    "approach": {
+      "zh": "结合 Bethe-Salpeter 方程与 Wannier 函数基组，推导了散射谱的解析表达式，并通过紧束缚近似和从头算（MLWF）两种方法计算波函数进行对比。",
+      "en": "The authors combined the Bethe-Salpeter equation with a Wannier function basis to derive an analytical expression for the scattering spectrum, comparing results from tight-binding and ab initio (MLWF) wave function calculations."
+    },
+    "main_takeaway": {
+      "zh": "对于空间局域激子，散射谱的准确描述高度依赖于对电子-空穴波函数的精确刻画，但简单的紧束缚模型已能捕捉到主要的定性特征。",
+      "en": "For spatially localized excitons, an accurate description of the scattering spectrum strongly depends on the precise characterization of the electron-hole wave functions, though simple tight-binding models can capture the main qualitative features."
+    },
+    "why_it_matters": {
+      "zh": "该工作为分析非弹性 X 射线散射实验数据提供了一个计算高效且物理图像清晰的桥梁，有助于深入理解局域激子的动力学行为。",
+      "en": "This work provides a computationally efficient and physically intuitive bridge for analyzing inelastic X-ray scattering experimental data, facilitating a deeper understanding of the dynamics of localized excitons."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究通过解析公式澄清了局域激子散射谱与波函数空间结构之间的直接联系。",
+        "en": "The study clarifies the direct link between the scattering spectrum of localized excitons and the spatial structure of their wave functions through an analytical formula."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中的激子理论与光谱计算，符合 PRB 的收录范围。",
+        "en": "The paper focuses on exciton theory and spectroscopic calculations in condensed matter physics, which aligns well with the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Inelastic X-ray scattering",
+      "Localized excitons",
+      "LiF",
+      "Bethe-Salpeter equation",
+      "Wannier functions"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-06T11:47:30",
+    "input_scope": "full_pdf_text"
+  }
+}

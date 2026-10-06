@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.06311v1",
+    "title": "Extraordinary Optical Spin Hall Effect in 2D Exciton Emission in Open Cavities",
+    "authors": [
+      "Kunal Banerjee",
+      "Ben Johns",
+      "Nitin Yadav",
+      "Anil Shaji",
+      "Jino George"
+    ],
+    "abstract": "Open cavities are emerging as a promising platform for studying light-matter interactions. A lossy open cavity couples to an atomic monolayer, resulting in parabolic dispersive emission at room temperature. Here, light-matter interaction is weak, and the dispersion arises from a phenomenon known as dark strong coupling. The bright 2D exciton rapidly decays through the cavity mode, leaving behind spin-dark excitons of the 2D lattice, thereby undergoing symmetry breaking. Further, mapping the polarisation dependence in the k-space reveals spin-orbit interaction in the coupled system. A synthetic spin-orbit Hamiltonian is constructed to extract the effective contributions of Rashba- and Dresselhaus-type interactions in the open cavity. The system shows a clear evolution of the spin-orbit effect at room temperature. Here, emission is polarisation-sensitive, yielding high degrees of linear and circular polarisation. This is one of the simplest configurations for studying photonic spin-orbit coupling, in which an atomic monolayer provides Rashba and Dresselhaus coupling constants of 24 eV Å, and ~10^5 eV Å^2, respectively. Therefore, an open cavity platform is promising for polarisation-sensitive measurements and device applications.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-10-05T13:30:42Z",
+    "updated": "2026-10-05T13:30:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.06311v1",
+      "pdf_path": "data/pdfs/2026-10-06/3_Extraordinary Optical Spin Hall Effect in 2D Exciton Emission in Open Cavities__2610.06311v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-06T03:46:44.040139",
+    "updated_at": "2026-10-06T03:46:44.040128Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-06/3_Extraordinary Optical Spin Hall Effect in 2D Exciton Emission in Open Cavities__2610.06311v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.06311v1",
+    "pdf_filename": "3_Extraordinary Optical Spin Hall Effect in 2D Exciton Emission in Open Cavities__2610.06311v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在开放式光学微腔中，通过暗态强耦合机制实现了室温下的光学自旋霍尔效应。",
+      "en": "Demonstration of the optical spin Hall effect at room temperature in open optical cavities via dark strong coupling."
+    },
+    "problem": {
+      "zh": "如何在简单的开放式微腔结构中，利用二维材料实现可控的光学自旋-轨道耦合及自旋霍尔效应。",
+      "en": "How to achieve controllable optical spin-orbit coupling and the optical spin Hall effect in simple open cavity structures using 2D materials."
+    },
+    "approach": {
+      "zh": "构建由银镜、六方氮化硼和二硫化钨组成的开放式微腔，利用暗态强耦合机制，通过动量空间成像和偏振分辨测量进行验证。",
+      "en": "Constructing an open cavity with a silver mirror, hBN, and WS2 monolayer, utilizing dark strong coupling, and performing k-space imaging and polarization-resolved measurements."
+    },
+    "main_takeaway": {
+      "zh": "开放式微腔中的暗态强耦合能有效诱导自旋-轨道相互作用，在室温下产生显著的光学自旋霍尔效应。",
+      "en": "Dark strong coupling in open cavities effectively induces spin-orbit interaction, generating a prominent optical spin Hall effect at room temperature."
+    },
+    "why_it_matters": {
+      "zh": "该平台结构简单、易于制备，为室温下的偏振敏感量子测量和光子器件应用提供了一种高效的方案。",
+      "en": "This platform is simple and easy to fabricate, providing an efficient scheme for polarization-sensitive quantum measurements and photonic device applications at room temperature."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究在室温下实现了对光子自旋的有效操控，并提供了一个简单且可扩展的开放式微腔平台。",
+        "en": "The study achieves effective control over photon spin at room temperature and provides a simple, scalable open-cavity platform."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作涉及光子学、二维材料和自旋物理的交叉领域，符合该期刊对光子器件和基础物理研究的关注。",
+        "en": "The work spans photonics, 2D materials, and spin physics, aligning with the journal's focus on photonic devices and fundamental physics."
+      }
+    },
+    "keywords": [
+      "光学自旋霍尔效应",
+      "开放式微腔",
+      "暗态强耦合",
+      "自旋-轨道耦合",
+      "二维材料"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-06T11:47:38",
+    "input_scope": "full_pdf_text"
+  }
+}

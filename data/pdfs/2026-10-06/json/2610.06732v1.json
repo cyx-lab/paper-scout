@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.06732v1",
+    "title": "Strong metamagnetic switching and anisotropic magnetotransport in the distorted kagome magnet Tb6Ti4Al43",
+    "authors": [
+      "Lipika",
+      "Sneh",
+      "Shobha Singh",
+      "Ralf Koban",
+      "Walter Schnelle",
+      "Rie Umetsu",
+      "Kaustuv Manna"
+    ],
+    "abstract": "We report a comprehensive investigation of the magnetic, electrical, and thermodynamic properties of single crystalline Tb6Ti4Al43, in which Tb atoms form a distorted kagome lattice embedded within a complex Ti-Al framework. Tb6Ti4Al43 exhibits pronounced magnetic anisotropy and antiferromagnetic ordering at approximately 19 K. For magnetic field applied along the c-axis, a strong metamagnetic switching is observed, accompanied by a clear asymmetric hysteresis at low temperatures, while for field applied along the ab plane, a spin-flop transition is observed. The effect of field induced magnetic states is strongly reflected in magnetotransport measurements, giving rise to pronounced anomalies in magnetoresistance and an anomalous Hall contribution. A significant intrinsic contribution to the anomalous Hall conductivity is observed, highlighting the Berry curvature effects arising from the system's momentum-space topology. Our results highlight the interplay of spin, charge, and lattice degrees of freedom in Tb6Ti4Al43 and establish this distorted kagome antiferromagnet as a promising platform for field-tunable multifunctional behaviour, including electrically readable magnetic switching, spin manipulation, and magneto-mechanical functionalities.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-05T17:18:31Z",
+    "updated": "2026-10-05T17:18:31Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.06732v1",
+      "pdf_path": "data/pdfs/2026-10-06/3_Strong metamagnetic switching and anisotropic magnetotransport in the distorted kagome magnet Tb6Ti4Al43__2610.06732v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-06T03:46:44.039173",
+    "updated_at": "2026-10-06T03:46:44.039165Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-06/3_Strong metamagnetic switching and anisotropic magnetotransport in the distorted kagome magnet Tb6Ti4Al43__2610.06732v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.06732v1",
+    "pdf_filename": "3_Strong metamagnetic switching and anisotropic magnetotransport in the distorted kagome magnet Tb6Ti4Al43__2610.06732v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了畸变 kagome 磁体 Tb6Ti4Al43 的磁性、输运及拓扑性质，揭示了其场致磁相变及反常霍尔效应。",
+      "en": "Investigated the magnetic, transport, and topological properties of the distorted kagome magnet Tb6Ti4Al43, revealing field-induced metamagnetic transitions and anomalous Hall effect."
+    },
+    "problem": {
+      "zh": "探索畸变 kagome 晶格中几何阻挫、磁各向异性与电子拓扑之间的相互作用及其对磁输运的影响。",
+      "en": "Exploring the interplay between geometric frustration, magnetic anisotropy, and electronic topology in a distorted kagome lattice and its impact on magnetotransport."
+    },
+    "approach": {
+      "zh": "通过助熔剂法生长单晶，并结合磁化强度、电阻率、比热及交流磁化率测量，分析其在不同磁场方向下的物理响应。",
+      "en": "Flux-grown single crystals were characterized via magnetization, resistivity, specific heat, and ac susceptibility measurements to analyze physical responses under different magnetic field orientations."
+    },
+    "main_takeaway": {
+      "zh": "Tb6Ti4Al43 表现出强磁各向异性，其 c 轴方向的场致 metamagnetic 切换可实现电学读取，且存在源于动量空间拓扑的显著内禀反常霍尔效应。",
+      "en": "Tb6Ti4Al43 exhibits strong magnetic anisotropy with field-tunable metamagnetic switching along the c-axis for electrical readout, and a significant intrinsic anomalous Hall effect arising from momentum-space topology."
+    },
+    "why_it_matters": {
+      "zh": "该材料为研究 kagome 晶格中的自旋、电荷与拓扑自由度耦合提供了一个可调控的平台，具有磁存储与自旋电子学应用潜力。",
+      "en": "This material provides a tunable platform for studying the coupling of spin, charge, and topological degrees of freedom in kagome lattices, with potential for magnetic storage and spintronics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究全面表征了一种新型 kagome 磁体，明确了其拓扑输运机制与场致相变行为。",
+        "en": "The study provides a comprehensive characterization of a new kagome magnet, clarifying its topological transport mechanisms and field-induced phase transition behavior."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于复杂磁性材料的物性表征与输运机制分析，符合 PRB 的发表范畴。",
+        "en": "The paper focuses on the physical characterization and transport mechanism analysis of complex magnetic materials, which fits the scope of PRB."
+      }
+    },
+    "keywords": [
+      "kagome magnet",
+      "metamagnetic transition",
+      "anomalous Hall effect",
+      "magnetic anisotropy",
+      "Berry curvature"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-06T11:47:51",
+    "input_scope": "full_pdf_text"
+  }
+}

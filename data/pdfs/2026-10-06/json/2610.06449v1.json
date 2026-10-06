@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.06449v1",
+    "title": "Exact vortex decomposition of the shift current",
+    "authors": [
+      "Matias Castro Schnaidt",
+      "Felipe Perez Riffo",
+      "Juan M. Florez",
+      "Eric Suarez Morell"
+    ],
+    "abstract": "Does any integer survive in the shift current, and does the Chern number control its sign? We show that the shift vector is a singular field on the Brillouin torus. Its curl has two sources: the interband Berry curvature and quantised point charges at the zeros of the transition dipole. Inverting this relation gives an exact decomposition of the shift conductivity, valid at every frequency, into one sector linear in the integer charges and three continuous sectors. As a testing ground, we take a graphene-Haldane bilayer: a model that lets us sweep the interband Chern number through five values at fixed gap to isolate its role. We also test the formalism against the time-reversal-symmetric biased AB bilayer. Whenever a charge sits at the band edge, and trigonal warping is present, the integer sector alone accounts for the band-edge peak. The relevant integer is not the Chern number but the winding of that single charge. Its sign, combined with a valley-dependent profile, sets the sign of the photocurrent. In these bilayers, sign reversals across topological transitions follow this winding; the invariant changes with it only when the same gap closing does both. A band-edge charge needs no invariant. It only requires that the two band-edge sublattices not be connected by the nearest-neighbour hopping, and trigonal warping makes it visible.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-05T14:51:49Z",
+    "updated": "2026-10-05T14:51:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.06449v1",
+      "pdf_path": "data/pdfs/2026-10-06/3_Exact vortex decomposition of the shift current__2610.06449v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-06T03:46:44.039724",
+    "updated_at": "2026-10-06T03:46:44.039717Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-06/3_Exact vortex decomposition of the shift current__2610.06449v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.06449v1",
+    "pdf_filename": "3_Exact vortex decomposition of the shift current__2610.06449v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过 Helmholtz-Hodge 分解将二维晶体中的位移电流精确分解为四个物理分量，揭示了带边光电流主要由跃迁偶极子零点的绕数决定。",
+      "en": "This paper provides an exact Helmholtz-Hodge decomposition of the shift current in 2D crystals into four sectors, revealing that the band-edge photocurrent is primarily governed by the winding numbers of transition dipole zeros."
+    },
+    "problem": {
+      "zh": "位移电流在特定频率下缺乏已知的量子化机制，且其符号反转与拓扑相变之间的定量联系尚不明确。",
+      "en": "The shift conductivity lacks a known quantization at a given frequency, and the quantitative link between its sign reversals and topological transitions remains unclear."
+    },
+    "approach": {
+      "zh": "利用 Helmholtz-Hodge 定理将位移矢量场分解为涡旋、Berry 曲率、梯度和调和四个分量，并结合 graphene-Haldane 双层模型进行数值验证。",
+      "en": "The authors employ the Helmholtz-Hodge theorem to decompose the shift vector field into vortex, Berry curvature, gradient, and harmonic sectors, validated numerically using a graphene-Haldane bilayer model."
+    },
+    "main_takeaway": {
+      "zh": "带边位移电流的幅值和符号由位于带边的光学涡旋的局部绕数决定，而非由全局拓扑不变量直接控制。",
+      "en": "The magnitude and sign of the band-edge shift current are determined by the local winding of optical vortices at the band edge, rather than being directly controlled by the global topological invariant."
+    },
+    "why_it_matters": {
+      "zh": "该研究通过将拓扑内容从响应函数中分离出来，为理解非线性光响应的几何起源提供了精确的解析框架。",
+      "en": "By isolating the topological content from the response function, this study provides a precise analytical framework for understanding the geometric origin of nonlinear optical responses."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作通过数学分解明确了位移电流的微观来源，澄清了拓扑不变量与光电流符号之间的复杂关系。",
+        "en": "The work clarifies the microscopic origin of the shift current through mathematical decomposition and resolves the complex relationship between topological invariants and photocurrent signs."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文深入探讨了凝聚态物理中拓扑能带理论与非线性光学响应的几何关系，符合 PRB 的研究范畴。",
+        "en": "The paper explores the geometric relationship between topological band theory and nonlinear optical response in condensed matter physics, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "位移电流",
+      "光学涡旋",
+      "Helmholtz-Hodge 分解",
+      "拓扑能带",
+      "非线性光学"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-06T11:47:46",
+    "input_scope": "full_pdf_text"
+  }
+}

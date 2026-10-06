@@ -1,0 +1,125 @@
+{
+  "paper_record": {
+    "id": "2610.06110v1",
+    "title": "Beyond the Flat-Band Paradigm: Open Orbits as a Route to Correlated States in Dispersive Moiré Minibands",
+    "authors": [
+      "Zihao Wang",
+      "Pablo M. Perez-Piskunow",
+      "Calvin Pei Yu Wong",
+      "Matthew Holwill",
+      "Hao Sun",
+      "Wei Fu",
+      "Junxiong Hu",
+      "Zheng Yuntian",
+      "Zhang Xuanrui",
+      "T. Taniguchi",
+      "K. Watanabe",
+      "A. Ariando",
+      "Geliang Yu",
+      "Li Lin",
+      "Kuan Eng Johnson Goh",
+      "Stephan Roche",
+      "Jeil Jung",
+      "Kostya S. Novoselov",
+      "Nicolas Leconte"
+    ],
+    "abstract": "The realization of fractional Chern insulators has largely relied on isolated flat bands in complex bilayer or multilayer moiré systems with ideal quantum geometry. Whether such phases can emerge in genuinely dispersive bands, and by what mechanism, remains an open question. Here, we propose a mechanism for magnetic-field-induced strong correlations in the highly dispersive bands of monolayer graphene on hexagonal boron nitride. In the low-field classical-to-quantum crossover regime of the second moiré miniband, we show that the interplay of the moiré potential and weak magnetic fields (B < 1.5 T) profoundly alters electron dynamics. Saddle-point van Hove singularities produce extended open orbits that strongly suppress carrier propagation, potentially favoring a regime in which Coulomb interactions become comparatively more important, while weak magnetic fields lift valley degeneracy and trigonal warping redistributes Berry curvature. High-resolution magnetotransport and temperature-dependent measurements reveal fractional-slope transport features and signatures of interaction-driven incompressibility. Because the Hall conductivity is not fully quantized and the longitudinal resistance remains finite, we describe these observations as incipient FCI behavior: transport signatures consistent with a developing fractional Chern insulating state, without claiming a fully developed FCI phase established by complete Hall quantization and vanishing longitudinal resistance. Our results suggest a possible fermiology-driven route toward correlated topological states in dispersive bands in the classical-to-quantum crossover, distinct from the conventional flat-band scenario.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-05T10:45:04Z",
+    "updated": "2026-10-05T10:45:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.06110v1",
+      "pdf_path": "data/pdfs/2026-10-06/3_Beyond the Flat-Band Paradigm Open Orbits as a Route to Correlated States in Dispersive Moiré Minibands__2610.06110v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-06T03:46:44.040883",
+    "updated_at": "2026-10-06T03:46:44.040817Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-06/3_Beyond the Flat-Band Paradigm Open Orbits as a Route to Correlated States in Dispersive Moiré Minibands__2610.06110v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.06110v1",
+    "pdf_filename": "3_Beyond the Flat-Band Paradigm Open Orbits as a Route to Correlated States in Dispersive Moiré Minibands__2610.06110v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在石墨烯-氮化硼莫尔超晶格的色散能带中，通过弱磁场诱导的开放轨道和费米面重构，观察到了分数陈绝缘体（FCI）的迹象。",
+      "en": "Observation of incipient fractional Chern insulator behavior in dispersive moiré minibands of graphene-hBN superlattices, driven by open-orbit-induced transport suppression and weak-field valley splitting."
+    },
+    "problem": {
+      "zh": "分数陈绝缘体（FCI）通常依赖于理想的平带结构，尚不清楚在高度色散的能带系统中是否能通过其他机制实现强关联拓扑态。",
+      "en": "Whether strongly correlated topological phases like fractional Chern insulators (FCIs) can emerge in genuinely dispersive energy bands, rather than relying on the conventional flat-band paradigm."
+    },
+    "approach": {
+      "zh": "利用石墨烯-氮化硼莫尔超晶格，在低磁场（<1.5 T）的经典-量子交叉区，通过磁输运测量和半经典能带模拟，研究范霍夫奇点处的开放轨道对电子动力学的影响。",
+      "en": "Experimental magnetotransport measurements and semiclassical band simulations in graphene-hBN superlattices, focusing on the low-field (B < 1.5 T) classical-to-quantum crossover regime where saddle-point van Hove singularities induce open orbits."
+    },
+    "main_takeaway": {
+      "zh": "在色散能带中，范霍夫奇点产生的开放轨道能显著抑制载流子传播，从而增强电子关联效应，为实现 FCI 提供了一种不同于平带的新路径。",
+      "en": "Saddle-point-induced open orbits in dispersive bands strongly suppress carrier propagation, creating a favorable regime for interaction-driven correlated states distinct from the flat-band paradigm."
+    },
+    "why_it_matters": {
+      "zh": "该研究挑战了 FCI 必须依赖平带的传统观点，揭示了色散能带中费米面拓扑和弱磁场相互作用产生关联态的可能性。",
+      "en": "It challenges the necessity of the flat-band paradigm for FCI formation and demonstrates that dispersive bands can host correlated topological states through fermiology-driven mechanisms."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "提出并实验验证了一种在色散能带中产生关联拓扑态的新机制，拓宽了 FCI 的研究范畴。",
+        "en": "It proposes and experimentally supports a novel mechanism for correlated topological states in dispersive bands, significantly broadening the scope of FCI research."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论 + 数值模拟",
+      "en": "Experimental + Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature/Science/Physical Review X",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作涉及凝聚态物理前沿的拓扑物态和强关联系统，具有较高的创新性和实验深度。",
+        "en": "The work addresses frontier topics in condensed matter physics regarding topological states and strong correlations, with high innovation and experimental rigor."
+      }
+    },
+    "keywords": [
+      "graphene",
+      "moiré superlattice",
+      "fractional Chern insulator",
+      "open orbits",
+      "van Hove singularity"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-06T11:47:23",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "run_date": "2026-10-06",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2610.05761v1.json": 1,
+    "2610.06016v1.json": 1,
+    "2610.06110v1.json": 1,
+    "2610.06131v1.json": 1,
+    "2610.06311v1.json": 1,
+    "2610.06449v1.json": 1,
+    "2610.06732v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2610.05761v1.json",
+      "status": "ok",
+      "secs": 11.76,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.06016v1.json",
+      "status": "ok",
+      "secs": 5.32,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.06110v1.json",
+      "status": "ok",
+      "secs": 7.7,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.06131v1.json",
+      "status": "ok",
+      "secs": 6.25,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.06311v1.json",
+      "status": "ok",
+      "secs": 8.49,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.06449v1.json",
+      "status": "ok",
+      "secs": 7.8,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.06732v1.json",
+      "status": "ok",
+      "secs": 5.47,
+      "round": 1,
+      "attempt": 1
+    }
+  ]
+}

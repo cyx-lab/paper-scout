@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2610.05761v1",
+    "title": "Mirror-Constrained Optical Hall Rectification in Asymmetric Gold Gratings:\\\\ Edelstein Conversion and a Phase-Seeded Kerr Four-Wave Mixing Instability",
+    "authors": [
+      "Michael N. Leuenberger",
+      "Richard M. Osgood"
+    ],
+    "abstract": "Transverse optical rectification has been reported in a one-dimensional asymmetric Au grating even though an ideal profile $h(x)$ retains the $xz$ mirror $\\Me:y\\to-y$. Because $J_y$ is odd under $\\Me$, whereas the $p$-polarized bilinears $|E_x|^2$, $|E_z|^2$, and $\\mathrm{Re}(E_xE_z^*)$ are even, the transverse dc current requires a distinct mirror-odd factor $\\Lamy$. We formulate a symmetry-complete effective model combining the origin-independent cell invariant $\\Astr=\\mathrm{Im}(h_1^2h_2^*)$, Drude--Edelstein spin polarization, and spin--orbit conversion. We then propose a dynamical realization of $\\Lamy$ for a finite-width device. A driven pump-like plasmonic mode at $k_y\\simeq0$ generates a mirror pair of transverse surface-plasmon-polariton quasinormal modes $(K_x,\\pm q_y)$ through the same third-order susceptibility that produces self- and cross-Kerr shifts. Four-wave mixing creates the pair and locks its phase sum but, by itself, cannot change the pair-population difference. Weak coherent backscattering makes the relative drive phase observable; a small phase difference from incident $k_y$, spot displacement, edges, or disorder then unfolds a Kerr directional instability and deterministically selects its sign. The resulting population imbalance supplies the dynamical mirror-odd factor $\\Ldyn=λ_ηη$ in the structure-dependent $\\Astr\\Lamy\\langle j_xs_y\\rangle_t$ side-jump-like channel, which vanishes for the centered symmetric grating because $\\Astr=0$. We give the complete three-mode equations, the pump-only and saturated-state Bogoliubov problems, the imperfect-pitchfork reduction, and a validated normalized numerical realization. The normalized equations exhibit a robust supercritical pitchfork with an approximately one-half critical exponent and phase-reversed branch selection.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-05T04:09:39Z",
+    "updated": "2026-10-05T04:09:39Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.05761v1",
+      "pdf_path": "data/pdfs/2026-10-06/3_Mirror-Constrained Optical Hall Rectification in Asymmetric Gold Gratings Edelstein Conversion and a Phase-Seeded Kerr F__2610.05761v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-06T03:46:44.041570",
+    "updated_at": "2026-10-06T03:46:44.041563Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-06/3_Mirror-Constrained Optical Hall Rectification in Asymmetric Gold Gratings Edelstein Conversion and a Phase-Seeded Kerr F__2610.05761v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.05761v1",
+    "pdf_filename": "3_Mirror-Constrained Optical Hall Rectification in Asymmetric Gold Gratings Edelstein Conversion and a Phase-Seeded Kerr F__2610.05761v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种基于非线性四波混频和克尔不稳定性，在非对称金光栅中产生横向光学霍尔整流电流的动力学机制。",
+      "en": "This paper proposes a dynamical mechanism for transverse optical Hall rectification in asymmetric gold gratings based on nonlinear four-wave mixing and Kerr instability."
+    },
+    "problem": {
+      "zh": "理想的一维非对称光栅在镜面对称性约束下，无法直接将入射光场转化为横向直流电流，实验观测到的电流需要额外的镜面奇对称因子。",
+      "en": "Ideal one-dimensional asymmetric gratings are constrained by mirror symmetry, preventing the direct conversion of incident optical fields into transverse dc currents; the observed current requires an additional mirror-odd factor."
+    },
+    "approach": {
+      "zh": "构建了一个包含泵浦模式与一对镜面对称表面等离激元准正态模式的动力学模型，利用克尔非线性、四波混频和弱背散射导致的对称性破缺来解释横向电流的产生。",
+      "en": "A dynamical model is formulated involving a pump mode and a mirror-symmetric pair of surface-plasmon-polariton quasinormal modes, utilizing Kerr nonlinearity, four-wave mixing, and symmetry breaking induced by weak backscattering."
+    },
+    "main_takeaway": {
+      "zh": "横向整流电流源于克尔不稳定性导致的表面等离激元模式布居不平衡，该不平衡由微小的相位种子放大并选择方向。",
+      "en": "The transverse rectification current originates from a population imbalance in surface-plasmon-polariton modes driven by Kerr instability, where a small phase seed amplifies and selects the direction."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解纳米结构中的非线性光学输运提供了新的对称性分析框架，并揭示了等离激元系统中的动力学对称性破缺机制。",
+      "en": "This study provides a new symmetry-based framework for understanding nonlinear optical transport in nanostructures and reveals a mechanism for dynamical symmetry breaking in plasmonic systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过严谨的对称性分析和动力学建模，解释了此前实验中观测到的横向光学霍尔整流现象的物理起源。",
+        "en": "The paper provides a rigorous symmetry analysis and dynamical modeling to explain the physical origin of the transverse optical Hall rectification observed in previous experiments."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理和光学领域发表此类对称性与非线性输运理论研究的标准场所。",
+        "en": "This journal is a standard venue for theoretical research on symmetry and nonlinear transport in condensed matter physics and optics."
+      }
+    },
+    "keywords": [
+      "Optical Hall rectification",
+      "Surface plasmon polaritons",
+      "Kerr instability",
+      "Symmetry breaking",
+      "Four-wave mixing"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-06",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-06T11:47:10",
+    "input_scope": "full_pdf_text"
+  }
+}
