@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2610.08221v1",
+    "title": "Unraveling hidden Raman modes in $α$-MnTe: Effects of long-range dipole-dipole interactions on phonon bands",
+    "authors": [
+      "Susmita Jana",
+      "Rajib Sarkar",
+      "Dhavala Suri",
+      "B. R. K Nanda"
+    ],
+    "abstract": "In this study, we address the seemingly open question of disparity between the experimentally and theoretically observed Raman spectra for the altermagnetic $α$-MnTe. We establish that the consideration of long range (LR) dipole-dipole interaction is crucial to accurately estimate the phonon band structure and thereby capturing each of the experimentally observed Raman signatures. The LR correction brings about substantial changes to the high-frequency optical modes and their group-theoretical representations. Specifically, for the highly debated Raman peak around 175 cm$^{-1}$, alongside the Raman silent B$_{1u}$ mode, the LR corrections introduce Raman-active longitudinal optical A$^{\\prime}$ and A$_1$, and transverse optical A$_1$ modes. Overall, the calculated Raman spectra suggest that the intensity of these modes is weak in the pristine system, while certain prescribed distortions can increase their intensity. The Raman peak around 140 cm$^{-1}$, as observed experimentally, is identified to be emerging from a higher-order Raman process due to zone off-center contributions, while the other debated 120 cm$^{-1}$ peak has both the zone center and off-center contributions.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-06T12:10:57Z",
+    "updated": "2026-10-06T12:10:57Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.08221v1",
+      "pdf_path": "data/pdfs/2026-10-07/3_Unraveling hidden Raman modes in $α$-MnTe Effects of long-range dipole-dipole interactions on phonon bands__2610.08221v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.235318",
+    "updated_at": "2026-10-07T03:13:58.235311Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/3_Unraveling hidden Raman modes in $α$-MnTe Effects of long-range dipole-dipole interactions on phonon bands__2610.08221v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08221v1",
+    "pdf_filename": "3_Unraveling hidden Raman modes in $α$-MnTe Effects of long-range dipole-dipole interactions on phonon bands__2610.08221v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过引入长程偶极-偶极相互作用，解释了反铁磁材料 α-MnTe 中长期存在争议的拉曼光谱特征。",
+      "en": "The inclusion of long-range dipole-dipole interactions resolves the long-standing controversy regarding the Raman spectra of the altermagnetic α-MnTe."
+    },
+    "problem": {
+      "zh": "实验观察到的 α-MnTe 拉曼光谱存在显著差异，特别是 175 cm⁻¹ 处峰值的归属及其在不同样品中的缺失问题，理论计算难以完全复现。",
+      "en": "Experimental Raman spectra of α-MnTe show significant discrepancies, particularly regarding the origin and presence of the 175 cm⁻¹ peak, which theoretical models have failed to consistently reproduce."
+    },
+    "approach": {
+      "zh": "利用密度泛函理论（DFT+U）结合非解析项修正（NAC），考虑长程偶极-偶极相互作用，并分析了不同晶格畸变对声子模式的影响。",
+      "en": "Using DFT+U calculations combined with non-analytic corrections (NAC) to account for long-range dipole-dipole interactions, and analyzing the impact of structural distortions on phonon modes."
+    },
+    "main_takeaway": {
+      "zh": "长程偶极-偶极相互作用是准确描述 α-MnTe 声子能带结构的关键，它揭示了此前被认为是拉曼静默的模式在特定条件下可变为拉曼活跃。",
+      "en": "Long-range dipole-dipole interactions are essential for accurately describing the phonon band structure of α-MnTe, revealing that previously Raman-silent modes can become active under specific conditions."
+    },
+    "why_it_matters": {
+      "zh": "该研究统一了关于 α-MnTe 拉曼特征的实验争议，并为理解反铁磁材料中声子与晶格畸变、电子关联的耦合提供了理论基础。",
+      "en": "This work reconciles experimental controversies regarding α-MnTe Raman features and provides a theoretical basis for understanding the coupling between phonons, structural distortions, and electronic correlations in altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过引入长程相互作用，成功解释了实验中长期存在的拉曼光谱矛盾，澄清了各峰值的物理起源。",
+        "en": "By incorporating long-range interactions, the paper successfully explains long-standing experimental discrepancies in Raman spectra and clarifies the physical origin of the observed peaks."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表声子计算和拉曼光谱分析研究的权威平台。",
+        "en": "This journal is a standard venue for research on phonon calculations and Raman spectroscopy analysis in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "α-MnTe",
+      "altermagnetism",
+      "Raman spectroscopy",
+      "phonon band structure",
+      "dipole-dipole interaction"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:14:40",
+    "input_scope": "full_pdf_text"
+  }
+}

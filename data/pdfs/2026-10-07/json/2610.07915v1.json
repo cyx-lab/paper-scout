@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2610.07915v1",
+    "title": "Two-exciton bound states in the Merrifield exciton model",
+    "authors": [
+      "Ning Wu",
+      "Runtian Li",
+      "Dazhi Xu"
+    ],
+    "abstract": "Understanding the formation and dynamics of two-exciton bound states (BSs) is crucial for harnessing multi-exciton phenomena and designing next-generation organic semiconductor materials. While various mechanisms such as intermolecular exciton-exciton interactions or multi-level intramolecular configurations can generate these BSs, a fundamental understanding of their underlying lattice dynamics remains a key challenge. Within this context, the Merrifield exciton model stands out as a premier framework for capturing the intricate quantum mixing between single-site doubly-excited states and two-particle scattering continuum. In this work, by constructing a set of exact two-exciton Bloch states and applying a plane-wave ansatz to treat the resulting inhomogeneous tridiagonal matrices, we provide a complete, rigorous solution to the two-exciton problem in a finite-size Merrifield chain. We analytically map the parameter regions that support two-exciton BSs, proving that at most two distinct types of BSs can emerge, located either above or below the scattering continuum. Furthermore, we provide a quantitative interpretation of how these two types of BSs evolve as a function of the total wave number within the whole Brillouin zone. The obtained closed-form expressions for the eigenenergies and wave functions offer valuable benchmarks for exploring exciton dynamics and optical responses in related molecular aggregates.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-06T07:57:26Z",
+    "updated": "2026-10-06T07:57:26Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.07915v1",
+      "pdf_path": "data/pdfs/2026-10-07/3_Two-exciton bound states in the Merrifield exciton model__2610.07915v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.236125",
+    "updated_at": "2026-10-07T03:13:58.236116Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/3_Two-exciton bound states in the Merrifield exciton model__2610.07915v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.07915v1",
+    "pdf_filename": "3_Two-exciton bound states in the Merrifield exciton model__2610.07915v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过平面波拟设方法，给出了有限尺寸 Merrifield 激子模型中双激子问题的完整解析解。",
+      "en": "This paper provides a complete analytical solution to the two-exciton problem in a finite-size Merrifield exciton model using a plane-wave ansatz."
+    },
+    "problem": {
+      "zh": "理解 Merrifield 模型中双激子束缚态的形成机制、参数依赖性及其在布里渊区内的演化规律。",
+      "en": "Understanding the formation mechanisms, parameter dependence, and evolution of two-exciton bound states within the Brillouin zone in the Merrifield model."
+    },
+    "approach": {
+      "zh": "构建双激子 Bloch 态，将双激子问题映射为单粒子问题，并利用平面波拟设求解非均匀三对角矩阵。",
+      "en": "Constructing two-exciton Bloch states, mapping the two-exciton problem to a single-particle one, and solving the resulting inhomogeneous tridiagonal matrices using a plane-wave ansatz."
+    },
+    "main_takeaway": {
+      "zh": "Merrifield 模型中最多存在两种双激子束缚态，其存在条件及演化由系统参数和总波数决定，且束缚态总是位于散射连续谱之外。",
+      "en": "At most two types of two-exciton bound states exist in the Merrifield model, with their emergence and evolution determined by system parameters and total wave number, always lying outside the scattering continuum."
+    },
+    "why_it_matters": {
+      "zh": "该解析解为研究有机分子聚集体中的激子动力学、非线性光学响应及单线态激子裂分过程提供了重要的理论基准。",
+      "en": "The analytical solution provides essential theoretical benchmarks for studying exciton dynamics, nonlinear optical responses, and singlet fission processes in organic molecular aggregates."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过严谨的数学推导澄清了 Merrifield 模型中双激子束缚态的分类及其随波数演化的复杂行为。",
+        "en": "The paper clarifies the classification of two-exciton bound states and their complex evolution with wave number in the Merrifield model through rigorous mathematical derivation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是凝聚态物理领域发表此类晶格模型解析解研究的典型平台。",
+        "en": "This journal is a standard venue for research on analytical solutions of lattice models in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "Merrifield exciton model",
+      "two-exciton bound states",
+      "plane-wave ansatz",
+      "molecular aggregates",
+      "singlet fission"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:14:35",
+    "input_scope": "full_pdf_text"
+  }
+}

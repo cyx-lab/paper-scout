@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2610.08494v1",
+    "title": "Interfacial Charge Transfer and Morphology Govern Magnetism in Ultrathin VOx/MoSe2 Heterostructures",
+    "authors": [
+      "Yasinthara Wadumesthri",
+      "Nalaka Kapuruge",
+      "Raphael B. de Oliveira",
+      "Bruno Ipaves",
+      "Guilherme S. L. Fabris",
+      "Kinga Lasek",
+      "Florence A. Nugera",
+      "Jianjun Pan",
+      "Xiaomei Jiang",
+      "Douglas S. Galvão",
+      "Humberto Rodríguez Gutiérrez"
+    ],
+    "abstract": "Engineering magnetism in two-dimensional semiconductors through interfacial interactions offers an attractive alternative to substitutional doping and provides opportunities for integrating magnetic and optoelectronic functionality within the same heterostructure. Here, we investigate ultrathin VOx films deposited on monolayer MoSe2 and demonstrate a pronounced enhancement of the magnetic response upon formation of the VOx/MoSe2 interface. Combined structural, spectroscopic, magnetic, and first-principles analyses support a consistent picture in which finite VOx clusters possess intrinsic magnetic moments that are further enhanced by electron transfer from MoSe2 to the oxide. The predicted charge transfer is also consistent with the increased trion contribution observed in the photoluminescence response of the heterostructure. Beyond this interfacial enhancement, the magnetic behavior is strongly governed by the morphology of the ultrathin oxide. A crossover from discontinuous clusters to more continuous films produces qualitatively different temperature dependences: the continuous-film regime exhibits conventional thermal demagnetization and coercive softening, whereas the clustered regime displays an unusual increase in magnetization and nonmonotonic coercivity with increasing temperature. These contrasting responses are captured by a phenomenological model in which morphology determines the collective magnetic dynamics through a distribution of effective reversal barriers and their thermally activated accessibility. Together, the results establish a unified picture in which interfacial charge transfer enhances the local magnetic moments of VOx, while nanoscale morphology governs their collective magnetic dynamics, providing complementary routes for controlling magnetism in oxide/transition-metal dichalcogenide heterostructures.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-06T15:04:11Z",
+    "updated": "2026-10-06T15:04:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:trion"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.08494v1",
+      "pdf_path": "data/pdfs/2026-10-07/3_Interfacial Charge Transfer and Morphology Govern Magnetism in Ultrathin VOxMoSe2 Heterostructures__2610.08494v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.234614",
+    "updated_at": "2026-10-07T03:13:58.234606Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/3_Interfacial Charge Transfer and Morphology Govern Magnetism in Ultrathin VOxMoSe2 Heterostructures__2610.08494v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08494v1",
+    "pdf_filename": "3_Interfacial Charge Transfer and Morphology Govern Magnetism in Ultrathin VOxMoSe2 Heterostructures__2610.08494v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过界面电荷转移和氧化物形貌调控，实现了超薄 VOₓ/MoSe₂ 异质结磁性的增强与动态控制。",
+      "en": "Enhanced magnetism and tunable collective dynamics in ultrathin VOₓ/MoSe₂ heterostructures are achieved through interfacial charge transfer and morphology-dependent barrier distributions."
+    },
+    "problem": {
+      "zh": "如何在不进行替代性掺杂的情况下，在二维过渡金属硫族化合物中引入并调控磁性，以及氧化物形貌如何影响其集体磁动力学。",
+      "en": "How to engineer magnetic functionality in 2D transition-metal dichalcogenides without substitutional doping, and how oxide morphology governs collective magnetic dynamics."
+    },
+    "approach": {
+      "zh": "结合实验表征与第一性原理计算，研究 VOₓ/MoSe₂ 异质结的界面电荷转移及不同形貌下的磁响应。",
+      "en": "Combined experimental characterization and first-principles DFT calculations to investigate interfacial charge transfer and morphology-dependent magnetic responses in VOₓ/MoSe₂ heterostructures."
+    },
+    "main_takeaway": {
+      "zh": "界面电荷转移增强了局部磁矩，而氧化物形貌决定了磁矩的集体翻转动力学，导致不同的温度依赖行为。",
+      "en": "Interfacial charge transfer enhances local magnetic moments, while oxide morphology dictates collective reversal dynamics, leading to distinct temperature-dependent behaviors."
+    },
+    "why_it_matters": {
+      "zh": "该研究提供了一种无需化学掺杂即可调控二维材料磁性的新途径，并揭示了界面工程与形貌控制在自旋电子学器件中的应用潜力。",
+      "en": "This work provides a new route to tune magnetism in 2D materials without chemical doping and highlights the potential of interface engineering and morphology control for spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究清晰地解耦了界面电荷转移对局部磁矩的增强作用与形貌对集体磁动力学的调控作用。",
+        "en": "The study clearly decouples the enhancement of local magnetic moments by interfacial charge transfer from the control of collective magnetic dynamics by morphology."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "ACS Nano",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊非常关注二维材料异质结的界面物理及磁性功能化研究。",
+        "en": "The journal focuses heavily on interfacial physics and magnetic functionalization of 2D material heterostructures."
+      }
+    },
+    "keywords": [
+      "VOₓ/MoSe₂",
+      "界面磁性",
+      "电荷转移",
+      "二维材料",
+      "磁动力学"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:15:16",
+    "input_scope": "full_pdf_text"
+  }
+}

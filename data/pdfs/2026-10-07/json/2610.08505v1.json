@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.08505v1",
+    "title": "Ultra-small-angle graphene twistronics with monolayer spacers: From interlayer hybridisation and moiré effects to high-temperature magnetotransport oscillations",
+    "authors": [
+      "Benjamin Fuller",
+      "Haowei Fan",
+      "Agustin Montemurro",
+      "Yuyuan Pan",
+      "Alexey I. Berdyugin",
+      "Vladimir I. Falko",
+      "Xiao Li"
+    ],
+    "abstract": "Based on the analysis of moiré superlattice characteristics and interlayer hybridisation in small-angle twisted graphene multilayers with a monolayer hexagonal boron nitride (hBN) spacer, we predict spectral features and quantum transport effects in these systems. Here, we consider both a twisted bilayer and double bilayers with a spacer, discuss double bilayers in two stacking orders - with and without inversion symmetry - and also compare the results obtained with self-consistent Hartree calculations with and without in-plane periodic charge distribution, offering computationally efficient models for these graphene/hBN/graphene moiré systems. We note parametric intervals where the appearance of minibands can be enhanced by tuning with an out-of-plane displacement field, and identify the miniband edges and van Hove singularities across a broad range of densities and displacement fields. These system host Lifshitz transitions at which the Fermi lines form a network across moiré Brillouin zones, and to which Brown-Zak oscillations converge at low magnetic field and elevated temperatures. We analyse interlayer hybridisation across the same parameter space, discuss how hybridisation affects in-plane magneto-transport in ultra-high-mobility structures, and predict that semiclassical magneto-oscillations of interlayer hybridisation can lead to 1/B-periodic quantum oscillations of resistivity persistent to high temperature.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-06T15:12:34Z",
+    "updated": "2026-10-06T15:12:34Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.08505v1",
+      "pdf_path": "data/pdfs/2026-10-07/3_Ultra-small-angle graphene twistronics with monolayer spacers From interlayer hybridisation and moiré effects to high-te__2610.08505v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.234528",
+    "updated_at": "2026-10-07T03:13:58.234520Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/3_Ultra-small-angle graphene twistronics with monolayer spacers From interlayer hybridisation and moiré effects to high-te__2610.08505v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08505v1",
+    "pdf_filename": "3_Ultra-small-angle graphene twistronics with monolayer spacers From interlayer hybridisation and moiré effects to high-te__2610.08505v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了带有六方氮化硼（hBN）单层间隔层的扭转石墨烯多层体系，揭示了其莫尔超晶格特性、层间杂化及高温磁输运振荡现象。",
+      "en": "This paper investigates twisted graphene multilayers with a monolayer hBN spacer, revealing their moiré superlattice characteristics, interlayer hybridization, and high-temperature magnetotransport oscillations."
+    },
+    "problem": {
+      "zh": "探索弱耦合莫尔体系中的能带结构调控、层间杂化效应以及在高温下依然存在的量子振荡现象。",
+      "en": "Exploring band structure tunability, interlayer hybridization effects, and persistent quantum oscillations at elevated temperatures in weakly coupled moiré systems."
+    },
+    "approach": {
+      "zh": "采用混合k·p理论与紧束缚模型，结合自洽Hartree平均场修正，计算了不同扭转角、载流子密度和位移场下的态密度及磁输运特性。",
+      "en": "Using a hybrid k·p theory and tight-binding approach, combined with self-consistent Hartree mean-field corrections, to calculate the density of states and magnetotransport properties."
+    },
+    "main_takeaway": {
+      "zh": "hBN间隔层显著削弱了层间耦合，使得莫尔物理可以通过位移场进行高效调控，并预测了高温下依然存在的磁阻振荡。",
+      "en": "The hBN spacer significantly weakens interlayer coupling, enabling efficient electrostatic control of moiré physics, and the study predicts high-temperature-persistent magnetoresistance oscillations."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在弱耦合莫尔体系中实现可调控的量子态提供了理论框架，并指出了利用层间杂化在高温下观测量子振荡的新途径。",
+      "en": "The study provides a theoretical framework for achieving tunable quantum states in weakly coupled moiré systems and identifies new pathways for observing quantum oscillations at high temperatures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过系统建模澄清了弱耦合莫尔体系中层间杂化与莫尔势对能带及输运的影响机制。",
+        "en": "The paper clarifies the mechanisms by which interlayer hybridization and moiré potentials influence band structure and transport in weakly coupled moiré systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中的能带结构与量子输运理论建模，符合PRB的发表范畴。",
+        "en": "The paper focuses on theoretical modeling of band structure and quantum transport in condensed matter physics, which fits the scope of PRB."
+      }
+    },
+    "keywords": [
+      "扭转石墨烯",
+      "莫尔超晶格",
+      "层间杂化",
+      "量子振荡",
+      "hBN间隔层"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:15:32",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.08336v1",
+    "title": "Quantum geometry of collective pairing fluctuations in the superfluid weight of multiband superconductors",
+    "authors": [
+      "R. N. Kalkan",
+      "M. Iskin"
+    ],
+    "abstract": "Beyond the frozen-pairing contribution, the superfluid weight of a multiband superconductor contains a correction from the self-consistent relaxation of the pairing amplitudes under a phase twist. We show that this correction has a quantum-geometric origin, not in the space of Bloch states but in the space of collective pairing fields. For an attractive multiband Hubbard model at the mean-field level, the thermodynamic Hessian governing the pairing response coincides with the static Gaussian pair-fluctuation kernel at zero momentum at every temperature below $T_c$. Since gauge invariance relates a phase twist to a finite center-of-mass momentum of the pair field, the superfluid weight is set by the small-momentum curvature of the eigenvalue branch that evolves from the Goldstone mode, and the relaxation correction is a stiffness-weighted quantum metric of the corresponding soft eigenvector on the manifold of pairing configurations. The same construction yields the Ginzburg-Landau gradient coefficient with the identical geometric correction, hence the coherence-length tensor, and, with the low-frequency dynamics of the kernel, the pair-mass tensor. Lieb-lattice calculations verify the equivalence of the thermodynamic, fluctuation-kernel, and soft-mode formulations and the independence of the superfluid weight from the orbital embedding.",
+    "categories": [
+      "cond-mat.supr-con",
+      "cond-mat.quant-gas",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-06T13:35:48Z",
+    "updated": "2026-10-06T13:35:48Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:superfluid weight"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.08336v1",
+      "pdf_path": "data/pdfs/2026-10-07/3_Quantum geometry of collective pairing fluctuations in the superfluid weight of multiband superconductors__2610.08336v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.234906",
+    "updated_at": "2026-10-07T03:13:58.234897Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/3_Quantum geometry of collective pairing fluctuations in the superfluid weight of multiband superconductors__2610.08336v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08336v1",
+    "pdf_filename": "3_Quantum geometry of collective pairing fluctuations in the superfluid weight of multiband superconductors__2610.08336v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了多带超导体中超流密度修正项的量子几何起源，将其归因于配对场集体涨落的几何结构。",
+      "en": "This paper reveals the quantum-geometric origin of the relaxation correction to the superfluid weight in multiband superconductors, attributing it to the geometry of collective pairing fluctuations."
+    },
+    "problem": {
+      "zh": "在多带超导体中，超流密度不仅受能带色散和布洛赫态几何影响，还受到配对振幅在相位扭曲下自洽弛豫的影响，其物理起源和几何描述尚不明确。",
+      "en": "In multiband superconductors, the superfluid weight is affected not only by band dispersion and Bloch state geometry but also by the self-consistent relaxation of pairing amplitudes under a phase twist, the origin of which remains unclear."
+    },
+    "approach": {
+      "zh": "通过平均场配对场的有效作用量，证明热力学黑塞矩阵等同于零动量下的高斯配对涨落核，并将超流密度修正项解释为软配对模式在配对构型流形上的刚度加权量子度规。",
+      "en": "Using the effective action of the mean-field pairing field, the authors show that the thermodynamic Hessian coincides with the Gaussian pair-fluctuation kernel at zero momentum, and interpret the correction as a stiffness-weighted quantum metric of the soft pairing mode on the manifold of pairing configurations."
+    },
+    "main_takeaway": {
+      "zh": "超流密度的弛豫修正项本质上是配对场集体涨落的量子几何效应，该效应与金兹堡-朗道梯度系数及相干长度张量中的几何修正项完全一致。",
+      "en": "The relaxation correction to the superfluid weight is fundamentally a quantum-geometric effect of collective pairing fluctuations, which is identical to the geometric correction in the Ginzburg-Landau gradient coefficient and the coherence-length tensor."
+    },
+    "why_it_matters": {
+      "zh": "该研究统一了热力学、涨落核和软模描述，为理解多带超导体中超流密度的几何贡献提供了普适的理论框架，并消除了轨道嵌入依赖性的歧义。",
+      "en": "This work unifies thermodynamic, fluctuation-kernel, and soft-mode descriptions, providing a universal theoretical framework for understanding the geometric contribution to the superfluid weight in multiband superconductors and resolving ambiguities regarding orbital embedding dependence."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作通过建立配对场集体涨落与超流密度弛豫修正的直接联系，为多带超导的几何理论提供了深刻的微观解释。",
+        "en": "This work provides a profound microscopic interpretation of the geometric theory of multiband superconductivity by establishing a direct link between collective pairing fluctuations and the superfluid weight relaxation correction."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文深入探讨了超导体的量子几何与多带效应，符合该期刊在凝聚态物理领域的关注重点。",
+        "en": "The paper explores quantum geometry and multiband effects in superconductors, which aligns with the journal's focus in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "多带超导体",
+      "超流密度",
+      "量子几何",
+      "配对涨落",
+      "金兹堡-朗道理论"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:14:50",
+    "input_scope": "full_pdf_text"
+  }
+}

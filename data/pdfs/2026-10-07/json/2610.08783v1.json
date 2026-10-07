@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.08783v1",
+    "title": "Quantum twisting microscopy as a momentum-resolved probe of quantum geometry and sublattice symmetries",
+    "authors": [
+      "Lucas V. Pupim",
+      "Mathias S. Scheurer"
+    ],
+    "abstract": "In two-dimensional (2D) flat-band systems, as engineered, for instance, by stacking and twisting van der Waals materials, the momentum dependence of the Bloch states is a key factor in determining the interaction-induced emergence of different phases. Hence, methods of probing this form of ''quantum geometry'' are crucial to understanding these systems. Yet, extracting the momentum dependence of the underlying quantum geometric tensor from measurements is challenging in 2D. Here, we propose employing a quantum twisting microscope (QTM) with a sublattice-polarized tip to fill this gap. We show how expectation values of sublattice Pauli matrices can be probed across the scanned momentum path. This allows for the direct measurement of crucial symmetries characterizing the different candidate instabilities in graphene-based moiré systems. We furthermore show that the quantum metric component along the scan direction can also be extracted; the full quantum geometric tensor is also accessible, given that more than one sublattice polarization can be used. Our work illustrates the potential and extends the versatility of the QTM approach. If implemented in future experiments, this would provide unprecedented access to the symmetry signatures of the correlated phases and to the underlying quantum geometry in twisted bilayer graphene and related systems.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-06T17:59:02Z",
+    "updated": "2026-10-06T17:59:02Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum geometric tensor",
+        "quantum_geometry:quantum metric",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.08783v1",
+      "pdf_path": "data/pdfs/2026-10-07/6_Quantum twisting microscopy as a momentum-resolved probe of quantum geometry and sublattice symmetries__2610.08783v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.233986",
+    "updated_at": "2026-10-07T03:13:58.233976Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/6_Quantum twisting microscopy as a momentum-resolved probe of quantum geometry and sublattice symmetries__2610.08783v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08783v1",
+    "pdf_filename": "6_Quantum twisting microscopy as a momentum-resolved probe of quantum geometry and sublattice symmetries__2610.08783v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种利用亚晶格极化针尖的量子扭转显微镜（QTM）方案，以实现对二维莫尔超晶格中量子几何张量和对称性的动量分辨探测。",
+      "en": "Proposes a quantum twisting microscopy (QTM) scheme with a sublattice-polarized tip to enable momentum-resolved probing of the quantum geometric tensor and symmetries in 2D moiré superlattices."
+    },
+    "problem": {
+      "zh": "在二维莫尔系统中，直接从实验中提取动量分辨的量子几何张量（包括量子度规和贝里曲率）仍然是一个巨大的挑战。",
+      "en": "Directly extracting the momentum-resolved quantum geometric tensor (including the quantum metric and Berry curvature) from experiments in 2D moiré systems remains a significant challenge."
+    },
+    "approach": {
+      "zh": "利用具有亚晶格极化的石墨烯针尖，通过在不同扭转角下扫描动量路径，并结合对隧道电流及其导数的分析，重构量子几何张量。",
+      "en": "Employs a graphene tip with sublattice polarization to scan momentum paths at varying twist angles, reconstructing the quantum geometric tensor through analysis of the tunneling current and its derivatives."
+    },
+    "main_takeaway": {
+      "zh": "亚晶格极化针尖不仅能探测莫尔系统中的对称性破缺，还能通过测量隧道电流的导数特征，直接提取量子几何张量的分量。",
+      "en": "A sublattice-polarized tip not only probes symmetry breaking in moiré systems but also allows direct extraction of quantum geometric tensor components by measuring features in the tunneling conductance derivatives."
+    },
+    "why_it_matters": {
+      "zh": "该方法为研究强关联二维材料（如扭转双层石墨烯）中量子几何与电子关联效应的相互作用提供了前所未有的实验手段。",
+      "en": "This method provides an unprecedented experimental tool to study the interplay between quantum geometry and electronic correlation effects in strongly correlated 2D materials like twisted bilayer graphene."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "该工作提出了一种创新的实验探测方案，扩展了量子扭转显微镜的功能，使其能够解析复杂的量子几何信息。",
+        "en": "The work proposes an innovative experimental probing scheme that extends the capabilities of quantum twisting microscopy to resolve complex quantum geometric information."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提出了一个具有高度实验可行性的新探测方案，符合该期刊对凝聚态物理领域重要方法论创新的关注。",
+        "en": "The paper proposes a highly feasible new probing scheme, aligning with the journal's focus on significant methodological innovations in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "量子扭转显微镜",
+      "量子几何张量",
+      "莫尔超晶格",
+      "亚晶格极化",
+      "扭转双层石墨烯"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:15:51",
+    "input_scope": "full_pdf_text"
+  }
+}

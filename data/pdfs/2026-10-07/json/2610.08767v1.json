@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.08767v1",
+    "title": "Geometric Photon-drag Effect in Unconventional Magnets",
+    "authors": [
+      "Bristi Ghosh",
+      "Vivek Pandey",
+      "Malay Bandyopadhyay",
+      "Pankaj Bhalla",
+      "Snehasish Nandy"
+    ],
+    "abstract": "The photon-drag effect is a nonlinear optical phenomenon in which the finite momentum carried by incident photons is transferred to charge carriers, thereby generating a dc photocurrent even in systems with inversion symmetry. Within the density-matrix formalism in the velocity gauge, and accounting for nonvertical optical transitions driven by finite photon momentum, we derive the nonlinear injection and shift conductivities that characterize the photon-drag photogalvanic response. We investigate these photon-drag responses in unconventional $p_x$-wave and $d_{x^2-y^2}$-wave magnets in the presence of Rashba spin-orbit coupling (RSOC), highlighting the distinct roles of symmetry and quantum geometry in shaping their nonlinear optical behavior. The key finding of our work is that, despite the broken inversion symmetry, the conventional photogalvanic response vanishes identically in the $q=0$ limit after Brillouin-zone integration in both unconventional magnetic phases, resulting in a nonlinear dc photocurrent entirely photon-drag driven. The two unconventional magnets exhibit qualitatively distinct responses governed by their symmetry properties: the $p$-wave magnet supports only linear injection and circular shift conductivities, whereas the $d$-wave altermagnet, which simultaneously breaks time-reversal and inversion symmetries, admits all linear and circular components. Our findings establish altermagnets as a promising platform for controlling symmetry-selective nonlinear photocurrents and may enable applications in polarization-sensitive photodetection, nonlinear optoelectronics, and quantum geometric photogalvanics.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-06T17:52:24Z",
+    "updated": "2026-10-06T17:52:24Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.08767v1",
+      "pdf_path": "data/pdfs/2026-10-07/3_Geometric Photon-drag Effect in Unconventional Magnets__2610.08767v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.234032",
+    "updated_at": "2026-10-07T03:13:58.234024Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/3_Geometric Photon-drag Effect in Unconventional Magnets__2610.08767v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08767v1",
+    "pdf_filename": "3_Geometric Photon-drag Effect in Unconventional Magnets__2610.08767v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了非常规磁体中由有限光子动量驱动的光子拖拽效应，揭示了其作为量子几何探针的潜力。",
+      "en": "This paper investigates the photon-drag effect driven by finite photon momentum in unconventional magnets, revealing its potential as a probe for quantum geometry."
+    },
+    "problem": {
+      "zh": "在非常规磁体中，常规光电流效应常受对称性限制，且尚不清楚光子拖拽效应是否能有效区分不同磁序。",
+      "en": "In unconventional magnets, the conventional photogalvanic effect is often symmetry-forbidden, and it remains unclear whether the photon-drag effect can effectively distinguish between different magnetic orders."
+    },
+    "approach": {
+      "zh": "基于密度矩阵形式主义，推导了Rashba自旋轨道耦合下p波和d波磁体的非线性注入和位移电导率。",
+      "en": "Using the density-matrix formalism, the authors derived the nonlinear injection and shift conductivities for p-wave and d-wave magnets in the presence of Rashba spin-orbit coupling."
+    },
+    "main_takeaway": {
+      "zh": "非常规磁体中存在由光子拖拽驱动的非线性直流光电流，其对称性特征可作为区分磁序的量子几何指纹。",
+      "en": "Unconventional magnets exhibit a nonlinear dc photocurrent driven by the photon-drag effect, with symmetry-distinct responses serving as unique quantum geometric fingerprints for magnetic orders."
+    },
+    "why_it_matters": {
+      "zh": "该研究为探测非常规磁体的量子几何特性提供了新途径，并为非线性光电子器件提供了理论基础。",
+      "en": "This study provides a new pathway for probing the quantum geometry of unconventional magnets and establishes a theoretical foundation for nonlinear optoelectronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章明确了非常规磁体中光子拖拽效应的对称性起源，并解释了其作为实验探针的物理机制。",
+        "en": "The paper clarifies the symmetry origins of the photon-drag effect in unconventional magnets and explains its physical mechanism as an experimental probe."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域是非线性光学响应和磁性材料研究的典型范畴，符合PRB的发表方向。",
+        "en": "The field of nonlinear optical response and magnetic materials is a standard scope for PRB."
+      }
+    },
+    "keywords": [
+      "Photon-drag effect",
+      "Altermagnetism",
+      "Quantum geometry",
+      "Nonlinear optics",
+      "Rashba coupling"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:15:43",
+    "input_scope": "full_pdf_text"
+  }
+}

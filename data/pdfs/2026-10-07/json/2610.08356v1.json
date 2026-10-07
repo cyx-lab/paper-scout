@@ -1,0 +1,121 @@
+{
+  "paper_record": {
+    "id": "2610.08356v1",
+    "title": "Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal",
+    "authors": [
+      "C. -y. Lim",
+      "J. Deng",
+      "A. Korshunov",
+      "A. Kar",
+      "D. Subires",
+      "H. Li",
+      "Y. Jiang",
+      "H. Hu",
+      "E. Modin",
+      "P. Törmä",
+      "A. Kumar-Sharma",
+      "C. Shekhar",
+      "A. Louat",
+      "T. K. Kim",
+      "C. Felser",
+      "B. Andrei Bernevig",
+      "S. Blanco-Canosa"
+    ],
+    "abstract": "Waterfall-like spectral features observed by angle-resolved photoemission spectroscopy (ARPES) are commonly associated with strong electronic correlations or electron-boson coupling. Here, we investigate this connection in the kagome metal LuFe6Ge6, a structurally simple member of the FeGe-derived family, using polarization-dependent ARPES, density functional theory and dynamical mean-field theory. We observe a pronounced vertical spectral feature at the L point extending over several hundred meV in binding energy. Its orbital character is identified as predominantly Fe dyz, and its energy onset coincides with a van Hove singularity located approximately 0.3 eV below EF . Despite the waterfall-like spectral response, dynamical mean-field theory (DMFT) reveals only weak electronic correlations, while the calculated electronic structure closely reproduces the experimental bulk bands. We propose that the anomalous spectral weight may arise from inelastic scattering of the outgoing photoelectrons, potentially associated with the large density of states near the van Hove singularity. Our results suggest that waterfall-like features can emerge without strong electronic correlations and highlight the possible role of the underlying band structure and photoelectron energy-loss processes in their interpretation.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-06T13:46:04Z",
+    "updated": "2026-10-06T13:46:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [],
+      "author_match": true,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.08356v1",
+      "pdf_path": "data/pdfs/2026-10-07/5_Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal__2610.08356v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-07T03:13:58.234748",
+    "updated_at": "2026-10-07T03:13:58.234740Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-07/5_Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal__2610.08356v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.08356v1",
+    "pdf_filename": "5_Incoherent Spectral Weight Emerging from a Van Hove Singularity in a Kagome Metal__2610.08356v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在笼目金属 LuFe6Ge6 中，ARPES 观测到的“瀑布状”谱特征并非源于强电子关联，而是可能由光电子的非弹性散射引起。",
+      "en": "The 'waterfall' spectral feature observed in the kagome metal LuFe6Ge6 via ARPES is likely caused by inelastic photoelectron scattering rather than strong electronic correlations."
+    },
+    "problem": {
+      "zh": "ARPES 谱中常见的“瀑布状”特征通常被视为强电子关联的证据，但其微观起源在许多材料中仍存在争议。",
+      "en": "The 'waterfall' feature in ARPES spectra is often attributed to strong electronic correlations, but its microscopic origin remains debated across various materials."
+    },
+    "approach": {
+      "zh": "结合偏振依赖 ARPES、密度泛函理论 (DFT) 和动力学平均场理论 (DMFT) 对 LuFe6Ge6 的电子结构进行综合研究。",
+      "en": "A comprehensive investigation of the electronic structure of LuFe6Ge6 using polarization-dependent ARPES, density functional theory (DFT), and dynamical mean-field theory (DMFT)."
+    },
+    "main_takeaway": {
+      "zh": "LuFe6Ge6 中的“瀑布状”谱特征与范霍夫奇点处的电子态相关，且在弱关联体系中也可通过光电子非弹性散射过程产生。",
+      "en": "The 'waterfall' feature in LuFe6Ge6 is associated with electronic states at a van Hove singularity and can emerge in weakly correlated systems via inelastic photoelectron scattering processes."
+    },
+    "why_it_matters": {
+      "zh": "该研究挑战了将 ARPES 谱中的“瀑布状”特征直接等同于强电子关联的传统观点，强调了非弹性散射等外在过程在解释谱学异常中的重要性。",
+      "en": "This work challenges the conventional interpretation of 'waterfall' features as direct evidence of strong correlations, highlighting the role of extrinsic processes like inelastic scattering in interpreting spectroscopic anomalies."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过对比理论计算与实验，明确了特定谱学特征的非关联起源，为理解笼目金属的谱学数据提供了新视角。",
+        "en": "By comparing theoretical calculations with experimental data, the study clarifies the non-correlation origin of specific spectral features, providing a new perspective for interpreting spectroscopic data in kagome metals."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论 + 数值",
+      "en": "Experimental + Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了高质量的 ARPES 数据与先进的 DMFT 计算，探讨了凝聚态物理中关于谱学特征起源的重要争议问题，符合该期刊的定位。",
+        "en": "The paper combines high-quality ARPES data with advanced DMFT calculations to address a significant controversy regarding the origin of spectral features in condensed matter physics, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "LuFe6Ge6",
+      "笼目金属",
+      "ARPES",
+      "瀑布状特征",
+      "非弹性散射",
+      "电子关联"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-07",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-07T11:15:06",
+    "input_scope": "full_pdf_text"
+  }
+}
