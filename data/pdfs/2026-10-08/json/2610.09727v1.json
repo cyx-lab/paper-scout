@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.09727v1",
+    "title": "Anomalous Hall enhancement in fully compensated non-collinear antiferromagnetic Cr-doped Mn3Sn",
+    "authors": [
+      "Ying Zhang",
+      "Xin Chen",
+      "Hang Xie",
+      "Ziyan Luo",
+      "Yihong Wu",
+      "Lei Shen"
+    ],
+    "abstract": "The non-collinear antiferromagnet (AFM), Mn3Sn, exhibits ultrafast spin dynamics and negligible stray fields, making it a promising candidate for fast and energy-efficient spintronic devices. However, its practical applications remain limited by the relatively small Hall response compared with ferromagnets. Here, we demonstrate through both first-principles calculations and experiments that Cr-doping is a promising strategy to enhance the anomalous Hall transport in Mn3Sn without breaking the antiferromagnetic order. Our first-principles calculations reveal an effective Cr-doping window that enhances the anomalous Hall conductivity while largely preserving the host coplanar inverse triangular AFM order. Berry curvature and Wannier Hamiltonian analyses further reveal that Cr substitution amplifies the pre-existing Berry curvature hotspots through coordinated changes in the energy alignment, local interband gap, and Mn-derived orbital weight of the relevant bands. Experimentally, we have found that Cr doping not only supports our computational predictions (enhancement of the anomalous Hall conductivity), but also suppresses the transition to helical or spin-glass phases at low temperatures. These findings demonstrate that Cr-doping is an effective strategy for stabilizing the AFM order while simultaneously improving the anomalous Hall transport properties over a wide temperature range in Mn3Sn.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-07T09:22:20Z",
+    "updated": "2026-10-07T09:22:20Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.09727v1",
+      "pdf_path": "data/pdfs/2026-10-08/3_Anomalous Hall enhancement in fully compensated non-collinear antiferromagnetic Cr-doped Mn3Sn__2610.09727v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.304684",
+    "updated_at": "2026-10-08T03:30:00.304677Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/3_Anomalous Hall enhancement in fully compensated non-collinear antiferromagnetic Cr-doped Mn3Sn__2610.09727v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.09727v1",
+    "pdf_filename": "3_Anomalous Hall enhancement in fully compensated non-collinear antiferromagnetic Cr-doped Mn3Sn__2610.09727v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过铬掺杂有效增强了非共线反铁磁体 Mn3Sn 的反常霍尔效应，并保持了其反铁磁序。",
+      "en": "Cr-doping effectively enhances the anomalous Hall effect in the non-collinear antiferromagnet Mn3Sn while preserving its antiferromagnetic order."
+    },
+    "problem": {
+      "zh": "Mn3Sn 的反常霍尔效应较弱，且其反铁磁序在低温下不稳定，限制了其在自旋电子学器件中的应用。",
+      "en": "The anomalous Hall response of Mn3Sn is relatively small, and its antiferromagnetic order is unstable at low temperatures, limiting its practical spintronic applications."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算（VCA 和超胞模型）与磁控溅射实验，研究铬掺杂对电子结构、贝里曲率及输运性质的影响。",
+      "en": "Combined first-principles calculations (VCA and supercell models) and magnetron sputtering experiments to investigate the effects of Cr-doping on electronic structure, Berry curvature, and transport properties."
+    },
+    "main_takeaway": {
+      "zh": "适量铬掺杂通过优化费米能级附近的贝里曲率热点，显著增强了反常霍尔电导，同时抑制了低温下的磁相变。",
+      "en": "Optimal Cr-doping significantly enhances anomalous Hall conductivity by optimizing Berry curvature hotspots near the Fermi level while suppressing low-temperature magnetic phase transitions."
+    },
+    "why_it_matters": {
+      "zh": "该研究为通过成分工程调控非共线反铁磁体的输运性质提供了微观机制解释，有助于开发高性能反铁磁自旋电子器件。",
+      "en": "This study provides a microscopic mechanism for tuning transport properties in non-collinear antiferromagnets via compositional engineering, facilitating the development of high-performance antiferromagnetic spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过贝里曲率和 Wannier 哈密顿量分析，明确了铬掺杂增强反常霍尔效应的微观电子结构起源。",
+        "en": "The study clarifies the microscopic electronic origin of Cr-induced anomalous Hall enhancement through Berry curvature and Wannier Hamiltonian analysis."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了第一性原理计算与薄膜输运实验，符合该期刊在凝聚态物理和材料科学领域的发表范式。",
+        "en": "The paper combines first-principles calculations with thin-film transport experiments, which aligns with the publication paradigm of this journal in condensed matter physics and materials science."
+      }
+    },
+    "keywords": [
+      "Mn3Sn",
+      "反常霍尔效应",
+      "非共线反铁磁",
+      "铬掺杂",
+      "贝里曲率"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:34:51",
+    "input_scope": "full_pdf_text"
+  }
+}

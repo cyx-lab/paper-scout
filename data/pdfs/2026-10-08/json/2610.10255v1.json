@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.10255v1",
+    "title": "Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy",
+    "authors": [
+      "Xinze Yang",
+      "Sandra Sajan",
+      "Maria N. Gastiasoro",
+      "Miguel M. Ugeda",
+      "Eduardo H. da Silva Neto"
+    ],
+    "abstract": "Spatially varying lattice distortions can produce local changes in electronic properties that are obscured by measurements averaging over extended regions. With its atomic-scale spatial resolution, scanning tunneling microscopy (STM) provides, in principle, a means of quantifying such distortions locally. A widely used approach for extracting local strain from STM images is the Lawler--Fujita (LF) algorithm [Lawler et al., Nature 466, 347 (2010)], which determines the displacement field from the phase of the lattice modulation and subsequently obtains the strain by differentiation. However, this approach requires two-dimensional phase unwrapping, which can fail in regions where the phase is ill-defined, particularly near topological defects such as edge dislocations. Here, we introduce an alternative approach that circumvents these limitations by directly measuring the local wave vector in real space. We derive the relationship between the local wave vector, strain, and the phase gradient, and show that the local wave vector mapping (LWM) algorithm remains robust even when the phase itself is ill-defined. This makes the method particularly well suited for imaging the phase-gradient textures associated with vortices and other topological defects. We benchmark the algorithm using simulated data containing known lattice distortions and artificially generated vortices. Finally, we apply the method to experimental STM data and resolve the charge density wave (CDW) incommensurabilities, lattice distortions, and CDW phase vortices in 4Ha-NbSe2 and 2H-NbSe2. The physical implications of these observations were recently reported by S. Sajan, X. Yang, et al. [arXiv:2607.20335 (2026)]. The program package and the example usage is publicly available at the GitHub: https://github.com/jsntxyang/LocalWavevectorMeasuremnt.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-07T15:33:03Z",
+    "updated": "2026-10-07T15:33:03Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:topological defect"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10255v1",
+      "pdf_path": "data/pdfs/2026-10-08/2_Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy__2610.10255v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.303388",
+    "updated_at": "2026-10-08T03:30:00.303381Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/2_Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy__2610.10255v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10255v1",
+    "pdf_filename": "2_Mapping Strain and Spatial-Modulation Phase from Local Wave Vectors in Scanning Tunneling Microscopy__2610.10255v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种基于霍夫变换的局部波矢量映射（LWM）算法，用于从STM图像中直接提取局部应变和相位梯度，克服了传统相位解缠绕方法的局限性。",
+      "en": "Introduces a Local Wave vector Mapping (LWM) algorithm based on the Hough transform to directly extract local strain and phase gradients from STM images, bypassing the limitations of traditional phase-unwrapping methods."
+    },
+    "problem": {
+      "zh": "传统的Lawler-Fujita算法在处理包含拓扑缺陷（如位错）的STM图像时，因相位解缠绕失败而无法准确提取局部应变，且数值微分会放大噪声。",
+      "en": "The traditional Lawler-Fujita algorithm fails to accurately extract local strain in STM images containing topological defects (e.g., dislocations) due to phase-unwrapping failures and noise amplification from numerical differentiation."
+    },
+    "approach": {
+      "zh": "利用霍夫变换在实空间直接测量局部波矢量，通过波矢量与应变及相位梯度的关系，在无需重构全局相位场的情况下实现应变映射。",
+      "en": "Utilizes the Hough transform to directly measure local wave vectors in real space, leveraging the relationship between wave vectors, strain, and phase gradients to map strain without reconstructing a global phase field."
+    },
+    "main_takeaway": {
+      "zh": "LWM算法通过直接测量局部波矢量，能够稳健地处理拓扑缺陷区域的应变和相位梯度，且在实验数据中成功区分了电荷密度波不公度与晶格应变。",
+      "en": "The LWM algorithm robustly handles strain and phase gradients near topological defects by directly measuring local wave vectors, successfully distinguishing CDW incommensurability from lattice strain in experimental data."
+    },
+    "why_it_matters": {
+      "zh": "该方法为研究量子材料中晶格畸变与电子序（如电荷密度波、向列序）的微观耦合提供了更精确的定量工具，特别是在存在缺陷的复杂系统中。",
+      "en": "This method provides a more precise quantitative tool for studying the microscopic coupling between lattice distortions and electronic orders (e.g., CDW, nematicity) in quantum materials, especially in complex systems with defects."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了一种解决STM应变分析中长期存在的相位解缠绕难题的算法，并提供了开源实现。",
+        "en": "Introduces an algorithm that solves the long-standing challenge of phase unwrapping in STM strain analysis and provides an open-source implementation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值+实验",
+      "en": "Theory + Numerical + Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Research",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于STM数据分析方法的开发与应用，符合该期刊对凝聚态物理实验与计算方法论的关注。",
+        "en": "The paper focuses on the development and application of STM data analysis methods, fitting the journal's scope on condensed matter experimental and computational methodology."
+      }
+    },
+    "keywords": [
+      "STM",
+      "Local strain mapping",
+      "Hough transform",
+      "Topological defects",
+      "Charge density wave"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:34:00",
+    "input_scope": "full_pdf_text"
+  }
+}

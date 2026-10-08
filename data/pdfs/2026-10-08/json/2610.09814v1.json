@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2610.09814v1",
+    "title": "Bogoliubov-de Gennes spectrum, Cherenkov radiation and recoil of solitons with third-order dispersion underlying optical analogue horizons",
+    "authors": [
+      "Hasan Oguz"
+    ],
+    "abstract": "Third-order dispersion turns the soliton of the nonlinear Schrödinger equation, which underlies optical analogues of event horizons in fibers, into a weakly radiating solitary wave. We compute three of its properties without assuming a thermal emission law. First, the linearized (Bogoliubov-de Gennes) problem must be posed about the stationary state of the dispersive equation: linearizing about the integrable profile produces a complex quartet that is converged in grid and box, grows as the square root of the dispersion strength and is spurious. About the stationary state, on a periodic grid, the zero-mode sector consists of two Jordan blocks of size two and the spectrum is real at the operating point, including negative-energy box modes of the resonant branch. Second, we measure the steady Cherenkov emission of adiabatically prepared solitons from the flux of the radiation behind them, over eight decades. The radiation is phase-matched in the frame of the drifting soliton, and the first-order rate falls short of the measured one by factors of 29 to 45. Expressed through a scaled dispersion coefficient of the local soliton, the measured rate describes launched solitons of three amplitudes; with norm and momentum balance, and no further fitted parameter, it reproduces their recoil and the slow decay of their loss rate; at weak dispersion the loss of a launched soliton is the shedding of its launch mismatch. Third, a census of the asymptotic channels shows that long-wavelength upstream emission requires the chemical potential of the soliton, lowered by the comoving-frame Doppler shift of a drifting soliton, to lie inside the analysis band, which bounds the soliton amplitude. In a kinematic model of the flow the surface gravity has a closed form; the thermal relation and the entanglement built on it are imposed inputs of that model. The construction applies to Raman-free Kerr media.",
+    "categories": [
+      "physics.optics",
+      "gr-qc",
+      "nlin.PS"
+    ],
+    "published": "2026-10-07T10:35:48Z",
+    "updated": "2026-10-07T10:35:48Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.09814v1",
+      "pdf_path": "data/pdfs/2026-10-08/2_Bogoliubov-de Gennes spectrum, Cherenkov radiation and recoil of solitons with third-order dispersion underlying optical__2610.09814v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.304533",
+    "updated_at": "2026-10-08T03:30:00.304524Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/2_Bogoliubov-de Gennes spectrum, Cherenkov radiation and recoil of solitons with third-order dispersion underlying optical__2610.09814v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.09814v1",
+    "pdf_filename": "2_Bogoliubov-de Gennes spectrum, Cherenkov radiation and recoil of solitons with third-order dispersion underlying optical__2610.09814v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了具有三阶色散的孤子在光学模拟视界中的动力学特性，包括其线性化谱、切伦科夫辐射及反冲效应。",
+      "en": "This paper investigates the dynamics of solitons with third-order dispersion in optical analogue horizons, focusing on their linearized spectrum, Cherenkov radiation, and recoil effects."
+    },
+    "problem": {
+      "zh": "在光学模拟视界中，三阶色散会导致孤子发生辐射衰减，而现有的理论模型往往依赖于热发射假设，缺乏对孤子自身动力学（如线性化谱、辐射率及反冲）的精确描述。",
+      "en": "In optical analogue horizons, third-order dispersion causes radiative decay of solitons, but existing theoretical models often rely on thermal emission assumptions, lacking a precise description of the soliton's own dynamics, such as its linearized spectrum, emission rate, and recoil."
+    },
+    "approach": {
+      "zh": "通过对三阶色散非线性薛定谔方程进行 Bogoliubov-de Gennes (BdG) 线性化分析，并结合数值模拟测量孤子的切伦科夫辐射通量及反冲演化。",
+      "en": "The study employs Bogoliubov-de Gennes (BdG) linearization analysis of the third-order dispersive nonlinear Schrödinger equation, combined with numerical simulations to measure the soliton's Cherenkov radiation flux and recoil evolution."
+    },
+    "main_takeaway": {
+      "zh": "孤子的辐射率和反冲可由色散参数精确描述，且在弱色散下，孤子的损耗主要源于发射失配，而非持续的热辐射。",
+      "en": "The soliton's emission rate and recoil can be precisely described by dispersion parameters, and at weak dispersion, the loss is primarily due to launch mismatch rather than sustained thermal radiation."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解光学模拟视界中的孤子稳定性提供了非热力学基础，并澄清了实验中观测到的辐射与模拟模型之间的关系。",
+      "en": "This research provides a non-thermodynamic foundation for understanding soliton stability in optical analogue horizons and clarifies the relationship between observed radiation and the kinematic models used."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过严谨的线性化分析和数值计算，澄清了孤子在模拟视界中的辐射机制及其与热力学假设的区别。",
+        "en": "The paper clarifies the radiation mechanism of solitons in analogue horizons and distinguishes it from thermodynamic assumptions through rigorous linearization and numerical computation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review A",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊是光学非线性动力学和模拟引力研究的主要阵地，符合论文的研究主题。",
+        "en": "This journal is a primary venue for research in optical nonlinear dynamics and analogue gravity, fitting the paper's subject matter."
+      }
+    },
+    "keywords": [
+      "solitons",
+      "third-order dispersion",
+      "Cherenkov radiation",
+      "optical event horizon",
+      "Bogoliubov-de Gennes spectrum"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:30:45",
+    "input_scope": "full_pdf_text"
+  }
+}

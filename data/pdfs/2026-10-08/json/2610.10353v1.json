@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2610.10353v1",
+    "title": "Exciton switching and tunable exciton-phonon coupling in Oxygen doped ZnO nanorods",
+    "authors": [
+      "Aiswarya Rath",
+      "Kalyan Ghosh",
+      "Pratap K Sahoo"
+    ],
+    "abstract": "Self ion doping in ZnO nanorods offers a powerful route to dynamically control excitonic states and light matter interactions. Here, vertically aligned hexagonal ZnO nanorods were irradiated with 250 keV oxygen ions to establish a direct link between irradiation induced defects and excitonic and optical responses. Increasing ion fluence progressively quenches the near band edge emission at 380 nm, leading to a complete exciton OFF state, while thermal annealing restores the emission, yielding a reversible exciton OFF or ON response. This switching originates from defect mediated modification and thermal recovery of excitonic states. The defect band emission, between 400 to 750 nm, exhibits quasi periodic whispering gallery mode like resonances that are progressively suppressed as irradiation alters nanorod geometry and optical confinement. Low-temperature photoluminescence resolves D0X, FX 1LO, and FX 2LO transitions, whose temperature evolution follows the Bose Einstein model. The non-monotonic variation of excition phonon coupling strength reveals a competition among irradiation induced defects, lattice distortion, and exciton localization in determining exciton phonon coupling. These results establish Oxygen ion irradiation as a means to simultaneously engineer excitonic switching, exciton phonon interactions, and optical resonances, providing a pathway toward defect programmable ZnO nanophotonic and optoelectronic devices.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-07T16:28:25Z",
+    "updated": "2026-10-07T16:28:25Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10353v1",
+      "pdf_path": "data/pdfs/2026-10-08/3_Exciton switching and tunable exciton-phonon coupling in Oxygen doped ZnO nanorods__2610.10353v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.303184",
+    "updated_at": "2026-10-08T03:30:00.303176Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/3_Exciton switching and tunable exciton-phonon coupling in Oxygen doped ZnO nanorods__2610.10353v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10353v1",
+    "pdf_filename": "3_Exciton switching and tunable exciton-phonon coupling in Oxygen doped ZnO nanorods__2610.10353v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过氧离子注入和热退火，实现了氧化锌纳米棒中激子发射的可逆开关控制及激子-声子耦合的动态调节。",
+      "en": "Achieved reversible exciton switching and tunable exciton-phonon coupling in ZnO nanorods through oxygen ion implantation and thermal annealing."
+    },
+    "problem": {
+      "zh": "如何在保持氧化锌纳米结构特性的同时，实现对其激子态、激子-声子耦合及光学谐振模式的动态调控。",
+      "en": "How to achieve dynamic control over excitonic states, exciton-phonon coupling, and optical resonances in ZnO nanostructures while preserving their intrinsic properties."
+    },
+    "approach": {
+      "zh": "利用250 keV氧离子束对垂直排列的氧化锌纳米棒进行不同剂量的辐照，并结合后续真空热退火处理，通过光致发光光谱和扫描电镜分析其结构与光学响应。",
+      "en": "Irradiated vertically aligned ZnO nanorods with 250 keV oxygen ions at varying fluences, followed by vacuum thermal annealing, and characterized the structural and optical responses using photoluminescence spectroscopy and FESEM."
+    },
+    "main_takeaway": {
+      "zh": "氧离子注入产生的缺陷可完全淬灭近带边激子发射（OFF态），而热退火可修复缺陷并恢复发射（ON态），同时该过程可非单调地调节激子-声子耦合强度。",
+      "en": "Oxygen ion-induced defects quench near-band-edge excitonic emission (OFF state), which is restored by thermal annealing (ON state), while simultaneously allowing non-monotonic tuning of exciton-phonon coupling."
+    },
+    "why_it_matters": {
+      "zh": "该方法为开发基于缺陷工程的纳米光子器件、光存储器及可重构光电开关提供了一种简单且有效的调控手段。",
+      "en": "This approach provides a simple and effective pathway for developing defect-engineered nanophotonic devices, optical memory, and reconfigurable optoelectronic switches."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文清晰揭示了离子辐照缺陷与激子动力学之间的竞争机制，并展示了通过热处理实现可逆调控的物理过程。",
+        "en": "The paper clearly reveals the competition mechanism between ion-irradiation defects and exciton dynamics, demonstrating the physical process of reversible control via thermal treatment."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Applied Physics Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊偏好报道半导体纳米结构中光电特性调控的实验研究，且论文内容符合其领域范畴。",
+        "en": "The journal favors experimental studies on the modulation of optoelectronic properties in semiconductor nanostructures, and the content fits its scope well."
+      }
+    },
+    "keywords": [
+      "ZnO nanorods",
+      "Ion implantation",
+      "Exciton switching",
+      "Exciton-phonon coupling",
+      "Photoluminescence"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:34:16",
+    "input_scope": "full_pdf_text"
+  }
+}

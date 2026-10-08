@@ -1,0 +1,122 @@
+{
+  "run_date": "2026-10-08",
+  "workers": 1,
+  "max_rounds": 4,
+  "max_attempts_per_file": 4,
+  "attempts": {
+    "2610.09664v1.json": 1,
+    "2610.09727v1.json": 2,
+    "2610.09814v1.json": 1,
+    "2610.10001v1.json": 1,
+    "2610.10011v1.json": 1,
+    "2610.10109v1.json": 1,
+    "2610.10175v1.json": 1,
+    "2610.10251v1.json": 1,
+    "2610.10255v1.json": 1,
+    "2610.10287v1.json": 1,
+    "2610.10353v1.json": 1,
+    "2610.10376v1.json": 1,
+    "2610.10523v1.json": 1
+  },
+  "results": [
+    {
+      "file": "2610.09664v1.json",
+      "status": "ok",
+      "secs": 5.63,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.09727v1.json",
+      "status": "fail",
+      "error": "Error code: 401 - {'error': {'message': 'Invalid token (request id: 2026100803303255396284096e93ae3LWIPEoXy)', 'type': 'shell_api_error', 'param': '', 'code': ''}}",
+      "secs": 2.71,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.09814v1.json",
+      "status": "ok",
+      "secs": 12.42,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10001v1.json",
+      "status": "ok",
+      "secs": 16.85,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10011v1.json",
+      "status": "ok",
+      "secs": 11.16,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10109v1.json",
+      "status": "ok",
+      "secs": 15.72,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10175v1.json",
+      "status": "ok",
+      "secs": 133.02,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10251v1.json",
+      "status": "ok",
+      "secs": 6.85,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10255v1.json",
+      "status": "ok",
+      "secs": 11.48,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10287v1.json",
+      "status": "ok",
+      "secs": 11.2,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10353v1.json",
+      "status": "ok",
+      "secs": 5.07,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10376v1.json",
+      "status": "ok",
+      "secs": 5.37,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.10523v1.json",
+      "status": "ok",
+      "secs": 23.58,
+      "round": 1,
+      "attempt": 1
+    },
+    {
+      "file": "2610.09727v1.json",
+      "status": "ok",
+      "secs": 5.2,
+      "round": 2,
+      "attempt": 2
+    }
+  ]
+}

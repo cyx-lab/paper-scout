@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.10523v1",
+    "title": "Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism",
+    "authors": [
+      "Hana Schiff",
+      "Judit Romhányi",
+      "Paul McClarty",
+      "Jeffrey G. Rau"
+    ],
+    "abstract": "In this work we study phenomenological Landau theories of non-relativistic magnetic systems, generalizing work on the collinear case to coplanar and non-coplanar orders. Focusing on zero-wavevector ($\\boldsymbol{k}=0$) magnetic orders described by a single irreducible representation of the crystallographic point group, we construct the symmetry-allowed free energies to quartic order for all possible multi-dimensional irreducible ordering channels. We find distinct Landau theories for tetragonal, trigonal/hexagonal, and cubic symmetry. Similar to the case of spin-nematic fluids, we find two natural outcomes: a collapse to a lower-symmetry collinear phase or a genuinely coplanar or non-coplanar order where the order parameters form a mutually orthogonal set in spin space -- reminiscent of the $A$ and $B$ phases in ${}^3$He. We show in general that this symmetry-broken phase realizes the spin space group associated with the spatial representation of the order parameter sharing the same parent space group as the paramagnetic phase. This provides a direct link between the Landau and spin space group approaches. We calculate key observables using this Landau approach, including net magnetization, spin conductivity, multipolar moments, and piezomagnetism, connecting our results to constraints from the underlying spin space group. Examples of coplanar and non-coplanar magnetic orders for each case are worked out in detail. Finally, we discuss the relationship of the lower-symmetry collinear phases to the usual collinear spin groups, as well as connections to atomic altermagnetism, superfluid ${}^3$He and electronic nematic phases.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-07T17:57:04Z",
+    "updated": "2026-10-07T17:57:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10523v1",
+      "pdf_path": "data/pdfs/2026-10-08/3_Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism__2610.10523v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.302792",
+    "updated_at": "2026-10-08T03:30:00.302757Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/3_Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism__2610.10523v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10523v1",
+    "pdf_filename": "3_Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism__2610.10523v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究建立了非相对论性磁性系统的普适朗道理论，将共线磁序扩展至共面和非共面磁序，并揭示了其与自旋空间群的内在联系。",
+      "en": "This work develops a universal Landau theory for non-relativistic magnetic systems, extending collinear orders to coplanar and non-coplanar phases and linking them to spin space groups."
+    },
+    "problem": {
+      "zh": "现有的非相对论磁性理论主要集中在共线交错磁性，缺乏一个统一的朗道框架来描述更复杂的共面和非共面磁结构及其对称性约束。",
+      "en": "Existing theories for non-relativistic magnetism focus on collinear altermagnetism, lacking a unified Landau framework to describe complex coplanar and non-coplanar magnetic structures and their symmetry constraints."
+    },
+    "approach": {
+      "zh": "基于晶体点群的多维不可约表示构建四阶朗道自由能，分析了四方、三角、六角和立方晶系的相图，并推导了磁化强度、自旋电导率和多极矩等观测量的对称性限制。",
+      "en": "Constructed quartic Landau free energies based on multi-dimensional irreducible representations of point groups, analyzed phase diagrams for tetragonal, trigonal, hexagonal, and cubic systems, and derived symmetry constraints for observables like magnetization, spin conductivity, and multipole moments."
+    },
+    "main_takeaway": {
+      "zh": "多维表示下的磁序通常演化为共线相或“正交相”（矢量等长且相互正交）；正交相对应于正则磁序，能在自旋旋转意义下保持母体空间群的全部对称性。",
+      "en": "Magnetic orders in multi-dimensional representations typically evolve into collinear or 'orthogonal' phases (equal-length, mutually orthogonal vectors); orthogonal phases correspond to regular magnetic orders and preserve the full parent space group symmetry modulo spin rotations."
+    },
+    "why_it_matters": {
+      "zh": "它为理解弱自旋轨道耦合材料中的复杂磁结构提供了理论基石，将磁序的能量稳定性分析与自旋空间群的对称性分类直接挂钩，有助于预测新型磁性材料的物理响应。",
+      "en": "It provides a theoretical foundation for understanding complex magnetic structures in weak spin-orbit coupling materials, directly linking energetic stability analysis with the symmetry classification of spin space groups to predict physical responses."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "系统性地将非相对论朗道理论扩展到非共面磁序，并建立了朗道理论与自旋空间群分类之间的直接映射关系。",
+        "en": "Systematically extends non-relativistic Landau theory to non-coplanar orders and establishes a direct mapping between Landau theory and spin space group classifications."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提供了详尽的对称性分析和模型构建，非常符合PRB在凝聚态物理理论方面的审稿标准。",
+        "en": "The paper provides exhaustive symmetry analysis and model construction, aligning perfectly with PRB's standards for theoretical condensed matter physics."
+      }
+    },
+    "keywords": [
+      "Landau theory",
+      "non-relativistic magnetism",
+      "spin space groups",
+      "regular magnetic orders",
+      "altermagnetism",
+      "symmetry analysis"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:34:45",
+    "input_scope": "full_pdf_text"
+  }
+}

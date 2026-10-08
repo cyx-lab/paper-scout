@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2610.10011v1",
+    "title": "Topological and kinetic origins of fractional thermal conductance at the topological insulator--superconductor interface",
+    "authors": [
+      "Laurence A. Jacobs",
+      "Guillermo R. Zemba"
+    ],
+    "abstract": "A recent experiment by Roy et al. (Nat. Commun. 17, 2853 (2026)) demonstrated a robust half-integer thermal conductance plateau, κ_0 T/2, at a bipolar (ν,ν')=(2,-1) junction in bilayer graphene, produced not by non-Abelian topology but by full equilibration of co-propagating electron and hole edge modes. We prove a theorem that fixes when the two origins can be told apart: under full thermal equilibration, the two-terminal thermal conductance of a network of chiral edge segments joined at ideal floating contacts is a rational function of the net chiral central charges of the segments alone, quantities pinned by the gravitational anomaly and invariant under arbitrary local boundary kinetics. The corollary is an impossibility statement: whenever two realizations present the same anomaly data to the same network, no thermal-conductance measurement can distinguish them. That the equilibrated (2,-1) value equals the central charge of a chiral Majorana mode is an arithmetic fact about one filling combination, but wherever such a coincidence occurs it is beyond the reach of thermometry, and the separation must come from the charge sector, which is not anomaly-pinned at a superconducting boundary. We develop the topological insulator-superconductor interface as the application: a vortex carries fractional charge e/4 from the θ= πmagnetoelectric coupling, the boundary hosts a chiral Majorana mode of central charge 1/2, and a laterally adjacent integer quantum Hall (IQH) region supplies the kinetic realization. The Lorenz ratio (anomalous for the isolated Majorana boundary, L_0 / (1 + 4|ν_{IQH}|) in the composite device) and the excess shot noise (growing with B from e/4 vortex tunneling versus locked to IQH plateaus) together resolve the mechanism, provided the quantum Hall edge does not abut the superconductor.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "hep-th"
+    ],
+    "published": "2026-10-07T13:02:17Z",
+    "updated": "2026-10-07T13:02:17Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:fractional charge"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10011v1",
+      "pdf_path": "data/pdfs/2026-10-08/2_Topological and kinetic origins of fractional thermal conductance at the topological insulator--superconductor interface__2610.10011v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.304158",
+    "updated_at": "2026-10-08T03:30:00.304151Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/2_Topological and kinetic origins of fractional thermal conductance at the topological insulator--superconductor interface__2610.10011v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10011v1",
+    "pdf_filename": "2_Topological and kinetic origins of fractional thermal conductance at the topological insulator--superconductor interface__2610.10011v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文证明了完全热平衡下的热导仅由边界引力反常和网络拓扑决定，单纯热导测量无法区分分数热导的拓扑与动力学起源，必须依赖电荷区信号进行区分。",
+      "en": "The authors prove that equilibrated thermal conductance is pinned by boundary gravitational anomalies, rendering thermometry alone incapable of distinguishing topological from kinetic origins of fractional heat transport, which instead requires charge-sector diagnostics."
+    },
+    "problem": {
+      "zh": "如何在拓扑绝缘体-超导体界面区分由马约拉纳边缘模引起的分数热导与由边缘态动力学热平衡引发的分数热导现象。",
+      "en": "How to distinguish genuine topological chiral Majorana modes from kinetic edge-mode thermal equilibration as the cause of fractional thermal conductance at topological insulator-superconductor interfaces."
+    },
+    "approach": {
+      "zh": "基于边界共形场论证明热平衡传输的引力反常锁定定理，推导网络热导求解方程，并分析洛伦兹比违背与散粒噪声的磁场标度行为。",
+      "en": "Proving an anomaly-pinning theorem for thermal transport in chiral edge networks using boundary CFT, and analyzing charge-sector observables including Lorenz ratio and magnetic-field scaling of shot noise."
+    },
+    "main_takeaway": {
+      "zh": "完全热平衡网络中的热导仅取决于微观边缘模的净手征中心荷，因此无法单纯用热导测量区分拓扑与动力学机制；机制的分离必须转向不受引力反常约束的电荷区观察量（如电导洛伦兹比与散粒噪声）。",
+      "en": "Equilibrated thermal conductance depends solely on net chiral central charges and network topology, making it impossible to separate topological from kinetic mechanisms via thermometry alone; resolution requires non-anomaly-pinned charge-sector probes."
+    },
+    "why_it_matters": {
+      "zh": "澄清了热导作为拓扑序探测手段的物理局限，为区分马约拉纳边缘态与平凡边缘热平衡提供了明确且可操作的实验判定标准。",
+      "en": "It clarifies the fundamental limits of thermal conductance as a probe of topological order and establishes practical charge-sector diagnostics for identifying topological Majorana edge modes."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "证明了热输运的反常锁定定理，指出了热导探针的盲区，并提出了结合电荷区信号区分拓扑与动力学效应的通用理论框架。",
+        "en": "Proves the anomaly-pinning theorem for thermal transport, exposes the limits of pure thermal measurement, and provides a clear theoretical framework for mechanism separation via the charge sector."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "提出了针对热导探测拓扑序争议的通用定理，并给出了具体异质结器件的诊断方案，具有很高的理论深度与广泛关注度。",
+        "en": "Provides a high-impact theoretical theorem resolving key ambiguities in topological thermometry with concrete hybrid-device proposals."
+      }
+    },
+    "keywords": [
+      "Thermal Conductance",
+      "Topological Insulator",
+      "Superconductor Interface",
+      "Majorana Mode",
+      "Gravitational Anomaly",
+      "Shot Noise"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:31:13",
+    "input_scope": "full_pdf_text"
+  }
+}

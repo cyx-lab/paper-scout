@@ -1,0 +1,114 @@
+{
+  "paper_record": {
+    "id": "2610.10287v1",
+    "title": "Thermal Holography with Nonlocal Metasurfaces",
+    "authors": [
+      "Mingze He",
+      "Lin Jing",
+      "Michele Guizzardi",
+      "Shixiong Yin",
+      "Martina Riva",
+      "Yajun Gao",
+      "Shuwei Guo",
+      "Adam C. Overvig",
+      "Sander A. Mann",
+      "Andrea Alù"
+    ],
+    "abstract": "Thermal radiation and luminescence are among the most ubiquitous sources of light, yet their properties are difficult to engineer due to their incoherent nature. Recent advances in thermal emission control have endowed heat-generated light with spatial and temporal coherence, as well as control over its polarization, by judiciously patterning periodic arrays of nanostructures. However, custom wavefront engineering of incoherent light has remained an open challenge, as it requires not only sufficient spatial and temporal coherence but also arbitrary local phase control, which experimentally translates into sustaining long-range lattice resonances in aperiodic systems while maintaining their robustness against local phase perturbations. In this work, we address this longstanding limitation and demonstrate programmable vectorial control over the thermal emission wavefront from single-layer aperiodic nonlocal metasurfaces, realized by manipulating local geometric phases across a collective delocalized resonance. We exemplify the wavefront-shaping capabilities of our approach by demonstrating thermal beam steering, spin-momentum-locked thermal focusing and the generation of a thermal vectorial hologram, providing custom spatial and spectral control over thermal light. Our platform addresses challenges in thermal emission engineering and provides a route for light generation and control without the need for external coherent sources or bulky setups. Future work may extend this design principle to other incoherent emission systems, such as photo- and electroluminescence.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-10-07T15:49:38Z",
+    "updated": "2026-10-07T15:49:38Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:aperiodic"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10287v1",
+      "pdf_path": "data/pdfs/2026-10-08/4_Thermal Holography with Nonlocal Metasurfaces__2610.10287v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.303311",
+    "updated_at": "2026-10-08T03:30:00.303301Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/4_Thermal Holography with Nonlocal Metasurfaces__2610.10287v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10287v1",
+    "pdf_filename": "4_Thermal Holography with Nonlocal Metasurfaces__2610.10287v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过非局域超构表面实现对热辐射波前的可编程矢量控制。",
+      "en": "Programmable vectorial control of thermal emission wavefronts is achieved using aperiodic nonlocal metasurfaces."
+    },
+    "problem": {
+      "zh": "热辐射本质上是无序且非相干的，难以实现对波前、偏振和空间分布的定制化操控。",
+      "en": "Thermal emission is inherently incoherent and broadband, making it challenging to engineer its wavefront, polarization, and spatial distribution."
+    },
+    "approach": {
+      "zh": "利用基于准连续域束缚态（q-BIC）的非局域超构表面，通过在非周期性结构中引入局部几何相位，在保持集体共振相干性的同时实现波前整形。",
+      "en": "Utilizing nonlocal metasurfaces based on quasi-bound states in the continuum (q-BICs), the authors introduce local geometric phases within aperiodic structures to shape wavefronts while preserving collective resonant coherence."
+    },
+    "main_takeaway": {
+      "zh": "通过非周期性漏波超构表面，可以在保持高品质因子和非局域相干性的前提下，实现对热辐射的波束转向、聚焦及矢量全息成像。",
+      "en": "Aperiodic leaky-wave metasurfaces enable programmable thermal wavefront shaping—including beam steering, focusing, and vectorial holography—while maintaining high-Q resonance and long-range spatial coherence."
+    },
+    "why_it_matters": {
+      "zh": "该方法无需外部相干光源或复杂光学系统，为低成本、集成化的定制化热辐射源提供了新途径。",
+      "en": "This approach provides a path for generating and controlling custom thermal light without external coherent sources or bulky setups, offering a platform for integrated thermal emission engineering."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次在实验上实现了二维热辐射波前的复杂整形，解决了非相干光源波前调控的长期难题。",
+        "en": "This work provides the first experimental demonstration of complex 2D thermal wavefront shaping, addressing a longstanding challenge in controlling incoherent light sources."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论+数值模拟",
+      "en": "Experimental + Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究在纳米光子学和热辐射调控领域具有显著的创新性和应用潜力，符合顶级期刊的定位。",
+        "en": "The research demonstrates significant innovation and application potential in nanophotonics and thermal emission control, aligning with the scope of top-tier journals."
+      }
+    },
+    "keywords": [
+      "Thermal emission",
+      "Metasurfaces",
+      "Nonlocal resonances",
+      "Wavefront shaping",
+      "q-BIC"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:34:11",
+    "input_scope": "full_pdf_text"
+  }
+}

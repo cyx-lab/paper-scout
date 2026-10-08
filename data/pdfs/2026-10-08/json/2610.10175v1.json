@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.10175v1",
+    "title": "Quantum-vortex excitons beyond band topology",
+    "authors": [
+      "Jin-Hyung Choi",
+      "Sang-Hoon Han",
+      "Young-Kwon Han",
+      "Jun-Won Rhim",
+      "Sun-Woo Kim",
+      "Joshua J. P. Thompson"
+    ],
+    "abstract": "Optically exciting a typical low-dimensional semiconductor produces a nodeless \\(s\\)-type exciton as its lowest-energy bound state. Here, we explain how Coulomb phase matching stabilises a quantum-vortex exciton as the lowest bound state in flat Chern bands. Using a prototypical Yin--Yang kagome lattice, we demonstrate that increasing the spin--orbit coupling drives a transition of the lowest exciton from a quantum-vortex state to a zero-winding state, while leaving the band Chern numbers unchanged. We trace this behaviour to a gauge-invariant combination of exciton phase differences and Bloch-overlap phases that can reduce the Coulomb energy. By comparing states with identical wavefunction amplitudes, we isolate this phase contribution and show that it is sufficient to drive the reversal in exciton ordering. We classify exciton topology by the momentum-space wavefunction winding relative to the conduction--valence Chern-number difference,connecting the competing states to circular-polarisation selection rules. We then show that the resulting reordering can be tracked directly in the optical absorption spectrum, through the transition from a dark vortex exciton to a bright zero-winding exciton. These findings establish a microscopic link between exciton topology, Coulomb binding, and optical response that extends beyond the information contained in the underlying electronic band Chern numbers.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-07T14:47:36Z",
+    "updated": "2026-10-07T14:47:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10175v1",
+      "pdf_path": "data/pdfs/2026-10-08/3_Quantum-vortex excitons beyond band topology__2610.10175v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.303557",
+    "updated_at": "2026-10-08T03:30:00.303549Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/3_Quantum-vortex excitons beyond band topology__2610.10175v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10175v1",
+    "pdf_filename": "3_Quantum-vortex excitons beyond band topology__2610.10175v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文揭示了平带Chern绝缘体中激子拓扑与库仑相互作用之间的微观联系，证明了激子波函数的相位涡旋结构可由库仑相互作用稳定。",
+      "en": "This paper establishes a microscopic link between exciton topology and Coulomb interaction in flat Chern bands, demonstrating that quantum-vortex exciton states can be stabilized by Coulomb phase matching."
+    },
+    "problem": {
+      "zh": "在具有非平庸拓扑的平带系统中，电子-空穴对的库仑相互作用如何决定激子态的能量排序及其光学响应。",
+      "en": "How the Coulomb interaction between electron-hole pairs determines the energy ordering and optical response of exciton states in systems with nontrivial flat Chern bands."
+    },
+    "approach": {
+      "zh": "通过Yin-Yang kagome晶格模型，利用投影库仑相互作用分析激子波函数与Bloch态几何相位之间的匹配关系，并结合圆偏振吸收光谱进行验证。",
+      "en": "Using a Yin-Yang kagome lattice model, the study analyzes the phase matching between exciton wavefunctions and Bloch-state geometry via the projected Coulomb interaction, validated by circularly polarized absorption spectroscopy."
+    },
+    "main_takeaway": {
+      "zh": "激子波函数的相位涡旋可以通过补偿Bloch重叠相位来降低库仑能量，从而在特定条件下使量子涡旋激子成为能量最低的基态。",
+      "en": "The phase vortex of an exciton wavefunction can lower Coulomb energy by compensating for the Bloch-overlap phase, thereby stabilizing the quantum-vortex exciton as the lowest-energy bound state under specific conditions."
+    },
+    "why_it_matters": {
+      "zh": "该研究超越了仅依赖能带Chern数的传统拓扑分析，为理解激子拓扑、库仑结合能与光学选择定则之间的微观机制提供了新视角。",
+      "en": "This work extends beyond traditional topological analysis based solely on band Chern numbers, providing a new perspective on the microscopic mechanisms linking exciton topology, Coulomb binding, and optical selection rules."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章清晰地阐述了库仑相互作用中相位匹配机制如何驱动激子态的能量重排，并将其与光学响应联系起来。",
+        "en": "The paper clearly elucidates how the phase-matching mechanism in Coulomb interactions drives the energy reordering of exciton states and links it to optical responses."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及拓扑激子物理的前沿问题，且具有明确的物理机制创新，符合PRL的定位。",
+        "en": "The study addresses frontier issues in topological exciton physics with clear physical mechanism innovation, fitting the scope of PRL."
+      }
+    },
+    "keywords": [
+      "激子拓扑",
+      "平带Chern绝缘体",
+      "库仑相互作用",
+      "量子涡旋",
+      "光学选择定则"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:33:42",
+    "input_scope": "full_pdf_text"
+  }
+}

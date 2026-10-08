@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2610.09664v1",
+    "title": "Vanishing Altermagnetism and Emergent Ferromagnetism at the Two-Dimensional Limit of CrSb",
+    "authors": [
+      "Yunlong Liu",
+      "Zixuan Wu",
+      "Qinxi Liu",
+      "Yupeng Zhi",
+      "Mingqiang Ren",
+      "Xue Jiang",
+      "Canli Song",
+      "Ding Zhang",
+      "Xucun Ma",
+      "Huimin Zhang",
+      "Jijun Zhao"
+    ],
+    "abstract": "Altermagnets offer a promising route to spintronic devices by combining spin-split electronic states with zero net magnetization, but how reduced dimensionality reshapes their magnetic order remains poorly understood. Here, we grow bilayer-thickness CrSb (0001) films directly on SrTiO3(001) substrates by molecular beam epitaxy and uncover an unexpected thickness-dependent magnetic transition. The one-bilayer films exhibit room-temperature ferromagnetism with strong perpendicular magnetic anisotropy, whereas ferromagnetism vanishes in two-bilayer films, contrasting sharply with the altermagnetic ground state of bulk CrSb. Density functional theory calculations reveal that the exposed Cr surface induces orbital rearrangement that strengthens intralayer ferromagnetic exchange while suppressing competing interlayer antiferromagnetic coupling, driving the dimensional crossover from altermagnetism to ferromagnetism. These findings establish dimensionality and surface termination as powerful controls of magnetic order and provide a platform for engineering ultrathin magnetic states for spintronic applications.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-07T08:30:59Z",
+    "updated": "2026-10-07T08:30:59Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.09664v1",
+      "pdf_path": "data/pdfs/2026-10-08/3_Vanishing Altermagnetism and Emergent Ferromagnetism at the Two-Dimensional Limit of CrSb__2610.09664v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.304928",
+    "updated_at": "2026-10-08T03:30:00.304917Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/3_Vanishing Altermagnetism and Emergent Ferromagnetism at the Two-Dimensional Limit of CrSb__2610.09664v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.09664v1",
+    "pdf_filename": "3_Vanishing Altermagnetism and Emergent Ferromagnetism at the Two-Dimensional Limit of CrSb__2610.09664v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究发现 CrSb 薄膜在二维极限下会发生从反铁磁（Altermagnetism）到铁磁性的磁性转变。",
+      "en": "CrSb thin films undergo a magnetic transition from altermagnetism to ferromagnetism at the two-dimensional limit."
+    },
+    "problem": {
+      "zh": "块体 CrSb 是一种反铁磁（Altermagnetism）材料，但其在二维极限下的磁性演变尚不明确，且高质量薄膜的制备存在挑战。",
+      "en": "Bulk CrSb is an altermagnet, but its magnetic behavior at the two-dimensional limit remains poorly understood, and the synthesis of high-quality thin films is challenging."
+    },
+    "approach": {
+      "zh": "利用分子束外延（MBE）在 SrTiO3 基底上生长 CrSb 薄膜，结合扫描隧道显微镜（STM/S）、宏观磁性测量及密度泛函理论（DFT）计算进行研究。",
+      "en": "Epitaxial growth of CrSb films on SrTiO3 substrates via molecular beam epitaxy (MBE), combined with scanning tunneling microscopy/spectroscopy (STM/S), macroscopic magnetic measurements, and density functional theory (DFT) calculations."
+    },
+    "main_takeaway": {
+      "zh": "CrSb 在双层（1 BL）厚度时表现出室温铁磁性，这是由表面 Cr 原子的轨道重排和基底界面耦合共同驱动的，而非块体的反铁磁态。",
+      "en": "CrSb exhibits room-temperature ferromagnetism at the bilayer (1 BL) limit, driven by orbital rearrangement of surface Cr atoms and interfacial coupling, contrasting with its bulk altermagnetic ground state."
+    },
+    "why_it_matters": {
+      "zh": "该研究揭示了维度和界面对磁序的强大调控能力，为开发基于超薄磁性材料的自旋电子学器件提供了新平台。",
+      "en": "This work demonstrates the powerful control of dimensionality and interfaces over magnetic order, providing a platform for engineering ultrathin magnetic states for spintronic applications."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在二维极限下观察到 CrSb 的磁性相变，并从轨道物理角度给出了明确的机制解释。",
+        "en": "It reports the first observation of a magnetic phase transition in CrSb at the 2D limit and provides a clear mechanistic explanation based on orbital physics."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论计算",
+      "en": "Experimental + Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了高质量薄膜生长、先进表征与理论计算，符合该期刊对凝聚态物理领域前沿发现的偏好。",
+        "en": "The paper combines high-quality thin film growth, advanced characterization, and theoretical calculations, fitting the journal's preference for frontier findings in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "altermagnet",
+      "CrSb",
+      "two-dimensional limit",
+      "room-temperature ferromagnetism",
+      "molecular beam epitaxy"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:30:30",
+    "input_scope": "full_pdf_text"
+  }
+}

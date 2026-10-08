@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2610.10251v1",
+    "title": "Deterministic Vortex Generation from Coupled Trapped Polariton Condensate Triad",
+    "authors": [
+      "X. Qin",
+      "N. Pitanios",
+      "S. Dam",
+      "S. Betzold",
+      "S. Höfling",
+      "S. V. Koniakhin",
+      "P. G. Savvidis"
+    ],
+    "abstract": "We present the deterministic generation and all-optical switching of ternary topologically distinct vortex states in a triad of trapped exciton-polariton condensates with direct state readout from momentum-space emission distribution. Tuning the non-resonant pump power controls the sign of the dissipative coupling, selecting between a ferromagnetic in-phase state and two frustrated states with global phase winding. The zero-winding ferromagnetic state has unstructured far-field emission at low momenta and forms vortex-antivortex arrays at the Dirac points, reflecting the C_3v global symmetry. The two frustrated states of +-2pi winding can be activated on-demand by a control beam and produce different triangular emission patterns selectively localized at the K or K' points. Although all three states share identical real-space emission distributions, their momentum-space photoluminescence profiles distinguish them unambiguously, revealing the chirality without the need for interferometry. This enables on-demand orbital angular momentum control using a pump independent of resonant phase or OAM imprinting, establishing condensate triads as a compact platform for reconfigurable chiral light generation operating on a ternary logic basis.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-07T15:31:45Z",
+    "updated": "2026-10-07T15:31:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10251v1",
+      "pdf_path": "data/pdfs/2026-10-08/3_Deterministic Vortex Generation from Coupled Trapped Polariton Condensate Triad__2610.10251v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.303425",
+    "updated_at": "2026-10-08T03:30:00.303418Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/3_Deterministic Vortex Generation from Coupled Trapped Polariton Condensate Triad__2610.10251v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10251v1",
+    "pdf_filename": "3_Deterministic Vortex Generation from Coupled Trapped Polariton Condensate Triad__2610.10251v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过调节泵浦功率和控制光束，实现了激子极化激元三聚体中拓扑涡旋态的确定性生成与全光切换。",
+      "en": "Deterministic generation and all-optical switching of topological vortex states in a triad of exciton-polariton condensates are achieved by tuning pump power and control beams."
+    },
+    "problem": {
+      "zh": "在受限极化激元系统中，如何确定性地选择和切换具有不同轨道角动量（OAM）的拓扑涡旋态，并克服随机凝聚带来的不确定性。",
+      "en": "How to deterministically select and switch between topological vortex states with different orbital angular momentum (OAM) in trapped polariton systems, overcoming the stochastic nature of condensation."
+    },
+    "approach": {
+      "zh": "利用光学印迹的蜂窝状势阱构建极化激元三聚体，通过调节非共振泵浦功率控制耗散耦合符号，并引入辅助控制光束打破手性对称性。",
+      "en": "Constructing a polariton triad in optically imprinted hexagonal traps, controlling the sign of dissipative coupling via non-resonant pump power, and breaking chiral symmetry with an auxiliary control beam."
+    },
+    "main_takeaway": {
+      "zh": "极化激元三聚体的动量空间光致发光分布可直接反映其拓扑涡旋态，无需干涉测量即可实现对三元逻辑态的确定性读出与切换。",
+      "en": "The momentum-space photoluminescence of a polariton triad directly reveals its topological vortex state, enabling deterministic readout and switching of ternary logic states without interferometry."
+    },
+    "why_it_matters": {
+      "zh": "该研究为基于极化激元的可重构手性光源和涡旋介导的信息编码提供了一个紧凑且可扩展的平台。",
+      "en": "This work establishes a compact and scalable platform for reconfigurable chiral light sources and vortex-mediated information encoding based on polaritons."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次实现了极化激元三聚体中拓扑态的确定性全光控制，并展示了无需干涉的直接读出方案。",
+        "en": "This work demonstrates the first deterministic all-optical control of topological states in a polariton triad and introduces a direct readout scheme without interferometry."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 数值模拟",
+      "en": "Experiment + Numerical simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域关于极化激元拓扑态控制的实验研究常发表于此类高影响力综合期刊。",
+        "en": "Experimental studies on the control of polariton topological states are frequently published in such high-impact journals."
+      }
+    },
+    "keywords": [
+      "激子极化激元",
+      "拓扑涡旋",
+      "轨道角动量",
+      "几何受挫",
+      "非厄米系统"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:33:49",
+    "input_scope": "full_pdf_text"
+  }
+}

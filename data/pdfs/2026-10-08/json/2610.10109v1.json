@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2610.10109v1",
+    "title": "Gentle Floquet control of orbital Hall effect and orbital inverse Faraday effect",
+    "authors": [
+      "Pei-Han Lin",
+      "Roderich Moessner",
+      "Egor I. Kiselev"
+    ],
+    "abstract": "Floquet engineering controls material responses via a time-periodic electromagnetic drive. An important task in practise is to reduce the driving strengths required to implement Floquet protocols.We show that in systems with strong phase-space constraints, where the response is dominated by a small region of momentum space, the relative impact of a resonant Floquet drive is enhanced. We demonstrate this idea on the example of the orbital Hall effect, where equilibrium occupations restrict the interband coherence to a narrow momentum interval $\\hbarΔk$. The ratio $eE_0/(Ω_0\\hbarΔk)$, where $Ω_0$ is the frequency of the drive, is considerable even at modest field amplitudes $E_0$, leading to a large relative change in the orbital Hall conductivity. Due to the non-trivial orbital texture, the circularly polarized drive induces an inverse orbital Faraday effect by magnetizing the electrons. We show that the corresponding susceptibility is controlled by the interband quantum metric that determines the resonant Floquet hybridization.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-07T13:59:32Z",
+    "updated": "2026-10-07T13:59:32Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum metric"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.10109v1",
+      "pdf_path": "data/pdfs/2026-10-08/3_Gentle Floquet control of orbital Hall effect and orbital inverse Faraday effect__2610.10109v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-08T03:30:00.303782",
+    "updated_at": "2026-10-08T03:30:00.303774Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-08/3_Gentle Floquet control of orbital Hall effect and orbital inverse Faraday effect__2610.10109v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.10109v1",
+    "pdf_filename": "3_Gentle Floquet control of orbital Hall effect and orbital inverse Faraday effect__2610.10109v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种利用强相空间约束（如轨道霍尔效应中的泡利阻塞）来增强Floquet工程效率的机制，从而在较低驱动场下实现对轨道霍尔电导的显著调控。",
+      "en": "This paper proposes a mechanism to enhance Floquet engineering efficiency by leveraging strong phase-space constraints, such as Pauli blocking in the orbital Hall effect, enabling significant control over orbital Hall conductivity with reduced driving fields."
+    },
+    "problem": {
+      "zh": "Floquet工程通常需要极高的驱动场强才能显著改变电子能带结构，这在实际应用中难以实现且容易导致材料损伤。",
+      "en": "Floquet engineering typically requires extremely high driving field amplitudes to significantly modify electronic band structures, which is difficult to implement in practice and prone to material damage."
+    },
+    "approach": {
+      "zh": "利用轨道霍尔效应中泡利阻塞将带间相干性限制在动量空间小区域的特性，通过圆偏振光驱动该“热区”内的共振，从而以较弱的场强实现对轨道霍尔电导的有效调控。",
+      "en": "Leveraging the property that Pauli blocking in the orbital Hall effect confines interband coherence to a small region of momentum space, the authors use circularly polarized light to drive resonances within this 'hot region', enabling effective control of orbital Hall conductivity with weaker field strengths."
+    },
+    "main_takeaway": {
+      "zh": "在具有强相空间约束的系统中，Floquet驱动对轨道霍尔电导的影响被显著放大，使得在较低场强下即可实现对轨道电流的有效开关与调控。",
+      "en": "In systems with strong phase-space constraints, the impact of Floquet driving on orbital Hall conductivity is significantly amplified, allowing for effective switching and control of orbital currents at lower field strengths."
+    },
+    "why_it_matters": {
+      "zh": "该研究为轨道电子学（Orbitronics）提供了一种低能耗、高效率的操控手段，通过光诱导轨道霍尔效应的调控，为开发全光轨道电流开关和阀门奠定了理论基础。",
+      "en": "This research provides a low-energy, high-efficiency manipulation method for orbitronics, laying the theoretical foundation for developing all-optical orbital current switches and valves through the control of light-induced orbital Hall effects."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章清晰地阐述了相空间约束如何增强Floquet响应，并为轨道电子学中的光控效应提供了明确的物理图像。",
+        "en": "The paper clearly elucidates how phase-space constraints enhance Floquet responses and provides a clear physical picture for light-controlled effects in orbitronics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中的Floquet工程与轨道电子学理论模型，符合PRB的发表范畴。",
+        "en": "The paper focuses on Floquet engineering and theoretical models of orbitronics in condensed matter physics, which fits the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Floquet工程",
+      "轨道霍尔效应",
+      "轨道电子学",
+      "泡利阻塞",
+      "逆法拉第效应"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-08",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-08T11:31:29",
+    "input_scope": "full_pdf_text"
+  }
+}
