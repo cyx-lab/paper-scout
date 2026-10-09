@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.11838v1",
+    "title": "Magnon band splitting without altermagnetism in CuF2",
+    "authors": [
+      "Ioannis Rousochatzakis",
+      "Oleg Janson",
+      "Alexander A. Tsirlin"
+    ],
+    "abstract": "Conclusive identification of an altermagnetic state requires going beyond mere symmetry arguments. We illustrate this in a combined computational and experimental study of the rutile-like material CuF$_2$, which is on the list of predicted altermagnets. Using ab initio and linear spin-wave calculations supplied by magnetization measurements, we show that CuF$_2$ in its experimental monoclinic structure can be described by a spin-$\\frac12$ model of weakly coupled square-lattice layers with the in-plane coupling $J_1\\simeq 115$ K and two synergistic antiferromagnetic interplane couplings amounting to 4% and 8% of $J_1$, respectively. Driven by long-range superexchange, these interlayer couplings are oblique to the square planes, resulting in the unit-cell doubling in the magnetically ordered state, thus effectively suppressing any altermagnetic band splitting. Concurrently, we identify unusually strong Dzyaloshinskii-Moriya interactions, $|\\mathbf D|/J_1\\simeq 0.3$, that produce spin canting and, together with order-by-disorder effect, pin the Néel vector to the crystallographic $b$-axis. Additionally, DM anisotropy promotes magnon band splitting, but these bands remain non-chiral. Our results highlight the importance of relativistic effects even in $3d$ magnets with altermagnetic symmetries.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-08T12:28:51Z",
+    "updated": "2026-10-08T12:28:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11838v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Magnon band splitting without altermagnetism in CuF2__2610.11838v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.776915",
+    "updated_at": "2026-10-09T03:35:18.776910Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Magnon band splitting without altermagnetism in CuF2__2610.11838v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11838v1",
+    "pdf_filename": "3_Magnon band splitting without altermagnetism in CuF2__2610.11838v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究表明单斜CuF2中的磁子能带分裂源于强Dzyaloshinskii-Moriya相对论相互作用而非交代磁性。",
+      "en": "The study demonstrates that magnon band splitting in monoclinic CuF2 originates from strong Dzyaloshinskii-Moriya relativistic interactions rather than altermagnetism."
+    },
+    "problem": {
+      "zh": "澄清预言候选材料CuF2在真实单斜畸变结构下的实际磁基态、磁子能带分裂来源以及是否真正具备交代磁性。",
+      "en": "To clarify the true magnetic ground state, origin of magnon band splitting, and presence of altermagnetism in predicted candidate CuF2 within its realistic monoclinic structure."
+    },
+    "approach": {
+      "zh": "结合从头算（DFT+U）、量子蒙特卡洛、精确对角化、线性自旋波理论以及磁化强度实验测量。",
+      "en": "Combined ab initio calculations (DFT+U), quantum Monte Carlo, exact diagonalization, linear spin-wave theory, and magnetization measurements."
+    },
+    "main_takeaway": {
+      "zh": "CuF2由于层间耦合导致磁胞加倍而消除了交代磁自旋分裂，但其极强的DM相互作用（|D|/J1约0.3）诱导自旋倾斜并导致了非手性的磁子能带分裂。",
+      "en": "Magnetic unit-cell doubling suppresses true altermagnetic splitting in CuF2, but strong DM interactions (|D|/J1 ~ 0.3) drive spin canting and produce relativistic, non-chiral magnon band splitting."
+    },
+    "why_it_matters": {
+      "zh": "揭示了单纯依靠晶体结构对称性判定交代磁性的局限性，并证明相对论DM相互作用能在3d磁体中产生类似交代磁性的磁子分裂特征。",
+      "en": "Highlights the limitations of relying purely on symmetry arguments to identify altermagnets and shows that relativistic DM interactions in 3d magnets can mimic altermagnetic magnon splitting."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了CuF2中磁子分裂的非交代磁性（相对论DM）起源，纠正了先前的对称性误判。",
+        "en": "Clarified the non-altermagnetic (relativistic DM) origin of magnon band splitting in CuF2, resolving prior symmetry-based misconceptions."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+计算+实验",
+      "en": "Theoretical + Computational + Experimental"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章对凝物理热点前沿（交代磁性概念的适用边界）给出了具有重要指示意义的理论与实验澄清。",
+        "en": "Provides an impactful theoretical and experimental clarification on a prominent topic (boundaries of altermagnetism) in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "CuF2",
+      "altermagnetism",
+      "magnon band splitting",
+      "Dzyaloshinskii-Moriya interaction",
+      "spin canting"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:36:44",
+    "input_scope": "full_pdf_text"
+  }
+}

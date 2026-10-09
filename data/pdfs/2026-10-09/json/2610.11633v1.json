@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2610.11633v1",
+    "title": "Probing $L_z$ Orbital Angular Momentum via Wavefunction-Interference-Induced Charge Order",
+    "authors": [
+      "Jonas Erhardt",
+      "Sven Schemmelmann",
+      "Fabian Schöttke",
+      "Cedric Schmitt",
+      "Lukas Gehrig",
+      "Bing Liu",
+      "Domenico Di Sante",
+      "Giorgio Sangiovanni",
+      "Jörg Schäfer",
+      "Peter Krüger",
+      "Markus Donath",
+      "Ralph Claessen"
+    ],
+    "abstract": "Orbital angular momentum (OAM) characterization is central to understanding quantum materials such as valley Hall and Rashba systems and, through its connection to Berry curvature, provides key insight into band topology. Conventional OAM detection via photoemission dichroism, however, is susceptible to interference artifacts and is largely restricted to occupied states. Here, we demonstrate a real-space approach to map the $L_z$ OAM character using scanning tunneling microscopy in triangular atomic monolayers. Unlike photoemission, this method exploits interference effects arising from the $L_z$ orbital phase and the Bloch phase associated with neighboring atoms. This shifts the local density of states (LDOS) maxima to distinct Wyckoff positions between atoms, encoding $L_z$ information into characteristic real-space LDOS patterns. We exemplify this approach in 2D quantum materials with contrasting $L_z$ sequences, namely Tl/Si(111) and In/SiC(0001) monolayers, identifying $L_z$-dependent LDOS accumulation associated with distinct topological phases in both systems. Our results establish $L_z$-dependent charge localization as a proxy to atomic obstruction for energetically isolated states in triangular lattices, including transition-metal dichalcogenides.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-08T10:13:24Z",
+    "updated": "2026-10-08T10:13:24Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11633v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Probing $L_z$ Orbital Angular Momentum via Wavefunction-Interference-Induced Charge Order__2610.11633v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.777464",
+    "updated_at": "2026-10-09T03:35:18.777456Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Probing $L_z$ Orbital Angular Momentum via Wavefunction-Interference-Induced Charge Order__2610.11633v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11633v1",
+    "pdf_filename": "3_Probing $L_z$ Orbital Angular Momentum via Wavefunction-Interference-Induced Charge Order__2610.11633v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究展示了一种利用扫描隧道显微镜（STM）实空间干涉效应探测二维三角晶格中未占据态轨道角动量（L_z）的新方法。",
+      "en": "This study demonstrates a real-space STM approach to map the L_z orbital angular momentum of unoccupied states via wavefunction interference in 2D triangular lattices."
+    },
+    "problem": {
+      "zh": "传统的基于光电发射圆二色性（CD-ARPES）测量轨道角动量的方法主要局限于未占满态，且易受末态效应、几何人为干扰和空间平均的影响。",
+      "en": "Conventional detection of orbital angular momentum via photoemission circular dichroism is largely restricted to occupied states and prone to final-state effects, geometric artifacts, and spatial averaging."
+    },
+    "approach": {
+      "zh": "结合衬底替代缺陷辅助的精确点阵标定与扫描隧道谱（STS）能带对齐，利用轨道相位与布洛赫相位的实空间干涉效应，测量局部态密度（LDOS）在非原子中心位置的积累模式。",
+      "en": "Combining defect-assisted precise lattice calibration with bias-resolved STS band alignment to measure off-atom LDOS accumulation patterns arising from interference between orbital and Bloch phases."
+    },
+    "main_takeaway": {
+      "zh": "通过STM观测LDOS最大值在单元格内不同Wyckoff位置的移动，可以作为探测电子能带L_z轨道极性及相关拓扑特性的有效实空间判据。",
+      "en": "Tracking LDOS maximum shifts between distinct Wyckoff positions using STM provides a direct real-space indicator of L_z orbital character and topological band physics."
+    },
+    "why_it_matters": {
+      "zh": "该方法打破了光电发射对未占据态检测的限制，为过渡金属硫化物、拓扑绝缘体及莫尔超晶格材料中轨道角动量与拓扑性质的实空间微观表征开辟了新途径。",
+      "en": "This method overcomes photoemission limitations to access unoccupied states, offering a powerful real-space route to probe orbital momentum and topology in TMDs, topological insulators, and moiré systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出并建立了通过STM实空间态密度干涉图样定量分析未占据态L_z轨道角动量的通用方法框架。",
+        "en": "Proposes and validates a general framework for probing L_z orbital angular momentum in unoccupied states via real-space STM interference patterns."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "结合了高精度STM/STS实验与拓扑能带理论，为拓扑量子材料的表征开辟了重要的实空间探测手段。",
+        "en": "Combines high-precision STM/STS experiments with topological band theory, establishing an important real-space probe for topological quantum materials."
+      }
+    },
+    "keywords": [
+      "Orbital angular momentum",
+      "Scanning tunneling microscopy",
+      "Wavefunction interference",
+      "Topological materials",
+      "Charge order"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:36:18",
+    "input_scope": "full_pdf_text"
+  }
+}

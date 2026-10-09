@@ -1,0 +1,127 @@
+{
+  "paper_record": {
+    "id": "2610.11550v1",
+    "title": "Demonstration of ultrafast coherent sub-picosecond magnon pulses",
+    "authors": [
+      "Peter Kubaščík",
+      "Miina Leiviskä",
+      "Martin Bušina",
+      "Zdenek Kašpar",
+      "Katharina Müller",
+      "Jonathan Mak",
+      "Monika Scheufele",
+      "Gal Lemut",
+      "Jose Solano",
+      "Oliver Franke",
+      "Rostislav Matuška",
+      "Jiří Jechumtál",
+      "Eva Schmorranzerová",
+      "Petr Němec",
+      "Petr Kužel",
+      "Tobias Kampfrath",
+      "Piet W. Brouwer",
+      "Matthias Opel",
+      "Stephan Geprägs",
+      "Matthias Althammer",
+      "Tomáš Jungwirth",
+      "Helena Reichlova",
+      "Lukáš Nádvorník"
+    ],
+    "abstract": "Ultrafast magnonics explores routes towards energy-efficient information processing by replacing electrons with pulses of terahertz magnons. The critical, but so far elusive, requirement on the magnon pulses is the combination of high-speed and a long-range propagation while maintaining a well-defined narrow waveform of the pulses. Here, we demonstrate the launching of 0.4-picosecond magnon pulses in the altermagnetic insulator $α$-Fe$_2$O$_3$ (hematite) using broadband terahertz spin-orbit torques by an adjacent platinum layer. Phase-resolved terahertz transmission reveals that these sub-picosecond pulses travel ballistically, coherently and non-dispersively at a constant velocity of 23 nm/ps, transport angular momentum and retain their temporal waveform shape over 160 nm, with an inferred relaxation length in hundreds of nanometers or more. Beyond establishing $α$-Fe$_2$O$_3$ as an optimal platform for ultrafast magnonics, our technique introduces a high-resolution, tabletop method to directly extract dispersion relations up to high wavevectors, and explore ultrafast magnon dynamics in altermagnets and other magnetic materials with teraherz-range dynamics.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-08T09:14:40Z",
+    "updated": "2026-10-08T09:14:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11550v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Demonstration of ultrafast coherent sub-picosecond magnon pulses__2610.11550v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.777612",
+    "updated_at": "2026-10-09T03:35:18.777605Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Demonstration of ultrafast coherent sub-picosecond magnon pulses__2610.11550v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11550v1",
+    "pdf_filename": "3_Demonstration of ultrafast coherent sub-picosecond magnon pulses__2610.11550v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "在反铁磁绝缘体赤铁矿中实现了亚皮秒、相干且非色散的磁子脉冲的长距离弹道传输。",
+      "en": "Demonstration of long-range ballistic transport of sub-picosecond, coherent, and non-dispersive magnon pulses in the altermagnetic insulator hematite."
+    },
+    "problem": {
+      "zh": "实现高速磁子逻辑器件需要亚皮秒、相干且能长距离传输的磁子脉冲，但此前实验难以同时满足这些条件。",
+      "en": "Realizing high-speed magnon logic requires sub-picosecond, coherent magnon pulses capable of long-range propagation, which has remained elusive in previous experiments."
+    },
+    "approach": {
+      "zh": "利用相邻铂层中的太赫兹自旋轨道转矩对赤铁矿进行宽带相干激发，并通过相位分辨太赫兹透射技术进行探测。",
+      "en": "Broadband coherent excitation of hematite using terahertz spin-orbit torques from an adjacent platinum layer, probed via phase-resolved terahertz transmission."
+    },
+    "main_takeaway": {
+      "zh": "赤铁矿支持 0.4 皮秒的磁子脉冲以 23 nm/ps 的速度进行长距离弹道传输，且不发生几何展宽或色散。",
+      "en": "Hematite supports 0.4-ps magnon pulses that propagate ballistically over 160 nm at 23 nm/ps without measurable geometrical broadening or dispersion."
+    },
+    "why_it_matters": {
+      "zh": "该研究克服了超快磁子学中的关键瓶颈，证明了赤铁矿是实现太赫兹时钟速率磁子逻辑器件的理想平台。",
+      "en": "This work overcomes a critical bottleneck in ultrafast magnonics, establishing hematite as an ideal platform for terahertz-clock-rate magnon logic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次同时实现了亚皮秒、相干、非色散且长距离的磁子脉冲传输，为超快磁子学提供了实验基础。",
+        "en": "It provides the first experimental demonstration of simultaneously sub-picosecond, coherent, non-dispersive, and long-range magnon pulse transport, setting a new benchmark for ultrafast magnonics."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experimental"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作在超快磁子学领域具有突破性意义，且实验方法和结论符合顶级物理期刊的发表标准。",
+        "en": "The work represents a breakthrough in ultrafast magnonics, and the experimental methodology and findings align with the standards of top-tier physics journals."
+      }
+    },
+    "keywords": [
+      "ultrafast magnonics",
+      "altermagnetism",
+      "terahertz spectroscopy",
+      "spin-orbit torque",
+      "ballistic transport"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:36:02",
+    "input_scope": "full_pdf_text"
+  }
+}

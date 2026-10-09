@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.11635v1",
+    "title": "Dielectric constant of holographic insulator from quantum geometry",
+    "authors": [
+      "Debabrata Ghorai",
+      "Taewon Yuk",
+      "Sang-Jin Sin"
+    ],
+    "abstract": "We study dielectric properties of holographic insulators from the quantum geometry of the ground state. We realize the insulating state by the pseudoscalar interaction of holographic fermions and calculate the fermionic Green function to extract the effective hamiltonian. We then derive the quantum metric and Berry curvature to compute the transports and finally get the dielectric constant from the imaginary part of conductivity.",
+    "categories": [
+      "hep-th",
+      "cond-mat.str-el",
+      "quant-ph"
+    ],
+    "published": "2026-10-08T10:14:36Z",
+    "updated": "2026-10-08T10:14:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11635v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Dielectric constant of holographic insulator from quantum geometry__2610.11635v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.777430",
+    "updated_at": "2026-10-09T03:35:18.777424Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Dielectric constant of holographic insulator from quantum geometry__2610.11635v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11635v1",
+    "pdf_filename": "3_Dielectric constant of holographic insulator from quantum geometry__2610.11635v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文利用基态量子几何与有效哈密顿量，提出了从全息费米子格林函数直接计算全息绝缘体电介质常数和输运性质的新方法。",
+      "en": "The paper proposes a new method to compute the dielectric constant and transport properties of holographic insulators directly from holographic fermionic Green's functions using quantum geometry."
+    },
+    "problem": {
+      "zh": "传统量子几何建立在无相互作用能带论之上，难以直接包含强关联效应，而全息体中直接计算费米子回路与输运系数存在严重的收敛性难题。",
+      "en": "Traditional quantum geometry relies on non-interacting band theory and struggles to incorporate strong interactions, while direct bulk loop calculations for holographic transport face severe convergence issues."
+    },
+    "approach": {
+      "zh": "利用全息伪标量相互作用实现带隙系统，由边界迟滞格林函数提取有效哈密顿量并导出量子度规与贝里曲率，随后利用修改后的久保公式计算光电导率及电介质常数。",
+      "en": "The authors model a gapped system via holographic pseudoscalar interaction, extract an effective Hamiltonian from the retarded Green's function to derive the quantum metric and Berry curvature, and compute optical conductivity and dielectric constant using a modified Kubo formula."
+    },
+    "main_takeaway": {
+      "zh": "零温下全息绝缘体的量子几何与二维狄拉克材料完全一致（强耦合标量修正不改变态矢量方向），而有限温度下黑洞几何会自动编码热效应并展现出能隙闭合的绝缘体-金属相变。",
+      "en": "At zero temperature, the holographic insulator's quantum geometry matches 2D Dirac materials because strong scalar dressing leaves state directions unchanged; at finite temperature, black hole geometry naturally encodes thermal effects and gap closing during the insulator-to-metal crossover."
+    },
+    "why_it_matters": {
+      "zh": "该研究无需求解复杂的体规范场方程，就建立了全息对偶、量子几何与强关联绝缘体介电/电容响应之间的直接联系。",
+      "en": "It establishes a direct framework linking holographic duality, quantum geometry, and dielectric/capacitive responses in strongly correlated insulators without needing to solve complex bulk gauge field equations."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "提出了结合全息格林函数与量子几何张量来直接计算强关联绝缘体电介质常数与输运性质的新框架。",
+        "en": "It develops a novel framework combining holographic Green's functions and quantum geometric tensors to evaluate dielectric constants and transport in strongly correlated insulators."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "JHEP",
+      "confidence": "high",
+      "reason": {
+        "zh": "手稿顶部明确注明预投稿至JHEP，且研究主题完全符合该期刊对全息对偶及高能/凝聚态交叉领域的偏好。",
+        "en": "The manuscript explicitly states it is prepared for submission to JHEP, matching its scope in holographic duality and condensed matter physics."
+      }
+    },
+    "keywords": [
+      "Holographic Duality",
+      "Quantum Geometric Tensor",
+      "Dielectric Constant",
+      "Berry Curvature",
+      "Insulator-Metal Transition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:36:29",
+    "input_scope": "full_pdf_text"
+  }
+}

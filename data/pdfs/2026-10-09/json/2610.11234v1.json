@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2610.11234v1",
+    "title": "Exact polariton-condensate states via nonlinear Stark coupling",
+    "authors": [
+      "DaKai He abd Zhi Song"
+    ],
+    "abstract": "We study a hybrid system of coupled cavities, with or without two-level atoms doped inside. By employing a building-block construction facilitated by nonlinear Stark coupling, we identify a manifold of exact many-body eigenstates that remain analytically tractable across arbitrary lattice geometries and atom distributions. We demonstrate that these exact states exhibit a dual physical nature depending on their spectral positioning: when embedded within the chaotic many-body spectrum, they manifest as quantum scars that violate the eigenstate thermalization hypothesis and undergo weak ergodicity breaking; conversely, as ground states within fixed-total-excitation sectors, they exhibit off-diagonal long-range order and form polariton condensates. Furthermore, numerical calculations of local excitation-number fluctuations suggest that negative Stark coupling shifts the Mott-insulator to superfluid transition toward weaker inter-cavity hopping. Our findings provide a versatile framework for engineering both coherent quantum phases and non-thermalizing states in diverse light-matter architectures.",
+    "categories": [
+      "quant-ph",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-08T04:34:40Z",
+    "updated": "2026-10-08T04:34:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11234v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Exact polariton-condensate states via nonlinear Stark coupling__2610.11234v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.778507",
+    "updated_at": "2026-10-09T03:35:18.778502Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Exact polariton-condensate states via nonlinear Stark coupling__2610.11234v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11234v1",
+    "pdf_filename": "3_Exact polariton-condensate states via nonlinear Stark coupling__2610.11234v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文利用非线性斯塔克耦合在耦合腔系统中构造了一类兼具量子伤疤与极化激元凝聚特性的精确多体本征态。",
+      "en": "This paper identifies a manifold of exact many-body eigenstates in coupled-cavity systems via nonlinear Stark coupling, manifesting as either quantum many-body scars or polariton condensates."
+    },
+    "problem": {
+      "zh": "在具有无限光子希尔伯特空间的耦合腔阵列中，难以解析构造非平庸的多体本征态，并理解其在热化与凝聚方面的物理特性。",
+      "en": "The challenge of analytically constructing non-trivial many-body eigenstates and understanding their thermalization and condensation properties in coupled-cavity arrays with unbounded photonic Hilbert spaces."
+    },
+    "approach": {
+      "zh": "利用非线性斯塔克耦合满足受限谱产生代数，通过积木式方法在任意晶格几何和原子分布下构造精确态。",
+      "en": "Using nonlinear Stark coupling to satisfy Restricted Spectrum Generating Algebra and a building-block method to construct exact states across arbitrary lattice geometries."
+    },
+    "main_takeaway": {
+      "zh": "所构造的精确态具有双重物理本质：当处于能谱中间时，它们是违反热化假说的量子伤疤；当作为固定激发扇区的基态时，它们是具有非对角长程序的极化激元凝聚态。",
+      "en": "The constructed exact states possess a dual nature: they manifest as quantum many-body scars violating ETH when embedded in the chaotic spectrum, and as polariton condensates with ODLRO when serving as ground states."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在光-物质耦合架构中设计相干量子相和非热化状态提供了通用框架，并揭示了负斯塔克耦合能诱导莫特绝缘体向超流相的转变。",
+      "en": "It provides a versatile framework for engineering coherent quantum phases and non-thermalizing states in light-matter architectures, revealing that negative Stark coupling promotes the Mott-insulator to superfluid transition."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章明确了非线性斯塔克耦合在构造精确多体态中的关键作用，并统一了量子伤疤与凝聚态在同一模型下的描述。",
+        "en": "The paper clarifies the key role of nonlinear Stark coupling in constructing exact many-body states and unifies the description of scars and condensates within a single model."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值",
+      "en": "Theoretical + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究涉及凝聚态多体物理中的精确解、量子伤疤和相变，是PRB的核心关注领域。",
+        "en": "The study involves exact solutions, quantum scars, and phase transitions in many-body physics, which are core topics for PRB."
+      }
+    },
+    "keywords": [
+      "Quantum many-body scars",
+      "Polariton condensate",
+      "Nonlinear Stark coupling",
+      "ODLRO",
+      "Jaynes-Cummings-Hubbard model"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:35:51",
+    "input_scope": "full_pdf_text"
+  }
+}

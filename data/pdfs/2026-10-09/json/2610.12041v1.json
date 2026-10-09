@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2610.12041v1",
+    "title": "Emergent gold-induced interfacial magnetism in monolayer FePS$_3$",
+    "authors": [
+      "Giuseppe Buccoliero",
+      "Anita Polli",
+      "Marli dos Reis Cantarino",
+      "Rachel Nickel",
+      "Aloïs Arrighi",
+      "Roberto Sant",
+      "Tristan Riccardi",
+      "Valérie Reita",
+      "Nedjma Bendiab",
+      "Laëtitia Marty",
+      "Kurt Kummer",
+      "Johann Coraux",
+      "Nicholas B. Brookes"
+    ],
+    "abstract": "Owing to their atomically clean interfaces and extreme thinness, two-dimensional (2D) materials are ideal hosts for strong proximity effects, whereby contact with an adjacent material reshapes their ground state. Here, we demonstrate such an effect within a hybrid heterostructure, between the 2D antiferromagnet FePS$_3$ and an ultrathin gold film. Rather than a passive support, the latter profoundly changes the nature of the magnetism in the 2D magnet, inducing a sizeable interfacial moment. Large-area flakes from Au-assisted exfoliation, combined with element-selective X-ray absorption mapping, enable a layer-by-layer study from monolayer to bulk, benchmarked against an inert SiO$_2$ substrate reference. At 9 T and 5 K, the monolayer on gold shows a three-fold enhanced X-ray magnetic circular dichroism relative to SiO$_2$, with a $\\sim$40% reduction of the orbital-to-spin moment ratio. Resonant inelastic X-ray scattering reveals a collapse of the crystal-field (d-d) excitations and a massive spectral-weight transfer to the charge-transfer region, unveiling the microscopic mechanism behind this change. Supported by atomic multiplet calculations, we identify interfacial charge transfer and Fe 3d-Au hybridization as the origin of these effects, which decay over the first three layers and vanish at the pentalayer, establishing layer number combined with substrate engineering as an atomically precise handle.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-08T14:29:55Z",
+    "updated": "2026-10-08T14:29:55Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.12041v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Emergent gold-induced interfacial magnetism in monolayer FePS$_3$__2610.12041v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.776398",
+    "updated_at": "2026-10-09T03:35:18.776393Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Emergent gold-induced interfacial magnetism in monolayer FePS$_3$__2610.12041v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.12041v1",
+    "pdf_filename": "3_Emergent gold-induced interfacial magnetism in monolayer FePS$_3$__2610.12041v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "金衬底通过界面电荷转移和杂化诱导单层FePS3产生显著的界面磁矩。",
+      "en": "A gold substrate induces a significant interfacial magnetic moment in monolayer FePS3 through charge transfer and hybridization."
+    },
+    "problem": {
+      "zh": "探究金属衬底如何通过近邻效应改变二维范德华反铁磁体FePS3的磁性基态。",
+      "en": "Investigating how a metallic substrate modifies the magnetic ground state of the 2D van der Waals antiferromagnet FePS3 via proximity effects."
+    },
+    "approach": {
+      "zh": "结合金辅助剥离技术、同步辐射XMCD与RIXS实验以及原子多重态理论计算。",
+      "en": "Combined Au-assisted exfoliation, synchrotron XMCD and RIXS experiments, and atomic multiplet calculations."
+    },
+    "main_takeaway": {
+      "zh": "金衬底诱导FePS3从局域莫特绝缘态向巡游态转变，显著增强了界面磁响应，该效应在三层内衰减。",
+      "en": "Gold drives a transition from a localized Mott-insulating state to an itinerant regime in FePS3, enhancing interfacial magnetism which decays within three layers."
+    },
+    "why_it_matters": {
+      "zh": "证明了衬底工程是调控二维磁性的有效手段，并揭示了金属-范德华界面的微观相互作用机制。",
+      "en": "Demonstrates substrate engineering as a tool for controlling 2D magnetism and reveals the microscopic interaction mechanisms at metal-vdW interfaces."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "在单层极限下直接观测到衬底诱导的磁性重构，并提供了清晰的电子学解释。",
+        "en": "Directly observed substrate-induced magnetic reconstruction at the monolayer limit with a clear electronic explanation."
+      }
+    },
+    "paper_type": {
+      "zh": "实验+理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了先进的光谱技术与热门的二维磁性课题，具有高度的科学影响力。",
+        "en": "Combines advanced spectroscopy with the hot topic of 2D magnetism, suitable for high-impact journals."
+      }
+    },
+    "keywords": [
+      "FePS3",
+      "2D magnetism",
+      "Proximity effect",
+      "XMCD",
+      "RIXS",
+      "Charge transfer"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:40:25",
+    "input_scope": "full_pdf_text"
+  }
+}

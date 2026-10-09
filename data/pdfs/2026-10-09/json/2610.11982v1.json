@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2610.11982v1",
+    "title": "Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice",
+    "authors": [
+      "Sidhartha Chatterjee",
+      "Andreas Haller",
+      "Peter P. Orth",
+      "Thomas L. Schmidt"
+    ],
+    "abstract": "We investigate the effects of quantum geometry on the motion of magnon wave packets in one-dimensional quantum spin chains. In contrast to fermionic systems, where transport phenomena driven by the quantum metric have been extensively studied, we show that the dynamics in bosonic magnon systems are strongly affected by the symplectic structure and the pseudo-unitarity of the transformation of the magnon Bogoliubov-de Gennes Hamiltonian. A chiral soliton lattice provides a setting in which the symplectic quantum metric strongly influences the longitudinal magnon dynamics. We derive the semiclassical response of a magnon wave packet in such a system to a weak, slowly varying perturbation and demonstrate that the wave packet velocity acquires a geometric contribution proportional to the momentum derivative of the symplectic quantum metric, which dominates over the conventional group velocity for a nearly flat band. Solving the resulting equations of motion, we obtain a bounded trajectory in real time with a phase-space area determined by the symplectic quantum metric.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-08T13:55:35Z",
+    "updated": "2026-10-08T13:55:35Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:geometric contribution",
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11982v1",
+      "pdf_path": "data/pdfs/2026-10-09/5_Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice__2610.11982v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.776524",
+    "updated_at": "2026-10-09T03:35:18.776518Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/5_Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice__2610.11982v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11982v1",
+    "pdf_filename": "5_Magnon dynamics driven by the symplectic quantum metric in a chiral soliton lattice__2610.11982v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了一维手性孤子晶格中由辛量子度规驱动的玻色子磁子波包纵向动力学。",
+      "en": "This paper investigates longitudinal magnon wave-packet dynamics driven by the symplectic quantum metric in a one-dimensional chiral soliton lattice."
+    },
+    "problem": {
+      "zh": "尽管电子系统中的量子度规输运已被广泛研究，但一维磁性织构中玻色子磁子的辛结构与量子度规如何控制纵向波包动力学仍不清楚。",
+      "en": "While quantum metric transport in electronic systems is widely studied, how the symplectic structure and quantum metric govern the longitudinal wave-packet dynamics of bosonic magnons in one-dimensional textured magnets remains unexplored."
+    },
+    "approach": {
+      "zh": "作者构建了一维手性孤子晶格的线性自旋波模型，并在保持玻色子对易关系的伪酉 Bogoliubov-de Gennes 框架下，推导了存在弱位置相关化学势微扰时磁子波包的半经典运动方程。",
+      "en": "The authors developed a linear spin-wave model for a one-dimensional chiral soliton lattice and derived semiclassical equations of motion for magnon wave packets under a weak spatial chemical potential perturbation within a pseudo-unitary Bogoliubov-de Gennes framework."
+    },
+    "main_takeaway": {
+      "zh": "在常规群速度受抑制的平坦磁子能带中，由辛量子度规动量导数决定的几何速度项占据主导，使磁子波包在相空间中沿闭合椭圆轨道做周期运动，其轨道面积由度规的二阶导数决定。",
+      "en": "In nearly flat magnon bands where group velocity is suppressed, a geometric velocity term proportional to the momentum derivative of the symplectic quantum metric dominates, driving the magnon wave packet into a bounded periodic phase-space trajectory with an area set by the curvature of the metric."
+    },
+    "why_it_matters": {
+      "zh": "该研究表明即便没有横向贝里曲率，量子度规也能在一维纯纵向通道中驱动玻色子输运，为手性磁体中基于量子几何调控的磁子器件设计提供了理论基础。",
+      "en": "This work proves that the quantum metric can drive longitudinal transport of bosonic excitations even in purely one-dimensional systems without transverse Berry curvature, providing a foundation for geometry-controlled magnonic devices in chiral magnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "澄清了辛量子度规在玻色子 Bogoliubov 系统中的动力学效应，阐明了平带磁子由几何效应主导的输运机制。",
+        "en": "It clarifies the dynamical effect of the symplectic quantum metric in bosonic Bogoliubov systems and establishes the mechanism of geometry-dominated transport for flat-band magnons."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theoretical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文采用 Physical Review Letter 的撰写结构，提出了凝聚态物理中玻色子量子几何与输运现象结合的新机制。",
+        "en": "The paper uses the Physical Review Letter layout and presents a novel physics concept linking quantum geometry to bosonic transport in condensed matter physics."
+      }
+    },
+    "keywords": [
+      "Magnon dynamics",
+      "Symplectic quantum metric",
+      "Chiral soliton lattice",
+      "Flat band transport",
+      "Semiclassical wave packet"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:36:57",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.11807v1",
+    "title": "Photoinduced Odd- and Mixed-Parity Magnetism in Collinear Antiferromagnets",
+    "authors": [
+      "Jin-Yang Li",
+      "Ruo-Yu Ning",
+      "Ying Zhang",
+      "Qiu-Qiu Li",
+      "Si Li",
+      "Wen-Li Yang"
+    ],
+    "abstract": "Altermagnetism, characterized by compensated collinear magnetic moments in real space and momentum-dependent spin splitting with even-parity symmetry, has recently emerged as a distinct form of magnetic order beyond the conventional ferro- and antiferromagnetic paradigms. However, realizing odd- and mixed-parity magnetism in fully compensated collinear magnets remains challenging. Here, we demonstrate that light irradiation can induce odd- and mixed-parity magnetism in conventional collinear antiferromagnets. Taking monolayer CoS and CoSe as representative systems, and combining Floquet theory with first-principles calculations, we show that circularly polarized light (CPL) induces odd-parity $f$-wave spin splitting, whereas elliptically polarized light (EPL) induces odd-parity $p$-wave spin splitting. Uniaxial strain combined with CPL provides an alternative route to realizing the $p$-wave state. More remarkably, applying an electric field together with CPL or EPL transforms the spin splitting into mixed-parity forms. The light-induced breaking of $\\mathcal{PT}$ symmetry, together with spin-orbit coupling, further gives rise to a finite anomalous Hall response. Our work establishes a versatile strategy for engineering odd- and mixed-parity spin splitting in compensated antiferromagnets, offering a route toward light-controlled electronic and magnetic phenomena.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-08T12:16:00Z",
+    "updated": "2026-10-08T12:16:00Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11807v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Photoinduced Odd- and Mixed-Parity Magnetism in Collinear Antiferromagnets__2610.11807v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.776981",
+    "updated_at": "2026-10-09T03:35:18.776974Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Photoinduced Odd- and Mixed-Parity Magnetism in Collinear Antiferromagnets__2610.11807v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11807v1",
+    "pdf_filename": "3_Photoinduced Odd- and Mixed-Parity Magnetism in Collinear Antiferromagnets__2610.11807v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出利用光照和电场调控常规共线反铁磁体，实现奇宇称和混合宇称磁性及相关自旋劈裂。",
+      "en": "This paper demonstrates that light irradiation and electric fields can be used to induce odd- and mixed-parity magnetism with tunable spin splitting in conventional collinear antiferromagnets."
+    },
+    "problem": {
+      "zh": "在完全补偿的共线反铁磁体中，如何通过外部驱动场系统地调控奇宇称和混合宇称的自旋劈裂及其动量空间纹理。",
+      "en": "The challenge of systematically tuning odd- and mixed-parity spin splitting and their associated momentum-space textures in fully compensated collinear magnets using external driving fields."
+    },
+    "approach": {
+      "zh": "结合第一性原理计算与 Floquet 理论，研究单层 CoS 和 CoSe 在圆偏振光、椭圆偏振光、单轴应变及电场共同作用下的电子结构演变。",
+      "en": "Combining first-principles calculations with Floquet theory to investigate the electronic structure evolution of monolayer CoS and CoSe under circularly polarized light, elliptically polarized light, uniaxial strain, and electric fields."
+    },
+    "main_takeaway": {
+      "zh": "光照（CPL/EPL）可诱导反铁磁体产生 f 波或 p 波奇宇称自旋劈裂，而叠加电场可进一步将其转化为混合宇称态，并产生反常霍尔效应。",
+      "en": "Light irradiation (CPL/EPL) induces f-wave or p-wave odd-parity spin splitting in antiferromagnets, while superimposed electric fields transform these into mixed-parity states, accompanied by a finite anomalous Hall response."
+    },
+    "why_it_matters": {
+      "zh": "该研究为在常规反铁磁体中实现光控自旋电子学器件提供了多功能的对称性破缺策略。",
+      "en": "It establishes a versatile symmetry-breaking strategy for engineering unconventional magnetic states, offering a robust pathway for light-controlled spintronic applications in compensated antiferromagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "通过 Floquet 理论清晰阐述了光场如何通过选择性对称性破缺改变反铁磁体的自旋劈裂宇称。",
+        "en": "It clearly elucidates how light fields modify the parity of spin splitting in antiferromagnets through selective symmetry breaking using Floquet theory."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该领域典型的理论计算研究，符合 PRB 的发表范式。",
+        "en": "This is a typical theoretical computational study in the field, fitting the publication paradigm of PRB."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Floquet engineering",
+      "Odd-parity magnetism",
+      "Spin splitting",
+      "Antiferromagnets"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:36:33",
+    "input_scope": "full_pdf_text"
+  }
+}

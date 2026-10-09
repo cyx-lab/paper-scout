@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.11293v1",
+    "title": "Multifunctionality in Janus CrMCN4 (M = Si/Ge) Monolayers: Valleytronic Physics, Piezoelectric Response, and Photocatalytic Potential",
+    "authors": [
+      "Jubair Hossan Abir",
+      "M. R. U. S. Shapon",
+      "S. S. B. Pallab",
+      "Tanvir Khan",
+      "Raihana Shams Islam",
+      "Saleh Hasan Naqib"
+    ],
+    "abstract": "Two dimensional Janus semiconductors integrating spin-valley coupling, piezoelectricity, and tunable optical responses offer a platform for multifunctional nanodevices. Here, first-principles calculations reveal complementary composition and strain effects in CrSiCN4 and CrGeCN4 monolayers. Both are found to be nonmagnetic direct-gap semiconductors, with gaps of 1.23 and 1.09 eV using the Perdew-Burke-Ernzerhof functional including spin-orbit coupling, respectively. HSE06 hybrid-functional calculations retain the direct-gap character, yielding gaps of 1.46 eV for CrSiCN4 and 1.19 eV for CrGeCN4. Opposite out-of-plane spin character and Berry curvature emerge at K and K'. Biaxial strain reduces the respective gaps from 1.59 to 0.86 eV and 1.44 to 0.63 eV, drives direct-to-indirect transitions, and redshifts absorption while preserving valley spin contrast. CrGeCN4 exhibits larger in-plane piezoelectric response, whereas CrSiCN4 exhibits larger out-of-plane magnitude. Band-edge alignment satisfies the oxygen evolution reaction requirement but provides insufficient driving force for the hydrogen evolution reaction, motivating further strain-induced band-edge modulation toward overall water splitting. These results establish composition and strain as complementary controls for tailoring Cr-based Janus monolayers for valleytronic, optoelectronic, electromechanical, and photocatalytic applications.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-08T05:58:53Z",
+    "updated": "2026-10-08T05:58:53Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.11293v1",
+      "pdf_path": "data/pdfs/2026-10-09/3_Multifunctionality in Janus CrMCN4 (M = SiGe) Monolayers Valleytronic Physics, Piezoelectric Response, and Photocatalyti__2610.11293v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-09T03:35:18.778246",
+    "updated_at": "2026-10-09T03:35:18.778241Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-09/3_Multifunctionality in Janus CrMCN4 (M = SiGe) Monolayers Valleytronic Physics, Piezoelectric Response, and Photocatalyti__2610.11293v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.11293v1",
+    "pdf_filename": "3_Multifunctionality in Janus CrMCN4 (M = SiGe) Monolayers Valleytronic Physics, Piezoelectric Response, and Photocatalyti__2610.11293v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了 Janus CrSiCN 和 CrGeCN 单层的电子、谷电子、压电及光催化特性，并揭示了应变对其性能的调控作用。",
+      "en": "The study investigates the electronic, valleytronic, piezoelectric, and photocatalytic properties of Janus CrSiCN and CrGeCN monolayers, along with strain-induced tunability."
+    },
+    "problem": {
+      "zh": "CrSiCN 和 CrGeCN 单层在自旋轨道耦合、谷物理及应变响应方面的微观机制尚不明确，且其作为多功能纳米器件的潜力有待系统评估。",
+      "en": "The microscopic mechanisms of spin-orbit coupling, valley physics, and strain response in CrSiCN and CrGeCN monolayers remain unclear, and their potential for multifunctional nanodevices requires systematic evaluation."
+    },
+    "approach": {
+      "zh": "基于密度泛函理论（DFT）进行第一性原理计算，结合 HSE06 杂化泛函、自旋轨道耦合（SOC）分析、Berry 曲率计算及应变工程模拟。",
+      "en": "First-principles calculations based on density functional theory (DFT), incorporating HSE06 hybrid functionals, spin-orbit coupling (SOC) analysis, Berry curvature calculations, and strain engineering simulations."
+    },
+    "main_takeaway": {
+      "zh": "CrSiCN 和 CrGeCN 表现出稳健的自旋-谷锁定和谷对比 Berry 曲率，且应变可有效调控其能带结构、载流子有效质量及光吸收特性。",
+      "en": "CrSiCN and CrGeCN exhibit robust spin-valley locking and valley-contrasting Berry curvature, with strain effectively modulating their band structure, carrier effective mass, and optical absorption."
+    },
+    "why_it_matters": {
+      "zh": "这些材料结合了谷电子学、压电效应和光催化潜力，为开发基于 Cr 的多功能二维纳米器件提供了理论基础。",
+      "en": "These materials combine valleytronics, piezoelectricity, and photocatalytic potential, providing a theoretical foundation for developing Cr-based multifunctional 2D nanodevices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章系统阐明了 Janus Cr 基单层的轨道起源、自旋-谷耦合机制及应变对多物理场特性的调控规律。",
+        "en": "The paper systematically clarifies the orbital origin, spin-valley coupling mechanisms, and the strain-tuning laws of multi-physical properties in Janus Cr-based monolayers."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究侧重于二维材料的电子结构、谷物理及应变效应的 DFT 计算，符合该期刊的收录范围。",
+        "en": "The study focuses on DFT calculations of electronic structure, valley physics, and strain effects in 2D materials, which aligns with the journal's scope."
+      }
+    },
+    "keywords": [
+      "Janus monolayers",
+      "Valleytronics",
+      "Berry curvature",
+      "Piezoelectricity",
+      "Strain engineering"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-09",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-09T11:35:57",
+    "input_scope": "full_pdf_text"
+  }
+}
