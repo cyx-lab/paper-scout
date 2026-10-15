@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2610.20595v1",
+    "title": "Landau quantization of $C_3$ high-fold fermions in honeycomb lattices",
+    "authors": [
+      "Luisa Madail",
+      "Joaquín Fernández-Rossier"
+    ],
+    "abstract": "We present the theory of the Landau levels of $C_3$ high-fold fermions in honeycomb lattices. These fermions arise as a generalization of the tight-binding model in a honeycomb lattice with one orbital per site, known to describe graphene, to a family of models with several orbitals per site transforming according to representations of $C_3$, relevant for triangulene two-dimensional crystals. The models are defined by the number of orbitals $n_a$ and $n_b$ at the $a$ and $b$ sites of the unit cell. They feature energy bands that combine flat bands and Dirac cones, that are isomorphic to those of graphene, the Lieb, $p_{xy}$ honeycomb, and the Kagome tight-binding models. Combining tight-binding and $k\\cdot p$ methods, here we compute the Landau levels of the $(1,1)$, $(1,2)$, $(2,2)$ and $(3,3)$ models, we compare them to those of the reference models, and we explore the similarities and differences with the Landau levels in graphene. Our findings reveal that the nature of $C_3$ high-fold fermions combine Dirac-type Landau quantization, originating from the linear crossings and associated relativistic band dispersion, with anomalous Landau quantization rooted in the quantum geometry of the singular flat bands.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-14T17:59:14Z",
+    "updated": "2026-10-14T17:59:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.20595v1",
+      "pdf_path": "data/pdfs/2026-10-15/3_Landau quantization of $C_3$ high-fold fermions in honeycomb lattices__2610.20595v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.831579",
+    "updated_at": "2026-10-15T02:17:46.831568Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/3_Landau quantization of $C_3$ high-fold fermions in honeycomb lattices__2610.20595v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.20595v1",
+    "pdf_filename": "3_Landau quantization of $C_3$ high-fold fermions in honeycomb lattices__2610.20595v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了蜂窝晶格中多轨道 C3 高折叠费米子的朗道能级，发现其结合了狄拉克型与源于奇异平带量子几何的异常朗道量子化行为。",
+      "en": "This paper studies the Landau levels of C high-fold fermions in honeycomb lattices, revealing a combination of Dirac-type and anomalous Landau quantization rooted in the quantum geometry of singular flat bands."
+    },
+    "problem": {
+      "zh": "作者旨在探索当每个晶格格点容纳多个具有 C3 对称性的轨道时（即 C3 高折叠费米子，如 triangulene 晶体），在垂直强磁场下其能带如何演化出朗道能级及边缘态，并厘清狄拉克能带与奇异平带的量子化特征。",
+      "en": "The authors aim to explore how C high-fold fermions in multi-orbital honeycomb lattices (such as triangulene crystals) develop Landau levels and edge states under a strong perpendicular magnetic field, clarifying the quantization features of Dirac bands versus singular flat bands."
+    },
+    "approach": {
+      "zh": "结合了全紧束缚模型（full tight-binding model）、基于零模的简化紧束缚模型（reduced tight-binding model）以及有效质量 k 点乘 p 理论（k-p theory），计算并对比了 (1,1)、(1,2)、(2,2) 和 (3,3) 模型的朗道能级与波函数结构。",
+      "en": "Combining full tight-binding models, reduced tight-binding models based on zero modes, and k-p perturbation theory, the authors compute and compare the Landau levels and wave function structures of the (1,1), (1,2), (2,2), and (3,3) models."
+    },
+    "main_takeaway": {
+      "zh": "多轨道蜂窝系统展现出丰富的朗道量子化：色散狄拉克带遵循平方根磁场标度律，而二次能带交叉点处的平带则同时表现出常规线性标度与反比于磁量子数的异常平带朗道能级，其行为受平带的量子几何性质调控。",
+      "en": "Multi-orbital honeycomb systems exhibit rich Landau quantization: dispersive Dirac bands follow square-root magnetic scaling, while quadratic band crossings show both conventional linear scaling and anomalous 1/n flat-band Landau levels governed by quantum geometry."
+    },
+    "why_it_matters": {
+      "zh": "该工作建立了 triangulene 分子晶体作为研究狄拉克物理与奇异平带共存的平台，将分子架构与独特的磁量子化及量子几何特征直接联系起来，对人工晶格和光子晶格的研究具有广泛启示。",
+      "en": "This work establishes triangulene crystals as a molecular platform for exploring the coexistence of Dirac physics and singular flat bands, bridging molecular architecture with unique magnetic quantization and quantum geometry."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文系统阐明了多轨道蜂窝系统中狄拉克朗道能级与源自奇异平带量子几何的异常朗道能级之间的内在机制与普适标度行为。",
+        "en": "The paper systematically clarifies the underlying mechanisms and universal scaling behaviors of Dirac Landau levels and anomalous Landau levels arising from the quantum geometry of singular flat bands in multi-orbital honeycomb systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究深入探讨了凝聚态体系中的电子结构、紧束缚模型与朗道能级理论，非常契合 Physical Review B 的收稿范围和风格。",
+        "en": "The study thoroughly investigates electronic structures, tight-binding models, and Landau level theory in condensed matter systems, fitting well within the scope and style of Physical Review B."
+      }
+    },
+    "keywords": [
+      "Landau levels",
+      "Triangulene crystals",
+      "Singular flat bands",
+      "Multiorbital systems",
+      "Quantum geometry"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:20:54",
+    "input_scope": "full_pdf_text"
+  }
+}

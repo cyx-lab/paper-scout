@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.19793v1",
+    "title": "Orientation-Dependent Universality of Spin-Transport Fluctuations in Two-Dimensional Altermagnets",
+    "authors": [
+      "Yihan Zhang",
+      "Zheng Qin",
+      "Donghui Xu",
+      "Junjie Zeng",
+      "Zhen Ning",
+      "Rui Wang"
+    ],
+    "abstract": "Universal conductance fluctuations are conventionally organized by symmetry class, but crystalline anisotropy introduces additional structure in spin transport. Here we demonstrate orientation-dependent universal spin-transport fluctuations in disordered two-dimensional $d$-wave altermagnets without spin-orbit coupling. Rotating the altermagnetic orientation changes both longitudinal spin-conductance and transverse spin-Hall conductance fluctuations, while each conserved-spin sector remains in class AI. Altermagnetic orientation controls both the fluctuation amplitudes and the development of disorder-insensitive plateaus. These plateaus become flatter and less sensitive to the altermagnetic strength over the studied parameter ranges as the orientation approaches $45^\\circ$, with representative fluctuation amplitudes of approximately $0.60e/(4π)$ for the longitudinal spin conductance and $0.40\\,e/(4π)$ for the spin-Hall conductance. The longitudinal fluctuation amplitude correlates strongly with anisotropy of the clean-band Fermi-velocity tensor. Spin-sector covariances explain how the conserved channels combine into total fluctuations. Our results extend anisotropy-sensitive universal-fluctuation physics to conserved-spin altermagnetic transport and establish crystalline orientation as a control parameter within a fixed symmetry class.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-14T08:38:09Z",
+    "updated": "2026-10-14T08:38:09Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.19793v1",
+      "pdf_path": "data/pdfs/2026-10-15/3_Orientation-Dependent Universality of Spin-Transport Fluctuations in Two-Dimensional Altermagnets__2610.19793v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.833373",
+    "updated_at": "2026-10-15T02:17:46.833366Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/3_Orientation-Dependent Universality of Spin-Transport Fluctuations in Two-Dimensional Altermagnets__2610.19793v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.19793v1",
+    "pdf_filename": "3_Orientation-Dependent Universality of Spin-Transport Fluctuations in Two-Dimensional Altermagnets__2610.19793v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过理论计算发现，二维交变磁体（altermagnet）中的自旋输运涨落随晶体取向发生演化，并在固定对称性类下受各向异性控制。",
+      "en": "This paper demonstrates through theoretical calculations that spin-transport fluctuations in two-dimensional altermagnets evolve with crystalline orientation and are controlled by anisotropy within a fixed symmetry class."
+    },
+    "problem": {
+      "zh": "在保持自旋守恒的无序交变磁体中，晶体取向和能带各向异性如何控制纵向自旋电导与横向自旋霍尔电导的介观涨落？",
+      "en": "How do crystalline orientation and band anisotropy control mesoscopic fluctuations of longitudinal and transverse spin conductances in disordered altermagnets with conserved spin?"
+    },
+    "approach": {
+      "zh": "采用紧束缚晶格模型结合非平衡格林函数方法和兰道尔-比蒂克散射形式，对二维两端和四端几何结构中的自旋输运进行数值无序平均。",
+      "en": "Using a tight-binding lattice model combined with the non-equilibrium Green's function method and Landauer-Büttiker scattering formalism to numerically perform disorder averaging of spin transport in two- and four-terminal 2D geometries."
+    },
+    "main_takeaway": {
+      "zh": "晶体取向可以作为控制自旋输运涨落幅度和无序不敏感平台发育的有效参数，而各个自旋通道保持在 AI 对称性类中。",
+      "en": "Crystalline orientation acts as a control parameter for spin-transport fluctuation amplitudes and the development of disorder-insensitive plateaus, while each spin channel remains in symmetry class AI."
+    },
+    "why_it_matters": {
+      "zh": "该工作将各向异性敏感的电导涨落物理扩展到了交变磁体中的守恒自旋输运，表明介观涨落尺度不完全由对称性类单独决定。",
+      "en": "This work extends anisotropy-sensitive conductance fluctuation physics to conserved-spin transport in altermagnets, showing that the fluctuation scale is not determined by symmetry class alone."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文澄清了晶体取向和自旋扇区协方差如何独立于对称性类来塑造交变磁体中的通用自旋输落。",
+        "en": "The paper clarifies how crystalline orientation and spin-sector covariance shape universal spin fluctuations in altermagnets independently of the symmetry class."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究内容属于凝聚态物理中介观输运与磁学理论的经典范畴，高度契合该期刊的收稿范围与风格。",
+        "en": "The research falls into the classical domain of mesoscopic transport and magnetism theory in condensed matter physics, matching the scope and style of the journal."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Universal conductance fluctuations",
+      "Spin transport",
+      "Disorder effects",
+      "Crystalline anisotropy"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:19:42",
+    "input_scope": "full_pdf_text"
+  }
+}

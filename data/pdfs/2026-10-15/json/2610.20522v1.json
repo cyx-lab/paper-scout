@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.20522v1",
+    "title": "Anyons at impurities: Fractional charge measurement and \"wrong sign\" binding",
+    "authors": [
+      "Haydn S. Adlong",
+      "Arthur Christianen",
+      "Atac Imamoglu",
+      "Glenn Wagner"
+    ],
+    "abstract": "Recent photoluminescence experiments in twisted MoTe$_2$ have reported signatures of anyons binding to trapped trions. The measured binding energies near the fractional Chern insulators at fillings of $ν=-2/3$ and $-3/5$ have a ratio close to the fractional-charge ratio $5/3$, even though such scaling is not generally guaranteed for the expected short-range trion-anyon interaction. We model the trapped trion as a fixed impurity, and investigate anyon-impurity binding using a lowest-Landau-level model with exact diagonalization and Jain wavefunctions. Surprisingly, we find that the anyon-impurity binding energy ratio between $ν=-2/3$ and $-3/5$ is close to $5/3$ for either short- or long-ranged impurity-electron interactions. However, the ratio departs strongly from the charge ratio at intermediate ranges or different Jain states. Remarkably, we also uncover \"wrong-sign\" binding, whereby both quasiholes and quasiparticles can bind to either sign of a short-range impurity potential by selecting orbital channels with favorable local density oscillations. Our findings show that localized excitons or trions can be used to probe the internal density profile of anyons.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-14T17:22:23Z",
+    "updated": "2026-10-14T17:22:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:trion",
+        "soliton:fractional charge"
+      ],
+      "author_match": false,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.20522v1",
+      "pdf_path": "data/pdfs/2026-10-15/5_Anyons at impurities Fractional charge measurement and wrong sign binding__2610.20522v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.831762",
+    "updated_at": "2026-10-15T02:17:46.831754Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/5_Anyons at impurities Fractional charge measurement and wrong sign binding__2610.20522v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.20522v1",
+    "pdf_filename": "5_Anyons at impurities Fractional charge measurement and wrong sign binding__2610.20522v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过最低朗道能级模型和Jain波函数研究了分式量子霍尔系统中任意子与杂质的结合，发现接触势下存在违反直觉的“错号”结合，且结合能比值并不总能直接反映分式电荷。",
+      "en": "Investigates anyon-impurity binding in fractional quantum Hall systems using lowest-Landau-level models and Jain wavefunctions, uncovering 'wrong-sign' binding at contact and showing that binding energy ratios do not universally measure fractional charge."
+    },
+    "problem": {
+      "zh": "近期实验通过分式填充下的结合能比值推断任意子的分式电荷，但短程杂质与任意子的相互作用是否真的能够表征分式电荷，还是探测任意子的内部空间密度结构，这一问题尚不明确。",
+      "en": "Recent experiments inferred fractional charges from binding energy ratios at fractional fillings, but it remains unclear whether short-range impurity-anyon interactions measure fractional charge or instead probe the internal spatial density structure of the anyon."
+    },
+    "approach": {
+      "zh": "采用最低朗道能级模型，结合精确对角化（ED）和Jain变分波函数（配有Jain-Kamilla投影与蒙特卡洛采样），研究变分系统在不同程长和符号的杂质势下的任意子-杂质结合能。",
+      "en": "Employs a lowest-Landau-level model with exact diagonalization (ED) and Jain variational wavefunctions (using Jain-Kamilla projection and Monte Carlo sampling) to study anyon-impurity binding across varying impurity potential ranges and signs."
+    },
+    "main_takeaway": {
+      "zh": "短程杂质势会探测任意子的内部密度振荡，导致准空穴和准粒子可以与吸引或排斥势发生“错号”结合；只有在势能足够宽或特定 regime 下，结合能比值才会接近分式电荷比值。",
+      "en": "Short-range impurity potentials probe internal density oscillations of anyons, allowing 'wrong-sign' binding for quasiholes and quasiparticles, whereas charge-dominated scaling emerges only for sufficiently broad potentials or specific regimes."
+    },
+    "why_it_matters": {
+      "zh": "该工作澄清了光谱学探针（如受困三激子）在分式 Chern 绝缘体和分式量子霍尔系统中测量任意子性质的微观机制，指出结合能不仅依赖于电荷，还对任意子的内部空间结构敏感。",
+      "en": "Clarifies the microscopic mechanism of spectroscopic probes (such as trapped trions) for measuring anyonic properties in fractional Chern insulators and quantum Hall systems, showing sensitivity to internal spatial structure beyond net charge."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过数值计算深入阐明了任意子-杂质结合能与内部密度结构及“错号”结合的微观机制，解释了实验观测与电荷标度之间的局限性。",
+        "en": "The paper uses numerical calculations to elucidate the microscopic mechanisms of anyon-impurity binding, internal density structure, and 'wrong-sign' binding, explaining the limitations of connecting experimental observations directly to charge scaling."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究直接回应了近期扭转双层 MoTe2 中的热点光学实验，具有高度的时效性、重要的基础物理洞察和广泛的受众，非常符合 PRL 的标准。",
+        "en": "The study directly addresses recent high-profile optical experiments in twisted MoTe2, offering timely fundamental physical insights and a broad audience well-suited for PRL."
+      }
+    },
+    "keywords": [
+      "Fractional quantum Hall effect",
+      "Anyons",
+      "Composite fermions",
+      "Impurity binding",
+      "Fractional Chern insulators"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:20:24",
+    "input_scope": "full_pdf_text"
+  }
+}

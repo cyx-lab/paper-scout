@@ -1,0 +1,113 @@
+{
+  "paper_record": {
+    "id": "2610.19713v1",
+    "title": "Room-Temperature Metallic 2D Ferromagnetism Stabilized by Quantum Metric",
+    "authors": [
+      "Teng-Fei Ying",
+      "Jianqi Zhong",
+      "Songyuan Geng",
+      "Fangjie Chen",
+      "Haoxiang Li",
+      "Benjamin T. Zhou"
+    ],
+    "abstract": "The recent discovery of long-sought dice-lattice bands in layered electride YCl opens up unprecedented opportunities for studying correlated electrons in real dice lattice systems. While the weakly dispersive band at the Fermi level is partially filled and density-wave states are expected due to Fermi surface nesting based on conventional theories, the ARPES measurement nevertheless revealed a uniform flat band splitting of 0.5 eV, suggesting unusual ferromagnetism (FM) borne out of the metallic 2D dice lattice. In this Letter, we propose that the uniform metallic FM order is stabilized by the prominent quantum metric near topological band crossing points at K and K', which reconstructs the magnetic instability in the dice metal and tips the density-wave instability toward a uniform FM order. Importantly, our analysis based on random phase approximation (RPA) and Hartree-Fock theory predicts a remarkably high Curie temperature above room temperature for the 2D FM order. These findings establish the first example of a room-temperature 2D metallic magnet stabilized by quantum metric, which not only exemplifies the fundamental significance of quantum geometry in solids but also bears far-reaching applications in energy-efficient high-density magnetic memories.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-14T07:39:32Z",
+    "updated": "2026-10-14T07:39:32Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum metric"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.19713v1",
+      "pdf_path": "data/pdfs/2026-10-15/3_Room-Temperature Metallic 2D Ferromagnetism Stabilized by Quantum Metric__2610.19713v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.833568",
+    "updated_at": "2026-10-15T02:17:46.833561Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/3_Room-Temperature Metallic 2D Ferromagnetism Stabilized by Quantum Metric__2610.19713v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.19713v1",
+    "pdf_filename": "3_Room-Temperature Metallic 2D Ferromagnetism Stabilized by Quantum Metric__2610.19713v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究表明，层状电子化合物YCl中的室温二维金属铁磁性是由布洛赫态的量子度规稳定下来的。",
+      "en": "This study shows that the room-temperature metallic 2D ferromagnetism in layered electride YCl is stabilized by the quantum metric of Bloch states."
+    },
+    "problem": {
+      "zh": "常规费米面嵌套理论预测部分填充的双层（dice）晶格扁平带应倾向于产生有限动量的密度波不稳定性，这与角分辨光电子能谱（ARPES）观测到的均匀铁磁劈裂产生了矛盾。",
+      "en": "Conventional Fermi surface nesting theory predicts that partially filled dice-lattice flat bands should favor finite-momentum density-wave instabilities, contradicting ARPES observations of uniform ferromagnetic splitting."
+    },
+    "approach": {
+      "zh": "利用包含量子度规和形状因子的广义Lindhard自旋磁化率公式，并结合随机相近似（RPA）与自洽Hartree-Fock理论对YCl的多轨道模型进行分析。",
+      "en": "Using the generalized Lindhard spin susceptibility formula incorporating quantum metric and form factors, combined with random phase approximation (RPA) and self-consistent Hartree-Fock theory on a multi-orbital YCl model."
+    },
+    "main_takeaway": {
+      "zh": "由层-轨道-谷耦合（LOVC）诱导的显著量子度规修正克服了费米面嵌套趋势，将磁化率峰值从有限动量推至零动量，从而在YCl中稳定了室温二维金属铁磁态。",
+      "en": "Prominent quantum metric corrections induced by layer-orbital-valley coupling (LOVC) overcome Fermi-surface nesting tendencies, shifting the susceptibility peak from finite momentum to zero momentum and stabilizing a room-temperature metallic 2D ferromagnetic state in YCl."
+    },
+    "why_it_matters": {
+      "zh": "该工作确立了量子度规在二维磁性中的核心决定作用，并通过实现室温下受量子几何保护的金属铁磁性，为节能高密度磁存储和全电学读出器件提供了极具前景的平台。",
+      "en": "This work establishes the crucial, decisive role of quantum geometry in 2D magnetism, providing a promising platform for energy-efficient high-density magnetic memories and all-electrical readout devices by realizing room-temperature metallic ferromagnetism stabilized by quantum metric."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "它首次从理论上阐明并预测了一种由量子度规在真实晶体材料中稳定室温二维金属铁磁性的机制。",
+        "en": "It theoretically elucidates and predicts for the first time a mechanism where quantum metric stabilizes room-temperature metallic 2D ferromagnetism in a real crystalline material."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文涉及量子几何与室温二维磁性的基础物理突破，符合该期刊的高影响力物理范畴。",
+        "en": "The paper deals with fundamental physical breakthroughs in quantum geometry and room-temperature 2D magnetism, fitting the high-impact physics scope of the journal."
+      }
+    },
+    "keywords": [
+      "quantum metric",
+      "2D ferromagnetism",
+      "dice lattice",
+      "electride",
+      "quantum geometry",
+      "Stoner instability"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:19:25",
+    "input_scope": "full_pdf_text"
+  }
+}

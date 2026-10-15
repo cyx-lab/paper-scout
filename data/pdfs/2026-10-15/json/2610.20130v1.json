@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.20130v1",
+    "title": "Near-field contributions to cavity-mediated radiative heat transfer",
+    "authors": [
+      "Antonio Mastropasqua",
+      "Martin Eckstein",
+      "Daniele Fausti",
+      "Francesca Fassioli"
+    ],
+    "abstract": "Embedding materials in optical cavities has emerged as a powerful strategy for controlling their physical properties. In this context, increasing attention has been devoted to the thermal Purcell effect, which describes how the radiative heat transfer between a material and its photonic environ- ment can be modified by the electromagnetic boundary conditions imposed by the cavity. Here, we investigate near-field effects in cavity-mediated radiative heat transfer in planar cavities composed of realistic, dissipative gold mirrors, extending previous work that considered ideal mirrors. We iden- tify the conditions under which near-field effects lead to a substantial enhancement of heat transfer between the material and a photonic thermal bath relative to free space, owing to the strong modi- fication of the photonic local density of states by evanescent modes within the cavity. In particular, we find that radiative heat flow can be enhanced by several orders of magnitude in cavities ranging from nanometer to micrometer scales, depending on the absorber frequency and dipole orientation. These findings suggest that near-field effects may be relevant to polariton chemistry experiments and other systems operating within this cavity length-scale regime. Our results add to the idea that cavities can modify material properties not only by engineering vacuum fluctuations in the strong light-matter coupling regime, but also by controlling radiative dissipation and heat transfer.",
+    "categories": [
+      "physics.optics",
+      "cond-mat.str-el",
+      "physics.chem-ph"
+    ],
+    "published": "2026-10-14T12:50:21Z",
+    "updated": "2026-10-14T12:50:21Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.20130v1",
+      "pdf_path": "data/pdfs/2026-10-15/3_Near-field contributions to cavity-mediated radiative heat transfer__2610.20130v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.832441",
+    "updated_at": "2026-10-15T02:17:46.832431Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/3_Near-field contributions to cavity-mediated radiative heat transfer__2610.20130v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.20130v1",
+    "pdf_filename": "3_Near-field contributions to cavity-mediated radiative heat transfer__2610.20130v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了现实耗散金微腔中近场倏逝模对光与物质间辐射热传导的显著增强作用。",
+      "en": "This paper investigates the significant enhancement of radiative heat transfer by near-field evanescent modes in realistic, dissipative gold microcavities."
+    },
+    "problem": {
+      "zh": "以往关于腔介导辐射热传导的研究多基于理想完美反射镜或忽略倏逝场，缺乏对真实耗散金属边界下近场效应如何影响热交换的系统理解。",
+      "en": "Previous studies on cavity-mediated radiative heat transfer mostly assumed ideal mirrors or neglected evanescent fields, lacking a systematic understanding of how near-field effects at realistic dissipative metal boundaries influence heat exchange."
+    },
+    "approach": {
+      "zh": "采用电偶极并矢格林函数形式体系，解析推导并计算了平面金微腔中平行和垂直偶极取向下的传播模与倏逝模光子局域态密度及辐射热流。",
+      "en": "Employing the electric dyadic Green's function formalism, the propagating and evanescent contributions to the photonic local density of states and radiative heat flux in a planar gold microcavity were analytically derived and evaluated for parallel and perpendicular dipole orientations."
+    },
+    "main_takeaway": {
+      "zh": "无论腔频与吸收体频率是否共振，近场倏逝模在纳微米级耗散金腔中都能将辐射热传导和光子局域态密度提升几个数量级。",
+      "en": "Near-field evanescent modes in nanometer- to micrometer-scale dissipative gold cavities can enhance radiative heat transfer and the photonic local density of states by several orders of magnitude, regardless of whether the cavity is resonant with the absorber frequency."
+    },
+    "why_it_matters": {
+      "zh": "它修正了以往仅基于理想反射镜或远场传播模的认知，对理解极化激元化学及微腔体系中的能量平衡与热效应具有重要指导意义。",
+      "en": "It revises previous understandings based solely on ideal mirrors or far-field propagating modes, providing crucial guidance for understanding energy balance and thermal effects in polariton chemistry and microcavity systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作澄清了真实耗散金属边界下近场倏逝模对腔介导辐射热传导的核心作用，显著扩展了先前理想镜面模型的局限性。",
+        "en": "This work clarifies the central role of near-field evanescent modes in cavity-mediated radiative heat transfer under realistic dissipative metal boundaries, significantly extending the limitations of previous ideal-mirror models."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于凝聚态物理中的电动力学与热传导理论计算，契合Physical Review B的收稿范围。",
+        "en": "The paper focuses on theoretical calculations of electrodynamics and heat transfer in condensed matter physics, which fits the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      " radiative heat transfer",
+      " optical cavities",
+      " local density of states",
+      " evanescent modes",
+      " near-field effects"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:19:56",
+    "input_scope": "full_pdf_text"
+  }
+}

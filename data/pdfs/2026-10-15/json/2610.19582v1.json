@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2610.19582v1",
+    "title": "Magnetic proximity beyond the interface: Layer-sequence-dependent exchange in WSe$_2$/CrI$_3$ heterostructures",
+    "authors": [
+      "Natalie Kuhn",
+      "Marc Schütte",
+      "Joachim Emming",
+      "Felix Hellenkamp",
+      "Leo Dreyer",
+      "Frank Volmer",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Lutz Waldecker",
+      "Christoph Stampfer",
+      "Bernd Beschoten"
+    ],
+    "abstract": "Magnetic proximity effects in transition metal dichalcogenide (TMD)/2D-magnet heterostructures are often described in terms of the magnetization of the interfacial magnetic layer. Here, we show that this picture is sufficient to describe the neutral-exciton valley splitting of the TMD, but incomplete for its hole-doped electronic structure. We study a gate-tunable van der Waals heterostructure composed of monolayer WSe$_2$ in direct contact with trilayer CrI$_3$. By combining spatially and helicity-resolved reflection-contrast spectroscopy with magnetic circular dichroism, we identify two distinct magnetic domains in the trilayer CrI$_3$: one with purely antiferromagnetic interlayer coupling and one with a mixed antiferromagnetic (AFM)/ferromagnetic~(FM) coupling. In both domains, the sign of the neutral-exciton valley splitting of WSe$_2$ switches with the magnetization reversal of the adjacent CrI$_3$ layer. In contrast, helicity-resolved positive-trion spectroscopy of WSe$_2$ reveals a qualitatively different response. While the AFM domain shows a strongly helicity-selective trion resonance, the mixed AFM/FM domain exhibits trion resonances in both helicities. This behavior disappears when all CrI$_3$ layers are aligned in a parallel magnetization direction. Our results demonstrate that charged excitons are sensitive to the full layer-resolved magnetic sequence of the adjacent 2D-magnet, revealing magnetic proximity beyond the interface.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-14T04:53:54Z",
+    "updated": "2026-10-14T04:53:54Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:trion",
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.19582v1",
+      "pdf_path": "data/pdfs/2026-10-15/6_Magnetic proximity beyond the interface Layer-sequence-dependent exchange in WSe$_2$CrI$_3$ heterostructures__2610.19582v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.833735",
+    "updated_at": "2026-10-15T02:17:46.833728Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/6_Magnetic proximity beyond the interface Layer-sequence-dependent exchange in WSe$_2$CrI$_3$ heterostructures__2610.19582v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.19582v1",
+    "pdf_filename": "6_Magnetic proximity beyond the interface Layer-sequence-dependent exchange in WSe$_2$CrI$_3$ heterostructures__2610.19582v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过研究 WSe2/CrI3 异质结构，发现中性激子谷splitting仅反映界面磁性，而正三子则对超出界面的多层磁结构敏感。",
+      "en": "Study of WSe2/CrI3 heterostructures reveals that neutral-exciton valley splitting senses only interfacial magnetism, whereas positive trions probe magnetic configurations beyond the immediate interface."
+    },
+    "problem": {
+      "zh": "传统观点认为二维磁体/TMD异质结构中的磁邻近效应主要由直接接触的磁性单层决定，但这无法完全解释空穴掺杂情况下复杂的磁光响应。",
+      "en": "Conventional understanding attributes magnetic proximity effects in TMD/2D-magnet heterostructures primarily to the directly adjacent magnetic layer, which fails to fully explain complex magneto-optical responses in hole-doped regimes."
+    },
+    "approach": {
+      "zh": "结合空间和旋光分辨反射衬度光谱、磁圆二色性（MCD）测量以及静电栅压调控，对比纯反铁磁和混合反铁磁/铁磁畴中的激子与三子响应。",
+      "en": "Combining spatially and helicity-resolved reflection-contrast spectroscopy, magnetic circular dichroism measurements, and electrostatic gating to compare exciton and trion responses in pure AFM and mixed AFM/FM domains."
+    },
+    "main_takeaway": {
+      "zh": "正三子光谱对三碘化铬（CrI3）中超出直接界面的磁性层序列敏感，表现出不同于中性激子的磁光行为。",
+      "en": "Positive-trion spectroscopy is sensitive to the magnetic configurations of CrI3 beyond the adjacent layer, exhibiting a magneto-optical response qualitatively different from neutral excitons."
+    },
+    "why_it_matters": {
+      "zh": "该工作修正了以往仅通过单层界面磁化强度描述磁邻近效应的简单图像，对发展基于关联自旋电子学和谷电子学的器件具有重要意义。",
+      "en": "This work refines the standard picture of magnetic proximity effects described solely by interfacial magnetization, holding high relevance for proximity-engineered spintronic and valleytronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过实验区分了中性激子与带电三子对多层磁结构响应的不同，澄清了磁邻近效应不能仅局限于界面的机制。",
+        "en": "The paper experimentally distinguishes the response of neutral excitons versus charged trions to multilayer magnetic structures, clarifying that magnetic proximity effects cannot be restricted solely to the interface."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作在二维范德华磁性异质结构领域取得了重要的物理机制进展，符合该期刊的高影响力实验物理定位。",
+        "en": "The work achieves significant physical mechanism progress in 2D van der Waals magnetic heterostructures, fitting the high-impact experimental physics scope of the journal."
+      }
+    },
+    "keywords": [
+      "Magnetic proximity effect",
+      "Transition metal dichalcogenides",
+      "CrI3",
+      "Valley splitting",
+      "Trions"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:18:46",
+    "input_scope": "full_pdf_text"
+  }
+}

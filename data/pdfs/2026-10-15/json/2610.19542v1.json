@@ -1,0 +1,121 @@
+{
+  "paper_record": {
+    "id": "2610.19542v1",
+    "title": "Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices",
+    "authors": [
+      "Wenbing Li",
+      "Tianhao Yue",
+      "Wenjian Su",
+      "Zhexu Shan",
+      "Chen Xu",
+      "Jichen Zhou",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Liguo Ma",
+      "Yuanfeng Xu",
+      "Shiyao Zhu",
+      "Yang Gao",
+      "Yanhao Tang"
+    ],
+    "abstract": "Semiconductor moiré superlattices, owing to strongly bound excitons and pronounced electronic correlation, have emerged as an intriguing solid platform for exploring correlated bosonic phenomena, where the moiré potential landscape plays a central role. Hydrostatic pressure allows continuous, in-situ tuning of this landscape, but remains underexplored because of experimental challenges. Here we integrate a diamond anvil pressure cell with high quality dual gated WSe2/WS2 twisted bilayers and perform cryogenic optical spectroscopy. We observe distinct pressure evolutions of moiré intralayer excitons, which reveal drastic modulation of the excitonic moiré-potential landscape captured by a continuum model and suggest the capability of engineering the exciton-band topology. Moreover, we demonstrate efficient pressure control over the interplay between charges and both intralayer and interlayer excitons: the intralayer charge-transfer exciton becomes less sensitive to doping, likely due to reduced charge-transfer character; in contrast, the interlayer exciton exhibits enhanced exciton-charge repulsion. Our results establish hydrostatic pressure as a powerful tuning knob for engineering bosonic quasiparticles and Bose-Fermi interactions in moiré materials.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-14T03:59:51Z",
+    "updated": "2026-10-14T03:59:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:interlayer exciton",
+        "moire:twisted bilayer"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.19542v1",
+      "pdf_path": "data/pdfs/2026-10-15/6_Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré supe__2610.19542v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.833813",
+    "updated_at": "2026-10-15T02:17:46.833806Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/6_Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré supe__2610.19542v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.19542v1",
+    "pdf_filename": "6_Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré supe__2610.19542v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文利用金刚石对顶砧压腔研究了半导体莫尔超晶格中静水压对激子莫尔势及激子-电荷相互作用的调控。",
+      "en": "This work investigates hydrostatic pressure tuning of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices using a diamond-anvil cell."
+    },
+    "problem": {
+      "zh": "莫尔势貌对莫尔材料中的关联玻色现象至关重要，但由于缺乏连续原位调控手段，压力对激子莫尔势演化及激子-电荷相互作用的影响长期缺乏探索。",
+      "en": "The moiré-potential landscape is crucial for correlated bosonic phenomena, but its pressure evolution and impact on exciton-charge interplay remain largely unexplored due to a lack of continuous in-situ tuning methods."
+    },
+    "approach": {
+      "zh": "将金刚石对顶砧压腔与双栅极扭转二硫化钨/二硫化硒双层膜集成，在低温下进行反射衬度与光致发光光谱测量，并结合连续介质模型进行分析。",
+      "en": "Integrating a diamond-anvil pressure cell with dual-gated twisted tungsten diselenide/disulfide bilayers to perform low-temperature optical spectroscopy, accompanied by continuum model analysis."
+    },
+    "main_takeaway": {
+      "zh": "静水压增强并陡峭化了激子莫尔势，从而能够调控激子能带拓扑，并对层内激子和层间激子与掺杂电子之间的库仑相互作用产生显著调控作用。",
+      "en": "Hydrostatic pressure enhances and steepens the excitonic moiré potential, enabling the tuning of exciton-band topology and significantly modulating Coulomb interactions between excitons and doped charges."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了静水压作为调控莫尔材料中玻色准粒子及玻色-费米相互作用的有效手段，扩展了探索关联玻色物理的参数空间。",
+      "en": "This study establishes hydrostatic pressure as an effective tuning knob for bosonic quasiparticles and Bose-Fermi interactions in moiré materials, expanding the parameter space for exploring correlated bosonic physics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次在实验上实现了利用静水压原位连续调控半导体莫尔超晶格中的激子莫尔势和激子-电荷相互作用。",
+        "en": "The work achieves the first experimental in-situ continuous tuning of the excitonic moiré potential and exciton-charge interplay in semiconductor moiré superlattices using hydrostatic pressure."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Nature Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究结合了前沿的二维材料高压光学光谱技术和莫尔激子物理的新奇发现，符合该期刊的定位。",
+        "en": "The study combines cutting-edge high-pressure optical spectroscopy in 2D materials with novel findings on moiré exciton physics, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "Moiré superlattices",
+      "Excitons",
+      "Hydrostatic pressure",
+      "Bose-Fermi interaction",
+      "Transition metal dichalcogenides"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:18:39",
+    "input_scope": "full_pdf_text"
+  }
+}

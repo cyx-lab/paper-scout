@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2610.20307v1",
+    "title": "Making Weak Interlayer Excitons Absorb: Manipulating the Effective Oscillator Strength via Purcell Engineering of Critical Coupling",
+    "authors": [
+      "Saroj Poudyal",
+      "Anabel Atash Kahlon",
+      "Michael Klein",
+      "Matan Meshulam",
+      "Yonatan Gershuni",
+      "Thomas Poirier",
+      "James H. Edgar",
+      "Mukesh Kumar",
+      "Seth Ariel Tongay",
+      "Itai Epstein"
+    ],
+    "abstract": "Interlayer excitons (IXs) in transition metal dichalcogenide bilayers possess unique dipolar properties, providing a path for exploring correlated many-body phases, electrically tunable dipole-dipole interactions, and long-range exciton transport. However, the large electron-hole separation underlying their dipolar character also results in a significantly reduced oscillator strength, limiting their direct optical interaction with light, and thus the direct probing of their dynamics and many-body interactions. Here, we show that by using Purcell engineering of critical coupling, a weak interlayer transition can absorb as strongly as the dominant intralayer transition, despite its much smaller intrinsic oscillator strength. Using this approach, in an open cavity architecture we demonstrate an order of magnitude IX absorption modulation in bilayer and trilayer MoS2, with doubling of the IX to A-exciton interaction strength weight from ~23% to ~53%. Furthermore, we demonstrate that in a tailored closed cavity architecture, the IX enhancement can reach beyond an order of magnitude, from ~5% to ~83% excitonic absorption, enabling IX absorption similar to intralayer excitons. An analytical description of the interaction is obtained via a closed-form transmission-line model which separates the excitonic and photonic contributions to the optical response, revealing how cavity architecture can be designed towards critical coupling. Our findings establish Purcell engineering of critical coupling as a general route to controlling and enhancing weak excitonic transitions.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.other",
+      "physics.optics"
+    ],
+    "published": "2026-10-14T14:55:18Z",
+    "updated": "2026-10-14T14:55:18Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:interlayer exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.20307v1",
+      "pdf_path": "data/pdfs/2026-10-15/3_Making Weak Interlayer Excitons Absorb Manipulating the Effective Oscillator Strength via Purcell Engineering of Critica__2610.20307v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.832144",
+    "updated_at": "2026-10-15T02:17:46.832134Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/3_Making Weak Interlayer Excitons Absorb Manipulating the Effective Oscillator Strength via Purcell Engineering of Critica__2610.20307v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.20307v1",
+    "pdf_filename": "3_Making Weak Interlayer Excitons Absorb Manipulating the Effective Oscillator Strength via Purcell Engineering of Critica__2610.20307v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过珀塞尔工程调控临界耦合，显著增强了二维半导体中微弱层间激子的有效振子强度与光吸收。",
+      "en": "Purcell engineering of critical coupling is demonstrated to significantly enhance the effective oscillator strength and light absorption of weakly coupled interlayer excitons in 2D semiconductors."
+    },
+    "problem": {
+      "zh": "过渡金属硫化物双层中的层间激子由于电子-空穴空间分离，具有很小的振子强度，导致其与光的直接相互作用极弱，难以直接观测和应用。",
+      "en": "Interlayer excitons in transition metal dichalcogenide bilayers possess a significantly reduced oscillator strength due to electron-hole separation, limiting their direct optical interaction and detection."
+    },
+    "approach": {
+      "zh": "利用传输线模型分析光腔架构，通过开放式和封闭式微腔设计调控局域光子态密度，实现对层间激子辐射衰减率的珀塞尔增强与临界耦合调控。",
+      "en": "Using a transmission-line model to analyze optical cavity architectures, open and closed microcavities are designed to tune the local photonic density of states, achieving Purcell enhancement and critical coupling of interlayer excitons."
+    },
+    "main_takeaway": {
+      "zh": "在优化的微腔中，原本吸收微弱的层间激子吸收率可从约5%大幅提升至80%以上，使其光吸收强度达到与面内激子相当的水平。",
+      "en": "In tailored microcavities, the absorption of weakly absorbing interlayer excitons can be dramatically increased from ~5% to over 83%, matching the absorption strength of intralayer excitons."
+    },
+    "why_it_matters": {
+      "zh": "该方法克服了微弱激子光学耦合差的固有局限，为在范德华异质结构中直接操纵和利用多体关联及激子物理提供了一条普适且有效的途径。",
+      "en": "This approach overcomes the inherent limitation of weak excitonic optical coupling, providing a general and effective route to directly probe, control, and harness many-body and excitonic physics in van der Waals heterostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次通过光腔工程直接克服了层间激子振子强度极小的长斯难题，实现了与面内激子同等量级的强吸收，对激子光电子学具有重要推动作用。",
+        "en": "This work directly overcomes the long-standing limitation of extremely small interlayer exciton oscillator strength via cavity engineering, achieving strong absorption comparable to intralayer excitons, which significantly advances exciton optoelectronics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究成果在二维材料光学、激子物理和微纳光腔领域具有突破性意义，非常符合该期刊的高影响力定位。",
+        "en": "The findings represent a breakthrough in 2D material optics, exciton physics, and microcavities, fitting the high-impact profile of this journal."
+      }
+    },
+    "keywords": [
+      "Interlayer excitons",
+      "Purcell effect",
+      "Critical coupling",
+      "Transition metal dichalcogenides",
+      "Optical microcavities"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:20:10",
+    "input_scope": "full_pdf_text"
+  }
+}

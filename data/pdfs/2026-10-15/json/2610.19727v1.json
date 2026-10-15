@@ -1,0 +1,125 @@
+{
+  "paper_record": {
+    "id": "2610.19727v1",
+    "title": "Role of Gd 5d-Au 5d hybridization for the magnetic properties of Au-Al-Gd quasicrystal approximants",
+    "authors": [
+      "Goro Nozue",
+      "Hidenori Fujiwara",
+      "Satoru Hamamoto",
+      "Yuto Torii",
+      "Mai Sakaguchi",
+      "Sho Nakajima",
+      "Takuya D. Nakamura",
+      "Nonoka U. Sakamoto",
+      "Takayuki Kiss",
+      "Masaki Oura",
+      "Akira Yasui",
+      "Kotaro Higashi",
+      "Naomi Kawamura",
+      "Kojiro Mimura",
+      "Arata Tanaka",
+      "Asuka Ishikawa",
+      "Farid Labib",
+      "Shintaro Suzuki",
+      "Takafumi D. Yamamoto",
+      "Ryuji Tamura",
+      "Akira Sekiyama"
+    ],
+    "abstract": "We have studied the electronic states of magnetic Au-Al-Gd quasicrystal approximants, which exhibit different magnetic ground states at low temperatures, by orbital-selective soft and hard x-ray electron spectroscopies in the paramagnetic phase. Our results reveal that the valence electronic states vary among the Au-Al-Gd approximants with different magnetic ground states, whereas the Gd 4f electrons are localized in all of them. In particular, we find that the Gd 5d states are hybridized with the Au 5d states around the Fermi level, providing information about a local pathway for the intersite exchange interaction between the localized Gd 4f electrons. This hybridization strength varies among these samples. Our findings bring an orbital-resolved microscopic picture to the magnetism of rare-earth-based quasicrystals and approximants.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-14T07:49:45Z",
+    "updated": "2026-10-14T07:49:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quasicrystal:quasicrystal"
+      ],
+      "author_match": false,
+      "rule_score": 4,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.19727v1",
+      "pdf_path": "data/pdfs/2026-10-15/4_Role of Gd 5d-Au 5d hybridization for the magnetic properties of Au-Al-Gd quasicrystal approximants__2610.19727v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.833530",
+    "updated_at": "2026-10-15T02:17:46.833523Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/4_Role of Gd 5d-Au 5d hybridization for the magnetic properties of Au-Al-Gd quasicrystal approximants__2610.19727v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.19727v1",
+    "pdf_filename": "4_Role of Gd 5d-Au 5d hybridization for the magnetic properties of Au-Al-Gd quasicrystal approximants__2610.19727v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过软硬X射线电子光谱研究发现，Au-Al-Gd准晶近似物中局域的Gd 4f电子与杂化的Gd 5d-Au 5d态对磁性起重要作用。",
+      "en": "Soft and hard X-ray electron spectroscopies reveal that localized Gd 4f electrons and hybridized Gd 5d-Au 5d states play crucial roles in the magnetism of Au-Al-Gd quasicrystal approximants."
+    },
+    "problem": {
+      "zh": "尽管已发现稀土准晶及近似物表现出丰富的磁性基态（反铁磁、铁磁、自旋玻璃），但其价电子态与磁性的微观关联以及轨道贡献长期以来尚不明确。",
+      "en": "Although rare-earth-based quasicrystals and approximants exhibit rich magnetic ground states, the microscopic relationship between their valence electronic states and magnetism, as well as the orbital contributions, remains unclear."
+    },
+    "approach": {
+      "zh": "结合硬X射线光电子能谱（HAXPES）、Gd M边XAS、Gd 3d边共振光电子能谱（RPES）以及Gd/Au L边HERFD-XAS，在顺磁相下探测价电子与芯能级结构。",
+      "en": "Combining hard X-ray photoemission spectroscopy (HAXPES), Gd M-edge XAS, Gd 3d-edge resonant photoemission spectroscopy (RPES), and Gd/Au L-edge HERFD-XAS in the paramagnetic phase to probe valence and core-level electronic structures."
+    },
+    "main_takeaway": {
+      "zh": "Gd 4f电子在所有样品中均保持局域，而Gd 5d态与Au 5d态在费米能级附近发生杂化，且其有效杂化强度随成分与e/a比而变化，自旋玻璃相中的杂化相对较弱。",
+      "en": "Gd 4f electrons remain localized across all samples, while Gd 5d and Au 5d states hybridize near the Fermi level with an effective strength that varies with composition and e/a ratio, being weaker in the spin-glass phase."
+    },
+    "why_it_matters": {
+      "zh": "该研究为稀土准晶及近似物中局域4f电子间的间接交换相互作用（RKKY）提供了轨道分辨的微观图像，并强调了过渡金属与稀土d轨道杂化在理解其复杂磁性中的重要性。",
+      "en": "This study provides an orbital-resolved microscopic picture of the intersite exchange interaction (RKKY) between localized 4f electrons in rare-earth quasicrystal approximants, highlighting the importance of d-orbital hybridization in their magnetism."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "利用先进的光子与电子谱学手段，澄清了Au-Al-Gd准晶近似物中轨道选择性的价电子态与磁性基态关联的微观机制。",
+        "en": "It clarifies the microscopic mechanism connecting orbital-selective valence electronic states and magnetic ground states in Au-Al-Gd quasicrystal approximants using advanced spectroscopic techniques."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文主要基于多技术联合的光电子能谱和X射线吸收光谱实验，深入探讨了局域电子态、轨道杂化与磁性的关联，非常符合PRB的收稿范围。",
+        "en": "The paper focuses on multi-technique photoemission and X-ray absorption spectroscopies to investigate localized electronic states, orbital hybridization, and magnetism, which fits the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "quasicrystal approximants",
+      "photoemission spectroscopy",
+      "X-ray absorption spectroscopy",
+      "orbital hybridization",
+      "magnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:19:35",
+    "input_scope": "full_pdf_text"
+  }
+}

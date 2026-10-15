@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2610.20383v1",
+    "title": "Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 \\bar1 00)$ surface",
+    "authors": [
+      "D. A. Usanov",
+      "A. B. Hellenes",
+      "S. Hahn",
+      "M. Leandersson",
+      "J. Osiecki",
+      "K. Uhlířová",
+      "D. Evtushinsky",
+      "L. Šmejkal",
+      "T. Jungwirth",
+      "J. H. Dil"
+    ],
+    "abstract": "Altermagnetism gives rise to momentum-dependent spin splitting without net magnetization. Here, we use angle-resolved photoemission spectroscopy (ARPES) to investigate bulk $α$-MnTe single crystals cleaved along the $(1\\bar{1}00)$ plane - an orientation that preserves the compensated magnetic symmetry at the surface and substantially reduces surface effects and $k_z$ broadening. We resolve the three-dimensional bulk band structure with markedly enhanced spectral clarity. The $d$-wave band splitting, driven by the altermagnetic order and spin-orbit coupling in the $\\mathbfΓ-\\mathbf{K}-\\mathbf{M}$ nodal plane, shows a perfect match to theoretical predictions. We further establish that the valence-band maximum occurs near the $\\mathbf{A}$ point, identifying the corresponding hole pockets as the states governing the transport properties. Spatially resolved measurements reveal systematic variations of the band dispersion along $\\mathbfΓ-\\mathbf{K}$ and $\\mathbf{A}-\\mathbf{L}$, associated with different pinning of the Néel vector at the surface. Our results establish a surface-sensitive route to resolving the bulk altermagnetic electronic structure of MnTe and provide direct spectroscopic evidence for Néel-vector-dependent band splitting.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-14T15:50:12Z",
+    "updated": "2026-10-14T15:50:12Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.20383v1",
+      "pdf_path": "data/pdfs/2026-10-15/3_Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 bar1 00)$ surface__2610.20383v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-15T02:17:46.831939",
+    "updated_at": "2026-10-15T02:17:46.831930Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-15/3_Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 bar1 00)$ surface__2610.20383v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.20383v1",
+    "pdf_filename": "3_Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 bar1 00)$ surface__2610.20383v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过对锰碲（MnTe）(1-100)解理面的角分辨光电子能谱（ARPES）研究，揭示了其体材料的交错磁性（altermagnetism）电子结构及内禀奈尔矢量对能带分裂的影响。",
+      "en": "Using angle-resolved photoemission spectroscopy (ARPES) on the (1-100) cleaved surface of MnTe, this work reveals its bulk altermagnetic electronic structure and the influence of the Neel vector on band splittings."
+    },
+    "problem": {
+      "zh": "此前对MnTe交错磁性的ARPES研究主要集中在(0001)表面，常受到表面态、悬空键、铁磁性表面层以及垂直动量展宽等复杂因素的干扰，难以清晰解析体电子结构与奈尔矢量的关联。",
+      "en": "Previous ARPES studies on altermagnetic MnTe mainly focused on the (0001) surface, which suffers from surface states, dangling bonds, ferromagnetic-like terminations, and strong vertical momentum broadening, obscuring bulk electronic features."
+    },
+    "approach": {
+      "zh": "采用聚焦离子束（FIB）辅助解理获得α-MnTe单晶的(1-100)表面，并结合同步辐射角分辨光电子能谱（ARPES）与密度泛函理论（DFT）计算进行对比分析。",
+      "en": "The (1-100) surface of alpha-MnTe single crystals was prepared via focused ion beam assisted cleaving and investigated using angle-resolved photoemission spectroscopy (ARPES) combined with density functional theory (DFT) calculations."
+    },
+    "main_takeaway": {
+      "zh": "利用(1-100)表面成功消除了大部分表面干扰并减小了动量展宽，清晰观测到了与理论相符的自旋轨道耦合驱动的d波交错磁性能带分裂，并证实了其对表面奈尔矢量取向的依赖性。",
+      "en": "The (1-100) surface measurements suppress surface artifacts and reduce momentum broadening, clearly resolving spin-orbit coupling driven d-wave altermagnetic band splittings that depend systematically on the Neel vector orientation."
+    },
+    "why_it_matters": {
+      "zh": "该研究提供了一种表面敏感且体代表性极佳的实验途径，深化了对交错磁体中非常规自旋简并解除机制及磁畴依赖能带结构的理解。",
+      "en": "This study provides a surface-sensitive route representative of the bulk, deepening the understanding of unconventional spin degeneracy lifting and domain-dependent electronic structures in altermagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作解决了长期以来在体材料交错磁性ARPES测量中面临的表面态与动量展宽难题，提供了关于自旋劈裂和奈尔矢量依赖性的直接光谱学证据。",
+        "en": "This work overcomes longstanding surface-state and momentum-broadening hurdles in ARPES of bulk altermagnets, providing direct spectroscopic evidence for spin splitting and Neel vector dependence."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章报道了当前凝聚态物理前沿交错磁性材料MnTe的重要ARPES实验突破，契合该期刊的高影响力物理成果定位。",
+        "en": "The paper reports key ARPES experimental breakthroughs on the frontier altermagnetic material MnTe, fitting the high-impact physics scope of this journal."
+      }
+    },
+    "keywords": [
+      "altermagnetism",
+      "MnTe",
+      "ARPES",
+      "electronic structure",
+      "Neel vector"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-15",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-15T10:20:15",
+    "input_scope": "full_pdf_text"
+  }
+}
