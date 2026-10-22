@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2610.29558v1",
+    "title": "Synchronization-Induced Limit Cycles and Hysteresis in Spinor Exciton-Polaritons",
+    "authors": [
+      "Saeid Asgarnezhad-Zorgabad",
+      "Zahra Jalali-Mola",
+      "Vladimir V. Konotop",
+      "Daniel Leykam"
+    ],
+    "abstract": "We study the nonlinear dynamics of spinor exciton-polaritons in resonantly pumped microcavities. Using steady-state analysis and computing eigenfrequencies via Bogoliubov-like linearization, we show that multiple Hopf bifurcations beyond conventional bistability occur within specific power regimes and are not associated with stable solutions of the system. Owing to nonlinear excitonic interactions, these transitions occur at different pump powers during forward and backward pump sweeps, leading to pronounced hysteresis between fixed-point and limit-cycle states. In the spinor regime, multiple limit-cycle branches and associated dynamical hysteresis loops emerge due to the interplay of polarization coupling and spin-dependent nonlinearities. We show how the locations of the bifurcation points can be tuned by the pump frequency and other system parameters. Our results identify synchronization as the organizing principle underlying limit-cycle formation, dynamical hysteresis, and bifurcation cascades in driven spinor exciton-polariton microcavities.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-10-21T10:44:19Z",
+    "updated": "2026-10-21T10:44:19Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29558v1",
+      "pdf_path": "data/pdfs/2026-10-22/3_Synchronization-Induced Limit Cycles and Hysteresis in Spinor Exciton-Polaritons__2610.29558v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.143977",
+    "updated_at": "2026-10-22T02:23:20.143969Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/3_Synchronization-Induced Limit Cycles and Hysteresis in Spinor Exciton-Polaritons__2610.29558v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29558v1",
+    "pdf_filename": "3_Synchronization-Induced Limit Cycles and Hysteresis in Spinor Exciton-Polaritons__2610.29558v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了谐振泵浦自旋激子-极化激元微腔中的非线性动力学，发现通过系统同步机制会导致多重霍夫分岔与动力学迟滞现象。",
+      "en": "This paper investigates the nonlinear dynamics of resonantly pumped spinor exciton-polariton microcavities, revealing synchronization-induced multiple Hopf bifurcations and dynamical hysteresis."
+    },
+    "problem": {
+      "zh": "在强光学泵浦下，微腔中激子-极化激元系统超越常规光学双稳态的非线性动力学机制，特别是自旋与偏振自由度对系统极限环和分岔行为的影响尚不明确。",
+      "en": "The nonlinear dynamical mechanisms of microcavity exciton-polaritons beyond conventional optical bistability under coherent optical pumping, particularly the role of spin and polarization degrees of freedom in limit-cycle formation and bifurcation behavior, remain unclear."
+    },
+    "approach": {
+      "zh": "利用稳态分析、Bogoliubov 线性化、Floquet 乘数理论以及时域演化和相空间轨迹追踪方法，研究双组分与四组分激子-极化激元模型在不同泵浦功率和频率下的动力学行为。",
+      "en": "Employing steady-state analysis, Bogoliubov-like linearization, Floquet multiplier theory, along with long-time time-domain simulations and phase-space trajectory tracking to study two- and four-component exciton-polariton models under various pump powers and frequencies."
+    },
+    "main_takeaway": {
+      "zh": "系统中的多重霍夫分岔、极限环形成以及动力学迟滞现象的内在组织原则是激子与光子模式之间的同步，它会引发锁相频率梳并导致历史依赖的吸引子。",
+      "en": "The organizing principle underlying multiple Hopf bifurcations, limit-cycle formation, and dynamical hysteresis in the system is synchronization between excitonic and photonic modes, which triggers locked frequency combs and history-dependent attractors."
+    },
+    "why_it_matters": {
+      "zh": "该研究为理解驱动自旋极化激元系统中的非线性动力学现象提供了一个统一的框架，并展示了利用激子-极化激元控制振荡状态和频率梳生成的新途径。",
+      "en": "This study provides a unified framework for understanding nonlinear dynamical phenomena in driven spinor polariton systems and suggests new avenues for controlling oscillatory states and frequency-comb generation using exciton-polaritons."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "s": "Mechanism clarification",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过严格的稳定性分析与Floquet理论，阐明了自旋激子-极化激元微腔中极限环与迟滞回线背后的同步机制。",
+        "en": "The paper clarifies the synchronization mechanism behind limit cycles and hysteresis loops in spinor exciton-polariton microcavities through rigorous stability analysis and Floquet theory."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作深入探讨了半导体微腔中激子-极化激元的非线性动力学和分岔理论，非常符合 Phys. Rev. B 的收稿范围。",
+        "en": "The work deeply investigates the nonlinear dynamics and bifurcation theory of exciton-polaritons in semiconductor microcavities, which fits well within the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "exciton-polaritons",
+      "Hopf bifurcation",
+      "dynamical hysteresis",
+      "synchronization",
+      "optical bistability"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:24:38",
+    "input_scope": "full_pdf_text"
+  }
+}

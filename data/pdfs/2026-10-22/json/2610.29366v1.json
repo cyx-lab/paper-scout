@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2610.29366v1",
+    "title": "Hybridization-Induced Enhancement of the Thermoelectric Response in the Kagome Material CsCr$_6$Sb$_6$",
+    "authors": [
+      "Hongye Zhang",
+      "Boqin Song",
+      "Aifeng Wang",
+      "Yisheng Chai",
+      "Xiaoyuan Zhou",
+      "Ying Zhu",
+      "Tianping Ying",
+      "Mingquan He"
+    ],
+    "abstract": "Flat bands in kagome lattices provide a prominent route to strongly correlated electronic states. Here we report charge and thermal transport measurements on single crystals of CsCr$_6$Sb$_6$, a kagome Kondo system arising from the hybridization between flat and dispersive bands. The Seebeck coefficient and Nernst signal increase rapidly below $T_\\mathrm{F}\\sim70$ K, concomitant with the emergence of short-range antiferromagnetic correlations and flat-band resonance. The Nernst coefficient in the intermediate-temperature range of $\\sim30-80$ K further follows the universal scaling reported for prototypical heavy-fermion compounds, consistent with the development of strongly renormalized quasiparticles associated with hybridization. Both the Seebeck and Nernst responses reach extrema at a lower temperature $T_\\mathrm{p}\\sim20-25$ K, where phonon drag and correlated quasiparticles may both contribute. These results reveal a hybridization-induced enhancement of the thermoelectric response and establish CsCr$_6$Sb$_6$ as a kagome platform for probing flat-band-derived Kondo physics through thermoelectric transport.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-10-21T07:57:15Z",
+    "updated": "2026-10-21T07:57:15Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [],
+      "author_match": true,
+      "rule_score": 5,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29366v1",
+      "pdf_path": "data/pdfs/2026-10-22/5_Hybridization-Induced Enhancement of the Thermoelectric Response in the Kagome Material CsCr$_6$Sb$_6$__2610.29366v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.144609",
+    "updated_at": "2026-10-22T02:23:20.144601Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/5_Hybridization-Induced Enhancement of the Thermoelectric Response in the Kagome Material CsCr$_6$Sb$_6$__2610.29366v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29366v1",
+    "pdf_filename": "5_Hybridization-Induced Enhancement of the Thermoelectric Response in the Kagome Material CsCr$_6$Sb$_6$__2610.29366v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文通过对kagome Kondo系统CsCr6Sb6的电荷与热电输运测量，揭示了扁平带与色散带杂化引起的热电响应增强现象。",
+      "en": "This work reports charge and thermal transport measurements on the kagome Kondo system CsCr6Sb6, revealing a hybridization-induced enhancement of the thermoelectric response."
+    },
+    "problem": {
+      "zh": "探索kagome晶格中扁平带与色散带杂化导致的低能电子态重构，及其对热电输运性质（如塞贝克效应和能斯特效应）的影响。",
+      "en": "To explore the low-energy electronic state reconstruction driven by the hybridization between flat and dispersive bands in a kagome lattice, and its impact on thermoelectric transport properties like the Seebeck and Nernst effects."
+    },
+    "approach": {
+      "zh": "测量单晶CsCr6Sb6在不同温度和磁场下的纵向电阻率、Hall效应、塞贝克系数、能斯特信号以及热导率和比热。",
+      "en": "Measurement of longitudinal resistivity, Hall effect, Seebeck coefficient, Nernst signal, thermal conductivity, and specific heat on single-crystalline CsCr6Sb6 across various temperatures and magnetic fields."
+    },
+    "main_takeaway": {
+      "zh": "CsCr6Sb6中的塞贝克系数和能斯特信号在低温下显著增强，其能斯特系数在中温区表现出与典型重费米子系统相似的普适标度行为。",
+      "en": "The Seebeck coefficient and Nernst signal in CsCr6Sb6 are significantly enhanced at low temperatures, with the Nernst coefficient in the intermediate temperature range following universal scaling behaviors reported for typical heavy-fermion systems."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了CsCr6Sb6作为一个理想的kagome平台，能够通过热电输运深入探究由扁平带衍生出的Kondo物理。",
+      "en": "This study establishes CsCr6Sb6 as a platform to probe flat-band-derived Kondo physics through thermoelectric transport."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在kagome Kondo系统中系统研究了热电输运与扁平带杂化的关联，并验证了其与重费米子普适标度的联系。",
+        "en": "It systematically investigates the correlation between thermoelectric transport and flat-band hybridization in a kagome Kondo system for the first time, linking it to heavy-fermion universal scaling."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文深入探讨了关联电子系统的输运机制，符合PRB的收稿范围和学术水平。",
+        "en": "The paper provides an in-depth investigation of transport mechanisms in strongly correlated electron systems, fitting the scope and caliber of PRB."
+      }
+    },
+    "keywords": [
+      "Kagome lattice",
+      "Kondo effect",
+      "Thermoelectric transport",
+      "Seebeck effect",
+      "Nernst effect",
+      "Flat bands"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:24:12",
+    "input_scope": "full_pdf_text"
+  }
+}

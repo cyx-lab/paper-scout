@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.29447v1",
+    "title": "Room-temperature near-infrared optical readout of triplet spin states integrated in carbon nanotubes towards quantum sensing",
+    "authors": [
+      "J. Alejandro de Sousa",
+      "Ilias Vandevenne",
+      "Jana Nikolić",
+      "Tuur Boonen",
+      "Etienne Goovaerts",
+      "Sofie Cambré"
+    ],
+    "abstract": "Optically addressable electron spin qubits that function at room temperature and under ambient conditions are essential for advancing quantum sensing. Solid state defect platforms offer robust spin-photon interfaces but lack precise defect positioning and electronic tunability. Molecular spin qubits enable bottom up chemical design yet suffer from limited photostability. Here, we introduce para-halophenyl (-Cl, -Br and -I) quantum defects in (6,5) single wall carbon nanotubes that trap triplet excitons with a spin-photon interface that is operable under ambient, room temperature conditions. These defects were shown to emit in the near infrared within the biological transparency window, and their placement on the nanotube surface provides nanoscale proximity to target environments. The deep optical traps formed by the defects yield exceptional photostability. Here, we demonstrate optical initialization and readout of these triplet states at room temperature, provide proof of principle sensing of paramagnetic molecules, and highlight potential for on chip detection. Together, these results establish SWCNT defects as a promising new platform for future quantum sensing.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-21T09:07:46Z",
+    "updated": "2026-10-21T09:07:46Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29447v1",
+      "pdf_path": "data/pdfs/2026-10-22/3_Room-temperature near-infrared optical readout of triplet spin states integrated in carbon nanotubes towards quantum sen__2610.29447v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.144310",
+    "updated_at": "2026-10-22T02:23:20.144301Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/3_Room-temperature near-infrared optical readout of triplet spin states integrated in carbon nanotubes towards quantum sen__2610.29447v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29447v1",
+    "pdf_filename": "3_Room-temperature near-infrared optical readout of triplet spin states integrated in carbon nanotubes towards quantum sen__2610.29447v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文实现了单壁碳纳米管中 sp3 缺陷处俘获的三重态激子在室温和环境条件下的近红外光探测磁共振（ODMR），并展示了其在顺磁性分子传感与片上集成方面的应用。",
+      "en": "This work demonstrates room-temperature near-infrared optically detected magnetic resonance (ODMR) of triplet excitons trapped at sp3 defects in single-walled carbon nanotubes, highlighting applications in paramagnetic molecule sensing and on-chip integration."
+    },
+    "problem": {
+      "zh": "传统的固态自旋量子传感器和分子自旋量子比特在室温环境兼容性、近红外光学窗口、纳米级近距离传感或光化学稳定性方面各有局限，亟需寻找兼具优异稳定性和生物透明窗口的新型低维自旋缺陷平台。",
+      "en": "Traditional solid-state and molecular spin qubit platforms face limitations in ambient room-temperature operability, near-infrared optical windows, nanoscale proximity sensing, or photochemical stability, necessitating new low-dimensional spin defect platforms."
+    },
+    "approach": {
+      "zh": "通过重氮盐化学方法在（6,5）单壁碳纳米管上引入卤代苯基 sp3 缺陷以俘获三重态激子，并在连续波 X 波段 ESR 光谱仪中利用激光激发与微波调制结合进行室温 ODMR 测量及数值模拟分析。",
+      "en": "Halophenyl sp3 defects were synthetically introduced into (6,5) single-walled carbon nanotubes to trap triplet excitons, and investigated using room-temperature ODMR measurements combining laser excitation and microwave modulation within an X-band EPR setup, supported by spectral simulations."
+    },
+    "main_takeaway": {
+      "zh": "碳纳米管 sp3 缺陷处俘获的三重态激子支持室温及空气条件下的近红外 ODMR 光学读出，其信号表现出显著的取向与温度依赖性，并能通过与顺磁性自由基的相互作用实现定量传感。",
+      "en": "Triplet excitons trapped at SWCNT sp3 defects support near-infrared ODMR readout at room temperature under ambient conditions, exhibiting pronounced orientation and temperature dependence, and enabling quantitative sensing via interaction with paramagnetic radicals."
+    },
+    "why_it_matters": {
+      "zh": "该研究为发展基于一维碳纳米管的生物相容、近红外兼容、室温可操作的量子传感和片上集成器件开辟了新途径。",
+      "en": "This study opens a new pathway toward biocompatible, near-infrared-compatible, and room-temperature-operable quantum sensing and on-chip integrated devices based on one-dimensional carbon nanotubes."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在碳纳米管缺陷系统中实现了室温环境下的近红外自旋光学读出，并展示了面向顺磁分子的室温量子传感及片上集成原型。",
+        "en": "It achieves room-temperature near-infrared spin-optical readout in a nanotube defect system for the first time and demonstrates proof-of-principle quantum sensing for paramagnetic molecules and on-chip integration."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论模拟",
+      "en": "Experiment + Numerical Simulation"
+    },
+    "likely_venue": {
+      "journal": "Nature Communications",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作结合了碳纳米管光物理、量子缺陷工程和室温量子传感的新突破，符合该期刊对物理与材料学交叉领域重要进展的定位。",
+        "en": "The work combines carbon nanotube photophysics, quantum defect engineering, and room-temperature quantum sensing breakthroughs, fitting the journal's focus on significant advances in physical and materials sciences."
+      }
+    },
+    "keywords": [
+      "carbon nanotubes",
+      "sp3 defects",
+      "optically detected magnetic resonance",
+      "quantum sensing",
+      "triplet excitons"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:24:22",
+    "input_scope": "full_pdf_text"
+  }
+}

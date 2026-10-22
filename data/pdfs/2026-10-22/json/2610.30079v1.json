@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.30079v1",
+    "title": "Electrically Pumped Quadratic-Soliton Mode-Locked Laser in Lithium Niobate Nanophotonics",
+    "authors": [
+      "Benjamin K. Gutierrez",
+      "Nicolas Englebert",
+      "Yingchu Xu",
+      "Selina Zhou",
+      "Maximilian Shen",
+      "Mahmood Bagheri",
+      "Alireza Marandi"
+    ],
+    "abstract": "Femtosecond mode-locked lasers are the workhorse of modern photonics, enabling optical atomic clocks, frequency combs, precision spectroscopy, and ultrafast signal processing. Bringing them onto nanophotonic chips promises miniaturized ultrafast systems, yet combining femtosecond pulse generation with electrical pumping remains a major challenge, rooted in a trade-off between the speed and energy efficiency of mode-locking mechanisms. Kerr-based mechanisms offer nearly instantaneous response but typically require high intracavity peak powers that are difficult to achieve with nanophotonic-compatible semiconductor gain. Conversely, semiconductor saturable absorbers enable strong nonlinear responses at low energies but are limited by their slow carrier dynamics. Here we break this trade-off by introducing quadratic-soliton mode-locking based on a quadratic nonlinear interferometer (QNLI): an effective saturable absorber built from cascaded second-order nonlinearity in periodically poled lithium niobate nanophotonics, with a measured sub-20 fs response time. Through hybrid integration with an electrically pumped semiconductor gain element, we demonstrate a self-starting quadratic-soliton mode-locked laser with femtojoule pulse energies, operating in single- and multiple-soliton states. Quadratic solitons arise through the QNLI's dissipative and dispersive nonlinear response, which we confirm with a modified complex Ginzburg-Landau equation in agreement with measurements. By combining soliton formation with intracavity electro-optic modulation, we generate 750 fs pulses with flat-top spectra. Our engineerable, ultra-energy-efficient, electrically powered laser provides the critical source for fully integrated ultrafast photonic circuits in lithium niobate nanophotonics that natively offers electro-optic control, quadratic wavelength conversion, pulse compression, and spectral broadening.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-10-21T17:28:34Z",
+    "updated": "2026-10-21T17:28:34Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.30079v1",
+      "pdf_path": "data/pdfs/2026-10-22/2_Electrically Pumped Quadratic-Soliton Mode-Locked Laser in Lithium Niobate Nanophotonics__2610.30079v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.142555",
+    "updated_at": "2026-10-22T02:23:20.142545Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/2_Electrically Pumped Quadratic-Soliton Mode-Locked Laser in Lithium Niobate Nanophotonics__2610.30079v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.30079v1",
+    "pdf_filename": "2_Electrically Pumped Quadratic-Soliton Mode-Locked Laser in Lithium Niobate Nanophotonics__2610.30079v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文在薄膜铌酸锂纳米光子学中展示了一种基于二次非线性干涉仪（QNLI）的电泵浦二次孤子锁模激光器。",
+      "en": "We demonstrate an electrically pumped quadratic-soliton mode-locked laser in thin-film lithium niobate nanophotonics using a quadratic nonlinear interferometer."
+    },
+    "problem": {
+      "zh": "传统的片上锁模激光器在皮秒脉冲下受到半导体饱和吸收体恢复慢或克尔机制所需峰值功率高的限制，难以在纳米光子学中高效实现超快、节能的锁模。",
+      "en": "Conventional nanophotonic mode-locked lasers face a trade-off between speed and energy efficiency, limited by slow semiconductor saturable absorbers or high peak power requirements for Kerr mechanisms."
+    },
+    "approach": {
+      "zh": "将周期性极化铌酸锂纳米光子电路中的二次非线性干涉仪（QNLI）作为人工饱和吸收体，与反射式半导体光放大器混合集成，并通过理论与数值模拟进行验证。",
+      "en": "Integrating a quadratic nonlinear interferometer (QNLI) in a lithium niobate nanophotonic circuit as an artificial saturable absorber with a reflective semiconductor optical amplifier."
+    },
+    "main_takeaway": {
+      "zh": "实现了基于QNLI的自启动电泵浦二次孤子锁模激光器，具有飞焦级脉冲能量和亚20飞秒的超快响应，并生成了约750飞秒的脉冲。",
+      "en": "Demonstrated a self-starting electrically pumped quadratic-soliton mode-locked laser with femtojoule pulse energies and sub-20 fs QNLI response, generating ~750 fs pulses."
+    },
+    "why_it_matters": {
+      "zh": "该技术突破了速度与能效的权衡，为完全集成的铌酸锂纳米光子学超快电路和片上频梳源提供了关键的微型化、高能效光源。",
+      "en": "It breaks the speed-efficiency trade-off, providing a critical energy-efficient ultrafast source for fully integrated lithium niobate nanophotonic circuits and chip-scale frequency combs."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究首次在纳米光子平台实现了基于二次非线性孤子的电泵浦锁模激光器，在集成超快光子学领域具有重要意义。",
+        "en": "This work demonstrates the first integrated mode-locked laser in the quadratic soliton regime, representing a significant advance for integrated ultrafast photonics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature / Nature Photonics / Science",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作在集成光子学和超快激光领域取得了开创性突破，符合顶级综合性或光子学期刊的标准。",
+        "en": "The work presents a pioneering breakthrough in integrated photonics and ultrafast lasers, fitting top-tier journals."
+      }
+    },
+    "keywords": [
+      "Lithium niobate",
+      "Mode-locked laser",
+      "Quadratic solitons",
+      "Nanophotonics",
+      "Nonlinear interferometer"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:25:03",
+    "input_scope": "full_pdf_text"
+  }
+}

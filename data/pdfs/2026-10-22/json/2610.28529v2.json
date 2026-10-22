@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2610.28529v2",
+    "title": "Symmetry-Guided Machine Learning of Spin-Dependent Nonlinear Hall Response",
+    "authors": [
+      "Jyotirmoy Sau"
+    ],
+    "abstract": "A Berry-curvature dipole can produce a nonlinear Hall current even when the linear Hall response vanishes, but symmetry alone does not determine its magnitude or magnetic tunability. The interplay of structural symmetry, moment orientation, and carrier occupation is examined in a honeycomb model. Curvature maps and the band-summed dipole integrand reveal how velocity and the occupation window near the Fermi level select signed contributions. Removing threefold rotation permits a nonmagnetic dipole perpendicular to the surviving mirror. Generic magnetic reorientation activates the second component and tunes both components through positive and negative values. Global reversal preserves the dipole while reversing the intrinsic linear Hall conductivity, allowing a finite bulk dipole contribution from equally populated reversed domains under uniform-field averaging.A symmetry-constrained polynomial model predicts both dipole components for 256 held-out spin configurations, achieving coefficients of determination $R^2 > 0.9995$ at the reference chemical potential. At fixed carrier density, orientation-dependent shifts of the chemical potential modify the response and yield slightly larger prediction errors for the chosen model. Across the chemical-potential sweep,the prediction accuracy decreases more strongly for $D_y$,revealing an energy dependence of the surrogate's performance. Within semiclassical transport with a constant relaxation time, the calculated dipole determines the angular dependence of the quadratic current and its rectified and second-harmonic components. These results provide a quantitative representation of magnetic-orientation-dependent Berry-curvature dipoles and show how carrier occupation influences both the response and its predictability.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-20T17:03:21Z",
+    "updated": "2026-10-21T02:33:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:nonlinear Hall"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.28529v2",
+      "pdf_path": "data/pdfs/2026-10-22/3_Symmetry-Guided Machine Learning of Spin-Dependent Nonlinear Hall Response__2610.28529v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.145585",
+    "updated_at": "2026-10-22T02:23:20.145575Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/3_Symmetry-Guided Machine Learning of Spin-Dependent Nonlinear Hall Response__2610.28529v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.28529v2",
+    "pdf_filename": "3_Symmetry-Guided Machine Learning of Spin-Dependent Nonlinear Hall Response__2610.28529v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文结合晶格对称性分析与多项式机器学习模型，研究了各向异性蜂窝晶格中自旋依赖的非线性霍尔响应（Berry曲率偶极矩），阐明了磁矩取向与载流子占据对偶极矩大小及符号的调控机制。",
+      "en": "This paper combines crystal symmetry analysis and polynomial machine learning models to study the spin-dependent nonlinear Hall response (Berry curvature dipole) in an anisotropic honeycomb lattice, elucidating how magnetic orientation and carrier occupation tune its magnitude and sign."
+    },
+    "problem": {
+      "zh": "如何通过晶格结构对称性、磁矩取向与载流子占据的相互作用，定量理解并预测非线性霍尔响应（Berry曲率偶极矩）的大小和符号，并解释时间反演与自旋反演性质。",
+      "en": "How to quantitatively understand and predict the magnitude and sign of the nonlinear Hall response (Berry curvature dipole) through the interplay of structural symmetry, magnetic moment orientation, and carrier occupation, while accounting for time-reversal and spin-reversal properties."
+    },
+    "approach": {
+      "zh": "采用包含Rashba自旋轨道耦合和局域交换场的各向异性蜂窝晶格紧束缚模型，利用自适应数值积分计算上千种独立磁构型下的Berry曲率偶极矩，并构建满足对称性约束的自旋多项式机器学习代理模型进行预测。",
+      "en": "Employing an anisotropic honeycomb lattice tight-binding model with Rashba spin-orbit coupling and local exchange fields, adaptive numerical integration is used to calculate Berry curvature dipoles across thousands of independent magnetic configurations, and a symmetry-constrained spin polynomial machine learning surrogate model is constructed for prediction."
+    },
+    "main_takeaway": {
+      "zh": "全局自旋反演保持Berry曲率偶极矩不变但反转内禀线性霍尔电导率；对称性约束的自旋多项式模型能够高精度预测不同磁构型下的双分量偶极矩。",
+      "en": "Global spin reversal preserves the Berry curvature dipole while reversing the intrinsic linear Hall conductivity; symmetry-constrained spin polynomial models accurately predict the two-component dipole across different magnetic configurations."
+    },
+    "why_it_matters": {
+      "zh": "该研究区分了结构非对称与磁矩取向对非线性输运的独立贡献，建立了连接微观磁结构、电子几何与宏观整流效应的定量映射关系。",
+      "en": "This work separates the independent contributions of structural asymmetry and magnetic orientation to nonlinear transport, establishing a quantitative mapping connecting microscopic magnetic structures, electronic geometry, and macroscopic rectification effects."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文系统澄清了晶格对称性、磁矩取向和载流子占据如何共同决定非线性霍尔响应的普适规律，并展示了如何用机器学习代理模型进行高精度定量描述。",
+        "en": "The paper systematically clarifies how lattice symmetry, magnetic orientation, and carrier occupation jointly determine the universal laws of nonlinear Hall response, and demonstrates high-precision quantitative description using machine learning surrogate models."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作聚焦于紧束缚模型中的量子输运、Berry曲率及对称性分析，非常符合PRB的收稿范畴。",
+        "en": "The work focuses on quantum transport, Berry curvature, and symmetry analysis in tight-binding models, fitting well within the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Berry curvature dipole",
+      "nonlinear Hall effect",
+      "honeycomb model",
+      "symmetry constraints",
+      "machine learning"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:23:53",
+    "input_scope": "full_pdf_text"
+  }
+}

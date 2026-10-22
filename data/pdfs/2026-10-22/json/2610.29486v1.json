@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2610.29486v1",
+    "title": "Interaction-Induced Bloch Geometry and Transverse Thermoelectric Transport",
+    "authors": [
+      "Heng-Yu Di",
+      "YuanDong Wang",
+      "Zhen-Gang Zhu",
+      "Gang Su"
+    ],
+    "abstract": "Electron--electron interactions can reconstruct Bloch wave functions, changing their geometry and the associated thermoelectric response. We derive the linear thermoelectric response within the Hartree--Fock (HF) approximation using the thermal length-gauge density-matrix approach, resolving Drude, symmetric quantum-metric, and antisymmetric Berry-curvature contributions. In a noninteracting Bloch eigenbasis, we separate the reconstructed Berry connection into the noninteracting connection and an interaction connection. This gives bare, coherence, and interaction-connection contributions to the anomalous thermoelectric response. We determine the constraints imposed by spatial inversion, rotational, time-reversal, and combined symmetries on the three transport channels. In the relaxation-time approximation, the leading weak-broadening behavior is $Γ^{-1}$ for the Drude contribution, $Γ$ for the quantum-metric contribution, and $Γ^0$ for the Berry-curvature contribution. The interband scalings apply away from band degeneracies. Self-consistent calculations for the triangular-lattice extended Hubbard model illustrate how interactions generate Berry curvature and a quantum metric, change the symmetry of the system, and thereby contribute to transverse thermoelectric transport.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-21T09:42:14Z",
+    "updated": "2026-10-21T09:42:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum metric",
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:berry connection"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29486v1",
+      "pdf_path": "data/pdfs/2026-10-22/3_Interaction-Induced Bloch Geometry and Transverse Thermoelectric Transport__2610.29486v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.144059",
+    "updated_at": "2026-10-22T02:23:20.144052Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/3_Interaction-Induced Bloch Geometry and Transverse Thermoelectric Transport__2610.29486v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29486v1",
+    "pdf_filename": "3_Interaction-Induced Bloch Geometry and Transverse Thermoelectric Transport__2610.29486v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究推导了关联多体系统在平均场近似下的线性热电响应，阐明了电子相互作用对布洛赫几何和横向热电输运的影响。",
+      "en": "The study derives the linear thermoelectric response of interacting many-body systems within mean-field theory, elucidating how electron-electron interactions affect Bloch geometry and transverse thermoelectric transport."
+    },
+    "problem": {
+      "zh": "如何在自洽平均场近似下计算包含德鲁德项、量子度规项和贝里曲率项的线性热电响应，并理解相互作用引起的能带重构如何影响横向热电输运。",
+      "en": "How to compute the linear thermoelectric response comprising Drude, quantum-metric, and Berry-curvature contributions within a self-consistent mean-field approximation, and understand how interaction-induced band reconstruction affects transverse thermoelectric transport."
+    },
+    "approach": {
+      "zh": "采用热长度规范密度矩阵方法结合哈特雷-福克近似，在非相互作用布洛赫本征基下将贝里联络分解为基底项、相干项和相互作用项，并在三角晶格扩展哈伯德模型中进行自洽计算。",
+      "en": "Using the thermal length-gauge density-matrix approach within the Hartree-Fock approximation, decomposing the Berry connection in the noninteracting eigenbasis into bare, coherence, and interaction terms, and performing self-consistent calculations in the triangular-lattice extended Hubbard model."
+    },
+    "main_takeaway": {
+      "zh": "相互作用会重构布洛赫波函数和几何性质，从而在横向热电输运中贡献出依赖于相互作用的贝里曲率和量子度规项，并受到对称性和展宽机制的严格约束。",
+      "en": "Interactions reconstruct Bloch wave functions and geometry, contributing interaction-induced Berry curvature and quantum metric to transverse thermoelectric transport, subject to strict constraints from symmetries and broadening mechanisms."
+    },
+    "why_it_matters": {
+      "zh": "该工作建立了一个统一的理论框架，将量子几何与关联电子系统的热电输运直接联系起来，为理解强关联材料中的反常热电效应提供了新视角。",
+      "en": "This work establishes a unified theoretical framework directly connecting quantum geometry to thermoelectric transport in correlated electron systems, providing new insights into anomalous thermoelectric effects in strongly correlated materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文系统澄清了电子相互作用通过布洛赫几何重构影响横向热电输运的微观机制，并给出了清晰的理论分解。",
+        "en": "The paper systematically clarifies the microscopic mechanism by which electron interactions affect transverse thermoelectric transport via Bloch geometry reconstruction, providing a clear theoretical decomposition."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文内容属于凝聚态理论中关于关联系统输运与量子几何的深入研究，符合 Physical Review B 的一贯风格和收稿范围。",
+        "en": "The paper focuses on condensed matter theory regarding transport and quantum geometry in correlated systems, which fits the standard scope and style of Physical Review B."
+      }
+    },
+    "keywords": [
+      "Thermoelectric transport",
+      "Quantum metric",
+      "Berry curvature",
+      "Hartree-Fock approximation",
+      "Hubbard model"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:24:32",
+    "input_scope": "full_pdf_text"
+  }
+}

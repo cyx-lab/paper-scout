@@ -1,0 +1,122 @@
+{
+  "paper_record": {
+    "id": "2610.29858v1",
+    "title": "Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition",
+    "authors": [
+      "Mingxuan Chen",
+      "Chao Chen",
+      "Siqi Jiang",
+      "Shuxiang Qiao",
+      "Hongyan Lu",
+      "Di Zhang",
+      "Jiabei Huang",
+      "Fuzhuo Lian",
+      "Zhaochen Qu",
+      "Siqin Wang",
+      "Ziyi Wang",
+      "Shuai Zhang",
+      "Yulu Liu",
+      "Ronghua Liu",
+      "Xiaoxiang Xi",
+      "Renjun Du",
+      "Lei Wang",
+      "Geliang Yu"
+    ],
+    "abstract": "The iron-based ferromagnetic materials have emerged as a promising system for spintronics due to their high Curie temperatures and significant anomalous Hall effect (AHE) driven by Berry curvature. While there have been investigations into the epitaxial growth of non-layered iron-based ferromagnetic materials, the realization of high-quality single crystal thin films continues to be a formidable obstacle. Meanwhile, the issues such as grain boundary scattering further hinder their characterization and application. Here, we report the first chemical vapor deposition (CVD) synthesis of single-crystalline cubic D0$_3$-Fe$_3$Ge nanoplates. This compound represents a substantial departure from the conventional hexagonal phases typically observed in the Fe-Ge system. Structural characterizations confirm the cubic lattice and stoichiometric purity of the crystals. Structural analysis identifies a strong epitaxial effect, resulting in a giant compressive strain of ~4.16% at the interface that relaxes gradually toward the surface. The second-harmonic generation (SHG) signals might further reveal that such interfacial strain disrupted the inherent centro-symmetry of the cubic phase. SQUID magnetometry shows robust room-temperature ferromagnetism and clear magnetic anisotropy. Magneto-transport measurements reveal a robust AHE that remains stable at temperatures far exceeding room temperature. The scaling observed between the anomalous Hall resistance and longitudinal resistance strongly suggests that this effect is dominated by the intrinsic Berry curvature mechanism. Furthermore, density functional theory (DFT) calculations reveal that the huge epitaxial strain induces band reconstructions and creates dense spin-orbit coupling gaps near the Fermi level, effectively doubling the anomalous Hall conductivity to match our experimental observations.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-21T15:15:37Z",
+    "updated": "2026-10-21T15:15:37Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29858v1",
+      "pdf_path": "data/pdfs/2026-10-22/3_Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition__2610.29858v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.143108",
+    "updated_at": "2026-10-22T02:23:20.143100Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/3_Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition__2610.29858v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29858v1",
+    "pdf_filename": "3_Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition__2610.29858v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过化学气相沉积法成功合成了高质量的立方相三铁三锗单晶纳米片，并观察到由界面应变显著增强的室温反常霍尔效应。",
+      "en": "High-quality single-crystalline cubic D03-Fe3Ge nanoplates were successfully synthesized via chemical vapor deposition, exhibiting a robust room-temperature anomalous Hall effect significantly enhanced by interfacial strain."
+    },
+    "problem": {
+      "zh": "传统铁基铁磁材料多为多晶薄膜，存在晶界散射且难以制备高质量单晶薄膜，这阻碍了对其本征反常霍尔效应及拓扑输运特性的精确研究。",
+      "en": "Conventional iron-based ferromagnetic materials often form polycrystalline films with grain boundary scattering, and growing high-quality single-crystal thin films remains challenging, which hinders the accurate investigation of their intrinsic anomalous Hall effect."
+    },
+    "approach": {
+      "zh": "利用化学气相沉积法在蓝宝石衬底上外延生长立方相三铁三锗纳米片，结合磁学测量、磁输运测试以及密度泛函理论计算进行综合研究。",
+      "en": "Epitaxially growing cubic D03-Fe3Ge nanoplates on sapphire substrates using chemical vapor deposition, followed by comprehensive magnetometry, magneto-transport measurements, and density functional theory calculations."
+    },
+    "main_takeaway": {
+      "zh": "外延生长带来的巨大压应变重构了能带结构并在费米能级附近引入了密集的自旋轨道耦合能隙，从而使反常霍尔电导率比块体材料显著提高。",
+      "en": "The giant compressive strain from epitaxial growth induces band reconstructions and dense spin-orbit coupling gaps near the Fermi level, effectively doubling the anomalous Hall conductivity compared to the bulk counterpart."
+    },
+    "why_it_matters": {
+      "zh": "该工作实现了非层状铁磁金属的高质量单晶纳米片可控制备，证明了界面应变是调控拓扑输运性质的有效手段，对室温低功耗自旋电子学器件的发展具有重要意义。",
+      "en": "This work achieves the controllable synthesis of high-quality single-crystalline non-layered ferromagnetic nanoplates and demonstrates that interfacial strain is a powerful tool for tuning topological transport properties, paving the way for room-temperature low-power spintronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次实现了特定立方相铁锗纳米片的化学气相沉积外延生长，并清晰揭示了应变工程对本征反常霍尔效应的显著增强作用。",
+        "en": "It reports the first CVD synthesis of single-crystalline cubic Fe3Ge nanoplates and clearly demonstrates the significant enhancement of the intrinsic anomalous Hall effect through strain engineering."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "ACS Nano / Advanced Materials / Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了材料合成、微观结构表征、磁学与磁输运测量以及第一性原理计算，非常符合材料物理与纳米科学领域高影响力期刊的收稿范围。",
+        "en": "The paper combines materials synthesis, microstructural characterization, magnetic and transport measurements, and first-principles calculations, fitting well within the scope of high-impact journals in materials physics and nanoscience."
+      }
+    },
+    "keywords": [
+      "Anomalous Hall effect",
+      "Chemical vapor deposition",
+      "Strain engineering",
+      "Ferromagnetism",
+      "Berry curvature"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:24:56",
+    "input_scope": "full_pdf_text"
+  }
+}

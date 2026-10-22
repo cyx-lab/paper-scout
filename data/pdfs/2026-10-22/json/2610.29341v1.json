@@ -1,0 +1,106 @@
+{
+  "paper_record": {
+    "id": "2610.29341v1",
+    "title": "Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models",
+    "authors": [
+      "Hyun-Yong Lee",
+      "Naoki Kawashima"
+    ],
+    "abstract": "The full frequency dependence of electronic interactions is central to dynamical correlations, but its numerical cost restricts multiorbital calculations. We formulate the multiloop functional renormalization group directly in the quantics tensor train representation, retaining all three independent vertex frequencies over broad ranges without an explicit high-frequency parametrization. Analytical tensor operators perform frequency transformations and internal summations without dense vertex intermediates. Multiloop corrections improve agreement of vertices and responses with independent references and reproduce the low-energy numerical renormalization group self-energy. Lower-temperature calculations resolve a quadratic frequency contribution to the analytically continued scattering rate. A degenerate two-orbital impurity exhibits distinct spin, orbital, and charge responses at fixed Hund coupling. In a compensated altermagnetic environment, an orbital-level splitting induces a local spin response despite zero magnetization of the unperturbed impurity. Increasing Hund coupling suppresses the orbital response while increasing its spin polarization. Renormalized one-particle propagation alone does not reproduce this strong polarization dependence. These results extend compressed multiloop calculations to dynamical correlations in multiorbital environments.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-21T07:36:41Z",
+    "updated": "2026-10-21T07:36:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29341v1",
+      "pdf_path": "data/pdfs/2026-10-22/3_Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models__2610.29341v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.144687",
+    "updated_at": "2026-10-22T02:23:20.144677Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/3_Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models__2610.29341v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29341v1",
+    "pdf_filename": "3_Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models__2610.29341v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文提出了一种利用张量列（QTT）直接求解多轨道杂质模型中多圈泛函重整化群（mfRG）的方法，克服了三频顶点计算的维数灾难。",
+      "en": "We formulate the multiloop functional renormalization group directly in the quantics tensor train representation to overcome the computational bottleneck of three-frequency vertex calculations in multiorbital impurity models."
+    },
+    "problem": {
+      "zh": "多轨道系统中双粒子顶点的完整三频依赖性带来了巨大的计算开销，特别是在低温和轨道数增加时，常规密集网格存储和收缩变得不可行。",
+      "en": "The full frequency dependence of the two-orbital/multiorbital two-particle vertex leads to severe computational bottlenecks and storage challenges that make dense grid representations intractable at low temperatures."
+    },
+    "approach": {
+      "zh": "将顶点、自能及其标度导数直接表示为张量列（QTT），利用解析矩阵乘积算子（MPO）高效执行频率坐标变换和内部Matsubara求和。",
+      "en": "We formulate the mfRG scale evolution using quantics tensor trains (QTTs) combined with analytical matrix product operators (MPOs) to perform frequency transformations and internal Matsubara sums without dense arrays."
+    },
+    "main_takeaway": {
+      "zh": "QTT方法成功将多圈fRG扩展到多轨道和交替磁性环境，揭示了强洪特耦合下轨道响应增强的自旋极化特性，且该特性无法仅由重整化单粒子传播子复现。",
+      "en": "The QTT-based multiloop fRG successfully resolves full three-frequency dynamics in multiorbital impurities, showing that Hund coupling strongly polarizes the orbital-field response through vertex corrections beyond single-particle propagation."
+    },
+    "why_it_matters": {
+      "zh": "该方法绕过了显式高频参数化，显著压低了存储开销（如从数TiB降至数十MiB），为处理复杂关联电子系统中的动力学相关性和多轨道物理提供了强大的数值工具。",
+      "en": "It drastically reduces memory scaling for high-dimensional frequency-dependent tensor operations, enabling systematic multiloop calculations for multi-orbital correlated quantum impurity problems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "文章提出了一种基于QTT的高效mfRG计算框架，突破了多轨道动力学计算中的频率维度瓶颈。",
+        "en": "The paper introduces a novel QTT-based formulation for multiloop fRG that overcomes the long-standing frequency dimensionality bottleneck in multiorbital impurity calculations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review X",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作结合了前沿的张量网络算法与凝聚态物理中的高级多体微扰理论（mfRG），符合PRX的定位。",
+        "en": "The work combines state-of-the-art tensor network algorithms with advanced many-body perturbation theory (mfRG), which fits the scope of Physical Review X."
+      }
+    },
+    "keywords": [
+      "functional renormalization group",
+      "tensor trains",
+      "quantum impurity models",
+      "multiorbital systems",
+      "dynamical correlations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:24:01",
+    "input_scope": "full_pdf_text"
+  }
+}

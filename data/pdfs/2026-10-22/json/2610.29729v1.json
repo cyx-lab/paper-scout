@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2610.29729v1",
+    "title": "Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$",
+    "authors": [
+      "Hong-Hao Song",
+      "Gang v. Chen"
+    ],
+    "abstract": "Motivated by the recent experimental interest in honeycomb molybdates A$_2$Mo$_3$O$_8$, we return and develop the minimal models to capture the essential physics for Fe$_2$Mo$_3$O$_8$. It is pointed out that, the magnetism in these materials arises from the mutual induction between the spin-orbit coupling of the tetrahedral sublattice with active orbitals and the superexchange with the spins from the octahedral sublattice. Essentially, the superexchange between the tetrahedral and octahedral sublattices directly drives the ferrimagnetism, and the residual spin-orbit coupling on the tetrahedral sublattice induces the complex orbital order. The hybrid magnon-phonon excitations are further explored together with their resulting Berry curvatures and thermal Hall effect. We discuss the experimental relevance with Fe$_2$Mo$_3$O$_8$, and the framework can be extended to FeNiMo$_3$O$_8$, Ni$_2$Mo$_3$O$_8$ and other isostructural magnets.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-21T13:32:42Z",
+    "updated": "2026-10-21T13:32:42Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29729v1",
+      "pdf_path": "data/pdfs/2026-10-22/3_Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$__2610.29729v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-22T02:23:20.143516",
+    "updated_at": "2026-10-22T02:23:20.143509Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-22/3_Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$__2610.29729v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29729v1",
+    "pdf_filename": "3_Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$__2610.29729v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文建立了蜂窝钼酸盐 Fe2Mo3O8 的最小微观模型，揭示了四面体子晶格自旋轨道耦合与八面体子晶格超交换作用的相互诱导机制，并阐明了由此产生的亚铁磁性、复杂轨道序及混合磁振子-声子拓扑激发。",
+      "en": "This paper establishes a minimal microscopic model for the honeycomb molybdate Fe2Mo3O8, revealing the mutual induction between spin-orbit coupling on the tetrahedral sublattice and superexchange with the octahedral sublattice, and elucidates the resulting ferrimagnetism, complex orbital order, and hybrid magnon-phonon topological excitations."
+    },
+    "problem": {
+      "zh": "理解 3d 过渡金属化合物中自旋、轨道与晶格自由度之间的微观耦合，探究 Fe2Mo3O8 中由不等价的四面体和八面体 Fe 子晶格所导致的复杂磁性、轨道序及其与晶格振动的相互作用。",
+      "en": "Understanding the microscopic coupling among spin, orbital, and lattice degrees of freedom in 3d transition-metal compounds, and investigating the complex magnetism, orbital order, and their interaction with lattice vibrations arising from the inequivalent tetrahedral and octahedral Fe sublattices in Fe2Mo3O8."
+    },
+    "approach": {
+      "zh": "构建包含局部多重态、自旋轨道耦合、超交换作用、Dzyaloshinskii-Moriya 相互作用以及晶格动力学的最小微观模型，并结合 Holstein-Primakoff 展开和玻色子 Bogoliubov 变换对激发谱及拓扑输运进行理论分析。",
+      "en": "Constructing a minimal microscopic model incorporating local multiplets, spin-orbit coupling, superexchange, Dzyaloshinskii-Moriya interactions, and lattice dynamics, followed by theoretical analysis of the excitation spectrum and topological transport using the Holstein-Primakoff expansion and bosonic Bogoliubov transformation."
+    },
+    "main_takeaway": {
+      "zh": "Fe2Mo3O8 中的亚铁磁性由四面体与八面体子晶格之间的超交换直接驱动，而四面体子晶格上的残余自旋轨道耦合则诱导出了复杂的轨道序，两者通过耦合产生具有拓扑非平庸特征和热霍尔效应的混合磁振子-声子激发。",
+      "en": "The ferrimagnetism in Fe2Mo3O8 is directly driven by superexchange between the tetrahedral and octahedral sublattices, while the residual spin-orbit coupling on the tetrahedral sublattice induces a complex orbital order, together yielding hybrid magnon-phonon excitations with nontrivial topology and thermal Hall effects."
+    },
+    "why_it_matters": {
+      "zh": "该工作重构了对 3d 过渡金属化合物中自旋轨道纠缠物理的认识，为理解和设计丰产 3d 磁性材料中的新奇量子磁态与磁电效应提供了一个普适且可调控的理论框架。",
+      "en": "This work reshapes the understanding of spin-orbit entangled physics in 3d transition-metal compounds, providing a universal and tunable theoretical framework for understanding and designing novel quantum magnetic states and magnetoelectric effects in abundant 3d materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过建立严格的微观模型，澄清了 A2Mo3O8 蜂窝磁体中由 3d 离子局部多重态、自旋轨道耦合与子晶格超交换共同作用产生亚铁磁性和复杂轨道序的物理机制。",
+        "en": "By establishing a rigorous microscopic model, the paper clarifies the physical mechanisms driving ferrimagnetism and complex orbital order in A2Mo3O8 honeycomb magnets through the interplay of 3d local multiplets, spin-orbit coupling, and sublattice superexchange."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作专注于凝聚态物理中的微观自旋模型推导、激发谱计算及拓扑输运分析，高度符合 Physical Review B 的收稿范围和风格。",
+        "en": "The work focuses on microscopic spin model derivation, excitation spectrum calculation, and topological transport analysis in condensed matter physics, which strongly fits the scope and style of Physical Review B."
+      }
+    },
+    "keywords": [
+      "Ferrimagnetism",
+      "Orbital order",
+      "Spin-orbit coupling",
+      "Magnon-phonon coupling",
+      "Honeycomb molybdate",
+      "Thermal Hall effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-22",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-22T10:24:48",
+    "input_scope": "full_pdf_text"
+  }
+}
