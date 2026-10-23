@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2610.30743v1",
+    "title": "Anyon Chern bands of opposite sign and reversed drift",
+    "authors": [
+      "Zhenyu Xiao",
+      "Minxuan Wang",
+      "Shinsei Ryu"
+    ],
+    "abstract": "The elementary charged excitations of fractional quantum Hall states are anyons. Without continuous translation symmetry, they acquire a dispersion and richer dynamics. We study the Laughlin quasihole at filling $1/3$ in a periodically modulated magnetic field, a common model of fractional Chern insulators in two-dimensional materials. From the microscopic wave functions, we derive the commutator of its guiding-center coordinates, set by a many-body Berry curvature that governs its wave packets. A modulation with two flux quanta per unit cell splits the quasihole band into bands with Chern numbers $6$ and $-3$; such opposite signs are generic as long as a weak modulation opens a gap between the anyon bands. In the $C=-3$ band, the quasihole drifts against $\\mathbf{E}\\times\\mathbf{B}$, although the magnetic field has the same sign everywhere. Perturbation theory in the modulation explains these results, and large-scale Monte Carlo calculations confirm them. Anyon bands thus acquire their own topology, which controls anyon motion and may shape the phases of itinerant anyons.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-22T05:14:33Z",
+    "updated": "2026-10-22T05:14:33Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.30743v1",
+      "pdf_path": "data/pdfs/2026-10-23/3_Anyon Chern bands of opposite sign and reversed drift__2610.30743v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.722648",
+    "updated_at": "2026-10-23T02:28:46.722595Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/3_Anyon Chern bands of opposite sign and reversed drift__2610.30743v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.30743v1",
+    "pdf_filename": "3_Anyon Chern bands of opposite sign and reversed drift__2610.30743v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "研究了周期调制磁场中分数量子霍尔任意子（准空穴）的能带拓扑与动力学，发现调制可将任意子能带分裂为具有相反陈数（如 6 和 -3）的能带，并导致波包产生反向漂移。",
+      "en": "Study of the band topology and dynamics of fractional quantum Hall anyons (quasiparticles) in periodically modulated magnetic fields reveals that modulation splits anyon bands into Chern bands of opposite signs (e.g., 6 and -3), leading to reversed wave-packet drift."
+    },
+    "problem": {
+      "zh": "在缺乏连续平移对称性的周期调制磁场（或分数量子霍尔系统及分 数陈绝缘体）中，准粒子/任意子会获得色散；本文旨在澄清由多体Berry曲率支配的任意子能带几何与拓扑性质，以及它们在电场下的非微观动力学行为。",
+      "en": "In periodically modulated magnetic fields lacking continuous translation symmetry (such as fractional Chern insulators), anyons acquire a dispersion. This work aims to clarify the many-body Berry curvature, band topology, and wave-packet dynamics of anyons in such systems."
+    },
+    "approach": {
+      "zh": "基于微观多体波函数，推导了任意子引导中心坐标的对易子及多体Berry曲率；利用微扰理论结合大尺度Monte Carlo模拟和精确对角化，分析了不同磁场调制下任意子能带的分裂、陈数及波包动力学。",
+      "en": "Using microscopic many-body wave functions, the authors derive the guiding-center commutator and many-body Berry curvature for anyons. Analytical perturbation theory, large-scale Monte Carlo simulations, and exact diagonalization are employed to study band splitting, Chern numbers, and wave-packet dynamics under magnetic modulations."
+    },
+    "main_takeaway": {
+      "zh": "当周期调制磁场每个晶胞包含两个磁通量子时，原有的分数量子霍尔任意子能带会分裂为陈数分别为 6 和 -3 的子能带；在陈数为 -3 的能带中，任意子波包会逆着常规的 E×B 方向漂移。",
+      "en": "When a magnetic modulation contains two flux quanta per unit cell, the parent anyon band splits into subbands with Chern numbers 6 and -3. In the C = -3 band, anyon wave packets drift against the conventional E×B direction despite a uniform magnetic field sign."
+    },
+    "why_it_matters": {
+      "zh": "该工作揭示了任意子能带自身具有丰富的拓扑结构，其反常动力学和反对称陈数不仅深化了对分数量子霍尔系统和分数陈绝缘体中准粒子运动的理解，也为研究 itinerant anyon 的关联相提供了新视角。",
+      "en": "It reveals that anyon bands possess their own rich topology. The anomalous dynamics and opposite-sign Chern numbers deepen our understanding of quasiparticle motion in fractional Chern insulators and offer new insights into phases of itinerant anyons."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次从微观波函数和多体Berry曲率出发系统研究了调制磁场中任意子能带的拓扑与反常漂移现象，理论结合大规模数值模拟给出了坚实的结论。",
+        "en": "Systematically investigates the topology and anomalous drift of anyon bands in modulated magnetic fields from microscopic wave functions and many-body Berry curvature, supported by robust analytical theory and large-scale numerics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review X",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文内容涵盖分数量子霍尔物理、拓扑能带、多体数值模拟及前沿概念，高度契合PRX的定位和读者群体。",
+        "en": "The paper covers fractional quantum Hall physics, topological bands, many-body numerics, and cutting-edge concepts, fitting well with PRX's scope and readership."
+      }
+    },
+    "keywords": [
+      "Fractional Chern Insulators",
+      "Anyons",
+      "Berry curvature",
+      "Band topology",
+      "Quantum Hall effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:25",
+    "input_scope": "full_pdf_text"
+  }
+}

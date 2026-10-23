@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2610.31207v1",
+    "title": "Shaping Near Fields of Photonic Modes into Topological Textures",
+    "authors": [
+      "Jonas Biechteler",
+      "Michael Hirler",
+      "Connor Heimig",
+      "Martin Barkey",
+      "Haoran Ren",
+      "Stefan A. Maier",
+      "Enrico Baù",
+      "Andreas Tittl"
+    ],
+    "abstract": "Topological textures of light, such as optical vortices and skyrmions, are attractive for high-density information encoding and light-matter interactions. In the near field, topologies have primarily been realized using polaritonic platforms that inherently tie the platform to the material dispersion, limiting their footprint due to propagation losses and restricting their operating spectral region. Here, we introduce a route to shape near-field topologies through the geometric engineering of a dielectric metasurface supporting a quasi-bound state in the continuum resonance, without the need for polaritonic surface waves. In-plane deformation of our metasurface bars conserves their resonance-driven near-fields locally, so that the metasurface geometry and the polarization of the illuminating light dictate the generated topology. By shaping silicon unit cells into geometries with rotational symmetry, we create optical topologies with controllable topological charge. Using phase-resolved scattering-type near-field optical microscopy, we experimentally characterize high-purity resonance-locked topologies such as vortices in concentric rings and topological charge doublets in Archimedean spirals. In contrast to conventional topological textures, our purely photonic mode-based field textures are stationary standing waves in the radial direction, without relying on surface-wave propagation or polaritonic dispersion, establishing a spectrally and spatially scalable platform for near-field topological photonics.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-10-22T12:55:14Z",
+    "updated": "2026-10-22T12:55:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.31207v1",
+      "pdf_path": "data/pdfs/2026-10-23/3_Shaping Near Fields of Photonic Modes into Topological Textures__2610.31207v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.721768",
+    "updated_at": "2026-10-23T02:28:46.721763Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/3_Shaping Near Fields of Photonic Modes into Topological Textures__2610.31207v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.31207v1",
+    "pdf_filename": "3_Shaping Near Fields of Photonic Modes into Topological Textures__2610.31207v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过介质超表面中准连续束缚态（qBIC）的几何形变，在无极化激元传播损耗限制的情况下，实现了纳米尺度近场光学拓扑纹理的直接设计与调控。",
+      "en": "Direct shaping of nanoscale near-field optical topological textures is achieved without polaritonic propagation losses by geometrically engineering quasi-bound states in the continuum (qBICs) in dielectric metasurfaces."
+    },
+    "problem": {
+      "zh": "传统的近场光学拓扑结构（如涡旋和斯格明子）主要依赖于表面极化激元，这受到底层材料的带隙、负介电常数光谱窗口窄以及传播损耗的严重限制，缺乏跨光谱的可扩展性。",
+      "en": "Conventional near-field optical topologies like vortices and skyrmions rely on surface polaritons, which are constrained by material dispersion, narrow negative-permittivity spectral windows, and propagation losses, lacking spectral scalability."
+    },
+    "approach": {
+      "zh": "通过在介质超表面平面内对谐振条带进行旋转对称形变或阿基米德螺线布局，将qBIC共振模的近场局部锁定并沿几何轨迹塑形，利用相干散射式扫描近场光学显微镜（s-SNOM）进行相位解析表征。",
+      "en": "By in-plane bending and reshaping of resonator bars supporting quasi-BIC modes into concentric rings or Archimedean spirals, the near-field phase is dictated by the metasurface layout and characterized via phase-resolved s-SNOM."
+    },
+    "main_takeaway": {
+      "zh": "通过纯光子共振模式与几何形变的结合，成功在硅超表面中实现了高纯度的近场光学涡旋及角动量双重态，且场纹理在径向上表现为驻波特征，而不依赖于表面波传播。",
+      "en": "Combining photonic resonances with geometrical engineering yields high-purity near-field optical vortices and angular momentum doublets in silicon metasurfaces, forming radial standing waves independent of surface-wave propagation."
+    },
+    "why_it_matters": {
+      "zh": "该方法摆脱了材料色散和极化激元的限制，允许通过简单的几何缩放将近场拓扑器件扩展至可见光和紫外波段，为片上拓扑光子学和高密度近场信息编码提供了一个可扩展的新平台。",
+      "en": "This approach removes material and polaritonic constraints, enabling scalable near-field topological devices across the visible and ultraviolet spectrum via geometric scaling, advancing on-chip topological photonics and information encoding."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作突破了传统纳米光子学中近场拓扑对极化激元材料的依赖，提出了纯光子共振模式下几何调控近场拓扑的新范式，并通过实验进行了全面验证。",
+        "en": "The work breaks the reliance of near-field topology on polaritonic materials in nanophotonics, introduces a new paradigm of geometrically shaping near-field topology via pure photonic resonances, and comprehensively validates it experimentally."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Nanotechnology",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究内容涉及纳米光子学、拓扑光子学和近场光学显微技术的结合，具有极高的创新性和实验展示度，符合顶级综合性或光子学期刊的标准。",
+        "en": "The research bridges nanophotonics, topological photonics, and near-field optical nanoscopy with high novelty and robust experimental demonstration, fitting top-tier multidisciplinary or optics journals."
+      }
+    },
+    "keywords": [
+      "metasurfaces",
+      "bound states in the continuum",
+      "orbital angular momentum",
+      "topology",
+      "near-field optics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:58",
+    "input_scope": "full_pdf_text"
+  }
+}

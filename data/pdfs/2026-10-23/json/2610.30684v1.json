@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.30684v1",
+    "title": "Impact of localized $4f$ magnetism on Berry curvature and the intrinsic anomalous Hall effect in CeRu$_2$Si$_2$",
+    "authors": [
+      "Takehiro Kobayashi",
+      "Shunsuke Hirai",
+      "Ibuki Terada",
+      "Michi-To Suzuki"
+    ],
+    "abstract": "The intrinsic anomalous Hall effect (AHE), originating from Berry curvature, has been extensively studied in $f$-electron systems, including Ce-based compounds. However, how the magnetism of localized $f$ electrons affect the intrinsic AHE remains unclear. Here, we investigate this issue in CeRu$_2$Si$_2$ by calculating the intrinsic anomalous Hall conductivity (AHC) for several occupied Ce-$4f$ states using first-principles LDA+$U$ calculations combined with Wannier interpolation method. We find that the intrinsic AHC remains finite even when the Ce-$4f$ states are localized and do not contribute directly to the Fermi surface, and that its magnitude depends on which Ce-$4f$ state is occupied. We show that localized $4f$-electron magnetism induces exchange splitting in the conduction bands, generating Berry curvature in specific regions near the Fermi surface. This mechanism enables conduction bands that are derived from nonmagnetic orbitals and form the Fermi surface to contribute to the intrinsic AHE, suggesting a route to realizing large intrinsic AHE in $f$-electron materials.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-22T03:53:50Z",
+    "updated": "2026-10-22T03:53:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.30684v1",
+      "pdf_path": "data/pdfs/2026-10-23/3_Impact of localized $4f$ magnetism on Berry curvature and the intrinsic anomalous Hall effect in CeRu$_2$Si$_2$__2610.30684v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.722703",
+    "updated_at": "2026-10-23T02:28:46.722698Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/3_Impact of localized $4f$ magnetism on Berry curvature and the intrinsic anomalous Hall effect in CeRu$_2$Si$_2$__2610.30684v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.30684v1",
+    "pdf_filename": "3_Impact of localized $4f$ magnetism on Berry curvature and the intrinsic anomalous Hall effect in CeRu$_2$Si$_2$__2610.30684v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过第一性原理计算研究了铈化合物中局域4f磁性对内禀反常霍尔效应的影响，发现局域化的4f电子仍能通过交换劈裂导带产生非零的内禀反常霍尔电导率。",
+      "en": "Investigation of the impact of localized 4f magnetism on the intrinsic anomalous Hall effect in CeRu2Si2 using first-principles calculations reveals that localized 4f electrons induce conduction-band exchange splitting, leading to a finite intrinsic anomalous Hall conductivity."
+    },
+    "problem": {
+      "zh": "局域化的 4f 电子通常不直接贡献于费米面，但实验在部分含 4f 电子的反铁磁体中观测到了显著的内禀反常霍尔效应，这引发了关于局域 4f 磁性如何影响内禀反常霍尔效应的机制问题。",
+      "en": "Localized f-electrons typically do not contribute directly to the Fermi surface, yet a significant intrinsic anomalous Hall effect has been observed in several f-electron magnets, raising the question of how localized f-electrons affect the intrinsic anomalous Hall effect."
+    },
+    "approach": {
+      "zh": "以铁磁态 CeRu2Si2 为模型系统，结合第一性原理 LDA+U 计算与 Wannier 插值方法，计算并分析了不同占据 4f 态下的电子结构、磁矩以及内禀反常霍尔电导率。",
+      "en": "Using the ferromagnetic compound CeRu2Si2 as a model system, first-principles LDA+U calculations combined with the Wannier interpolation method were performed to evaluate the electronic structure, magnetic moments, and intrinsic anomalous Hall conductivity for various occupied 4f states."
+    },
+    "main_takeaway": {
+      "zh": "即使在 4f 态局域化且不直接穿过费米面的大 U 极限下，内禀反常霍尔电导率仍然保持有限；局域 4f 磁性通过在非磁性轨道主导的导带中诱导交换劈裂，进而决定了 Berry 曲率分布及反常霍尔电导率的大小。",
+      "en": "The intrinsic anomalous Hall conductivity remains finite even in the large-U limit where Ce-4f states are localized and do not directly touch the Fermi surface; localized 4f magnetism induces exchange splitting in conduction bands derived from nonmagnetic orbitals, thereby generating Berry curvature."
+    },
+    "why_it_matters": {
+      "zh": "该工作阐明了重费米子和稀土体系中局域 f 电子影响输运性质的微观机制，表明非 4f 轨道导带可以通过交换耦合贡献内禀反常霍尔效应，为在 f 电子材料中实现大反常霍尔效应提供了理论路线。",
+      "en": "This work clarifies the microscopic mechanism by which localized f-electrons influence transport properties, demonstrating that non-f conduction bands can contribute to the intrinsic anomalous Hall effect through exchange coupling and suggesting a route to realize large anomalous Hall responses in f-electron materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过第一性原理计算清晰地揭示了局域 4f 磁性如何通过导带交换劈裂影响内禀反常霍尔效应，深化了对 f 电子体系中拓扑输运机制的理解。",
+        "en": "The paper clearly reveals how localized 4f magnetism affects the intrinsic anomalous Hall effect via conduction-band exchange splitting using first-principles calculations, deepening the understanding of topological transport mechanisms in f-electron systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该研究主要基于第一性原理电子结构计算和局域关联体系的输运性质分析，非常符合 Physical Review B 的收稿范围。",
+        "en": "The study focuses on first-principles electronic structure calculations and transport property analysis of localized correlated systems, which fits the scope of Physical Review B well."
+      }
+    },
+    "keywords": [
+      "Anomalous Hall effect",
+      "f-electron systems",
+      "Berry curvature",
+      "LDA+U calculations",
+      "CeRu2Si2"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:13",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2610.30964v1",
+    "title": "Intensity-driven Mott-like transition in a 2D Ruddlesden-Popper perovskite",
+    "authors": [
+      "Koushik Mondal",
+      "Amit Haldar",
+      "Indrajit Mondal",
+      "Arpita Dutta",
+      "Himanshu Bhatt",
+      "Biswajit Mahata",
+      "Soumili Banerjee",
+      "Hirendra Nath Ghosh",
+      "Satyaprasad P Senanayak",
+      "Shovon Pal"
+    ],
+    "abstract": "Two-dimensional Ruddlesden-Popper-type halide perovskites have emerged as promising cutting-edge nonlinear optical materials due to their strong excitonic effects and carrier-density-dependent optical responses. In this work, we investigate the nonlinear optical properties and ultrafast carrier dynamics of (BA)$_2$PbI$_4$ under infrared excitation, resonant with the two-photon energy of its excitonic transition. Using a nonlinear femtosecond Z-scan measurement with a 1030\\,nm pump pulse, we observe a pronounced intensity-dependent evolution of the nonlinear absorption coefficient and the refractive index. With increasing pump intensity, a switch from saturable absorption to reverse saturable absorption emerges, suggesting an intensity-driven Mott-like transition. To elucidate the underlying carrier dynamics, intensity-dependent transient absorption spectroscopy was performed under the same excitation intensities. This reveals a long-lived charge carrier population above the estimated Mott density, reflecting a clear phase transition from an exciton-dominated regime to a dense electron-hole plasma regime. Moreover, such an intensity-driven, high, and switchable nonlinear optical response, along with a Mott-like transition under infrared pulse excitation, makes the 2D (BA)$_2$PbI$_4$ perovskites suitable for all-optical operation in the infrared regime.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-22T09:08:34Z",
+    "updated": "2026-10-22T09:08:34Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.30964v1",
+      "pdf_path": "data/pdfs/2026-10-23/3_Intensity-driven Mott-like transition in a 2D Ruddlesden-Popper perovskite__2610.30964v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.722171",
+    "updated_at": "2026-10-23T02:28:46.722164Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/3_Intensity-driven Mott-like transition in a 2D Ruddlesden-Popper perovskite__2610.30964v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.30964v1",
+    "pdf_filename": "3_Intensity-driven Mott-like transition in a 2D Ruddlesden-Popper perovskite__2610.30964v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文在二维Ruddlesden-Popper钙钛矿薄膜中利用飞秒红外脉冲观察到了强度驱动的Mott类绝缘体-金属相变及其显著的非线性光学响应。",
+      "en": "This work demonstrates an intensity-driven Mott-like transition and a pronounced nonlinear optical response in 2D Ruddlesden-Popper perovskite thin films using femtosecond infrared pulses."
+    },
+    "problem": {
+      "zh": "如何通过控制激发光强度在二维卤化物钙钛矿中实现并观测激子相向高密度电子-hole等离子体相的转变，以及揭示其强非线性光学行为。",
+      "en": "How to achieve and observe the transition from an exciton-dominated phase to a dense electron-hole plasma phase in 2D halide perovskites by controlling the excitation intensity, and to uncover their robust nonlinear optical behaviors."
+    },
+    "approach": {
+      "zh": "采用双光子共振激发的飞秒Z扫描测量和强度依赖的瞬态吸收光谱技术。",
+      "en": "Using femtosecond Z-scan measurements under two-photon resonance excitation and intensity-dependent transient absorption spectroscopy."
+    },
+    "main_takeaway": {
+      "zh": "随着激发光强度增加，二维钙钛矿从可饱和吸收转变为反饱和吸收，非线性折射率由自散焦转为自聚焦，对应于从激子态到电子-hole等离子体态的Mott类相变。",
+      "en": "With increasing pump intensity, the 2D perovskite transitions from saturable to reverse saturable absorption, and its nonlinear refractive index changes from self-defocusing to self-focusing, corresponding to a Mott-like phase transition from excitons to an electron-hole plasma."
+    },
+    "why_it_matters": {
+      "zh": "该材料展现出巨大的双光子吸收系数和可切换的非线性光学响应，为红外波段的全光集成器件和光电应用提供了优质平台。",
+      "en": "The material exhibits an exceptionally high two-photon absorption coefficient and switchable nonlinear optical responses, providing an attractive platform for all-optical integrated devices and optoelectronics in the infrared regime."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过Z扫描与瞬态吸收光谱，系统澄清了二维Ruddlesden-Popper钙钛矿中由光强驱动的Mott类相变及载流子动力学机制。",
+        "en": "The paper systematically clarifies the intensity-driven Mott-like phase transition and carrier dynamics in 2D Ruddlesden-Popper perovskites using Z-scan and transient absorption spectroscopy."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experiment"
+    },
+    "likely_venue": {
+      "journal": "Advanced Optical Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究内容高度聚焦于二维钙钛矿材料的非线性光学性质与超快光谱表征，与该期刊收稿范围完美契合。",
+        "en": "The research focuses heavily on the nonlinear optical properties and ultrafast spectroscopy characterization of 2D perovskites, which fits the scope of the journal perfectly."
+      }
+    },
+    "keywords": [
+      "2D perovskites",
+      "Mott-like transition",
+      "Z-scan",
+      "transient absorption",
+      "nonlinear optics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:47",
+    "input_scope": "full_pdf_text"
+  }
+}

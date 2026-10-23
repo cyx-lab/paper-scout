@@ -1,0 +1,105 @@
+{
+  "paper_record": {
+    "id": "2610.31045v1",
+    "title": "The Mechanism of Chirality in Plasmonic Structures: Asymmetric Resonance Modes",
+    "authors": [
+      "Abduweli Abdukerim"
+    ],
+    "abstract": "This study presents a theoretical framework for understanding the mechanism of chirality generation and circular dichroism (CD) in chiral nanostructures, with a particular focus on the role of asymmetric plasmon resonance mode distributions. Although previous studies have linked chiroptical properties to resonance differences, the specific nature and origin of these differences have not been fully elucidated. Here, we provide a more detailed explanation by quantitatively analyzing the asymmetric electric-field components arising from mode asymmetry. Specifically, we examine the near-field symmetry of individual nanorods and corner-stacked coupled structures (CSCS). The results demonstrate that chirality arises from asymmetric electric-field distributions, which give rise to distinct phase and amplitude responses of the electromagnetic fields in the composite structure under right-handed circularly polarized (RCP) and left-handed circularly polarized (LCP) illumination. The absorption and CD spectra, which exhibit distinct features around $910\\,\\mathrm{nm}$, support this mechanism and provide valuable insights into the design of chiroptical materials. The proposed mechanism is not restricted to a specific chiral structure or resonance and offers a broader explanation for the generation of circular dichroism.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-10-22T10:21:13Z",
+    "updated": "2026-10-22T10:21:13Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.31045v1",
+      "pdf_path": "data/pdfs/2026-10-23/3_The Mechanism of Chirality in Plasmonic Structures Asymmetric Resonance Modes__2610.31045v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.722030",
+    "updated_at": "2026-10-23T02:28:46.722023Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/3_The Mechanism of Chirality in Plasmonic Structures Asymmetric Resonance Modes__2610.31045v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.31045v1",
+    "pdf_filename": "3_The Mechanism of Chirality in Plasmonic Structures Asymmetric Resonance Modes__2610.31045v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "该研究通过理论计算和电场分析表明，等离激元纳米结构的圆二色性和手性源于反对称共振模式引起的非对称电场分布和耦合。",
+      "en": "This study demonstrates through theoretical calculations and electric field analysis that circular dichroism and chirality in plasmonic nanostructures arise from asymmetric electric field distributions and couplings caused by anti-symmetric resonance modes."
+    },
+    "problem": {
+      "zh": "以往关于等离激元手性的研究多停留在定性分析阶段，缺乏对圆二色性及手性产生底层物理机制的定量解释。",
+      "en": "Previous studies on plasmonic chirality remained largely qualitative, lacking a clear quantitative physical interpretation of the mechanisms underlying circular dichroism and chirality generation."
+    },
+    "approach": {
+      "zh": "使用有限元方法（COMSOL）对单个纳米棒和角堆叠耦合结构进行全波电磁场模拟，并对电场分量振幅与初始相位进行全周期定量分析。",
+      "en": "Using finite element method (COMSOL) simulations for full-field electromagnetic calculations on individual nanorods and corner-stacked coupled structures, combined with a quantitative full-cycle analysis of electric field amplitudes and initial phases."
+    },
+    "main_takeaway": {
+      "zh": "手性响应并非源于简单的共振频移，而是由正交纳米棒在圆偏振光激发下产生的不对称近场耦合和相位振幅差异所主导。",
+      "en": "Chiroptical responses do not originate from simple resonance shifts, but are driven by asymmetric near-field coupling and phase-amplitude differences between orthogonal nanorods under circularly polarized excitation."
+    },
+    "why_it_matters": {
+      "zh": "该工作为理解纳米光子学中的手性机制提供了普适的理论框架和定量视角，有助于指导手性光学材料的设计。",
+      "en": "This work provides a universal theoretical framework and quantitative perspective for understanding chiral mechanisms in nanophotonics, offering valuable guidance for designing chiroptical materials."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过对近场电场分量和全周期振荡的定量分析，深入阐明了等离激元手性背后的微观电磁场不对称耦合机制。",
+        "en": "The paper clarifies the microscopic electromagnetic asymmetric coupling mechanism behind plasmonic chirality through quantitative analysis of near-field electric field components and full-cycle oscillations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Optics Express",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究内容高度聚焦于纳米光子学中的光学共振、数值模拟及电磁场分析，非常符合该期刊的收稿范围。",
+        "en": "The research focuses tightly on optical resonances, numerical simulations, and electromagnetic field analysis in nanophotonics, fitting well within the journal's scope."
+      }
+    },
+    "keywords": [
+      "Plasmonics",
+      "Chirality",
+      "Circular dichroism",
+      "Surface plasmon resonance",
+      "Finite element method"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:51",
+    "input_scope": "full_pdf_text"
+  }
+}

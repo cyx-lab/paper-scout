@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2610.29729v2",
+    "title": "Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$",
+    "authors": [
+      "Hong-Hao Song",
+      "Gang v. Chen"
+    ],
+    "abstract": "Motivated by the recent experimental interest in honeycomb molybdates A$_2$Mo$_3$O$_8$, we return and develop the minimal models to capture the essential physics for Fe$_2$Mo$_3$O$_8$. It is pointed out that, the magnetism in these materials arises from the mutual induction between the spin-orbit coupling of the tetrahedral sublattice with active orbitals and the superexchange with the spins from the octahedral sublattice. Essentially, the superexchange between the tetrahedral and octahedral sublattices directly drives the ferrimagnetism, and the residual spin-orbit coupling on the tetrahedral sublattice induces the complex orbital order. The hybrid magnon-phonon excitations are further explored together with their resulting Berry curvatures and thermal Hall effect. We discuss the experimental relevance with Fe$_2$Mo$_3$O$_8$, and the framework can be extended to FeNiMo$_3$O$_8$, Ni$_2$Mo$_3$O$_8$ and other isostructural magnets.",
+    "categories": [
+      "cond-mat.str-el",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-21T13:32:42Z",
+    "updated": "2026-10-22T14:53:19Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.29729v2",
+      "pdf_path": "data/pdfs/2026-10-23/3_Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$__2610.29729v2.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.723828",
+    "updated_at": "2026-10-23T02:28:46.723822Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/3_Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$__2610.29729v2.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.29729v2",
+    "pdf_filename": "3_Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$__2610.29729v2.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文建立并研究了蜂窝状钼酸盐 Fe2Mo3O8 中由四面体和八面体铁离子多重态、自旋轨道耦合及超交换相互作用交织产生的铁磁性、复杂轨道序和拓扑磁振子-声子激发。",
+      "en": "This paper develops and investigates minimal models for honeycomb molybdate Fe2Mo3O8, revealing how intertwined local multiplets, spin-orbit coupling, and superexchange drive ferrimagnetism, complex orbital order, and topological magnon-phonon excitations."
+    },
+    "problem": {
+      "zh": "探究 3d 过渡金属化合物中具有多重态结构和自旋轨道耦合的磁性离子如何在地磁网络中驱动宏观磁性、轨道序以及拓扑元激发。",
+      "en": "To understand how atomic multiplets and substantial spin-orbit coupling of magnetic ions in 3d transition-metal compounds drive macroscopic magnetism, orbital order, and topological elementary excitations in a geometrically frustrated lattice."
+    },
+    "approach": {
+      "zh": "结合局域多重态、有效超交换机制、Dzyaloshinskii-Moriya 相互作用以及晶格动力学，构建包含自旋、轨道和声子自由度的微观最小模型，并利用 Holstein-Primakoff 展开和 Bogoliubov 变换求解混合磁振子-声子谱及贝里曲率。",
+      "en": "Constructing a microscopic minimal model incorporating local multiplets, superexchange, Dzyaloshinskii-Moriya interactions, and lattice dynamics, and employing Holstein-Primakoff expansion and Bogoliubov transformation to solve the hybrid magnon-phonon spectrum and Berry curvature."
+    },
+    "main_takeaway": {
+      "zh": "Fe2Mo3O8 中的铁磁性由四面体与八面体亚晶格间的超交换直接驱动，而四面体亚晶格上的残余自旋轨道耦合则诱导出了复杂的轨道序，其耦合能产生具有非平庸贝里曲率和热霍尔效应的混合磁振子-声子带。",
+      "en": "Ferrimagnetism in Fe2Mo3O8 is directly driven by inter-sublattice superexchange, while residual spin-orbit coupling on the tetrahedral sublattice induces complex orbital order, resulting in hybrid magnon-phonon bands with nontrivial Berry curvature and thermal Hall effect."
+    },
+    "why_it_matters": {
+      "zh": "该工作揭示了 3d 电子的复杂原子多重态并非孤立特征，而是可以作为活跃的微观自由度，与晶体场和交换相互作用交织并决定关联材料的低能涌现行为，为理解同构极性磁体提供了普适框架。",
+      "en": "It demonstrates that complex atomic multiplets of 3d electrons act as active microscopic degrees of freedom intertwining with crystal fields and exchange interactions, providing a universal framework to understand low-energy emergent behaviors in isostructural polar magnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章通过建立微观最小模型，深入阐明了蜂窝状钼酸盐中自旋、轨道、磁性与晶格振动交织的物理机制。",
+        "en": "The paper thoroughly elucidates the physical mechanisms of intertwined spin, orbital, magnetism, and lattice vibrations in honeycomb molybdates through microscopic minimal models."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作侧重于凝聚态磁学中自旋模型、激发谱和拓扑输运的深入理论分析，非常符合 Physical Review B 的收稿范围。",
+        "en": "The work focuses on in-depth theoretical analysis of spin models, excitation spectra, and topological transport in condensed matter magnetism, perfectly fitting the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "Honeycomb molybdate",
+      "Ferrimagnetism",
+      "Orbital order",
+      "Magnon-phonon coupling",
+      "Berry curvature",
+      "Thermal Hall effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:07",
+    "input_scope": "full_pdf_text"
+  }
+}

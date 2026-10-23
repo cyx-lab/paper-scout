@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.30733v1",
+    "title": "Ferroelastic Reversal Magnon Thermal Hall Effect in a Fully Compensated Ferrimagnet",
+    "authors": [
+      "Yingxi Bai",
+      "Zihan Chen",
+      "Chengwang Niu",
+      "Ming Yang"
+    ],
+    "abstract": "Magnons offer a charge-neutral channel for spin and heat transport, yet reversible and nonvolatile control of their thermal Hall response poses a fundamental challenge in systems with zero net magnetization. Here, we establish ferroelastic switching as an effective route to manipulate magnonic transverse responses in fully compensated ferrimagnets. A minimal Heisenberg-Dzyaloshinskii-Moriya model reveals that ferroelastic switching can re-orientate the lattice anisotropy, which reconstructs the chirality-resolved magnon bands and Berry curvature distribution. Consequently, the two orthogonal fully compensated ferrimagnetic variants related by [C2||C4z] exhibit magnon thermal Hall responses with opposite signs, whereas the response vanishes in the intermediate altermagnetic phase. First-principles calculations further identify monolayer V2SSe as a promising material candidate for realizing the proposed ferroelastic control of transverse magnon transport. Remarkably, ferroelastic switching drives a dual magnonic-electronic band reconstruction, enabling nonvolatile reversal of the magnon thermal Hall effect while producing anisotropic orbital Hall responses and distinct magneto-optical spectra as complementary transport and optical fingerprints. Our findings establish ferroelasticity as an effective route to nonvolatile magnon control and multichannel state identification in zero net magnetization systems.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-22T05:01:12Z",
+    "updated": "2026-10-22T05:01:12Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 6,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.30733v1",
+      "pdf_path": "data/pdfs/2026-10-23/6_Ferroelastic Reversal Magnon Thermal Hall Effect in a Fully Compensated Ferrimagnet__2610.30733v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.722681",
+    "updated_at": "2026-10-23T02:28:46.722674Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/6_Ferroelastic Reversal Magnon Thermal Hall Effect in a Fully Compensated Ferrimagnet__2610.30733v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.30733v1",
+    "pdf_filename": "6_Ferroelastic Reversal Magnon Thermal Hall Effect in a Fully Compensated Ferrimagnet__2610.30733v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文展示了通过铁弹性开关实现全补偿铁磁体中磁振子热霍尔效应的非易失性反转。",
+      "en": "This work demonstrates the nonvolatile reversal of the magnon thermal Hall effect in a fully compensated ferrimagnet via ferroelastic switching."
+    },
+    "problem": {
+      "zh": "在零净磁化强度的系统中，如何实现对磁振子热霍尔响应的可逆且非易失性控制是一个基本挑战。",
+      "en": "Achieving reversible and nonvolatile control of the magnon thermal Hall response in systems with zero net magnetization poses a fundamental challenge."
+    },
+    "approach": {
+      "zh": "结合最小海森堡-德达洛申斯基-莫里亚模型分析与第一性原理计算，研究了二维V2SSe单层中的铁弹性与磁振子输运特性。",
+      "en": "Combining a minimal Heisenberg-Dzialoshinskii-Moriya model analysis with first-principles calculations, ferroelasticity and magnon transport properties in monolayer V2SSe are investigated."
+    },
+    "main_takeaway": {
+      "zh": "铁弹性开关可以旋转晶格各向异性，重构手性分辨的磁振子能带和贝里曲率，从而在保持零净磁化强度的同时反转磁振子热霍尔效应的符号。",
+      "en": "Ferroelastic switching reorients the lattice anisotropy and reconstructs chirality-resolved magnon bands and Berry curvature, thereby reversing the sign of the magnon thermal Hall effect while maintaining zero net magnetization."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了铁弹性作为在零净磁化系统（如全补偿铁磁体）中控制磁振子输运和多通道状态识别的有效途径。",
+      "en": "This research establishes ferroelasticity as an effective route to control magnon transport and identify multichannel states in zero-net-magnetization systems such as fully compensated ferrimagnets."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次揭示了通过铁弹性开关实现无净磁化系统磁振子热霍尔效应非易失性反转的对称性机制，并提供了具体的二维材料候选。",
+        "en": "This work reveals the symmetry mechanism for the nonvolatile reversal of the magnon thermal Hall effect in a zero-net-magnetization system via ferroelastic switching for the first time, backed by a concrete 2D material candidate."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文提出了非常规磁体中拓扑磁振子输运和铁弹性控制的新颖基础物理机制，符合该期刊的高影响力标准。",
+        "en": "The paper presents novel foundational physical mechanisms for topological magnon transport and ferroelastic control in unconventional magnets, meeting the high-impact standards of the journal."
+      }
+    },
+    "keywords": [
+      "Magnon thermal Hall effect",
+      "Fully compensated ferrimagnets",
+      "Ferroelastic switching",
+      "Berry curvature",
+      "Altermagnetism"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:17",
+    "input_scope": "full_pdf_text"
+  }
+}

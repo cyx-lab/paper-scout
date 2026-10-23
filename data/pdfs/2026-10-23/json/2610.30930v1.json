@@ -1,0 +1,115 @@
+{
+  "paper_record": {
+    "id": "2610.30930v1",
+    "title": "Chiroptical Valleytronic in SnSe",
+    "authors": [
+      "Yiming Pan",
+      "Sotirios Fragkos",
+      "Umberto Dellasette",
+      "Quentin Courtade",
+      "Dominique Descamps",
+      "Stéphane Petit",
+      "Fabio Caruso",
+      "Samuel Beaulieu"
+    ],
+    "abstract": "Quantum geometric properties of Bloch electrons play a central role in governing light-matter interactions and transport phenomena in solids. Here, we report quantum-geometric chiroptical selection rules that generate a helicity-dependent momentum-space population imbalance in the group-IV monochalcogenide SnSe. By combining time- and angle-resolved extreme-ultraviolet photoemission spectroscopy with ab initio real-time simulations of photoexcited carrier dynamics, we identify valley-selective excitation at opposite crystal momenta arising from the breaking of time-reversal symmetry under circularly polarized illumination. We theoretically demonstrate that the magnitude of valley circular dichroism is strongly constrained by crystal symmetry through its influence on the quantum geometric tensor, the key quantity underlying valley optical selection rules. The resulting chiroptically induced valley polarization decays on sub-picosecond timescales through intervalley scattering mediated by electron-phonon coupling. Furthermore, we show theoretically that the population imbalance between valleys at opposite momenta gives rise to a helicity-reversible transient photocurrent. These findings provide microscopic insight into how quantum geometry governs valley-selective light-matter interactions, valley polarization, and photocurrent generation in van der Waals materials exhibiting hidden and transient symmetry breaking.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-22T08:52:01Z",
+    "updated": "2026-10-22T08:52:01Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry",
+        "quantum_geometry:quantum geometric tensor",
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.30930v1",
+      "pdf_path": "data/pdfs/2026-10-23/3_Chiroptical Valleytronic in SnSe__2610.30930v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-23T02:28:46.722197",
+    "updated_at": "2026-10-23T02:28:46.722192Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-23/3_Chiroptical Valleytronic in SnSe__2610.30930v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.30930v1",
+    "pdf_filename": "3_Chiroptical Valleytronic in SnSe__2610.30930v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文结合超快极紫外光电子能谱与从头算模拟，在块体层状材料 SnSe 中观测到了由量子几何驱动的手性谷选择定则与瞬态光电流。",
+      "en": "Combining time-resolved XUV photoemission spectroscopy with ab initio simulations, this work reveals quantum-geometry-driven chiroptical valley selection rules and transient photocurrents in layered SnSe."
+    },
+    "problem": {
+      "zh": "探讨在缺乏传统六角晶格三重旋转对称性、且整体具中心对称性的范德瓦尔斯材料（如第四主族单硫属化物 SnSe）中，圆偏振光如何通过量子几何激发谷选择性载流子并产生瞬态光电流。",
+      "en": "Exploring how circularly polarized light excites valley-selective carriers and generates transient photocurrents via quantum geometry in van der Waals materials lacking conventional hexagonal threefold rotational symmetry and possessing overall centrosymmetry, such as group-IV monochalcogenide SnSe."
+    },
+    "approach": {
+      "zh": "结合时间与角分辨极紫外光电子能谱（tr-ARPES）实验、实时含时玻尔兹曼方程（TDBE）模拟以及解析紧束缚模型分析。",
+      "en": "Combining time- and angle-resolved extreme-ultraviolet photoemission spectroscopy (tr-ARPES) experiments, real-time time-dependent Boltzmann equation (TDBE) simulations, and analytical tight-binding model analysis."
+    },
+    "main_takeaway": {
+      "zh": "圆偏振光可在 SnSe 中诱导由层间隐藏的能带贝里曲率及量子几何张量决定的动量空间布居不平衡，并产生亚皮秒级的螺性可逆瞬态光电流，该布居不对称性随后通过电子-声子散射在亚皮秒尺度内衰减。",
+      "en": "Circularly polarized light induces a momentum-space population imbalance in SnSe determined by hidden layer-resolved Berry curvature and quantum geometric tensors, generating a helicity-reversible transient photocurrent that decays via electron-phonon scattering on sub-picosecond timescales."
+    },
+    "why_it_matters": {
+      "zh": "该研究将基于圆二色性的谷电子学从传统的六角单层材料扩展到了更广泛的低对称性范德瓦尔斯材料家族，证明了动量空间贝里曲率和量子几何是调控谷选择性光物质相互作用的普适机制。",
+      "en": "This study extends circular-dichroism-based valleytronics from traditional hexagonal monolayers to a broader family of low-symmetry van der Waals materials, demonstrating that momentum-resolved Berry curvature and quantum geometry are universal mechanisms governing valley-selective light-matter interactions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次在实验和理论上结合揭示了低对称性层状材料中隐藏的量子几何手性谷选择定则与瞬态光电流，拓展了谷电子学的物理机制和材料平台。",
+        "en": "This work combines experimental and theoretical approaches to uncover hidden quantum-geometric chiroptical valley selection rules and transient photocurrents in low-symmetry layered materials, broadening both the physical mechanisms and material platforms of valleytronics."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论 + 数值",
+      "en": "Experiment + Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Nature Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文结合了先进的超快极紫外动量显微镜实验与从头算输运模拟，研究成果具有突破性和广泛的材料物理意义，且正文已标注相关前序关联成果。",
+        "en": "The paper combines advanced ultrafast XUV momentum microscopy experiments with ab initio transport simulations, presenting breakthrough results of broad significance to material physics."
+      }
+    },
+    "keywords": [
+      "Valleytronics",
+      "Quantum geometry",
+      "Time-resolved photoemission spectroscopy",
+      "SnSe",
+      "Circular dichroism",
+      "Transient photocurrent"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-23",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-23T10:29:36",
+    "input_scope": "full_pdf_text"
+  }
+}
