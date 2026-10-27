@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2610.34794v1",
+    "title": "Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders",
+    "authors": [
+      "Naomichi Sato",
+      "Makoto Naka",
+      "Joji Nasu"
+    ],
+    "abstract": "Solid oxygen provides a unique platform for studying the interplay between structural and magnetic degrees of freedom, as each O$_2$ molecule possesses an $S=1$ spin and weak intermolecular van der Waals interactions allow substantial structural flexibility. In addition, because of its small intermolecular hopping integrals, this system is known to be a strongly correlated electron system with a multiorbital nature. In this study, we examine electronic states and magnetic and dielectric responses using a multiorbital Hubbard model with Peierls-type electron-lattice coupling. This model provides a minimal description of the interplay between structural and magnetic degrees of freedom in solid oxygen. We apply the Hartree-Fock approximation to obtain the ground-state phase diagram. Antiferromagnetic order appears when the onsite Coulomb interaction is strong, whereas three nonmagnetic bond-ordered states emerge when it is weak. At intermediate interaction strengths, antiferromagnetic order coexists with each of the three bond orders. These three coexistence phases all break time-reversal symmetry; one preserves spatial inversion symmetry, whereas the other two also break it. The two inversion-breaking phases exhibit linear magnetoelectric responses, whereas the inversion-symmetric phase exhibits altermagnetic spin splitting and a piezomagnetic response. These responses may provide experimental signatures of coexisting magnetic and structural orders in high-pressure solid oxygen suggested by recent experiments.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-26T03:38:41Z",
+    "updated": "2026-10-26T03:38:41Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.34794v1",
+      "pdf_path": "data/pdfs/2026-10-27/3_Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders__2610.34794v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-27T02:53:16.357776",
+    "updated_at": "2026-10-27T02:53:16.357770Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-27/3_Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders__2610.34794v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.34794v1",
+    "pdf_filename": "3_Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders__2610.34794v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过多轨道Peierls-Hubbard模型和Hartree-Fock近似，本文研究了固态氧中结构相变与磁性共存的微观机制及其伴随的磁电、非相对论自旋劈裂与压磁响应。",
+      "en": "Using a multiorbital Peierls-Hubbard model within the Hartree-Fock approximation, this study investigates the microscopic mechanism of coexisting structural and magnetic orders in solid oxygen, alongside their associated magnetoelectric, altermagnetic, and piezomagnetic responses."
+    },
+    "problem": {
+      "zh": "固态氧在高压下表现出磁性与结构畸变（如四聚化）的复杂 interplay。以往研究对于磁性到非磁性转变的微观机制、键序竞争以及共存相中对称性破缺所引发的交叉响应仍缺乏系统理解。",
+      "en": "Solid oxygen exhibits a complex interplay between magnetism and structural distortions under pressure. The microscopic mechanism driving the magnetic-to-nonmagnetic transition, the competition among bond orders, and the cross-responses induced by symmetry breaking in coexistence phases remain poorly understood."
+    },
+    "approach": {
+      "zh": "构建包含自旋-轨道耦合和电子-晶格耦合的三轨道Peierls-Hubbard模型，应用Hartree-Fock近似计算基态相图，并通过Wilson环和线性响应方法计算电极化、能带自旋劈裂与压磁响应。",
+      "en": "A three-orbital Peierls-Hubbard model incorporating spin-orbit and electron-lattice couplings is constructed. The Hartree-Fock approximation is used to obtain the ground-state phase diagram, and Wilson-loop and linear-response methods are employed to compute electric polarization, band spin splitting, and piezomagnetic responses."
+    },
+    "main_takeaway": {
+      "zh": "中等关联强度下反铁磁序与三种键序共存，其中zigzag和meander共存相表现出线性磁电效应，而tetramer共存相表现出具有非相对论自旋劈裂的阿尔特磁性与压磁响应。",
+      "en": "Antiferromagnetic order coexists with three distinct bond orders at intermediate correlations, where zigzag and meander coexistence phases exhibit linear magnetoelectric effects, while the tetramer phase exhibits altermagnetism with nonrelativistic spin splitting and piezomagnetism."
+    },
+    "why_it_matters": {
+      "zh": "该工作为理解高压固态氧中实验观察到的复杂磁结构与结构相变提供了微观理论支撑，并揭示了关联分子固体中由磁-结构共存产生的新奇多铁性和阿尔特磁性特征。",
+      "en": "This work provides microscopic theoretical support for complex magnetic and structural phase transitions observed in high-pressure solid oxygen, and uncovers novel multiferroic and altermagnetic signatures arising from magneto-structural coexistence in correlated molecular solids."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过建立极具针对性的多轨道模型，清晰阐明了固态氧中磁序与键序共存的相图及各类对称性破缺导致的电磁响应特性。",
+        "en": "By establishing a targeted multiorbital model, the paper clearly elucidates the phase diagram of coexisting magnetic and bond orders in solid oxygen and links them to specific symmetry-breaking electromagnetic responses."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究内容高度契合Physical Review B在强关联电子系统、磁性与结构相变方面的发文方向。",
+        "en": "The research scope aligns closely with Physical Review B's focus on strongly correlated electron systems, magnetism, and structural phase transitions."
+      }
+    },
+    "keywords": [
+      "Solid oxygen",
+      "Peierls-Hubbard model",
+      "Magnetoelectric effect",
+      "Altermagnetism",
+      "Hartree-Fock approximation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-27",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-27T10:53:30",
+    "input_scope": "full_pdf_text"
+  }
+}
