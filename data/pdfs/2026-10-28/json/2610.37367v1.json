@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2610.37367v1",
+    "title": "Unconventional SOC-activated Altermagnetic Spin Splitting and Half-Angle Locking of Spin Transport",
+    "authors": [
+      "Weiwei Chen",
+      "Ziyu Zhou",
+      "Pan Gao",
+      "Yanan Pan",
+      "Zhongjun Li",
+      "Ye Yang",
+      "Jianhui Zhou",
+      "Rui Wang"
+    ],
+    "abstract": "Conventional altermagnetic spin splitting arises from staggered exchange and sublattice-dependent anisotropic hopping without requiring spin-orbit coupling (SOC). Here we derive a low-energy effective model showing that SOC and staggered exchange can jointly activate additional spin splitting on momentum planes where the nonrelativistic contribution vanishes. In hexagonal $α$-MnTe, this SOC-activated contribution produces d-wave spin splitting near $Γ$ with out-of-plane spin polarization. Its leading angular pattern counter-rotates by half the in-plane Néel-vector rotation angle. First-principles spin-transport calculations reveal a corresponding approximate half-angle locking between the Néel-vector orientation and the electric-field directions maximizing the signed longitudinal and transverse spin conductivities. Analytical transport calculations based on the effective model trace this locking to the same angular coupling between momentum and the Néel vector that governs the spin-splitting pattern. Our findings connect the microscopic mechanism of SOC-activated altermagnetic spin splitting to directional spin transport, providing a theoretical basis for probing Néel-vector orientation and controlling spin-current generation.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-27T15:01:49Z",
+    "updated": "2026-10-27T15:01:49Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.37367v1",
+      "pdf_path": "data/pdfs/2026-10-28/3_Unconventional SOC-activated Altermagnetic Spin Splitting and Half-Angle Locking of Spin Transport__2610.37367v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-28T02:58:40.310056",
+    "updated_at": "2026-10-28T02:58:40.310048Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-28/3_Unconventional SOC-activated Altermagnetic Spin Splitting and Half-Angle Locking of Spin Transport__2610.37367v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.37367v1",
+    "pdf_filename": "3_Unconventional SOC-activated Altermagnetic Spin Splitting and Half-Angle Locking of Spin Transport__2610.37367v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了自旋轨道耦合（SOC）与交错磁场共同诱导的交变磁性（altermagnetic）自旋劈裂及其对自旋输运的半角锁定效应。",
+      "en": "This paper investigates the spin-orbit coupling (SOC) and staggered exchange-activated altermagnetic spin splitting and its half-angle locking effect on spin transport."
+    },
+    "problem": {
+      "zh": "传统非相对论交变磁性自旋劈裂不需要自旋轨道耦合，但在某些动量平面上该贡献会消失；本文旨在弄清SOC与交错磁场如何共同产生附加的自旋劈裂，以及奈尔矢量取向如何控制自旋输运。",
+      "en": "Conventional nonrelativistic altermagnetic spin splitting requires no spin-orbit coupling, but vanishes on certain momentum planes; this work aims to clarify how SOC and staggered exchange jointly generate additional spin splitting and how the Neel vector orientation governs spin transport."
+    },
+    "approach": {
+      "zh": "通过推导低能有效模型、结合第一性原理计算与 Wannier 紧束缚哈密顿量，研究了六角晶系 alpha-MnTe 中的自旋织构与自旋电导率张量。",
+      "en": "By deriving a low-energy effective model, combining first-principles calculations and Wannier tight-binding Hamiltonians, the spin textures and spin conductivity tensors in hexagonal alpha-MnTe are investigated."
+    },
+    "main_takeaway": {
+      "zh": "在 alpha-MnTe 的特定平面中，SOC 激活了 d 波自旋劈裂，并且最优的纵向和横向自旋输运方向表现出随奈尔矢量旋转呈近似半角锁定的行为。",
+      "en": "In specific planes of alpha-MnTe, SOC activates d-wave spin splitting, and the optimal longitudinal and transverse spin transport directions exhibit an approximate half-angle locking behavior with respect to the Neel vector rotation."
+    },
+    "why_it_matters": {
+      "zh": "该研究连接了微观自旋轨道耦合机制与定向自旋输运，为通过电学或角度相关测量来探测奈尔矢量取向以及控制自旋流生成提供了理论基础。",
+      "en": "This study connects microscopic spin-orbit coupling mechanisms to directional spin transport, providing a theoretical basis for probing Neel vector orientation and controlling spin-current generation via angle-dependent transport."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章深入阐明了自旋轨道耦合在交变磁性材料中诱导附加自旋劈裂的微观机制，并揭示了其与自旋输运的最优半角锁定规律。",
+        "en": "The paper thoroughly elucidates the microscopic mechanism of SOC-induced additional spin splitting in altermagnets and reveals the optimal half-angle locking behavior with spin transport."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 数值计算",
+      "en": "Theory + Numerical calculation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作结合了微观有效模型推导、对称性分析与第一性原理材料计算，探讨磁性材料的电子结构与自旋输运，非常符合 PRB 的收稿范围。",
+        "en": "The work combines microscopic effective model derivation, symmetry analysis, and first-principles material calculations for electronic structure and spin transport, fitting well within the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Spin-orbit coupling",
+      "Spin transport",
+      "Neel vector",
+      "MnTe"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-28",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-28T10:59:19",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2610.37402v1",
+    "title": "Electric Field-Induced Hole- and Electron-Type Flat Bands in Twisted Double Bilayer Graphene",
+    "authors": [
+      "Zhihao Jiang",
+      "Dongkyu Lee",
+      "Alfred J. H. Jones",
+      "Youngju Park",
+      "Paulina Majchrzak",
+      "Kimberly Hsieh",
+      "Chakradhar Sahoo",
+      "Thomas S. Nielsen",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Philip Hofmann",
+      "Yong P. Chen",
+      "Jeil Jung",
+      "Søren Ulstrup"
+    ],
+    "abstract": "Application of a finite electric field and small twist angle between two graphene bilayers leads to widely tunable electronic structures that support emergent phenomena. Here, we measure the electronic structure of twisted double bilayer graphene with twist angles of 3.1$^{\\circ}$ and 6.0$^{\\circ}$ using micro-focused angle-resolved photoemission spectroscopy (microARPES) on \\textit{in situ} gated samples. At a twist angle of 6.0$^{\\circ}$, we find that the dispersion around the valence and conduction band extrema is unchanged compared to separate graphene bilayers, whereas electric field tunable hybridisation gaps and band flattening effects occur at higher binding energies. In the 3.1$^{\\circ}$ structure, we find that the resulting superlattice drives dispersion changes around the valence and conduction band edges. Increasing the gate-induced doping in the bottom bilayer leads to the formation of flat bands between the valence band maximum in the bottom bilayer and conduction band minimum in the top bilayer. Our experiments establish combinations of twist angle and electric field that potentially support strong electron-hole excitations and that provide a benchmark for the theoretical description of moderately twisted double bilayer graphene.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-27T15:18:36Z",
+    "updated": "2026-10-27T15:18:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "moire:twist angle"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.37402v1",
+      "pdf_path": "data/pdfs/2026-10-28/3_Electric Field-Induced Hole- and Electron-Type Flat Bands in Twisted Double Bilayer Graphene__2610.37402v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-28T02:58:40.310010",
+    "updated_at": "2026-10-28T02:58:40.309999Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-28/3_Electric Field-Induced Hole- and Electron-Type Flat Bands in Twisted Double Bilayer Graphene__2610.37402v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.37402v1",
+    "pdf_filename": "3_Electric Field-Induced Hole- and Electron-Type Flat Bands in Twisted Double Bilayer Graphene__2610.37402v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过微区角分辨光电子能谱研究了扭转双双层石墨烯在垂直电场下的能带演化，发现可调谐的杂化带隙与电子-空穴混合平带。",
+      "en": "MicroARPES reveals tunable hybridization gaps and mixed electron-hole flat bands in twisted double bilayer graphene under vertical electric fields."
+    },
+    "problem": {
+      "zh": "扭转双双层石墨烯在不同转角和垂直电场下电子关联增强与层间极化的交叉区间内的能带结构演化尚不明确。",
+      "en": "The electronic structure evolution of twisted double bilayer graphene in the crossover regime of enhanced correlations and interlayer polarization remains unclear."
+    },
+    "approach": {
+      "zh": "结合原位门控器件微区角分辨光电子能谱（microARPES）实验测量与紧束缚模型光谱函数计算。",
+      "en": "Combining micro-focused angle-resolved photoemission spectroscopy (microARPES) on in situ gated devices with tight-binding spectral function calculations."
+    },
+    "main_takeaway": {
+      "zh": "在3.1度转角器件中，垂直电场驱动形成了连接顶层价带顶与底层导带底的电子-空穴混合平带。",
+      "en": "A vertical electric field drives the formation of mixed electron-hole flat bands connecting valence and conduction band extrema in the 3.1-degree twist angle device."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了通过转角和电场调控实现强关联电子-空穴态及莫尔半金属的实验基准。",
+      "en": "This work establishes benchmarks for realizing strongly correlated electron-hole states and moire semimetals through twist angle and electric field control."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次通过实验直接观测到扭转双双层石墨烯中电场诱导的电子-空穴混合平带与带隙演化，为理解关联莫尔态提供了关键能带证据。",
+        "en": "It provides direct experimental observation of electric field-induced mixed electron-hole flat bands and gap evolution in twisted double bilayer graphene, offering crucial electronic structure evidence for correlated moire states."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 数值计算",
+      "en": "Experiment + Numerical calculation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文结合了先进的光电子能谱实验与紧束缚能带计算，非常符合该期刊对二维材料电子结构研究的定位。",
+        "en": "The paper combines advanced photoemission spectroscopy experiments with tight-binding band calculations, fitting the journal's focus on 2D material electronic structures."
+      }
+    },
+    "keywords": [
+      "Twisted double bilayer graphene",
+      "microARPES",
+      "Moiré superlattice",
+      "Flat bands",
+      "Electric field tuning"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-28",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-28T10:59:25",
+    "input_scope": "full_pdf_text"
+  }
+}

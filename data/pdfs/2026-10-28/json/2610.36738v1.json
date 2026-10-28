@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.36738v1",
+    "title": "Algebraic flat bands and even central-band Chern numbers in a seven-orbital hopping model",
+    "authors": [
+      "Weizhuo Xu",
+      "Jiachen Qian",
+      "Shuaihua Zhang",
+      "Yanling Wu",
+      "Jun Li"
+    ],
+    "abstract": "Turning a flat-band parent into an isolated Chern band requires supervise of destructive interference, hopping phases, and the cell translations of the bonds. We study this connection in a seven-orbital 2 times 2 supercell honeycomb-vacancy lattice, combining analytic reductions with Bloch spectra, lattice Chern invariants, and quantum geometry. The parent lattice has three exact flat branches, a smooth periodic zero mode, and a compact localized state. A uniform gap bound shows that faint intracell-loop hopping preserves two topologically trivial insulating gaps. The intracell hopping graph also admits a staggered chiral coloring: reversing site amplitudes according to this coloring links opposite energies at momenta separated by half a reciprocal period. This constraint restricts the isolated central band to even Chern numbers and forbids a zero-energy insulating filling at every loop phase. Purely imaginary loop hopping admits a real gauge, whereas other phases allow paired band contacts connecting central bands with C3=2 and C3=4. On a specified strong-loop cut, third-order masses open the direct gaps; these gaps shrink faster than the bandwidth as the coupling grows. Changing the bond connectivity to an oriented honeycomb next-nearest-neighbor extension generates a narrower Chern band with nonuniform quantum geometry. These results distinguish individual-band topology from occupied-group topology and reveal how bond connectivity and cell translations determine which topological bands can emerge from an exactly flat parent.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-10-27T06:54:14Z",
+    "updated": "2026-10-27T06:54:14Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:quantum geometry"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.36738v1",
+      "pdf_path": "data/pdfs/2026-10-28/3_Algebraic flat bands and even central-band Chern numbers in a seven-orbital hopping model__2610.36738v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-28T02:58:40.311557",
+    "updated_at": "2026-10-28T02:58:40.311550Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-28/3_Algebraic flat bands and even central-band Chern numbers in a seven-orbital hopping model__2610.36738v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.36738v1",
+    "pdf_filename": "3_Algebraic flat bands and even central-band Chern numbers in a seven-orbital hopping model__2610.36738v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了七轨道蜂窝空位晶格中由平带衍生出的拓扑陈能带、量子几何以及键连通性的影响。",
+      "en": "This paper studies topological Chern bands, quantum geometry, and the role of bond connectivity derived from flat-band parents in a seven-orbital honeycomb-vacancy lattice."
+    },
+    "problem": {
+      "zh": "严格局域的周期性紧束缚模型无法同时支持隔离的、精确平坦且具有非平庸陈数的能带。作者旨在探讨如何通过引入晶胞内跃流和扩展跃流，将平带母体转化为孤立的、具有特定陈数的拓扑能带，并理解晶格几何与对称性对其拓扑性质的制约。",
+      "en": "Strictly local periodic tight-binding models cannot simultaneously support isolated, exactly flat, and Chern-nontrivial bands. The authors aim to understand how flat-band parents can be transformed into isolated topological Chern bands via intracell and extended hopping, and how lattice geometry and symmetries constrain these properties."
+    },
+    "approach": {
+      "zh": "结合了解析能带约化、Bloch能谱计算、格子陈数不变量、量子几何张量分析以及边界谱计算。",
+      "en": "Combined analytic band reductions, Bloch spectra calculations, lattice Chern invariants, quantum geometric tensor analysis, and boundary spectra calculations."
+    },
+    "main_takeaway": {
+      "zh": "晶胞内跃流的交错手性能量染色强制中心带具有偶数陈数并禁止零能绝缘填充；而在强耦合极限下，三阶质量项对于打开由有效哈密顿量简并点引起的直接能隙至关重要。",
+      "en": "Staggered chiral coloring of intracell loops forces even central-band Chern numbers and forbids zero-energy insulating fillings, while third-order masses are essential in the strong-coupling limit to open direct gaps at effective Hamiltonian degeneracies."
+    },
+    "why_it_matters": {
+      "zh": "该研究阐明了单一能带拓扑与占据态群拓扑的区别，揭示了键连通性和晶胞平移如何决定平带母体中拓扑能带的涌现，为设计关联量子物态提供了单粒子基础。",
+      "en": "This work distinguishes individual-band topology from occupied-group topology, reveals how bond connectivity and cell translations determine emergent topological bands from flat-band parents, and provides single-particle foundations for designing correlated quantum states."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文深入剖析了从平带母体衍生拓扑陈能带的对称性制约、强耦合极限下的能隙打开机制以及单粒子量子几何。",
+        "en": "The paper deeply analyzes the symmetry constraints, strong-limit gap-opening mechanisms, and single-particle quantum geometry in deriving topological Chern bands from flat-band parents."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作聚焦于晶格模型中的能带拓扑、平带物理与量子几何，高度符合Physical Review B的收稿范围。",
+        "en": "The work focuses on band topology, flat-band physics, and quantum geometry in lattice models, which strongly aligns with the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "Flat bands",
+      "Chern numbers",
+      "Quantum geometry",
+      "Honeycomb lattice",
+      "Tight-binding model"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-28",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-28T10:59:05",
+    "input_scope": "full_pdf_text"
+  }
+}

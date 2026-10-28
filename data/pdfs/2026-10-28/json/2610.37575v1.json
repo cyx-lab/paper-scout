@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2610.37575v1",
+    "title": "Topological Criticality with Charge-\\(3e\\) Fluctuations in the \\(\\mathrm{SU}(3)\\) Triangular-Lattice Hofstadter--Hubbard Model",
+    "authors": [
+      "Yang Liu",
+      "Ya-Hui Zhang",
+      "Xue-Yang Song"
+    ],
+    "abstract": "A transition between an integer quantum Hall insulator and a chiral spin liquid can become critical without closing the single-electron gap, raising the question of which composite excitations govern the change in topological order. We investigate this question in the \\(\\mathrm{SU}(3)\\) triangular-lattice Hofstadter--Hubbard model at one particle per site and magnetic flux \\(π/3\\) per triangle. Using infinite density matrix renormalization group calculations, we identify a weak-coupling integer quantum Hall phase and an interaction-driven \\(\\mathrm{SU}(3)_1\\) chiral spin liquid. Near the transition, both the neutral and charge-\\(3e\\) correlation lengths increase substantially, whereas the single-electron correlation length remains short, providing evidence for a Chern--Simons--Higgs critical theory, where a gauge-invariant monopole carries the quantum numbers of a fermionic \\(\\mathrm{SU}(3)\\)-singlet trion. We discuss the implications for doping the system and recent experiments on doping \\(ν=-2/3\\) fractional quantum anomalous Hall in tMoTe\\(_2\\).",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-10-27T17:19:29Z",
+    "updated": "2026-10-27T17:19:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:trion"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.37575v1",
+      "pdf_path": "data/pdfs/2026-10-28/3_Topological Criticality with Charge-(3e) Fluctuations in the (mathrm{SU}(3)) Triangular-Lattice Hofstadter--Hubbard Mode__2610.37575v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-28T02:58:40.309830",
+    "updated_at": "2026-10-28T02:58:40.309813Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-28/3_Topological Criticality with Charge-(3e) Fluctuations in the (mathrm{SU}(3)) Triangular-Lattice Hofstadter--Hubbard Mode__2610.37575v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.37575v1",
+    "pdf_filename": "3_Topological Criticality with Charge-(3e) Fluctuations in the (mathrm{SU}(3)) Triangular-Lattice Hofstadter--Hubbard Mode__2610.37575v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过无限密度矩阵重整化群研究SU(3)三角形晶格Hofstadter-Hubbard模型，发现整数量子霍尔绝缘体向手性自旋液体的相变由中性和 charge-3e 复合激发控制，而单电子能隙保持开启。",
+      "en": "Investigating the SU(3) triangular-lattice Hofstadter-Hubbard model using iDMRG, we find that the transition between an integer quantum Hall insulator and a chiral spin liquid is governed by neutral and charge-3e composite excitations while the single-electron gap remains open."
+    },
+    "problem": {
+      "zh": "当从电子绝缘体到达手性自旋液体（CSL）时，确定是哪些集体或复合激发在单电子保持gapped的相变点附近变得临界。",
+      "en": "Determining which collective or composite excitations become critical near the phase transition from an electronic insulator to a chiral spin liquid (CSL) while microscopic electrons remain gapped."
+    },
+    "approach": {
+      "zh": "采用无限密度矩阵重整化群（iDMRG）计算SU(3)三角形晶格Hofstadter-Hubbard模型在每个格点一个粒子和每个三角形π/3磁通下的电荷泵浦、纠缠谱以及转移矩阵关联长度。",
+      "en": "Employing infinite density matrix renormalization group (iDMRG) calculations to study charge pumping, entanglement spectra, and transfer-matrix correlation lengths in the SU(3) triangular-lattice Hofstadter-Hubbard model at one particle per site and flux pi/3 per triangle."
+    },
+    "main_takeaway": {
+      "zh": "在整数量子霍尔绝缘体向SU(3)手性自旋液体的相变附近，中性和 charge-3e 关联长度显著增长，而单电子关联长度保持很短，支持陈-西蒙斯-希格斯临界理论和低能trion涨落。",
+      "en": "Near the transition between the integer quantum Hall insulator and the SU(3) chiral spin liquid, the neutral and charge-3e correlation lengths increase substantially while the single-electron correlation length remains short, supporting a Chern-Simons-Higgs critical theory with low-energy trion fluctuations."
+    },
+    "why_it_matters": {
+      "zh": "该研究将SU(2)拓扑临界性的区室化视角扩展到了具有费米子统计特性的奇电荷复合通道（charge-3e trion），并为理解扭曲过渡金属硫化物中分数字常数霍尔态掺杂提供潜在启示。",
+      "en": "This work extends the sector-resolved perspective of topological criticality from SU(2) to an odd-charge, fermionic composite channel (charge-3e trion) and offers potential implications for doping fractional quantum anomalous Hall states in twisted transition metal dichalcogenides."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究首次在SU(3)系统数值上区分了复合电荷通道与单电子通道在拓扑相变临界点的不同行为，为理解分式化激发与拓扑相变提供了坚实的微观数值证据。",
+        "en": "This study provides the first numerical distinction between composite charge channels and single-electron channels at the topological phase transition in an SU(3) system, offering solid microscopic evidence for understanding fractionalized excitations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review X",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作结合了先进的iDMRG数值计算与前沿的拓扑物态、复合激发及规范场理论分析，符合PRX的物理学前沿和高影响力标准。",
+        "en": "The work combines advanced iDMRG numerics with cutting-edge theoretical analysis of topological states and gauge fields, matching the high-impact and frontier standards of PRX."
+      }
+    },
+    "keywords": [
+      "Chiral spin liquid",
+      "Topological phase transition",
+      "Hofstadter-Hubbard model",
+      "Composite excitations",
+      "Density matrix renormalization group"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-28",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-28T10:59:30",
+    "input_scope": "full_pdf_text"
+  }
+}

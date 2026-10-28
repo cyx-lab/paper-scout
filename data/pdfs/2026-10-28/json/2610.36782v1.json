@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2610.36782v1",
+    "title": "Real-Space Selection Rule for Moiré Exciton-Phonon Coupling",
+    "authors": [
+      "Yixuan Liu",
+      "Shiyu Peng",
+      "Yifan Wang",
+      "Peiyao Qin",
+      "Wang Yao",
+      "Chen Hu"
+    ],
+    "abstract": "Exciton-phonon coupling (ExPC) governs energy relaxation and exciton dynamics in photoexcited quantum materials. Recent advances have revealed rich and tunable excitonic phenomena in moiré superlattices, yet the microscopic mechanisms underlying the coupling between moiré excitons and moiré phonons remain elusive. Here, we develop a real-space representation for moiré ExPC based on a unified theoretical framework combining the many-body Bethe-Salpeter equation with phonon perturbation theory. Furthermore, we uncover a general real-space selection rule: the spatial matching of a moiré exciton's electron and hole densities with the moiré-phonon-induced potential perturbations determines their individual coupling contributions, while coherent interference between the electron and hole contributions controls the total ExPC. We demonstrate this rule in prototypical WSe2/WS2 moiré heterobilayers, revealing pronounced exciton- and phonon-mode-dependent coupling, including nearly complete suppression of ExPC through destructive electron-hole interference. These findings establish the internal electron-hole spatial configuration of moiré excitons as a key degree of freedom governing the strength and mode selectivity of their coupling to moiré phonons, opening opportunities to engineer ExPC through spatially tailored moiré potentials.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-10-27T07:48:30Z",
+    "updated": "2026-10-27T07:48:30Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.36782v1",
+      "pdf_path": "data/pdfs/2026-10-28/3_Real-Space Selection Rule for Moiré Exciton-Phonon Coupling__2610.36782v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-28T02:58:40.311233",
+    "updated_at": "2026-10-28T02:58:40.311223Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-28/3_Real-Space Selection Rule for Moiré Exciton-Phonon Coupling__2610.36782v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.36782v1",
+    "pdf_filename": "3_Real-Space Selection Rule for Moiré Exciton-Phonon Coupling__2610.36782v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文发展了莫尔激子-声子耦合的实空间理论，揭示了一个决定其耦合强度和模式选择性的普适实空间选择规则。",
+      "en": "This paper develops a real-space theory for moiré exciton-phonon coupling and uncovers a general real-space selection rule governing its strength and mode selectivity."
+    },
+    "problem": {
+      "zh": "转渡金属硫属化物莫尔超晶格中，莫尔激子与莫尔声子之间微观耦合机制尚不清楚。",
+      "en": "The microscopic mechanisms underlying the coupling between moiré excitons and moiré phonons in transition-metal dichalcogenide moiré superlattices remain elusive."
+    },
+    "approach": {
+      "zh": "结合多体 Bethe-Salpeter 方程与声子微扰理论，建立了莫尔激子-声子耦合的实空间表象。",
+      "en": "Combining the many-body Bethe-Salpeter equation with phonon perturbation theory to develop a real-space representation for moiré exciton-phonon coupling."
+    },
+    "main_takeaway": {
+      "zh": "莫尔激子的电子与空穴密度分布与声子诱导势的空间匹配决定了各自的耦合贡献，而两者的相干干涉则控制了总耦合强度。",
+      "en": "The spatial matching of a moiré exciton's electron and hole densities with phonon-induced potentials determines their individual coupling contributions, while their coherent interference controls the total coupling."
+    },
+    "why_it_matters": {
+      "zh": "该工作为理解和调控莫尔半导体中的激子-声子相互作用提供了微观基础，并可推广至其他声子驱动的量子现象。",
+      "en": "This work provides a microscopic foundation for understanding and engineering exciton-phonon interactions in moiré semiconductors and can be extended to other phonon-driven quantum phenomena."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究澄清了莫尔激子与声子耦合的微观实空间机制，揭示了电子-空穴内部空间构型对耦合选择性的关键作用。",
+        "en": "The study clarifies the microscopic real-space mechanism of moiré exciton-phonon coupling and reveals the key role of internal electron-hole spatial configurations in coupling selectivity."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作提出了一个具有普适性的基础物理选择规则，且结合了先进的量子多体计算，符合该期刊的定位。",
+        "en": "The work proposes a general foundational physical selection rule combined with advanced quantum many-body calculations, fitting the journal's scope."
+      }
+    },
+    "keywords": [
+      "moiré excitons",
+      "exciton-phonon coupling",
+      "real-space selection rule",
+      "transition metal dichalcogenides",
+      "lattice reconstruction"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-28",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-28T10:59:11",
+    "input_scope": "full_pdf_text"
+  }
+}

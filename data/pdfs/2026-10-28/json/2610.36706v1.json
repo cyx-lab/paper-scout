@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2610.36706v1",
+    "title": "Bright Solitons in Non-Hermitian systems: Exploring the interplay of $\\mathcal{PT}$ Symmetry and Wadati Structure",
+    "authors": [
+      "Sathyanarayanan Chandramouli",
+      "Ricardo Carretero-González",
+      "Dimitrios J. Frantzeskakis",
+      "Panayotis G. Kevrekidis"
+    ],
+    "abstract": "In this study, we revisit the subject of optical solitons in non-Hermitian potentials. For the underlying model of the focusing nonlinear Schrödinger equation with a complex localized potential, we offer a classification of such models into four canonical cases. These correspond to (a) $\\mathcal{PT}$-symmetric Wadati potentials, (b) $\\mathcal{PT}$-symmetric non-Wadati potentials, (c) Non-$\\mathcal{PT}$ but Wadati potentials, and (d) complex potentials with neither $\\mathcal{PT}$ nor Wadati symmetries. We study the existence and stability of optical solitons across prototypical model variations spanning all four relevant quadrants. We complement such an investigation with a low-dimensional effective description based on a non-conservative variational approximation method. The variational framework is assessed in terms of its ability to represent the structural properties and bifurcations of solutions. {Our results suggest that continuous families of bright solitons persist across sectors (a)--(c). For non-$\\mathcal{PT}$-symmetric potentials, small departures from the Wadati limit, corresponding to sector (d), suggest the loss of continuous families of bright-solitons including, more specifically, the possibility of the generic absence of single-humped localized states. The corresponding variational analysis is broadly consistent with these observations. We also highlight the usefulness and limitations for such variational approaches in describing bright solitons in the presence of non-Hermitian potentials.",
+    "categories": [
+      "nlin.PS",
+      "physics.optics"
+    ],
+    "published": "2026-10-27T06:23:50Z",
+    "updated": "2026-10-27T06:23:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2610.36706v1",
+      "pdf_path": "data/pdfs/2026-10-28/2_Bright Solitons in Non-Hermitian systems Exploring the interplay of $mathcal{PT}$ Symmetry and Wadati Structure__2610.36706v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-10-28T02:58:40.311641",
+    "updated_at": "2026-10-28T02:58:40.311634Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-10-28/2_Bright Solitons in Non-Hermitian systems Exploring the interplay of $mathcal{PT}$ Symmetry and Wadati Structure__2610.36706v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2610.36706v1",
+    "pdf_filename": "2_Bright Solitons in Non-Hermitian systems Exploring the interplay of $mathcal{PT}$ Symmetry and Wadati Structure__2610.36706v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文在统一框架下研究了非厄米非线性薛定谔方程中亮孤子的存在性与稳定性，并将其划分为包含宇称-时间（PT）对称性和瓦达蒂（Wadati）结构的四个典型象限。",
+      "en": "This paper investigates the existence and stability of bright solitons in non-Hermitian nonlinear Schrodinger equations within a unified framework, classifying systems into four canonical quadrants based on PT symmetry and Wadati structure."
+    },
+    "problem": {
+      "zh": "缺乏一个系统性的框架来全面理解不同组合的宇称-时间（PT）对称性和瓦达蒂（Wadati）结构对非厄米光学系统中孤子存在性、稳定性和分岔行为的影响。",
+      "en": "There lacks a systematic framework to comprehensively understand how various combinations of PT symmetry and Wadati structure influence soliton existence, stability, and bifurcation behavior in non-Hermitian optical systems."
+    },
+    "approach": {
+      "zh": "结合非保守变分近似方法与全偏微分方程的数值延拓、线性稳定性分析以及动力学演化模拟，研究四个象限中的孤子特征。",
+      "en": "Combining a non-conservative variational approximation method with full partial differential equation numerical continuation, linear stability analysis, and dynamical evolution simulations to study soliton features across four quadrants."
+    },
+    "main_takeaway": {
+      "zh": "具有PT对称性或瓦达蒂结构中至少一种的系统支持孤子连续族；而缺乏两者的普适非厄米系统则通常只存在孤立的、无单峰特征且不稳定的解。",
+      "en": "Systems possessing at least one of PT symmetry or Wadati structure support continuous soliton families, whereas generic non-Hermitian systems lacking both typically exhibit only isolated, multi-humped, and unstable solutions."
+    },
+    "why_it_matters": {
+      "zh": "它厘清了非厄米光学和波动系统中不同底层对称性与守恒结构对局域非线性模态的关键作用，并评估了低维变分约化方法的效用与局限性。",
+      "en": "It clarifies the crucial roles of different underlying symmetries and conserved structures on localized nonlinear modes in non-Hermitian optics and wave systems, while assessing the efficacy and limitations of low-dimensional variational reductions."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文通过分类研究和变分约化，深刻揭示了PT对称性与瓦达蒂结构对非厄米孤子存在性与稳定性的内在控制机制。",
+        "en": "The paper deeply reveals the underlying control mechanisms of PT symmetry and Wadati structure on non-Hermitian soliton existence and stability through systematic classification and variational reduction."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review A",
+      "confidence": "high",
+      "reason": {
+        "zh": "该期刊广泛发表光学和量子系统中非厄米物理、孤子理论以及非线性薛定谔方程的研究成果。",
+        "en": "The journal broadly publishes research on non-Hermitian physics, soliton theory, and nonlinear Schrodinger equations in optical and quantum systems."
+      }
+    },
+    "keywords": [
+      "Non-Hermitian physics",
+      "PT symmetry",
+      "Wadati potentials",
+      "Optical solitons",
+      "Variational approximation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-10-28",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-10-28T10:58:57",
+    "input_scope": "full_pdf_text"
+  }
+}
