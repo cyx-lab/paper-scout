@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2611.04347v1",
+    "title": "Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems",
+    "authors": [
+      "Lizhou Liu",
+      "Cheng-Ming Miao",
+      "Ying-Tao Zhang",
+      "Qing-Feng Sun"
+    ],
+    "abstract": "We propose an altermagnetism-induced route to a two-dimensional higher-order topological Dirac semimetal in a trilayer nonsymmorphic Dirac system. Interlayer hybridization preserves the nonsymmorphic bulk Dirac crossings and generates helical edge states in the trilayer phase. Introducing outer-layer $d$-wave altermagnetic order gaps the helical edge states, while only the symmetry-protected Dirac crossing at high-symmetry point $M$ remains gapless. The resulting phase hosts a surviving bulk Dirac point, gapped edge spectra, and corner states. An exact layer-space decomposition further reveals that these features arise from the coexistence of a gapless Dirac sector and a gapped $\\mathbb{Z}_2$ topological sector. Our results establish altermagnetism as an effective mechanism for engineering higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-11-03T05:30:03Z",
+    "updated": "2026-11-03T05:30:03Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetism",
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.04347v1",
+      "pdf_path": "data/pdfs/2026-11-04/3_Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems__2611.04347v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-04T03:50:55.593025",
+    "updated_at": "2026-11-04T03:50:55.593018Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-04/3_Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems__2611.04347v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.04347v1",
+    "pdf_filename": "3_Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems__2611.04347v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过在三层非么正Dirac系统中引入外层d波交错磁性（altermagnetism），实现了二维高阶拓扑Dirac半金属。",
+      "en": "Realization of a two-dimensional higher-order topological Dirac semimetal via outer-layer d-wave altermagnetism in a trilayer nonsymmorphic Dirac system."
+    },
+    "problem": {
+      "zh": "如何在二维系统中同时实现受对称性保护的体Dirac点与低维边界态（如高阶角态），克服边界质量项通常会使体Dirac点产生能隙的难题。",
+      "en": "How to simultaneously realize symmetry-protected bulk Dirac points and low-dimensional boundary states (such as corner states) in two-dimensional systems while avoiding the tendency of boundary mass terms to gap out the bulk Dirac crossings."
+    },
+    "approach": {
+      "zh": "构建包含层间杂化和外层d波交错磁性的三层非么正Dirac模型，利用精确的层空间分块分解分析体能带、边界态及角态的微观来源。",
+      "en": "Constructing a trilayer nonsymmorphic Dirac model with interlayer hybridization and outer-layer d-wave altermagnetic order, and analyzing the microscopic origin of bulk bands, edge states, and corner states using an exact layer-space block decomposition."
+    },
+    "main_takeaway": {
+      "zh": "外层d波交错磁性能选择性地使特定体Dirac点保持无能隙，同时为螺旋边缘态提供交错的质量项并在角部产生零维角态，从而构筑高阶拓扑Dirac半金属。",
+      "en": "Outer-layer d-wave altermagnetism selectively keeps a bulk Dirac crossing gapless while providing staggered masses to helical edge states and generating zero-dimensional corner states, thereby establishing a higher-order topological Dirac semimetal."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了交错磁性作为在二维非么正系统中设计高阶拓扑的新机制，拓展了对无能隙系统高阶拓扑相的理解。",
+      "en": "This work establishes altermagnetism as an effective mechanism for engineering higher-order topology in two-dimensional nonsymmorphic systems, expanding the understanding of higher-order topological phases in gapless systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次在二维非么正系统中结合交错磁性实现了高阶拓扑Dirac半金属，通过严格的层空间分解揭示了其微观机制，并证明了其对多种微扰的鲁棒性。",
+        "en": "This work demonstrates for the first time a higher-order topological Dirac semimetal in a two-dimensional nonsymmorphic system by combining altermagnetism, revealing its microscopic mechanism via rigorous layer-space decomposition and demonstrating robustness against various perturbations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文属于凝聚态理论与数值计算范畴，深入探讨了晶格模型、拓扑相变及对称性分析，非常符合该期刊的收稿范围。",
+        "en": "The paper belongs to condensed matter theory and numerical simulation, delving into lattice models, topological phase transitions, and symmetry analysis, which fits the scope of the journal well."
+      }
+    },
+    "keywords": [
+      "Altermagnetism",
+      "Higher-order topological semimetal",
+      "Dirac semimetal",
+      "Nonsymmorphic symmetry",
+      "Layer-space decomposition"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-04T11:52:21",
+    "input_scope": "full_pdf_text"
+  }
+}

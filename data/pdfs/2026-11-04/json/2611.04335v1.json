@@ -1,0 +1,111 @@
+{
+  "paper_record": {
+    "id": "2611.04335v1",
+    "title": "Emergence of Berry curvature dipole and nonlinear Hall effect in a novel hexagonal borophosphene allotrope",
+    "authors": [
+      "Ranjan Kumar Tung",
+      "Dimple",
+      "Venkatesan Subramanian",
+      "Vijay Singh"
+    ],
+    "abstract": "We investigate the electronic structure, local orbital coupling, and strain-tunable nonlinear Hall response of two arsenic-substituted borophosphene-derived monolayers, As@MBP and As@AMBP, using first-principles calculations and tight-binding analysis. In the absence of spin--orbit coupling, both systems exhibit a finite Berry-curvature dipole (BCD) and a substantial nonlinear Hall conductivity, demonstrating that the nonlinear response is intrinsically driven by orbital physics and inversion-symmetry breaking. $As$ substitution opens sizable band gaps of $120~\\mathrm{meV}$ in As@MBP and $90~\\mathrm{meV}$ in As@AMBP, well exceeding room-temperature thermal fluctuations ($k_{\\mathrm{B}}T \\approx 25.9~\\mathrm{meV}$). Tight-binding analysis reveals that $As$ incorporation breaks the equivalence of $B-P$ hoppings in As@MBP and induces sign reversals in key nearest-neighbor hoppings in As@AMBP, reflecting a pronounced electronic reconstruction beyond simple geometric effects. Under mechanical strain, the redistribution of Berry curvature yields a maximum BCD of $22~\\mathring{\\text{A}}$ in As@MBP, approximately $10$ times larger than that of unstrained structure, and induces a reversal of the BCD sign. These results establish $As$-substituted borophosphene derivatives as promising light-element platforms for mechanically switchable nonlinear transport and quantum-material applications without relying on strong spin-orbit coupling.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "physics.app-ph"
+    ],
+    "published": "2026-11-03T05:21:02Z",
+    "updated": "2026-11-03T05:21:02Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:nonlinear Hall",
+        "quantum_geometry:nonlinear Hall effect"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.04335v1",
+      "pdf_path": "data/pdfs/2026-11-04/3_Emergence of Berry curvature dipole and nonlinear Hall effect in a novel hexagonal borophosphene allotrope__2611.04335v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-04T03:50:55.593062",
+    "updated_at": "2026-11-04T03:50:55.593054Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-04/3_Emergence of Berry curvature dipole and nonlinear Hall effect in a novel hexagonal borophosphene allotrope__2611.04335v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.04335v1",
+    "pdf_filename": "3_Emergence of Berry curvature dipole and nonlinear Hall effect in a novel hexagonal borophosphene allotrope__2611.04335v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过砷原子取代硼磷烯底物打破空间反演对称性，在无自旋轨道耦合的情况下实现了显著的非线性霍尔效应和可调控的贝里曲率偶极矩。",
+      "en": "Breaking spatial inversion symmetry via arsenic substitution in borophosphene derivatives yields a robust nonlinear Hall response driven by orbital physics and a sizable Berry curvature dipole without requiring spin-orbit coupling."
+    },
+    "problem": {
+      "zh": "二维材料中的非线性霍尔效应通常需要打破空间反演对称性并依赖贝里曲率偶极矩，但许多候选材料受限于环境稳定性和强自旋轨道耦合的依赖性，缺乏轻元素、无自旋轨道耦合且性能可调的平台。",
+      "en": "Realizing the nonlinear Hall effect in two-dimensional materials requires breaking spatial inversion symmetry, yet finding light-element, robust, and spin-orbit-coupling-free platforms with tunable Berry curvature dipoles remains a challenge."
+    },
+    "approach": {
+      "zh": "采用基于密度泛函理论的第一性原理计算、最大局域化万尼尔函数构建紧束缚模型，系统研究了砷取代硼磷烯衍生物（As@MBP和As@AMBP）的电子结构、局域轨道耦合以及单轴压缩应变对非线性霍尔响应的调控。",
+      "en": "Using density functional theory calculations and tight-binding models constructed via maximally localized Wannier functions, the electronic structures, orbital couplings, and strain-tunable nonlinear Hall responses of As-substituted borophosphene monolayers were investigated."
+    },
+    "main_takeaway": {
+      "zh": "砷取代破坏了反演对称性，在不依赖自旋轨道耦合的情况下使系统打开了远超室温热涨落的能隙，并产生了有限的贝里曲率偶极矩和显著的非线性霍尔电导率；施加机械应变可使贝里曲率偶极矩增大十倍以上并实现符号翻转。",
+      "en": "As-substitution opens sizable band gaps (90–120 meV) and induces finite Berry curvature dipoles without spin-orbit coupling, while uniaxial compressive strain can amplify the dipole by over ten times and modulate its sign."
+    },
+    "why_it_matters": {
+      "zh": "该研究为无需强自旋轨道耦合的轻元素量子材料提供了一个极具前景的平台，展示了通过化学取代和机械应变调控非线性输运和整流器件性能的可行性。",
+      "en": "This work establishes light-element borophosphene derivatives as promising, spin-orbit-coupling-free platforms for mechanically switchable nonlinear transport and symmetry-controlled quantum device applications."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章深入揭示了局域轨道杂化和紧束缚跃迁参数在无自旋轨道耦合体系中驱动非线性霍尔效应的微观机制。",
+        "en": "The paper provides microscopic insights into how local orbital hybridization and tight-binding hopping modulations drive the nonlinear Hall response in spin-orbit-coupling-free systems."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文侧重于二维材料的电子结构、对称性分析、紧束缚模型和基于第一性原理的输运性质计算，非常符合该期刊的收稿范围。",
+        "en": "The manuscript focuses on electronic structures, symmetry analysis, tight-binding modeling, and first-principles transport calculations of 2D materials, fitting the scope of Physical Review B."
+      }
+    },
+    "keywords": [
+      "nonlinear Hall effect",
+      "Berry curvature dipole",
+      "borophosphene",
+      "inversion symmetry breaking",
+      "strain engineering"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-04T11:51:24",
+    "input_scope": "full_pdf_text"
+  }
+}

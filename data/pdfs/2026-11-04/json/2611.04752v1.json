@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2611.04752v1",
+    "title": "Nonlinearity-Induced Suppression of Dissipation in Bath-Coupled Floquet Topological Insulators",
+    "authors": [
+      "Bhoomija Chaurasia",
+      "Sebabrata Mukherjee"
+    ],
+    "abstract": "Topological insulators can host chiral, disorder-robust edge states that dissipate energy when coupled to an external bath. We show that nonlinear interactions enable all-optical control over edge-state dissipation in a laser-written Floquet topological insulator periodically coupled to a photonic bath. Although moderate nonlinearity enhances dissipation due to mode mixing, increasing the nonlinear strength to an optimal value dramatically suppresses dissipation by forming highly localized traveling edge solitons. These results establish engineered system-bath coupling and nonlinear interactions as a route to suppress dissipation of chiral topological edge transport.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "nlin.PS",
+      "physics.optics",
+      "quant-ph"
+    ],
+    "published": "2026-11-03T12:05:50Z",
+    "updated": "2026-11-03T12:05:50Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.04752v1",
+      "pdf_path": "data/pdfs/2026-11-04/2_Nonlinearity-Induced Suppression of Dissipation in Bath-Coupled Floquet Topological Insulators__2611.04752v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-04T03:50:55.591981",
+    "updated_at": "2026-11-04T03:50:55.591972Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-04/2_Nonlinearity-Induced Suppression of Dissipation in Bath-Coupled Floquet Topological Insulators__2611.04752v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.04752v1",
+    "pdf_filename": "2_Nonlinearity-Induced Suppression of Dissipation in Bath-Coupled Floquet Topological Insulators__2611.04752v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文理论与实验发现在周期性耗散泡利拓扑绝缘体中，克尔非线性可在特定强度下形成局域拓扑边缘孤子，从而显著抑制边界耗散。",
+      "en": "This work theoretically and experimentally demonstrates that Kerr nonlinearity can suppress bath-induced dissipation in Floquet topological insulators by forming localized topological edge solitons at an optimal strength."
+    },
+    "problem": {
+      "zh": "拓扑保护不适用于环境诱导的耗散，如何在开体系和损耗环境中抑制边界态能量耗散是一个挑战。",
+      "en": "Topological protection does not inherently extend to bath-induced dissipation, making it challenging to suppress losses and enhance the lifetime of topological edge states in open environments."
+    },
+    "approach": {
+      "zh": "利用飞秒激光直写技术制备周期耦合光子晶格，结合离散非线性薛定谔方程进行数值模拟与实验测量，研究不同克尔非线性强度下的传输动力学。",
+      "en": "Using femtosecond laser-written photonic lattices periodically coupled to a waveguide-based photonic bath, combined with numerical simulations of the discrete nonlinear Schrödinger equation and experimental transport measurements."
+    },
+    "main_takeaway": {
+      "zh": "通过将非线性强度调节至最优值，系统可形成形变保持的边缘孤子，动态抑制向外部光子浴的功率传输，实现近乎无损耗的单向边缘输运。",
+      "en": "Tuning the Kerr nonlinearity to an optimal strength leads to the formation of localized traveling edge solitons that dynamically inhibit power transfer to the bath, suppressing dissipation."
+    },
+    "why_it_matters": {
+      "zh": "该研究建立了一种通过工程化系统-浴耦合与非线性相互作用来控制开放拓扑系统中耗散的新途径，对拓扑激光器和非reciprocal光子器件具有潜在应用价值。",
+      "en": "It establishes a new route to control dissipation and protect topological transport in open systems through the interplay of nonlinearity and engineered system-bath coupling, benefiting topological devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次在实验和理论上结合了弗洛凯拓扑绝缘体、非厄米耗散系统与光学非线性，展示了利用非线性孤子抑制环境耗散的机制，具有很高的创新性。",
+        "en": "This work successfully combines Floquet topology, open dissipative baths, and optical nonlinearity to demonstrate dissipation suppression via solitons, representing a significant advancement in non-Hermitian topological photonics."
+      }
+    },
+    "paper_type": {
+      "zh": "理论 + 实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Physical Review X",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了深度的理论模型、数值模拟与前沿的飞秒激光直写光子实验，研究主题契合该期刊的高标准。",
+        "en": "The paper combines comprehensive theoretical modeling, numerical simulations, and advanced laser-written photonic experiments on a timely and high-impact topic fitting PRX standards."
+      }
+    },
+    "keywords": [
+      "Floquet topological insulators",
+      "nonlinear optics",
+      "dissipation suppression",
+      "topological edge solitons",
+      "open quantum systems"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-04T11:52:29",
+    "input_scope": "full_pdf_text"
+  }
+}

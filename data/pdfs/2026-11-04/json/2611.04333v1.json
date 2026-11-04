@@ -1,0 +1,116 @@
+{
+  "paper_record": {
+    "id": "2611.04333v1",
+    "title": "LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models",
+    "authors": [
+      "Yuntian Gu",
+      "Chaohui Fan",
+      "Ruichen Li",
+      "Haoxiang Chen",
+      "Weizhong Fu",
+      "Yixiao Chen",
+      "Dingshun Lv",
+      "Weiluo Ren",
+      "Tao Xiang",
+      "Liwei Wang",
+      "Mingpu Qin",
+      "Xiang Li"
+    ],
+    "abstract": "Neural quantum states provide accurate variational representations for interacting lattice fermions and spins. Turning a new ansatz into a reproducible calculation, however, requires coordinated implementations of the Hamiltonian, sampling, optimization, observables, and accelerator parallelism. We present LaQX (Lattice Quantum simulation based on jaX), an open-source neural quantum state library based on JAX that organizes these components through common functional interfaces. Beyond ground-state variational Monte Carlo, LaQX supports excited-state calculations, Green's Function Monte Carlo refinement, adiabatic evolution, and real-time evolution with time-dependent variational Monte Carlo. It consolidates methods developed in recent high-accuracy neural quantum state studies of the Hubbard model and frustrated magnets, and the package has been used to investigate the triangular-lattice Hofstadter-Hubbard model. We document these capabilities with reproducible calculations for Hubbard, $J_1$-$J_2$ Heisenberg, altermagnetic Hubbard, and interacting Hofstadter models. Function-oriented modules separate the scientific components and limit the source context needed for extensions by human developers and large language models. Source code, documentation, and executable examples are available at https://github.com/bytedance/laqx.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-11-03T05:18:05Z",
+    "updated": "2026-11-03T05:18:05Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.04333v1",
+      "pdf_path": "data/pdfs/2026-11-04/3_LaQX A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models__2611.04333v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-04T03:50:55.593103",
+    "updated_at": "2026-11-04T03:50:55.593093Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-04/3_LaQX A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models__2611.04333v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.04333v1",
+    "pdf_filename": "3_LaQX A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models__2611.04333v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文介绍了 LaQX，一个基于 JAX 的开源神经量子态模拟工具包，用于研究格子量子多体模型。",
+      "en": "This paper presents LaQX, an open-source JAX-based neural quantum state toolkit for lattice quantum many-body models."
+    },
+    "problem": {
+      "zh": "传统数值方法在处理高维格点费米子和自旋系统的量子多体问题时，往往受到希尔伯特空间指数级增长或量子蒙特卡洛符号问题的严重限制。",
+      "en": "Traditional numerical methods for lattice fermions and spins are often limited by the exponential growth of Hilbert space or the quantum Monte Carlo sign problem in higher dimensions."
+    },
+    "approach": {
+      "zh": "利用 JAX 构建函数式的软件架构，结合神经网络变分波函数（如卷积反流、CNN-MPS 等）、变分蒙特卡洛采样、随机重构优化算法，并支持激发态、投影、绝热演化和实时动力学计算。",
+      "en": "It utilizes a function-oriented software architecture in JAX, combining neural network variational wavefunctions (such as convolutional backflow and CNN-MPS), variational Monte Carlo sampling, stochastic reconfiguration optimization, and supports excited states, projection, adiabatic evolution, and real-time dynamics."
+    },
+    "main_takeaway": {
+      "zh": "LaQX 通过模块化和函数式设计，将多种高精度的神经网络量子态算法与物理工作流集成在统一的 JAX 框架中，支持高效的并行计算和本地化扩展。",
+      "en": "LaQX integrates multiple high-accuracy neural quantum state algorithms and physical workflows into a unified JAX framework via modular and functional design, supporting efficient parallel computation and localized extensions."
+    },
+    "why_it_matters": {
+      "zh": "它为强关联格子系统（如掺杂哈伯德模型、受挫磁体和 Hofstadter 模型）提供了一个开源、高性能且易于扩展和维护的计算工具库。",
+      "en": "It provides an open-source, high-performance, and easily extensible computational toolset for strongly correlated lattice systems such as the doped Hubbard model, frustrated magnets, and Hofstadter models."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "新模型或新方法",
+        "en": "New model or method"
+      },
+      "reason": {
+        "zh": "本文提出并开源了一个功能全面且高度模块化的神经量子态模拟软件框架，整合了多项前沿算法。",
+        "en": "The paper introduces and open-sources a comprehensive and highly modular neural quantum state simulation software framework consolidating several cutting-edge algorithms."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "SciPost Physics Codebases",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文明确标注为向 SciPost Physics Codebases 提交的软件介绍文章。",
+        "en": "The paper is explicitly labeled as a submission to SciPost Physics Codebases."
+      }
+    },
+    "keywords": [
+      "Neural quantum states",
+      "Variational Monte Carlo",
+      "JAX",
+      "Lattice models",
+      "Hubbard model"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-04T11:51:15",
+    "input_scope": "full_pdf_text"
+  }
+}

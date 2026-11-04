@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2611.04312v1",
+    "title": "Anomalous Hall Response and Real-Space Current Correlations in Rhombohedral Graphene",
+    "authors": [
+      "Zhen Bi",
+      "Chandra M. Varma"
+    ],
+    "abstract": "We investigate the anomalous Hall effect (AHE) and magnetization observed in rhombohedral graphene through real-space calculations which lead to new insights. Our calculations reveal no equilibrium loop currents of the type associated with the Haldane model of a quantum anomalous Hall insulator. Instead, the AHE arises in this instance from interference between electronic paths forming oriented closed Wilson loops of current operators in the presence of valley polarization. We show some examples of these Wilson loops. Using the fact that the added-carrier charge density resides dominantly in the top and bottom layers, we develop a real-space expansion of the surface Hamiltonian that reproduces the Hall response of the full model with good accuracy. We also predict that a smooth local potential induces equilibrium circulating currents whose strength depends on both Berry curvature and the orbital moments of states at the Fermi surface.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-11-03T04:42:40Z",
+    "updated": "2026-11-03T04:42:40Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature",
+        "quantum_geometry:wilson loop"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.04312v1",
+      "pdf_path": "data/pdfs/2026-11-04/3_Anomalous Hall Response and Real-Space Current Correlations in Rhombohedral Graphene__2611.04312v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-04T03:50:55.593180",
+    "updated_at": "2026-11-04T03:50:55.593173Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-04/3_Anomalous Hall Response and Real-Space Current Correlations in Rhombohedral Graphene__2611.04312v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.04312v1",
+    "pdf_filename": "3_Anomalous Hall Response and Real-Space Current Correlations in Rhombohedral Graphene__2611.04312v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过真实空间计算研究了菱形石墨烯中的反常霍尔效应，发现它源于谷极化下电流算符闭合路径的干涉，而非平衡环流。",
+      "en": "Real-space calculations reveal that the anomalous Hall effect in rhombohedral graphene arises from interference between closed current paths under valley polarization rather than equilibrium loop currents."
+    },
+    "problem": {
+      "zh": "菱形石墨烯中观测到的反常霍尔效应和磁化现象，究竟是伴随着平衡状态下的环流（类似于Haldane模型），还是源于闭合电流关联中不同传播路径之间的干涉。",
+      "en": "Whether the observed anomalous Hall effect and magnetization in rhombohedral graphene are accompanied by equilibrium loop currents or arise from interference between alternative propagation paths in closed current correlations."
+    },
+    "approach": {
+      "zh": "将多层哈密顿量投影到表面轨道上，在真实空间中展开内部传播子，并计算不同近似模型下的电流关联和霍尔电导。",
+      "en": "Projecting the Hamiltonian onto surface orbitals, performing a real-space expansion of the interior propagator, and computing current correlations and Hall conductivity across various reduced models."
+    },
+    "main_takeaway": {
+      "zh": "谷极化的菱形石墨烯在均匀态下没有平衡键电流，其反常霍尔效应是由跨层传播路径构成的Wilson圈式电流关联干涉导致的。",
+      "en": "Rhombohedral graphene in the uniform valley-polarized state exhibits no equilibrium bond currents; its anomalous Hall effect stems from interference between interlayer propagation paths forming Wilson-loop structures of current correlations."
+    },
+    "why_it_matters": {
+      "zh": "它澄清了近期受关注的菱形石墨烯多层体系中反常霍尔响应的微观机制，并为区分正常态与超导态的轨道响应提供了理论基础。",
+      "en": "It clarifies the microscopic mechanism of the anomalous Hall response in multi-layer rhombohedral graphene and provides a theoretical foundation for distinguishing orbital responses in normal and superconducting states."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作通过真实空间路径分析，澄清了菱形石墨烯中反常霍尔效应的微观来源并非平衡环流，而是路径干涉。",
+        "en": "This work clarifies via real-space path analysis that the anomalous Hall effect in rhombohedral graphene originates from path interference rather than equilibrium loop currents."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文深入探讨了石墨烯多层体系的电子结构、微观电流和反常霍尔效应机制，非常符合PRB的物理范畴。",
+        "en": "The paper investigates the electronic structure, microscopic currents, and anomalous Hall mechanisms in multilayer graphene systems, fitting the scope of PRB."
+      }
+    },
+    "keywords": [
+      "Anomalous Hall effect",
+      "Rhombohedral graphene",
+      "Wilson loops",
+      "Orbital magnetization",
+      "Current correlations"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-04",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-04T11:51:08",
+    "input_scope": "full_pdf_text"
+  }
+}
