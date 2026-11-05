@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2611.06087v1",
+    "title": "Spin Simulators based on Exciton-Polariton Waveguide Networks",
+    "authors": [
+      "Kevin Dini",
+      "Simone Zanotti",
+      "Timothy C. H. Liew"
+    ],
+    "abstract": "Many NP-hard optimization problems can be mapped onto interacting spin systems, whose ground state encodes the optimal solution. Polaritonic implementations based on gain-dissipative dynamics have recently emerged as promising analog computing platforms owing to their intrinsic parallelism and ultrafast operation. However, existing approaches are hindered by two fundamental limitations: maintaining the homogeneous amplitudes required for faithful problem encoding remains challenging in realistic physical systems, and most architectures are restricted to nearest-neighbour interactions, severely limiting the variety of optimization problems that can be efficiently addressed. We introduce a feasible polaritonic XY simulator based on a reconfigurable waveguide platform that overcomes both limitations. Our approach guarantees amplitude homogeneity while enabling the implementa- tion of arbitrary symmetric coupling matrices, thereby allowing the direct encoding of a wide variety of XY Hamiltonians. These results establish a practical architecture for programmable polaritonic spin simulators and pave the way towards scalable optical hardware for analog optimisation.",
+    "categories": [
+      "cond-mat.mes-hall"
+    ],
+    "published": "2026-11-04T07:31:29Z",
+    "updated": "2026-11-04T07:31:29Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:polariton",
+        "exciton:exciton-polariton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.06087v1",
+      "pdf_path": "data/pdfs/2026-11-05/3_Spin Simulators based on Exciton-Polariton Waveguide Networks__2611.06087v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-05T04:09:09.928724",
+    "updated_at": "2026-11-05T04:09:09.928715Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-05/3_Spin Simulators based on Exciton-Polariton Waveguide Networks__2611.06087v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.06087v1",
+    "pdf_filename": "3_Spin Simulators based on Exciton-Polariton Waveguide Networks__2611.06087v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "提出了一种基于激子极化子波导网络的自旋模拟器，通过时间门控的脉冲激发和反馈机制直接求解XY哈密顿量，克服了传统模拟器中振幅不均匀和近邻相互作用的限制。",
+      "en": "We propose a polariton spin simulator based on waveguide networks that overcomes amplitude heterogeneity and nearest-neighbor restrictions to solve arbitrary XY Hamiltonians via time-gated pulsed excitation."
+    },
+    "problem": {
+      "zh": "现有的基于增益耗散动力学的极化子模拟器在求解NP困难优化问题时，面临振幅异质性破坏相位映射以及相互作用受限于近邻几何结构的根本局限。",
+      "en": "Existing polariton simulators face fundamental limitations in maintaining homogeneous amplitudes for faithful problem encoding and being restricted to nearest-neighbor interactions."
+    },
+    "approach": {
+      "zh": "利用可配置的波导平台、线性分束器网络和时间互补门控的非共振泵浦与反射，在时间上将振幅稳定化与任意对称耦合矩阵的反馈动力学解耦。",
+      "en": "We utilize a reconfigurable waveguide platform with linear beam-splitter networks and temporally complementary pulsed pumps and reflections to decouple amplitude stabilization from feedback dynamics."
+    },
+    "main_takeaway": {
+      "zh": "通过时间分离泵浦与反馈，该波导架构无须复杂的局部增益调整即可直接映射并求解任意全连接的XY哈密顿量，且在随机基准测试中表现出极高的成功率。",
+      "en": "By temporally separating condensation and feedback, the waveguide architecture directly maps and solves arbitrary all-to-all connected XY Hamiltonians without active density adjustment, showing high success rates in benchmarks."
+    },
+    "why_it_matters": {
+      "zh": "该方案为基于光学硬件的模拟优化提供了一种可扩展且实验上更具可行性的架构，显著降低了实现复杂自旋玻璃和组合优化求解的硬件难度。",
+      "en": "This scheme provides a practical and scalable optical hardware architecture for analog optimization, significantly lowering experimental barriers for solving complex spin glasses and combinatorial problems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该研究解决了极化子模拟器领域长期存在的振幅异质性和耦合受限问题，并通过大规模数值基准测试证明了其优于传统方法的求解能力。",
+        "en": "It resolves long-standing issues of amplitude heterogeneity and coupling restrictions in polariton simulators, demonstrating superior problem-solving performance over traditional methods via extensive numerical benchmarking."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review X",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该论文结合了凝聚态物理、光学模拟计算与复杂优化算法，具有很高的物理创新性和潜在的技术应用价值。",
+        "en": "The paper combines condensed matter physics, optical analog computing, and complex optimization algorithms, showing high physical innovation and potential technological impact."
+      }
+    },
+    "keywords": [
+      "exciton-polaritons",
+      "spin simulator",
+      "XY Hamiltonian",
+      "waveguide networks",
+      "analog optimization"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-05T12:09:36",
+    "input_scope": "full_pdf_text"
+  }
+}

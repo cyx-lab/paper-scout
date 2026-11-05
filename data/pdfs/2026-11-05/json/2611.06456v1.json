@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2611.06456v1",
+    "title": "Phase matching and mode coupling in photonic-crystal ring resonators",
+    "authors": [
+      "Alexander E. Ulanov",
+      "Lukas Bengel",
+      "Tobias Herr"
+    ],
+    "abstract": "Photonic-crystal ring resonators, in which periodic refractive-index modulations couple counter-propagating modes, have become a widely used platform for nonlinear photonics, offering mode-by-mode dispersion engineering. When several modulation components are superimposed, their relative angular alignment (phase) is an additional degree of freedom whose impact on the nonlinear dynamics has remained unclear. Here we show that the relative phases between the modulation patterns have a decisive impact. Through the interference of the nonlinear processes in forward and backward direction, they add a phase and mode selection rule to the established phase-matching conditions, which can fully suppress nonlinear coupling. They also impose a relative spectral chirp between forward- and backward-propagating waveforms. We illustrate these effects for parametric oscillation and dissipative Kerr solitons. Our results extend the concept of phase matching to resonators with interfering nonlinear pathways and establish the alignment of index gratings as a design dimension for nonlinear microresonators.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-11-04T12:56:11Z",
+    "updated": "2026-11-04T12:56:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "soliton:soliton"
+      ],
+      "author_match": false,
+      "rule_score": 2,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.06456v1",
+      "pdf_path": "data/pdfs/2026-11-05/2_Phase matching and mode coupling in photonic-crystal ring resonators__2611.06456v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-05T04:09:09.927895",
+    "updated_at": "2026-11-05T04:09:09.927888Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-05/2_Phase matching and mode coupling in photonic-crystal ring resonators__2611.06456v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.06456v1",
+    "pdf_filename": "2_Phase matching and mode coupling in photonic-crystal ring resonators__2611.06456v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文研究了光子晶体微环谐振器中折射率调制相对相位对非线性动力学和相位匹配的影响。",
+      "en": "This paper investigates the impact of relative phases of refractive-index modulations on nonlinear dynamics and phase matching in photonic-crystal ring resonators."
+    },
+    "problem": {
+      "zh": "在具有周期性折射率调制的光子晶体微环谐振器中，多重调制图案之间的相对角度对齐（相位）对非线性动力学的影响此前尚不明确。",
+      "en": "The impact of the relative angular alignment (phase) between multiple refractive-index modulation patterns in photonic-crystal ring resonators on nonlinear dynamics has remained unclear."
+    },
+    "approach": {
+      "zh": "通过建立耦合模方程，结合解析稳定性分析和数值延拓方法，研究了简并四波混频、光学参量振荡器以及耗散克尔孤子中的相位匹配条件。",
+      "en": "By formulating coupled-mode equations combined with analytical stability analysis and numerical continuation, the phase matching conditions in degenerate four-wave mixing, optical parametric oscillators, and dissipative Kerr solitons are studied."
+    },
+    "main_takeaway": {
+      "zh": "调制图案之间的相对相位和手性会导致顺向和逆向传播波之间的相对光谱啁啾，并通过干涉效应在传统相位匹配条件中引入相位与模式选择规则。",
+      "en": "The relative phases and chirality of the index modulation patterns introduce a relative spectral chirp between forward and backward waves, and add phase and mode selection rules to established phase-matching conditions via interference."
+    },
+    "why_it_matters": {
+      "zh": "该研究将相位匹配的概念扩展到了具有多重干涉非线性路径的系统，并确立了折射率光栅的对齐方式可作为非线性微谐振器设计的新维度。",
+      "en": "This work extends phase matching to systems with multiple interfering nonlinear pathways and establishes index grating alignment as a new design dimension for nonlinear microresonators."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "揭示了微谐振器中折射率调制相对相位的关键作用，对光频梳和孤子调控具有重要意义。",
+        "en": "It reveals the crucial role of relative phases in refractive-index modulations within microresonators, holding significant implications for optical frequency combs and soliton control."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作涉及非线性微谐振器基础物理与模式耦合的突破性理论与数值分析，高度符合该期刊的范围和影响力。",
+        "en": "The work involves breakthrough theoretical and numerical analyses of fundamental physics and mode coupling in nonlinear microresonators, fitting the scope and impact of the journal well."
+      }
+    },
+    "keywords": [
+      "Photonic-crystal ring resonators",
+      "Phase matching",
+      "Dissipative Kerr solitons",
+      "Mode coupling",
+      "Nonlinear optics"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-05T12:10:00",
+    "input_scope": "full_pdf_text"
+  }
+}

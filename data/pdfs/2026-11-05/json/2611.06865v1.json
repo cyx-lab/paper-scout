@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2611.06865v1",
+    "title": "Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials",
+    "authors": [
+      "Jyoti Duhan",
+      "Anil Kumar B. M.",
+      "Satya N. Guin",
+      "Koushik Pal"
+    ],
+    "abstract": "Thermoelectric materials can be topologically trivial or non-trivial, enabling reversible interconversion of heat and electricity using a solid-state technology. Incidentally, few of the first experimentally discovered 3D topological materials, namely, Bi, Sb, Sn and Pb-based chalcogenides, were long known as good thermoelectric materials. In these compounds, the heavy atoms that give rise to strong spin-orbit coupling often become essential for band inversion and non-trivial band topology. They lead to low lattice thermal conductivity, linearly dispersing Dirac-like bands induce high electrical mobility, and a band-inverted electronic structure with multiple band extrema gives rise to high Seebeck coefficients. In materials, where the applied temperature gradient induces electrical voltage (Seebeck effect) in the same direction, they are termed as longitudinal thermoelectrics. On the other hand, when the generated electrical voltage and applied thermal current remain orthogonal to each other, the materials are termed as transverse thermoelectrics. The transverse response can be driven by an additional external magnetic field (ordinary Nernst effect), intrinsic remanent magnetisation, or non-zero Berry curvature of a material, which arises from their non-trivial topology (anomalous Nernst effect). We discuss another class of quantum materials, known as goniopolar materials, that exhibit axis-dependent conduction polarity and hence transverse thermoelectric effects, which are based on mechanisms of longitudinal thermoelectric properties. In this review, we cover both types of thermoelectricity, focusing on materials that possess non-trivial topological order. We make connections between their structures, topology and transport properties and suggest tunability of thermoelectric properties going beyond conventional mechanisms such as electron-phonon interactions.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-11-04T18:20:11Z",
+    "updated": "2026-11-04T18:20:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.06865v1",
+      "pdf_path": "data/pdfs/2026-11-05/3_Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials__2611.06865v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-05T04:09:09.927280",
+    "updated_at": "2026-11-05T04:09:09.927270Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-05/3_Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials__2611.06865v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.06865v1",
+    "pdf_filename": "3_Longitudinal and Transverse Thermoelectric Properties in Topological Quantum Materials__2611.06865v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本综述全面总结了拓扑量子材料在纵向与横向热电效应、goniopolar热电、电子-声子相互作用调控以及器件应用方面的最新进展。",
+      "en": "This review comprehensively summarizes recent advances in topological quantum materials for longitudinal and transverse thermoelectric effects, goniopolar thermoelectrics, electron-phonon interaction engineering, and device applications."
+    },
+    "problem": {
+      "zh": "传统热电材料面临Seebeck系数与电导率的此消彼长以及宽温区优值提升的瓶颈，且纵向热电模块需要复杂的p-n腿交替排列，限制了器件效率与集成度。",
+      "en": "Traditional thermoelectric materials face bottlenecks in balancing Seebeck coefficient and electrical conductivity, while longitudinal modules require complex alternating p-n leg arrangements, limiting efficiency and integration."
+    },
+    "approach": {
+      "zh": "通过梳理拓扑绝缘体、半金属、磁性外尔/狄拉克材料及goniopolar材料的晶体结构、能带拓扑、Berry曲率及电子-声子相互作用，探讨纵向与横向热电性能的优化策略。",
+      "en": "By reviewing the crystal structures, band topology, Berry curvature, and electron-phonon interactions in topological insulators, semimetals, magnetic Weyl/Dirac systems, and goniopolar materials to explore optimization strategies for longitudinal and transverse thermoelectric performance."
+    },
+    "main_takeaway": {
+      "zh": "拓扑量子材料的非平庸能带拓扑、高载流子迁移率和强Berry曲率能够解耦电热输运，并显著增强横向热电（如Nernst效应）及goniopolar热电性能。",
+      "en": "The nontrivial band topology, high carrier mobility, and strong Berry curvature in topological quantum materials can decouple thermal and electrical transport, significantly enhancing transverse thermoelectric (e.g., Nernst effect) and goniopolar performance."
+    },
+    "why_it_matters": {
+      "zh": "它系统连接了量子材料拓扑与热电能量转换，为突破传统热电耦合限制、开发零磁场横向热电模块及新型固态制冷/发电器件提供了全面的材料路线图。",
+      "en": "It systematically bridges quantum material topology and thermoelectric energy conversion, providing a comprehensive materials roadmap to overcome traditional thermoelectric coupling limits and develop zero-field transverse thermoelectric modules and novel solid-state cooling/power generation devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "奠基性",
+        "en": "Foundational"
+      },
+      "reason": {
+        "zh": "本文是对拓扑热电学这一新兴交叉领域的全面且权威的综述，系统梳理了从基础物理机制到器件应用的完整图景。",
+        "en": "This article is a comprehensive and authoritative review of the emerging interdisciplinary field of topological thermoelectrics, systematically outlining the complete landscape from fundamental physical mechanisms to device applications."
+      }
+    },
+    "paper_type": {
+      "zh": "综述",
+      "en": "Review"
+    },
+    "likely_venue": {
+      "journal": "Nature Materials",
+      "confidence": "high",
+      "reason": {
+        "zh": "文章体量宏大、引用全面，系统总结了拓扑材料在能量转换领域的前沿进展，极适合在顶级综述期刊发表。",
+        "en": "The paper is extensive and comprehensively cited, systematically summarizing frontier progress of topological materials in energy conversion, making it highly suitable for top review journals."
+      }
+    },
+    "keywords": [
+      "Topological thermoelectrics",
+      "Nernst effect",
+      "Goniopolar materials",
+      "Berry curvature",
+      "Electron-phonon interactions"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-05T12:10:19",
+    "input_scope": "full_pdf_text"
+  }
+}

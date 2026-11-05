@@ -1,0 +1,109 @@
+{
+  "paper_record": {
+    "id": "2611.06351v1",
+    "title": "Evanescent-Depth-Engineered High-Q topological Cavities for Strong Photon-Exciton Coupling",
+    "authors": [
+      "Zihan Mo",
+      "Renxuan Peng",
+      "Haoyang Zhang",
+      "Yu Tian",
+      "Ying Gu"
+    ],
+    "abstract": "Due to the inherent scattering in topological edge states, the topological resonant cavity (TRC) formed by their interference exhibits a relatively low quality factor (Q). To address this issue, we propose the mechanism of engineering the transverse evanescent depth of edge states to achieve high-Q in irregular shaped TRCs, which further enables strong photon-exciton coupling at the single-quantum level. By adjusting the intra- and inter-cell coupling strengths in the pseudo-spin topological photonic crystal, the transverse evanescent depth of edge states is greatly reduced, thereby suppressing the scattering of TRCs. Consequently, the Q of various shaped TRCs with 2 ~ 3 um size is up to 10^5 ~ 10^6 in the visible, so that the strong photon-exciton coupling is achieved. The high-Q topological cavities hold promising application in integrated lasers, sensors, cavity quantum electrodynamics, and quantum photonics.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-11-04T11:11:28Z",
+    "updated": "2026-11-04T11:11:28Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.06351v1",
+      "pdf_path": "data/pdfs/2026-11-05/3_Evanescent-Depth-Engineered High-Q topological Cavities for Strong Photon-Exciton Coupling__2611.06351v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-05T04:09:09.928153",
+    "updated_at": "2026-11-05T04:09:09.928145Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-05/3_Evanescent-Depth-Engineered High-Q topological Cavities for Strong Photon-Exciton Coupling__2611.06351v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.06351v1",
+    "pdf_filename": "3_Evanescent-Depth-Engineered High-Q topological Cavities for Strong Photon-Exciton Coupling__2611.06351v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过调控拓扑光子晶体边缘态的横向倏逝深度，抑制了拓扑微腔的散射并实现了可见光波段的高品质因数与强光子-激子耦合。",
+      "en": "By engineering the transverse evanescent depth of topological edge states, scattering in topological resonant cavities is suppressed, achieving high-Q factors and strong photon-exciton coupling in the visible."
+    },
+    "problem": {
+      "zh": "传统拓扑微腔由于边缘态固有的散射，品质因数（Q）较低，从而阻碍了在单量子水平上实现强光子-激子耦合。",
+      "en": "Traditional topological resonant cavities exhibit relatively low quality factors due to inherent scattering in edge states, which prevents the realization of strong photon-exciton coupling at the single-quantum level."
+    },
+    "approach": {
+      "zh": "通过调节赝自旋拓扑光子晶体中的胞内与胞间耦合强度来减小边缘态的横向倏逝深度，从而抑制外向散射并构建各种形状的高Q微腔。",
+      "en": "By adjusting the intra- and inter-cell coupling strengths in pseudo-spin topological photonic crystals to greatly reduce the transverse evanescent depth of edge states, suppressing outward scattering and constructing high-Q cavities of various shapes."
+    },
+    "main_takeaway": {
+      "zh": "调控倏逝深度可使异形拓扑微腔在可见光下获得高达10的5次方到6次方的Q值，并在微米级尺寸下实现大于腔损耗的强光子-激子耦合。",
+      "en": "Engineering the evanescent depth yields Q factors up to 10^5 to 10^6 in irregularly shaped cavities in the visible and realizes strong photon-exciton coupling where the coupling coefficient exceeds the cavity loss."
+    },
+    "why_it_matters": {
+      "zh": "该工作解决了拓扑微腔中高Q值与小模式体积难以兼顾的问题，为片上腔量子电动力学、集成激光器和单光子源提供了鲁棒的平台。",
+      "en": "This work resolves the trade-off between high Q-factor and small mode volume in topological cavities, providing a robust platform for on-chip cavity quantum electrodynamics, integrated lasers, and single-photon sources."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究明确提出了调控拓扑边缘态横向倏逝深度以抑制散射并实现强耦合的物理机制，具有清晰的理论创新。",
+        "en": "The study clearly proposes the physical mechanism of engineering the transverse evanescent depth of topological edge states to suppress scattering and achieve strong coupling, representing a clear theoretical innovation."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值模拟",
+      "en": "Theory + Numerical Simulation"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文在拓扑光子学领域取得了突破性的强耦合理论进展，符合该期刊的高影响力物理标准。",
+        "en": "The paper achieves breakthrough theoretical progress in strong coupling within topological photonics, fitting the high-impact physical standards of this journal."
+      }
+    },
+    "keywords": [
+      "topological photonic crystals",
+      "high-Q cavities",
+      "evanescent depth",
+      "strong photon-exciton coupling",
+      "topological protection"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-05T12:09:54",
+    "input_scope": "full_pdf_text"
+  }
+}

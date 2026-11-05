@@ -1,0 +1,112 @@
+{
+  "paper_record": {
+    "id": "2611.06144v1",
+    "title": "Colloidal 2D WS2 nanosheets exhibiting high-purity single photon emission",
+    "authors": [
+      "Markus Xemaire",
+      "Jakob Keck",
+      "Marco Kögel",
+      "Marc Brecht",
+      "Jannik C. Meyer",
+      "Alfred J. Meixner",
+      "Jannika Lauth"
+    ],
+    "abstract": "The search for quantum emitters, delivering single photons \"on demand\" at cryogenic and elevated temperatures for photonic technologies is ever progressing. For example, micrometer-sized WS2 monolayers exhibit single photon emission by elaborated local defect or strain engineering. Here, we show that wet-chemically synthesised monolayered two-dimensional (2D) WS2 nano sheets (NSs) with lateral sizes of 14 (+/- 6 nm) readily emit single photons from exciton recombination without the need for substrate-induced patterning, strain/defect engineering or spectral filtering. Single particle spectroscopy of 70 individual NSs shows photoluminescence from excitons (2.02 eV), trios (1.94 eV) and defect-localized states (1.85 eV) with fast emission (t1<0.2 ns, t2=3.2 ns), allowing highly frequent excitation cycles. Pulsed at 80 MHz, colloidal WS2 NSs exhibit limited spectral diffusion, no blinking and distinct photon antibunching (g2(0)=0.07 at 5 K), thereby tackling challenges of established colloidal quantum dot systems (blinking, longer emission cycles), while retaining high single photon purity as key quality of deterministic quantum emitters.",
+    "categories": [
+      "physics.optics",
+      "physics.chem-ph"
+    ],
+    "published": "2026-11-04T08:27:36Z",
+    "updated": "2026-11-04T08:27:36Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.06144v1",
+      "pdf_path": "data/pdfs/2026-11-05/3_Colloidal 2D WS2 nanosheets exhibiting high-purity single photon emission__2611.06144v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-05T04:09:09.928651",
+    "updated_at": "2026-11-05T04:09:09.928643Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-05/3_Colloidal 2D WS2 nanosheets exhibiting high-purity single photon emission__2611.06144v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.06144v1",
+    "pdf_filename": "3_Colloidal 2D WS2 nanosheets exhibiting high-purity single photon emission__2611.06144v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "湿化学合成的二维硫化钨纳米片在低温下表现出高纯度、无闪烁的单光子发射特性。",
+      "en": "Wet-chemically synthesized 2D tungsten disulfide nanosheets exhibit high-purity, blinking-free single photon emission at cryogenic temperatures."
+    },
+    "problem": {
+      "zh": "传统二维过渡金属硫属化物需要通过基底图形化、应变或缺陷工程才能实现单光子发射，限制了其在大规模应用中的便利性和可控性。",
+      "en": "Traditional 2D transition metal dichalcogenides require substrate patterning, strain, or defect engineering to achieve single photon emission, limiting their scalability and convenience."
+    },
+    "approach": {
+      "zh": "采用湿化学法合成平均尺寸为14纳米的单层硫化钨纳米片，利用低温共焦显微镜和汉布里-布朗-特威斯装置进行单粒子光谱与光子关联测量。",
+      "en": "Wet-chemical synthesis of monolayer tungsten disulfide nanosheets with an average size of 14 nm, followed by single-particle spectroscopy and photon correlation measurements using cryogenic confocal microscopy."
+    },
+    "main_takeaway": {
+      "zh": "胶体硫化钨纳米片在5 K时表现出高达93%的单光子纯度（二阶关联函数值极低），且在高达110 K时仍能维持抗聚束效应，无需任何后处理。",
+      "en": "Colloidal tungsten disulfide nanosheets show a high single photon purity of 93% at 5 K (with very low second-order correlation) and maintain antibunching up to 110 K without any post-processing."
+    },
+    "why_it_matters": {
+      "zh": "该研究为基于溶液法制备确定性量子光源开辟了新途径，克服了传统量子点体系中常见的闪烁和发射周期长等缺点。",
+      "en": "This work opens new routes for solution-processed deterministic quantum light sources, overcoming common drawbacks of conventional quantum dot systems such as blinking and long emission cycles."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "首次在湿化学合成的二维半导体纳米片中实现了高纯度、无图案化的确定性单光子发射。",
+        "en": "It demonstrates high-purity, unpatterned deterministic single photon emission in wet-chemically synthesized 2D semiconductor nanosheets for the first time."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nano Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文结合了纳米材料合成与先进的光学量子测量，高度契合该期刊的纳米光子学和量子材料定位。",
+        "en": "The paper combines nanomaterial synthesis with advanced optical quantum measurements, fitting the journal's focus on nanophotonics and quantum materials."
+      }
+    },
+    "keywords": [
+      "单光子发射",
+      "过渡金属硫属化物",
+      "胶体纳米片",
+      "单粒子光谱",
+      "量子光源"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-05",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-05T12:09:43",
+    "input_scope": "full_pdf_text"
+  }
+}
