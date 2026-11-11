@@ -1,0 +1,118 @@
+{
+  "paper_record": {
+    "id": "2611.13579v1",
+    "title": "Hidden interfacial magnetism in RuO$_2$ heterostructures revealed by a superconducting spin switch",
+    "authors": [
+      "Tetsuma Mandokoro",
+      "Hisakazu Matsuki",
+      "Shutaro Karube",
+      "Rodrigo de las Heras",
+      "Andrei Mazanik",
+      "Akihiro Yamada",
+      "Fugo Tokoro",
+      "Susumu Hirata",
+      "Ryusuke Hisatomi",
+      "Yoichi Shiota",
+      "Vitaly N. Golovach",
+      "F. Sebastian Bergeret",
+      "Teruo Ono"
+    ],
+    "abstract": "RuO$_2$, once the flagship altermagnetic candidate, is now believed to be nonmagnetic in the bulk, yet weak, static and spatially inhomogeneous magnetism emerges at its surfaces and interfaces. Where this magnetism resides, what stabilises it, and whether it is connected to these states remain open questions. Here we address these questions at the Nb/RuO$_2$ interface using a superconducting spin switch. A GdN/Nb/RuO$_2$ trilayer allows interfacial exchange-field alignment to tune the superconducting transition temperature of Nb, probing interfacial magnetism inaccessible to conventional magnetometry. The switch reveals a hidden magnetic subsystem, which we attribute to a thin RuO$_x$ redox layer formed as Nb scavenges oxygen from RuO$_2$. This layer behaves as a weak and magnetically hard ferromagnet with vacancy-induced anisotropy. Furthermore, supercurrent amplifies the switching efficiency, making the probe sensitivity tunable in situ. Superconducting spin switches thus emerge as a quantitative low-temperature probe of hidden magnetism at buried interfaces.",
+    "categories": [
+      "cond-mat.mtrl-sci",
+      "cond-mat.supr-con"
+    ],
+    "published": "2026-11-10T04:53:04Z",
+    "updated": "2026-11-10T04:53:04Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "altermagnetism:altermagnetic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.13579v1",
+      "pdf_path": "data/pdfs/2026-11-11/3_Hidden interfacial magnetism in RuO$_2$ heterostructures revealed by a superconducting spin switch__2611.13579v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-11T03:42:01.236412",
+    "updated_at": "2026-11-11T03:42:01.236407Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-11/3_Hidden interfacial magnetism in RuO$_2$ heterostructures revealed by a superconducting spin switch__2611.13579v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.13579v1",
+    "pdf_filename": "3_Hidden interfacial magnetism in RuO$_2$ heterostructures revealed by a superconducting spin switch__2611.13579v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过超导自旋开关技术，研究人员揭示了 RuO2/Nb 异质结构中埋底界面的隐藏弱磁性，其源于氧空位驱动的 RuOₓ 氧化还原层。",
+      "en": "Using a superconducting spin switch, researchers reveal hidden weak magnetism at the buried RuO2/Nb interface, originating from an oxygen-vacancy-driven RuOₓ redox layer."
+    },
+    "problem": {
+      "zh": "体相 RuO2 的磁性存在争议，虽然宏观磁学测量未发现体相磁有序，但局部表面和界面常表现出奇异的弱磁性，其来源和机制尚不明确。",
+      "en": "The magnetism of bulk RuO2 is controversial; while macroscale measurements show no bulk magnetic order, local surfaces and interfaces often exhibit elusive weak magnetism whose origin and mechanism remain unclear."
+    },
+    "approach": {
+      "zh": "构建 GdN/Nb/RuO2 异质结构超导自旋开关，利用超导临界温度对界面交换场的敏感性进行差分探测，并结合准经典 Usadel 方程和控制实验进行分析。",
+      "en": "Constructing a GdN/Nb/RuO2 superconducting spin switch, using the sensitivity of the superconducting transition temperature to probe interfacial exchange fields, combined with quasiclassical Usadel equations and control experiments."
+    },
+    "main_takeaway": {
+      "zh": "Nb 与 RuO2 界面处的氧还原反应形成了一层具有随机各向异性的弱磁性、磁硬磁性的 RuOₓ 层，该层产生的微弱交换场可被超导自旋开关精准探测。",
+      "en": "Oxygen scavenging at the Nb/RuO2 interface forms a weakly magnetic and magnetically hard RuOₓ layer with random anisotropy, whose exchange field is precisely detected by the superconducting spin switch."
+    },
+    "why_it_matters": {
+      "zh": "该工作展示了超导自旋开关作为探测传统磁强计无法检测的掩埋界面弱磁性的强大定量工具，并澄清了 RuO2 相关异质结构中的界面磁性机制。",
+      "en": "This work demonstrates the superconducting spin switch as a powerful quantitative tool for probing buried interfacial weak magnetism undetectable by conventional magnetometry, clarifying interface magnetic mechanisms in RuO2 heterostructures."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该研究通过巧妙的超导器件设计，成功阐明了长期存疑的 RuO2 界面弱磁性的微观氧化还原与氧空位起源。",
+        "en": "The study successfully clarifies the long-debated microscopic redox and oxygen-vacancy origin of interfacial weak magnetism in RuO2 via clever superconducting device design."
+      }
+    },
+    "paper_type": {
+      "zh": "实验 + 理论",
+      "en": "Experiment + Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Letters",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文结合了超导自旋阀尖端测量与深入的准经典理论建模，解决了凝聚态物理中关于氧化物界面磁性的热点争议，非常符合该期刊的定位。",
+        "en": "The paper combines cutting-edge superconducting spin valve measurements with in-depth quasiclassical theoretical modeling to resolve a hot debate on oxide interface magnetism, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "Superconducting spin switch",
+      "RuO2 heterostructures",
+      "Interfacial magnetism",
+      "Oxygen vacancies",
+      "Proximity effect"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-11T11:42:12",
+    "input_scope": "full_pdf_text"
+  }
+}

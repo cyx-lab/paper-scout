@@ -1,0 +1,119 @@
+{
+  "paper_record": {
+    "id": "2611.14067v1",
+    "title": "Evidence of anomalous Hall crystals in moiré rhombohedral graphene",
+    "authors": [
+      "Hongyuan Li",
+      "Zuhan Geng",
+      "Annika Weber",
+      "Chenxi Xu",
+      "Yifan Jiang",
+      "Jiabin Xie",
+      "Lujin Min",
+      "Kenji Watanabe",
+      "Takashi Taniguchi",
+      "Kenji Yasuda",
+      "Xiaomeng Liu",
+      "Jie Shan",
+      "Kin Fai Mak"
+    ],
+    "abstract": "An anomalous Hall crystal (AHC) is a quantum state of matter, in which spontaneous electron crystallization leads to a quantized Hall effect without a magnetic field. The state can emerge in materials with strong Coulomb interaction and large Berry curvatures, such as few-layer rhombohedral graphene. Although the idea of AHCs has been invoked to explain some of the observed Chern insulators in moiré rhombohedral graphene (mRG), direct experimental evidence of AHCs has been missing so far. Here, we report experimental evidence of AHCs in hole-doped mRG through combined electrical transport and noise measurements. We identify a series of distinct Chern insulators spanning a broad and continuous range of doping densities incommensurate with the underlying moiré lattice; the states exhibit current-induced broadband noise and memory effects as well as pronounced gate hysteresis. Systematic magnetic field, temperature and gate dependence studies further support the emergence of a spontaneously charge-ordered state that acts as a parental state for the observed Chern insulators. The absence of Chern insulators at nearby integer fillings also distinguishes the observed state from the reported reentrant or extended quantum (anomalous) Hall states. Altogether, our results establish experimental evidence of AHCs in mRG and open the door for further exploration of the collective dynamics in this new state of matter.",
+    "categories": [
+      "cond-mat.mes-hall",
+      "cond-mat.mtrl-sci",
+      "cond-mat.str-el"
+    ],
+    "published": "2026-11-10T13:31:11Z",
+    "updated": "2026-11-10T13:31:11Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:berry curvature"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.14067v1",
+      "pdf_path": "data/pdfs/2026-11-11/3_Evidence of anomalous Hall crystals in moiré rhombohedral graphene__2611.14067v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-11T03:42:01.235806",
+    "updated_at": "2026-11-11T03:42:01.235768Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-11/3_Evidence of anomalous Hall crystals in moiré rhombohedral graphene__2611.14067v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.14067v1",
+    "pdf_filename": "3_Evidence of anomalous Hall crystals in moiré rhombohedral graphene__2611.14067v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过电输运和噪声测量，本文在莫尔菱方石墨烯中发现了反常霍尔晶体态的实验证据。",
+      "en": "This work reports experimental evidence of anomalous Hall crystals in moiré rhombohedral graphene through electrical transport and noise measurements."
+    },
+    "problem": {
+      "zh": "莫尔菱方石墨烯中观测到的一系列陈绝缘体物理起源尚存争议，此前缺乏直接实验证据证明零磁场下自发电子结晶驱动的拓扑反常霍尔晶体状态。",
+      "en": "The physical origin of Chern insulators in moiré rhombohedral graphene is under debate, lacking direct experimental evidence for anomalous Hall crystals driven by spontaneous electron crystallization at zero magnetic field."
+    },
+    "approach": {
+      "zh": "利用双栅极莫尔菱方石墨烯器件，结合电学输运测量、偏置退火协议、低频噪声功率谱密度分析以及变温变磁场研究。",
+      "en": "Using dual-gated moiré rhombohedral graphene devices combined with electrical transport measurements, bias-annealed protocols, low-frequency noise power spectral density analysis, and systematic temperature and magnetic field studies."
+    },
+    "main_takeaway": {
+      "zh": "观测到了与莫尔晶格不公度且跨越连续填充范围的陈绝缘体，伴随电流诱导的宽带噪声和记忆效应，证明了电荷有序态作为陈绝缘体母体相的存在。",
+      "en": "Observation of Chern insulators spanning an incommensurate, continuous filling range accompanied by current-induced broadband noise and memory effects, establishing charge-ordered states as parental phases for Chern insulators."
+    },
+    "why_it_matters": {
+      "zh": "该研究确立了反常霍尔晶体这一新物质形态的实验证据，区别于传统的重入量子霍尔态，并为探索强关联陈带中的集体动力学打开了新大门。",
+      "en": "This study establishes experimental evidence for anomalous Hall crystals—a novel state of matter distinct from reentrant quantum Hall states—and opens doors for exploring collective dynamics in strongly correlated Chern bands."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "文章首次提供了反常霍尔晶体这一新兴量子物态的确凿实验证据，通过噪声和记忆效应阐明了其与陈绝缘体的内在联系。",
+        "en": "The paper provides the first definitive experimental evidence for anomalous Hall crystals, clarifying their connection to Chern insulators through noise and memory effects."
+      }
+    },
+    "paper_type": {
+      "zh": "实验",
+      "en": "Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature",
+      "confidence": "high",
+      "reason": {
+        "zh": "该工作在二维强关联拓扑材料领域取得了突破性实验发现，具有极高的物理重要性和广泛兴趣。",
+        "en": "This work reports a breakthrough experimental discovery in 2D strongly correlated topological materials, holding high physical significance and broad interest."
+      }
+    },
+    "keywords": [
+      "Anomalous Hall crystal",
+      "Moiré rhombohedral graphene",
+      "Chern insulator",
+      "Electrical noise",
+      "Charge ordering"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-11T11:42:33",
+    "input_scope": "full_pdf_text"
+  }
+}

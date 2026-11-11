@@ -1,0 +1,107 @@
+{
+  "paper_record": {
+    "id": "2611.13817v1",
+    "title": "Structural and electronic properties of (Hf,Zr)O$_2$ phases from first principles",
+    "authors": [
+      "Sibghatullah Khan",
+      "Hannu-Pekka Komsa"
+    ],
+    "abstract": "(Hf,Zr)O$_2$ material system is promising for ferroelectric devices, owing to their compatibility with the existing electronics manufacturing processes. Technology computer-aided design (TCAD) simulations can be used for the device design and optimization, but the predictive power of TCAD device simulations depends on the quality of the material parameters. These are still surprisingly poorly understood, also for the metastable ferroelectric phase, largely owing to the difficulties in synthesizing phase-pure samples. Here, we carry out high-quality first-principles calculations to extract reliable lattice parameters, dielectric constants, and band gaps for six of the most common phases of HfO$_2$, Hf$_{0.5}$Zr$_{0.5}$O$_2$, and ZrO$_2$. We compare results from GGA, meta-GGA, and hybrid functionals to shed light on the sensitivity of the results on the level of theory and to connect the results to earlier literature. In the case of band structures, we also consider $GW$ corrections as well as the effects of temperature-induced band gap renormalization and excitonic effects. Finally, we use these results in TCAD simulations for (Hf,Zr)O$_2$ FeCAP to demonstrate the effect that non-ferroelectric interlayers could have on the hysteresis curves and band diagrams.",
+    "categories": [
+      "cond-mat.mtrl-sci"
+    ],
+    "published": "2026-11-10T09:45:51Z",
+    "updated": "2026-11-10T09:45:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.13817v1",
+      "pdf_path": "data/pdfs/2026-11-11/3_Structural and electronic properties of (Hf,Zr)O$_2$ phases from first principles__2611.13817v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-11T03:42:01.236058",
+    "updated_at": "2026-11-11T03:42:01.236052Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-11/3_Structural and electronic properties of (Hf,Zr)O$_2$ phases from first principles__2611.13817v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.13817v1",
+    "pdf_filename": "3_Structural and electronic properties of (Hf,Zr)O$_2$ phases from first principles__2611.13817v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本研究通过第一性原理计算系统研究了氧化铪、氧化锆及掺锆氧化铪多种晶相的结构与电子性质，并展示了其在铁电器件TCAD模拟中的应用。",
+      "en": "This work uses first-principles calculations to systematically investigate the structural and electronic properties of multiple polymorphs of HfO2, ZrO2, and HZO, demonstrating their impact in TCAD simulations of ferroelectric devices."
+    },
+    "problem": {
+      "zh": "TCAD器件模拟需要高精度的材料参数，但由于难以合成纯相样品，包括亚稳铁电相在内的HfO2、ZrO2和HZO关键材料参数在很大程度上仍未得到充分理解。",
+      "en": "TCAD device simulations require high-accuracy material parameters, but key material properties for HfO2, ZrO2, and HZO—including metastable ferroelectric phases—remain poorly understood largely due to challenges in synthesizing phase-pure samples."
+    },
+    "approach": {
+      "zh": "采用从半局域GGA、meta-GGA、杂化泛函到GW近似等不同理论精度的第一性原理计算，提取晶格参数、介电常数和能隙，并结合Ginzburg-Landau-Khalatnikov模型进行TCAD器件模拟。",
+      "en": "First-principles calculations at increasing levels of theory—from semi-local GGA, meta-GGA, and hybrid functionals to GW approximations—were performed to extract lattice parameters, dielectric constants, and band gaps, combined with TCAD device simulations using the GLK model."
+    },
+    "main_takeaway": {
+      "zh": "高阶泛函在预测晶格参数和介电常数方面显著优于PBE；不同相之间的能隙差在各泛函中保持高度一致；TCAD模拟表明非铁电夹层会显著改变铁电电容器的迟滞回线和能带图。",
+      "en": "Higher-rung functionals significantly outperform PBE for lattice parameters and dielectric constants; band gap differences between phases are consistent across functionals; TCAD simulations show that non-ferroelectric interlayers drastically alter ferroelectric capacitor hysteresis and band profiles."
+    },
+    "why_it_matters": {
+      "zh": "该工作为铁电基电子器件的计算机辅助设计与优化提供了全面、可靠且经过不同理论层级对比验证的材料参数数据库。",
+      "en": "This work provides a comprehensive, reliable material parameter database validated across different theoretical rungs, which is crucial for computer-aided design and optimization of ferroelectric-based electronic devices."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "文章系统比较了多种泛函在氧化铪基材料多相体系中的表现，澄清了不同计算层级对结构与电子性质的影响，并展示了其在器件模拟中的物理后果。",
+        "en": "The paper systematically compares various functionals for multiple phases of HfO2-based materials, clarifies the impact of theoretical levels on structural and electronic properties, and demonstrates their physical consequences in device simulations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Physical Review Applied",
+      "confidence": "high",
+      "reason": {
+        "zh": "研究侧重于材料的第一性原理计算参数提取、泛函基准测试以及直接关联半导体器件TCAD模拟，高度契合该期刊定位。",
+        "en": "The study focuses on first-principles parameter extraction, functional benchmarking, and direct connection to semiconductor device TCAD simulations, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "Ferroelectric HfO2",
+      "First-principles calculations",
+      "Dielectric constants",
+      "Band structures",
+      "TCAD simulation"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-11",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-11T11:42:29",
+    "input_scope": "full_pdf_text"
+  }
+}
