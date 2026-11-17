@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2611.20740v1",
+    "title": "High-quality intrinsic circular dichroism in silicon-based bound states in the continuum metasurfaces via strong coupling",
+    "authors": [
+      "Leyi Zhu",
+      "Tian Sang",
+      "Guanhua Yang",
+      "Chenyang Wang"
+    ],
+    "abstract": "Bound states in the continuum (BICs) can significantly enhance spin-selective light-matter interactions. However, current BIC metasurfaces generally rely on single or multiple chiral BIC modes to enhance circular dichroism (CD), limiting their application in functional integrated devices. This paper proposes a method that utilizes the strong coupling effect in BIC metasurfaces to achieve intrinsic CD with both a high quality factor (Q-factor) and high efficiency. The metasurface is designed as a silicon-based cross-shaped nanohole array, which can simultaneously support a TM-like BIC mode and a TE-like guided-mode resonance (GMR) mode. By introducing under-etching to break the out-of-plane symmetry and tuning the in-plane asymmetry parameter, strong coupling between the quasi-BIC (QBIC) mode and the GMR mode can be induced, thereby achieving near-perfect intrinsic CD with a high Q-factor. In the strong-coupling region, the resonant wavelengths of the QBIC and GMR modes exhibit anti-crossing behavior, while the imaginary parts of the eigenfrequency cross; the corresponding Rabi splitting energy reaches a minimum of 3.16 meV, and the induced intrinsic CD achieves a maximum of 0.995 at a wavelength of 1653.9 nm, with a high Q-factor of 1083. The evolution of far-field polarization singularities shows that, under strong coupling, the Γ point corresponds to a left-handed circular polarization singularity (C-point). Furthermore, the strong-coupling-induced CD exhibits good robustness. Even under considerable variations in structural parameters, the high-Q and high-efficiency CD response is maintained. This method offers a novel design strategy for integrated chiral photonic devices and holds promise for applications in areas such as chiral sensing, chiral lasers, and nonlinear chiral optics.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-11-16T08:44:00Z",
+    "updated": "2026-11-16T08:44:00Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:circular dichroism"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.20740v1",
+      "pdf_path": "data/pdfs/2026-11-17/3_High-quality intrinsic circular dichroism in silicon-based bound states in the continuum metasurfaces via strong couplin__2611.20740v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-17T05:40:13.870854",
+    "updated_at": "2026-11-17T05:40:13.870848Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-17/3_High-quality intrinsic circular dichroism in silicon-based bound states in the continuum metasurfaces via strong couplin__2611.20740v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.20740v1",
+    "pdf_filename": "3_High-quality intrinsic circular dichroism in silicon-based bound states in the continuum metasurfaces via strong couplin__2611.20740v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过硅基连续统中的束缚态（BIC）超表面的强耦合效应，实现了兼具高品质因数与高效率的本征圆二色性。",
+      "en": "Achieved high-Q and high-efficiency intrinsic circular dichroism via the strong coupling effect in silicon-based bound states in the continuum metasurfaces."
+    },
+    "problem": {
+      "zh": "传统的超表面圆二色性往往依赖于较弱的手性模式或外部照射条件带来的伪手性，缺乏兼具高品质因数、高效率和独立于激发条件的本征手性器件方案。",
+      "en": "Conventional chiral metasurfaces often rely on weak chiral modes or extrinsic pseudo-chirality, lacking high-Q and high-efficiency intrinsic chiral responses independent of excitation conditions."
+    },
+    "approach": {
+      "zh": "设计了一种硅基十字形纳孔超表面阵列，结合下切刻蚀打破面外对称性并调节面内不对称参数，诱发准连续统束缚态与导模共振之间的强耦合。",
+      "en": "Designed a silicon-based cross-shaped nanohole array metasurface, utilizing under-etching to break out-of-plane symmetry and tuning in-plane asymmetry to induce strong coupling between quasi-BIC and guided-mode resonance modes."
+    },
+    "main_takeaway": {
+      "zh": "强耦合机制使准连续统束缚态与导模共振发生反交叉行为，在通信波段实现了最大达 0.995 的本征圆二色性和 1083 的高品质因数。",
+      "en": "The strong coupling mechanism induces anti-crossing behavior between quasi-BIC and GMR modes, achieving a maximum intrinsic CD of 0.995 with a high Q-factor of 1083 in the communication band."
+    },
+    "why_it_matters": {
+      "zh": "该研究为高性能集成手性光子器件、手性传感、手性激光器及非线性手性光学提供了一种新颖的设计策略和良好的结构鲁棒性方案。",
+      "en": "This work offers a novel design strategy and robust structural scheme for high-performance integrated chiral photonic devices, chiral sensing, chiral lasers, and nonlinear chiral optics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "论文深入探讨了 BIC 超表面中强耦合效应对本征圆二色性的调控机制及偏振奇点的拓扑演化规律。",
+        "en": "The paper thoroughly investigates the modulation mechanism of strong coupling on intrinsic circular dichroism and the topological evolution of polarization singularities in BIC metasurfaces."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+数值",
+      "en": "Theory + Numerical"
+    },
+    "likely_venue": {
+      "journal": "Laser & Photonics Reviews",
+      "confidence": "medium",
+      "reason": {
+        "zh": "该期刊经常发表关于超表面、光子学 BIC 以及光学手性调控的高水平前沿研究。",
+        "en": "The journal frequently publishes high-level frontier research on metasurfaces, photonic BICs, and optical chirality manipulation."
+      }
+    },
+    "keywords": [
+      "intrinsic chirality",
+      "bound states in the continuum",
+      "circular dichroism",
+      "strong coupling",
+      "metasurfaces"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-17T13:40:27",
+    "input_scope": "full_pdf_text"
+  }
+}

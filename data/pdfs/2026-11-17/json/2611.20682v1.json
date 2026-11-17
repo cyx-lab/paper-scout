@@ -1,0 +1,108 @@
+{
+  "paper_record": {
+    "id": "2611.20682v1",
+    "title": "Excitonic magnetism and competing valence bond solid instabilities in $d^4$ ruthenium compounds",
+    "authors": [
+      "Aleksandra Krajewska",
+      "Tomohiro Takayama",
+      "Hidenori Takagi"
+    ],
+    "abstract": "Spin-orbit entangled $d^4$ Mott insulators serve as a rich playground for unconventional magnetism and competing quantum electronic ground states. Intra-ionic spin-orbit coupling $λ_{\\rm{SOC}}$ generates a non-magnetic $J_{\\rm{eff}} = 0$ singlet ground state separated from an excited $J_{\\rm{eff}} = 1$ triplet. The effective intra-atomic gap $Δ_{\\rm{eff}}$ between the ground state and lowest excited state is determined by $λ_{\\rm{SOC}}$ and non-cubic crystal field $Δ_{\\rm{cf}}$. The intersite magnetic exchange $J_{\\rm{ex}}$ induces dispersion of the excited $J_{\\rm{eff}} = 1$ triplet. When the triplet bandwidth $W_{\\rm{t}}$ overcomes $Δ_{\\rm{eff}}$, the system undergoes long-range magnetic ordering which is viewed as a condensation of spin-orbit excitons and called excitonic magnetism. In this review, we systematically survey representative $d^4$ ruthenium compounds across four distinct structural connectivities of Ru-ligand octahedra, from K$_2$RuCl$_6$ with isolated octahedra, corner-sharing perovskite Ca$_2$RuO$_4$, edge-sharing honeycombs, to corner-sharing pyrochlores, and map them onto a conceptual parameter axis of $W_{\\rm{t}} / Δ_{\\rm{eff}}$. We demonstrate that $d^4$ ruthenium compounds not only represent evolution from a $J_{\\rm{eff}} = 0$ Mott state to excitonic magnetism but encompass a broader competition of diverse electronic phases arising from spin-orbit coupling, exchange interactions, electron hopping, crystal field and bond covalency inhabiting similar energy scales. Near excitonic quantum critical point, where $W_{\\rm{t}} \\sim Δ_{\\rm{eff}}$, lattice geometry and chemical bonds of constituent atoms play a decisive role in selecting the electronic ground state, frequently driving valence bond solid formation that pre-empts excitonic quantum criticality.",
+    "categories": [
+      "cond-mat.str-el"
+    ],
+    "published": "2026-11-16T07:49:23Z",
+    "updated": "2026-11-16T07:49:23Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.20682v1",
+      "pdf_path": "data/pdfs/2026-11-17/3_Excitonic magnetism and competing valence bond solid instabilities in $d^4$ ruthenium compounds__2611.20682v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-17T05:40:13.871113",
+    "updated_at": "2026-11-17T05:40:13.871107Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-17/3_Excitonic magnetism and competing valence bond solid instabilities in $d^4$ ruthenium compounds__2611.20682v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.20682v1",
+    "pdf_filename": "3_Excitonic magnetism and competing valence bond solid instabilities in $d^4$ ruthenium compounds__2611.20682v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文综述了自旋轨道纠缠的 d4 钌氧化物中的激子磁性与竞争性价键固体不稳定性。",
+      "en": "This review surveys excitonic magnetism and competing valence bond solid instabilities in spin-orbit entangled d4 ruthenium compounds."
+    },
+    "problem": {
+      "zh": "理解自旋轨道耦合、交换相互作用、晶体场及电子跃迁之间的微妙平衡如何决定 d4 莫特绝缘体的量子基态。",
+      "en": "Understanding how the delicate balance between spin-orbit coupling, exchange interactions, crystal fields, and electron hopping determines the quantum ground states of d4 Mott insulators."
+    },
+    "approach": {
+      "zh": "系统梳理不同 Ru 配位八面体连接方式（孤立、角共享、边共享）的代表性 d4 钌氧化物，从单离子物理和三体激子色散角度建立统一的参数分析框架。",
+      "en": "Systematically surveying representative d4 ruthenium compounds across various Ru-octahedra connectivities, analyzing them through the framework of single-ion physics and triplon dispersion."
+    },
+    "main_takeaway": {
+      "zh": "d4 钌氧化物在无磁性单重态与激子磁体之间跨越，但在接近激子量子临界点时，往往会被价键固体形成等晶格辅助的不稳定性所抢先。",
+      "en": "d4 ruthenium compounds span between non-magnetic singlet and excitonic magnet states, but near the excitonic quantum critical point, instabilities such as valence bond solid formation frequently pre-empt magnetic ordering."
+    },
+    "why_it_matters": {
+      "zh": "它为探索自旋轨道纠缠体系中的非常规磁性、激子凝聚以及量子临界相竞争提供了一个全面的材料物理图景。",
+      "en": "It provides a comprehensive materials physics picture for exploring unconventional magnetism, exciton condensation, and competing quantum phases in spin-orbit entangled systems."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "本文对 d4 钌氧化物中的激子磁性与晶格竞争相进行了系统且前沿的全面总结。",
+        "en": "This paper provides a systematic and comprehensive state-of-the-art review of excitonic magnetism and lattice competing phases in d4 ruthenium compounds."
+      }
+    },
+    "paper_type": {
+      "zh": "综述",
+      "en": "Review"
+    },
+    "likely_venue": {
+      "journal": "Reports on Progress in Physics",
+      "confidence": "high",
+      "reason": {
+        "zh": "该文章全面回顾并总结了凝聚态物理中特定前沿领域的广泛实验与理论进展，极符合该期刊定位。",
+        "en": "The article comprehensively reviews extensive experimental and theoretical progress in a specific frontier of condensed matter physics, fitting the journal's scope well."
+      }
+    },
+    "keywords": [
+      "excitonic magnetism",
+      "spin-orbit coupling",
+      "ruthenium compounds",
+      "valence bond solid",
+      "quantum criticality"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-17",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-17T13:40:22",
+    "input_scope": "full_pdf_text"
+  }
+}
