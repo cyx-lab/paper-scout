@@ -1,0 +1,110 @@
+{
+  "paper_record": {
+    "id": "2611.24878v1",
+    "title": "From geometric curvature to effective backgrounds: a dictionary for Dirac fermions in one, two and three spatial dimensions",
+    "authors": [
+      "David Valenzuela",
+      "Alfredo Raya"
+    ],
+    "abstract": "Dirac equation on curved backgrounds can be rewritten as a flat-space equation in which geometry appears as a tensorial Fermi velocity together with a set of background fields. We derive this correspondence from a single Clifford-algebra identity and follow it through one, two, and three spatial dimensions. Once the spin connection is written in terms of Ricci rotation coefficients, only two contractions can occur. The trace produces a term with the index structure of a vector potential in every dimensionality; it enters with an imaginary factor i and is precisely the term that keeps the operator Hermitian when the Fermi velocity depends on position. The totally antisymmetric contraction produces an object that depends on the number of indices available to the Levi-Civita symbol: a trace on a line, a pseudoscalar mass on a surface, and an axial vector potential in a volume. Neither contraction is invariant under local rotations of the frame, and we give the transformation laws. On a surface, the curl of the trace term can always be removed by a frame rotation, while its divergence is proportional to the Gaussian curvature. We apply the correspondence to a Gaussian bump, where the local density of states at the center falls below its flat value and obeys a closed form at low energy; to a wire, where a nonuniform lapse binds states inside the gap and a nonuniform velocity cannot; to stationary frames on a surface, where a circulating drag shifts the Dirac mass locally with either sign; and to twisted and rotating frames in a volume, where the axial term takes the form of a chiral chemical potential produced by the frame alone, or separates Weyl nodes in a rotating sample. We separate the geometric contribution from the lattice pseudogauge field that dominates the response of strained samples",
+    "categories": [
+      "cond-mat.str-el",
+      "gr-qc",
+      "hep-ph",
+      "hep-th",
+      "math-ph"
+    ],
+    "published": "2026-11-18T18:26:45Z",
+    "updated": "2026-11-18T18:26:45Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "quantum_geometry:geometric contribution"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.24878v1",
+      "pdf_path": "data/pdfs/2026-11-19/3_From geometric curvature to effective backgrounds a dictionary for Dirac fermions in one, two and three spatial dimensio__2611.24878v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-19T04:58:11.599434",
+    "updated_at": "2026-11-19T04:58:11.599423Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-19/3_From geometric curvature to effective backgrounds a dictionary for Dirac fermions in one, two and three spatial dimensio__2611.24878v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.24878v1",
+    "pdf_filename": "3_From geometric curvature to effective backgrounds a dictionary for Dirac fermions in one, two and three spatial dimensio__2611.24878v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "本文推导了一个通用字典，将一、二、三维空间中弯曲背景下的狄拉克方程重写为带有有效规范场的平空间方程。",
+      "en": "This paper derives a universal dictionary rewriting the Dirac equation on curved backgrounds in one, two, and three spatial dimensions as a flat-space equation with effective gauge fields."
+    },
+    "problem": {
+      "zh": "在处理应变石墨烯以及低维狄拉克材料时，弯曲时空或曲面中的狄拉克方程计算十分繁琐，缺乏一个统一且跨维度的平空间转换框架。",
+      "en": "Dealing with the Dirac equation in curved spacetime for strained graphene and low-dimensional Dirac materials is cumbersome, lacking a unified and cross-dimensional flat-space translation framework."
+    },
+    "approach": {
+      "zh": "基于单一的克利福德代数恒等式，将自旋联络投影并展开为迹和全反对称收缩项，系统追踪其在一、二、三维空间中的具体表现。",
+      "en": "Based on a single Clifford-algebra identity, the spin connection is projected and expanded into trace and totally antisymmetric contractions, systematically tracking their manifestations across one, two, and three spatial dimensions."
+    },
+    "main_takeaway": {
+      "zh": "自旋联络的收缩项在不同维度分别对应不同的物理背景：一维下只保留迹项，二维下产生赝标量质量项，三维下产生轴矢势。",
+      "en": "The contractions of the spin connection correspond to distinct physical backgrounds depending on dimensionality: the trace term alone in 1D, a pseudoscalar mass term in 2D, and an axial vector potential in 3D."
+    },
+    "why_it_matters": {
+      "zh": "它为研究弯曲几何中的狄拉克费米子提供了一套系统的平空间计算词典，有助于简化石墨烯纳米泡及三维狄拉克/外尔半金属的理论分析。",
+      "en": "It provides a systematic flat-space calculation dictionary for Dirac fermions in curved geometry, facilitating theoretical analyses of graphene nanobubbles and 3D Dirac/Weyl semimetals."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "机制澄清",
+        "en": "Mechanism clarification"
+      },
+      "reason": {
+        "zh": "该工作澄清了曲面和应变对狄拉克费米子的几何效应，系统统一了不同维度下的有效背景场形式。",
+        "en": "This work clarifies the geometric effects of curvature and strain on Dirac fermions, systematically unifying the forms of effective background fields across dimensions."
+      }
+    },
+    "paper_type": {
+      "zh": "理论",
+      "en": "Theory"
+    },
+    "likely_venue": {
+      "journal": "Physical Review B",
+      "confidence": "high",
+      "reason": {
+        "zh": "该论文深入探讨了狄拉克材料、应变石墨烯及有效规范场的理论基础，契合凝聚态物理主流期刊的收稿范围。",
+        "en": "The paper thoroughly discusses the theoretical foundations of Dirac materials, strained graphene, and effective gauge fields, fitting the scope of mainstream condensed matter physics journals."
+      }
+    },
+    "keywords": [
+      "Dirac equation in curved space",
+      "effective gauge fields",
+      "strained graphene",
+      "Fermi velocity tensor",
+      "Ricci rotation coefficients"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-19",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-19T12:59:48",
+    "input_scope": "full_pdf_text"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "paper_record": {
+    "id": "2611.24096v1",
+    "title": "Gas-induced reversible spectral tuning of bound states in the continuum in perovskite metasurfaces",
+    "authors": [
+      "Nikita Glebov",
+      "Yuliya Kenzhebayeva",
+      "Pavel Pankin",
+      "Mikhail Masharin",
+      "Martin Rojas Bustamante",
+      "Xiuzhen Liu",
+      "Shixiong Li",
+      "Ruslan Azizov",
+      "Dmitrii Maksimov",
+      "Hatice Altug",
+      "Andrey Bogdanov",
+      "Sergey Makarov"
+    ],
+    "abstract": "Bound states in the continuum (BICs) provide a powerful route to engineering optical resonances in compact photonic structures, enabling enhanced light--matter interaction for sensing, nonlinear optics, optical modulation, and lasing. The next step towards practical BIC-based meta-optics is dynamic and reversible spectral control after fabrication. However, optical and electro-optical tuning typically produces limited refractive-index changes, thermo-optical approaches require continuous external actuation, and phase-change materials often provide discrete switching rather than continuous spectral reconfiguration. Here we demonstrate giant, fully reversible, and continuous spectral tuning of BIC resonances in halide-perovskite metasurfaces. Using nanoimprint lithography, we fabricate MAPbBr$_3$ metasurfaces, that support BIC-derived resonances in the visible spectral range. Exposure to HCl vapor initiates an anion-exchange reaction in which Cl$^-$ ions diffuse into the perovskite crystalline lattice and partially replace Br$^-$ ions, producing a monotonic increase of the electronic bandgap and blueshift of the excitonic resonance on a minute timescale. This leads to a decrease in the refractive index and tunes the BIC resonance by more than 40~nm in the visible range. Subsequent exposure to HBr vapor reverses the exchange process and restores the resonance to its initial spectral position. As a functional demonstration, we show continuous reversible spectral tuning of BIC-mediated lasing from the same metasurface. Our results establish gas-phase anion exchange as a non-destructive mechanism for continuous, reversible, and large-range post-fabrication control of perovskite metasurfaces, opening opportunities for chemically programmable lasers, adaptive meta-optics, and active nanophotonic devices.",
+    "categories": [
+      "physics.optics"
+    ],
+    "published": "2026-11-18T09:20:51Z",
+    "updated": "2026-11-18T09:20:51Z",
+    "source": "arxiv",
+    "mode": "daily",
+    "signals": {
+      "keyword_hits": [
+        "exciton:exciton",
+        "exciton:excitonic"
+      ],
+      "author_match": false,
+      "rule_score": 3,
+      "embedding_score": null
+    },
+    "llm": {
+      "relevance": null,
+      "outline": null
+    },
+    "assets": {
+      "pdf_url": "https://arxiv.org/pdf/2611.24096v1",
+      "pdf_path": "data/pdfs/2026-11-19/3_Gas-induced reversible spectral tuning of bound states in the continuum in perovskite metasurfaces__2611.24096v1.pdf"
+    },
+    "decision": {
+      "final_score": null,
+      "action": "skip",
+      "reason": null
+    },
+    "created_at": "2026-11-19T04:58:11.600837",
+    "updated_at": "2026-11-19T04:58:11.600779Z"
+  },
+  "assets": {
+    "pdf_path": "data/pdfs/2026-11-19/3_Gas-induced reversible spectral tuning of bound states in the continuum in perovskite metasurfaces__2611.24096v1.pdf",
+    "pdf_url": "https://arxiv.org/pdf/2611.24096v1",
+    "pdf_filename": "3_Gas-induced reversible spectral tuning of bound states in the continuum in perovskite metasurfaces__2611.24096v1.pdf"
+  },
+  "llm_summary": {
+    "one_sentence_summary": {
+      "zh": "通过气相阴离子交换实现了钙钛矿超表面中连续域束缚态（BIC）共振与激光发射的巨大且完全可逆的光谱调谐。",
+      "en": "Demonstrated giant and fully reversible spectral tuning of bound states in the continuum (BIC) resonances and lasing in perovskite metasurfaces via gas-phase anion exchange."
+    },
+    "problem": {
+      "zh": "传统的全电介质超表面制造后其光学共振（如BIC）难以进行动态、连续且大幅度的光谱调控。",
+      "en": "Traditional all-dielectric metasurfaces lack a method for dynamic, continuous, and large-range post-fabrication spectral control of their optical resonances like BICs."
+    },
+    "approach": {
+      "zh": "利用纳米压印技术制备卤化铅钙钛矿超表面，并通过交替暴露于氯化氢和溴化氢气体中引发可逆的卤离子交换反应来调节折射率。",
+      "en": "Fabricated lead halide perovskite metasurfaces using nanoimprint lithography and induced reversible halide ion exchange via alternating exposure to hydrogen chloride and hydrogen bromide vapors."
+    },
+    "main_takeaway": {
+      "zh": "气相阴离子交换可使钙钛矿超表面的BIC共振产生超过40纳米的连续蓝移，且该过程可通过暴露于HBr气体完全逆转，同时实现了可逆的极化子激光调谐。",
+      "en": "Gas-phase anion exchange induces a continuous blueshift exceeding 40 nm for BIC resonances in perovskite metasurfaces, which is fully reversible using HBr vapor and enables tunable polariton lasing."
+    },
+    "why_it_matters": {
+      "zh": "该研究提供了一种非破坏性、化学可编程的后处理调控机制，无需持续的外部能量输入即可维持和改变纳米光子器件的光学响应。",
+      "en": "It provides a non-destructive, chemically programmable post-fabrication tuning mechanism that maintains optical responses without sustained external energy input, advancing active nanophotonics."
+    },
+    "value_assessment": {
+      "level": {
+        "zh": "重要进展",
+        "en": "Major advance"
+      },
+      "reason": {
+        "zh": "该工作首次在全电介质高Q超表面中实现了基于气相化学反应的大范围、可逆的光谱与激光调谐，突破了传统结构的调谐局限。",
+        "en": "This work demonstrates for the first time large-range and reversible spectral and laser tuning in all-dielectric high-Q metasurfaces using gas-phase chemistry, overcoming traditional tuning limitations."
+      }
+    },
+    "paper_type": {
+      "zh": "理论+实验",
+      "en": "Theory + Experiment"
+    },
+    "likely_venue": {
+      "journal": "Nature Photonics",
+      "confidence": "high",
+      "reason": {
+        "zh": "论文结合了前沿的超表面物理（BIC、激子极化子激光）与新颖的材料化学调控手段（气相离子交换），具有极高的创新性与跨领域影响力。",
+        "en": "The paper combines cutting-edge metasurface physics with novel material chemical control, demonstrating high innovation and broad interdisciplinary impact suitable for a top-tier journal."
+      }
+    },
+    "keywords": [
+      "Perovskite metasurfaces",
+      "Bound states in the continuum",
+      "Anion exchange",
+      "Spectral tuning",
+      "Polariton lasing"
+    ]
+  },
+  "provenance": {
+    "run_date": "2026-11-19",
+    "profile_name": "my_phd_config",
+    "mode_name": "daily",
+    "llm_prompt_version": "v2-daily-digest-takeaway",
+    "llm_model": "gemini-3-flash-preview",
+    "summarized_at": "2026-11-19T12:59:34",
+    "input_scope": "full_pdf_text"
+  }
+}
